@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T04:39:13.250378Z",
+  "generated_at": "2026-07-05T07:56:13.382190Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_14db553be425",
@@ -57,22 +57,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7545,
+        "recency": 0.7195,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-04T09:08:41Z",
       "latest_at": "2026-07-04T09:08:41Z",
@@ -81,66 +80,6 @@
         "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
         "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf238df386fd",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "url": "https://www.ithome.com/0/972/526.htm",
-      "primary_url": "https://www.ithome.com/0/972/526.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:01:02Z",
-      "latest_at": "2026-07-04T05:01:02Z",
-      "primary_item": {
-        "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "url": "https://www.ithome.com/0/972/526.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -251,15 +190,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6675,
-      "importance": 0.6675,
-      "importance_score": 0.6675,
+      "score": 0.6604,
+      "importance": 0.6604,
+      "importance_score": 0.6604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.852,
+        "recency": 0.8126,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -349,15 +288,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.551,
+      "importance": 0.551,
+      "importance_score": 0.551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9331,
+        "recency": 0.8899,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -375,30 +314,109 @@
       }
     },
     {
-      "story_id": "story_85705186a84e",
-      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-      "url": "https://news.ycombinator.com/item?id=48789986",
-      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "story_id": "story_24d8df40c033",
+      "title": "Epic CEO 斯威尼暗示生成式 AI 本可「拯救」《命运 2》游戏",
+      "url": "https://www.ithome.com/0/972/771.htm",
+      "primary_url": "https://www.ithome.com/0/972/771.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bbb3345f91fa10ee1d3c8d821ce4e247ab50059d",
+          "title": "Epic CEO 斯威尼暗示生成式 AI 本可「拯救」《命运 2》游戏",
+          "url": "https://www.ithome.com/0/972/771.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "10a42a987775b6a94e9b5efdaf19f394806a2b72",
+          "title": "Epic CEO 斯威尼暗示生成式 AI 本可“拯救”《命运 2》游戏",
+          "url": "https://www.ithome.com/0/972/771.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:08:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bbb3345f91fa10ee1d3c8d821ce4e247ab50059d",
+          "title": "Epic CEO 斯威尼暗示生成式 AI 本可「拯救」《命运 2》游戏",
+          "url": "https://www.ithome.com/0/972/771.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "10a42a987775b6a94e9b5efdaf19f394806a2b72",
+          "title": "Epic CEO 斯威尼暗示生成式 AI 本可“拯救”《命运 2》游戏",
+          "url": "https://www.ithome.com/0/972/771.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T07:08:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T07:08:54Z",
+      "latest_at": "2026-07-05T07:56:13.382190Z",
+      "primary_item": {
+        "id": "bbb3345f91fa10ee1d3c8d821ce4e247ab50059d",
+        "title": "Epic CEO 斯威尼暗示生成式 AI 本可「拯救」《命运 2》游戏",
+        "url": "https://www.ithome.com/0/972/771.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T04:23:48.955000Z"
+          "published_at": "2026-07-05T07:56:56.788000Z"
         },
         {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "source_count": 2,
@@ -408,47 +426,47 @@
       ],
       "items": [
         {
-          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://news.ycombinator.com/item?id=48789986",
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T04:23:48.955000Z"
+          "published_at": "2026-07-05T07:56:56.788000Z"
         },
         {
-          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
-          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-04T23:25:53Z"
+          "published_at": "2026-07-05T05:01:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T23:25:53Z",
-      "latest_at": "2026-07-05T04:23:48.955000Z",
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T07:56:56.788000Z",
       "primary_item": {
-        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
-        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
-        "url": "https://news.ycombinator.com/item?id=48789986",
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -506,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8637,
+        "recency": 0.8237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -584,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8533,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -662,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.8094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,82 +706,82 @@
       }
     },
     {
-      "story_id": "story_abc36e33f856",
-      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_85705186a84e",
+      "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://news.ycombinator.com/item?id=48789986",
+      "primary_url": "https://news.ycombinator.com/item?id=48789986",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T04:23:48.955000Z"
         },
         {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://news.ycombinator.com/item?id=48789986",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T04:23:48.955000Z"
         },
         {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
+          "id": "eff59fa40eb08e6447cb33bc242ff5cfd7d1d718",
+          "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+          "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T23:25:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8334,
+        "recency": 0.9502,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T15:19:14Z",
-      "latest_at": "2026-07-04T16:01:53.903203Z",
+      "earliest_at": "2026-07-04T23:25:53Z",
+      "latest_at": "2026-07-05T04:23:48.955000Z",
       "primary_item": {
-        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
+        "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
+        "url": "https://news.ycombinator.com/item?id=48789986",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -820,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.78,
+        "recency": 0.7439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -899,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7638,
+        "recency": 0.7284,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -922,85 +940,6 @@
         "url": "https://www.businessinsider.com/career-expert-shares-resume-template-for-ai-era-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_944998d16f3d",
-      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-      "url": "https://news.ycombinator.com/item?id=48788361",
-      "primary_url": "https://news.ycombinator.com/item?id=48788361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:16:23.619000Z"
-        },
-        {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://news.ycombinator.com/item?id=48788361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T20:16:23.619000Z"
-        },
-        {
-          "id": "1c6f3712a18547f100a652990797154453473d1b",
-          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-04T19:50:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T19:50:08Z",
-      "latest_at": "2026-07-04T20:16:23.619000Z",
-      "primary_item": {
-        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
-        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
-        "url": "https://news.ycombinator.com/item?id=48788361",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1056,15 +995,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8369,
+        "recency": 0.7981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1082,79 +1021,80 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
-      "primary_url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8165,
+        "recency": 0.7948,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T11:26:53.689089Z",
-      "latest_at": "2026-07-04T14:37:00.349129Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T16:01:53.903203Z",
       "primary_item": {
-        "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1213,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.78,
+        "recency": 0.7439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7579,
+        "recency": 0.7228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1315,6 +1255,163 @@
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_944998d16f3d",
+      "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+      "url": "https://news.ycombinator.com/item?id=48788361",
+      "primary_url": "https://news.ycombinator.com/item?id=48788361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:16:23.619000Z"
+        },
+        {
+          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://news.ycombinator.com/item?id=48788361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-04T20:16:23.619000Z"
+        },
+        {
+          "id": "48ddc0b33f4d9a1c69fdd49dbfe302541fc40fb9",
+          "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+          "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T19:50:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.845,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T19:50:08Z",
+      "latest_at": "2026-07-04T20:16:23.619000Z",
+      "primary_item": {
+        "id": "05c9f1ffbe8aa47d80625706a9121dfed7d5dfeb",
+        "title": "人工智能已经点燃了初级程序员的市场 / AI has torched the market for junior programmers",
+        "url": "https://news.ycombinator.com/item?id=48788361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_96aeaf10e3fa",
+      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+      "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+      "primary_url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
+          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
+          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
+          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7787,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T11:26:53.689089Z",
+      "latest_at": "2026-07-04T14:37:00.349129Z",
+      "primary_item": {
+        "id": "ad54a5acd28031e513c75010c1182b97ed3639da",
+        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
+        "url": "https://finance.sina.com.cn/stock/t/2026-07-04/doc-inifscxt9942135.shtml",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1371,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4997,
+      "importance": 0.4997,
+      "importance_score": 0.4997,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.78,
+        "recency": 0.7439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1393,243 +1490,6 @@
         "title": "crynta / terax-ai",
         "url": "https://github.com/crynta/terax-ai",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ac8d4855fa95",
-      "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://news.ycombinator.com/item?id=48782890",
-      "primary_url": "https://news.ycombinator.com/item?id=48782890",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:22:23.658000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:22:23.658000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7354,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T05:37:25Z",
-      "latest_at": "2026-07-04T07:22:23.658000Z",
-      "primary_item": {
-        "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-        "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-        "url": "https://news.ycombinator.com/item?id=48782890",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ddc5ffe6c280",
-      "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-      "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872642.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-          "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1d707d2ab6b7c2067667020c3b1e94b423f7c93c",
-          "title": "OpenAI拟向美国政府出让股份：AI创造的财富应当由谁享有？",
-          "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T06:44:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7353,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T06:44:56Z",
-      "latest_at": "2026-07-04T07:21:40.028543Z",
-      "primary_item": {
-        "id": "b984d184b92304eb46955d4025cf1bd3e1e5b9e3",
-        "title": "OpenAI 拟向美国政府出让股份：AI 创造的财富应当由谁享有？",
-        "url": "https://www.huxiu.com/article/4872642.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ec5e6b0606c1",
-      "title": "业内首个 AI-eSIM 产业协同平台成立",
-      "url": "https://www.gelonghui.com/live/2536725",
-      "primary_url": "https://www.gelonghui.com/live/2536725",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://www.gelonghui.com/live/2536725",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://www.gelonghui.com/live/2536725",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7353,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T07:20:31Z",
-      "latest_at": "2026-07-04T07:21:40.028543Z",
-      "primary_item": {
-        "id": "5f61aaf580c520ae60ac99dcc0f64902597160fe",
-        "title": "业内首个 AI-eSIM 产业协同平台成立",
-        "url": "https://www.gelonghui.com/live/2536725",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     }
