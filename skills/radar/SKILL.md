@@ -95,7 +95,7 @@ python3 -c "import json;d=json.load(open('/tmp/radar-brief.json'));print(d['gene
 }
 ```
 
-口味中文名：`pragmatic` 实用派（默认）/ `cynic` 毒舌评论员 / `paper-police` 论文警察。降级模式下 `items` 为空数组——此时如实告知"三口味点评需要上游配置 LLM Key"，退回普通简报。
+口味中文名：`pragmatic` 实用派（默认）/ `cynic` 毒舌评论员 / `paper-police` 较真党。降级模式下 `items` 为空数组——此时如实告知"三口味点评需要上游配置 LLM Key"，退回普通简报。
 
 ## 工作流
 
@@ -168,7 +168,7 @@ EOF
 curl -s "$BASE_URL/top3-personas.json" -o /tmp/radar-top3.json
 python3 - <<'EOF'
 import json
-NAMES = {'pragmatic': '实用派', 'cynic': '毒舌评论员', 'paper-police': '论文警察'}
+NAMES = {'pragmatic': '实用派', 'cynic': '毒舌评论员', 'paper-police': '较真党'}
 d = json.load(open('/tmp/radar-top3.json'))
 if not d.get('items'):
     print('EMPTY')  # 降级模式：告知需上游配LLM Key，退回普通简报

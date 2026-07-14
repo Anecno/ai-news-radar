@@ -30,11 +30,11 @@ name_en: Cynic
 
 PAPER_POLICE_MD = """---
 id: paper-police
-name: 论文警察
-name_en: Paper Police
+name: 较真党
+name_en: Stickler
 ---
 
-论文警察 prompt 正文。
+较真党 prompt 正文。
 """
 
 
