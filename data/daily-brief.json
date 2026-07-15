@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-07-15T15:51:26.195114Z",
+  "generated_at": "2026-07-15T17:39:21.024300Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_720e8881c84d",
+      "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+          "title_zh": "从搭建Shippy中学到的构建Agent经验",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+          "title_zh": "从搭建Shippy中学到的构建Agent经验",
+          "title_en": "What building Shippy taught us about building agents",
+          "title_original": "What building Shippy taught us about building agents",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+          "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9977,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:29:41Z",
+      "latest_at": "2026-07-15T17:29:41Z",
+      "primary_item": {
+        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+        "title": "从搭建Shippy中学到的构建Agent经验 / What building Shippy taught us about building agents",
+        "title_zh": "从搭建Shippy中学到的构建Agent经验",
+        "title_en": "What building Shippy taught us about building agents",
+        "title_original": "What building Shippy taught us about building agents",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nAgent anatomy: skills, soul, and config Deterministic tools for a nondeterministic agent Sandboxed hosting and isolation Evaluating an agent, not a model Where we're headed Shippy is a maritime AI agent built for high-stakes decisions, where the wrong answer has real impacts. Here's the architecture behind it—and the lessons we're carrying into Ai2's other environmental platforms.\nShippy answering a live query about Ghana's EE",
+        "recommend_reason_zh": "Ai2的海洋代理Shippy依靠Claude Opus 4.6和OpenClaw框架处理实时 maritime 数据，其skills将问题分解为可溯源的API查询，确保错误不会误导巡逻船只。",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "经验总结而非工具，可当案例参考，今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T17:48:50.238121Z"
+      }
+    },
+    {
+      "story_id": "story_dbadffdd21c6",
+      "title": "GPT-Red：解锁自我改进，增强鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "primary_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "GPT-Red：解锁自我改进，增强鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
+          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+          "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+          "title": "GPT-Red：解锁自我改进，增强鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
+          "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+          "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8953,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T10:00:00Z",
+      "latest_at": "2026-07-15T10:00:00Z",
+      "primary_item": {
+        "id": "684e8a3b4518eeb703ca575d74f032dd5b51f744",
+        "title": "GPT-Red：解锁自我改进，增强鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
+        "title_zh": "GPT-Red：解锁自我改进，增强鲁棒性",
+        "title_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "title_original": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nExplore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.\nJuly 15, 2026\nTraining strong automated safety red-teamers to improve robustn",
+        "recommend_reason_zh": "OpenAI的GPT-Red自动化红队系统通过自对弈训练，使GPT-5.6 Sol在困难直接提示注入基准上实现6倍更少失败，展示了可扩展的AI安全自我改进方法。",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "研究进展，暂无工具可用，等开源或API更新。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T17:48:50.238121Z"
+      }
+    },
     {
       "story_id": "story_ee7d92805957",
       "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
@@ -55,8 +225,8 @@
         },
         {
           "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "summary": null,
@@ -120,8 +290,8 @@
         },
         {
           "id": "686215783dedf013f07bd603608feb468065bac5",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+          "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "summary": null,
@@ -135,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7666,
+        "recency": 0.747,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,30 +342,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
-      "story_id": "story_e87a72b3d6ec",
-      "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "story_id": "story_7f12fb220449",
+      "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
-          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "summary": null,
-          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
+          "title_zh": "模型路由很简单——直到它不再简单。",
+          "title_en": "Model Routing Is Simple. Until It Isn’t.",
+          "title_original": "Model Routing Is Simple. Until It Isn’t.",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+          "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
+          "published_at": "2026-07-15T17:27:01Z"
         }
       ],
       "source_count": 1,
@@ -204,31 +374,31 @@
       ],
       "items": [
         {
-          "id": "80a3de57206305e274a186a394d0d50502b735a3",
-          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
-          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-          "summary": null,
-          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
-          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
+          "title_zh": "模型路由很简单——直到它不再简单。",
+          "title_en": "Model Routing Is Simple. Until It Isn’t.",
+          "title_original": "Model Routing Is Simple. Until It Isn’t.",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+          "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-15T00:00:00Z"
+          "published_at": "2026-07-15T17:27:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7953,
+        "recency": 0.997,
         "story_heat": 0.0
       },
       "category": "official",
@@ -237,27 +407,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T00:00:00Z",
-      "latest_at": "2026-07-15T00:00:00Z",
+      "earliest_at": "2026-07-15T17:27:01Z",
+      "latest_at": "2026-07-15T17:27:01Z",
       "primary_item": {
-        "id": "80a3de57206305e274a186a394d0d50502b735a3",
-        "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
-        "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "summary": null,
-        "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
-        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+        "title": "模型路由很简单——直到它不再简单。 / Model Routing Is Simple. Until It Isn’t.",
+        "title_zh": "模型路由很简单——直到它不再简单。",
+        "title_en": "Model Routing Is Simple. Until It Isn’t.",
+        "title_original": "Model Routing Is Simple. Until It Isn’t.",
+        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\n1. Cost Is More Than Model Pricing 2. Complexity Is More Than Task Difficulty 3. Latency Is More Than Model Speed So How Did We Handle This? The Bigger Picture Acknowledgement Building a router into your agent sounds like an easy win. Send simple requests to cheaper models, reserve expensive ones for harder tasks, or route by specialty — Claude for code, Gemini for multimodal, and so on. A classifier or heuri",
+        "recommend_reason_zh": "IBM Research用417个任务实测发现，标价更低的GPT-4.1实际花费$155，而Claude Sonnet 4.6仅$79，原因在于缓存定价的意外影响。",
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "量化语音AI拟人度，今天就能用来评估和优化模型。",
+      "persona_score": 73,
+      "persona_review": "模型路由选型避坑指南，部署多模型时可参考，非今天能直接用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -305,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7956,
+        "recency": 0.7752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,7 +512,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
+      }
+    },
+    {
+      "story_id": "story_ac16bc5670b9",
+      "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "primary_url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+          "title_zh": "美国正通过州和联邦行动推进AI安全",
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+          "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+          "title_zh": "美国正通过州和联邦行动推进AI安全",
+          "title_en": "The US is advancing AI safety through state and federal action",
+          "title_original": "The US is advancing AI safety through state and federal action",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+          "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9216,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T12:00:00Z",
+      "latest_at": "2026-07-15T12:00:00Z",
+      "primary_item": {
+        "id": "543ceb9367a46d4476ec95c0e70823503b3a64f4",
+        "title": "美国正通过州和联邦行动推进AI安全 / The US is advancing AI safety through state and federal action",
+        "title_zh": "美国正通过州和联邦行动推进AI安全",
+        "title_en": "The US is advancing AI safety through state and federal action",
+        "title_original": "The US is advancing AI safety through state and federal action",
+        "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nOpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.\nJuly 15, 2026\nThrough reverse federalism, states are aligning on AI safeguards a",
+        "recommend_reason_zh": "OpenAI提出“reverse federalism”推动AI治理，California、New York、Illinois等州通过前沿安全立法，建立披露及独立验证框架，为全国乃至全球标准奠定基础。",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "政策动向需关注合规，但无即时工具可用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -390,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -426,92 +681,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
-      }
-    },
-    {
-      "story_id": "story_6b221a40ec57",
-      "title": "庆祝视觉搜索创新25周年 / Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新25周年 / Celebrating 25 years of visual search innovation",
-          "title_zh": "庆祝视觉搜索创新25周年",
-          "title_en": "Celebrating 25 years of visual search innovation",
-          "title_original": "Celebrating 25 years of visual search innovation",
-          "summary": null,
-          "recommend_reason_zh": "Google Images 25周年：2001年因Jennifer Lopez绿色Versace裙推出，现新增动态沉浸式画廊与Nano Banana模型图像生成，可直接在AI Overviews中创建自定义视觉内容。",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-          "title": "庆祝视觉搜索创新25周年 / Celebrating 25 years of visual search innovation",
-          "title_zh": "庆祝视觉搜索创新25周年",
-          "title_en": "Celebrating 25 years of visual search innovation",
-          "title_original": "Celebrating 25 years of visual search innovation",
-          "summary": null,
-          "recommend_reason_zh": "Google Images 25周年：2001年因Jennifer Lopez绿色Versace裙推出，现新增动态沉浸式画廊与Nano Banana模型图像生成，可直接在AI Overviews中创建自定义视觉内容。",
-          "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7086,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:00:00Z",
-      "latest_at": "2026-07-14T16:00:00Z",
-      "primary_item": {
-        "id": "d6e1c532e318fd0f4f4876f4d269af88e52d857b",
-        "title": "庆祝视觉搜索创新25周年 / Celebrating 25 years of visual search innovation",
-        "title_zh": "庆祝视觉搜索创新25周年",
-        "title_en": "Celebrating 25 years of visual search innovation",
-        "title_original": "Celebrating 25 years of visual search innovation",
-        "summary": null,
-        "recommend_reason_zh": "Google Images 25周年：2001年因Jennifer Lopez绿色Versace裙推出，现新增动态沉浸式画廊与Nano Banana模型图像生成，可直接在AI Overviews中创建自定义视觉内容。",
-        "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "纪念日不写代码，等有实际更新再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -559,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.791,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -596,7 +766,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -644,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7841,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -680,7 +850,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -728,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,7 +934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -812,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9316,
+        "recency": 0.9078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +1018,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -925,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -962,7 +1132,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
+      }
+    },
+    {
+      "story_id": "story_e87a72b3d6ec",
+      "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "primary_url": "https://huggingface.co/blog/real-world-voiceeq",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "summary": null,
+          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "80a3de57206305e274a186a394d0d50502b735a3",
+          "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+          "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+          "summary": null,
+          "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+          "url": "https://huggingface.co/blog/real-world-voiceeq",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7749,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:00:00Z",
+      "latest_at": "2026-07-15T00:00:00Z",
+      "primary_item": {
+        "id": "80a3de57206305e274a186a394d0d50502b735a3",
+        "title": "Real World VoiceEQ 发布：衡量语音AI的人类质感 / Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "title_zh": "Real World VoiceEQ 发布：衡量语音AI的人类质感",
+        "title_en": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "title_original": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+        "summary": null,
+        "recommend_reason_zh": "Real World VoiceEQ评估了40多个语音模型，覆盖15+维度、60+指标，基于超100万人类评分（含785,000 TTS评分），揭示传统基准高估了语音AI的真实表现。",
+        "url": "https://huggingface.co/blog/real-world-voiceeq",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "量化语音AI拟人度，今天就能用来评估和优化模型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1010,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,7 +1301,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1087,8 +1342,8 @@
         },
         {
           "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "summary": null,
@@ -1137,8 +1392,8 @@
         },
         {
           "id": "4198570cfbeaec1c6e0cba89ffcc05d3bf6e8f46",
-          "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+          "title": "Bonsai 27B：首款可在手机上运行的27B级模型 / Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+          "title_zh": "Bonsai 27B：首款可在手机上运行的27B级模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "summary": null,
@@ -1152,15 +1407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7299,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1189,7 +1444,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1237,15 +1492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,7 +1528,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1321,15 +1576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,7 +1611,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1404,15 +1659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7422,
+        "recency": 0.7232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1441,7 +1696,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1489,15 +1744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8171,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1524,7 +1779,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     },
     {
@@ -1572,15 +1827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.9192,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1608,259 +1863,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
-      }
-    },
-    {
-      "story_id": "story_5a72ffa5ea7e",
-      "title": "金山办公推出 WPS Comate AI 办公客户端",
-      "url": "https://www.ithome.com/0/977/105.htm",
-      "primary_url": "https://www.ithome.com/0/977/105.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "title_zh": "金山办公推出 WPS Comate AI 办公客户端",
-          "title_en": null,
-          "title_original": "金山办公推出 WPS Comate AI 办公客户端",
-          "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
-          "recommend_reason_zh": "金山办公发布WPS Comate，该AI办公客户端支持云端与本地双任务模式，所有操作可追溯、可审计，并提供AI岗位专家等六大模块，连接组织数据与流程。",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-          "title": "金山办公推出 WPS Comate AI 办公客户端",
-          "title_zh": "金山办公推出 WPS Comate AI 办公客户端",
-          "title_en": null,
-          "title_original": "金山办公推出 WPS Comate AI 办公客户端",
-          "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
-          "recommend_reason_zh": "金山办公发布WPS Comate，该AI办公客户端支持云端与本地双任务模式，所有操作可追溯、可审计，并提供AI岗位专家等六大模块，连接组织数据与流程。",
-          "url": "https://www.ithome.com/0/977/105.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:39:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9014,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T08:39:58Z",
-      "latest_at": "2026-07-15T08:39:58Z",
-      "primary_item": {
-        "id": "158f3a0863d16bcc8250be8b05b122dea75efcdc",
-        "title": "金山办公推出 WPS Comate AI 办公客户端",
-        "title_zh": "金山办公推出 WPS Comate AI 办公客户端",
-        "title_en": null,
-        "title_original": "金山办公推出 WPS Comate AI 办公客户端",
-        "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
-        "recommend_reason_zh": "金山办公发布WPS Comate，该AI办公客户端支持云端与本地双任务模式，所有操作可追溯、可审计，并提供AI岗位专家等六大模块，连接组织数据与流程。",
-        "url": "https://www.ithome.com/0/977/105.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "面向终端用户的AI办公客户端，非开发者工具，暂不关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
-      }
-    },
-    {
-      "story_id": "story_f795a259360f",
-      "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot版本更新引入默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-          "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-          "title_zh": "Dependabot版本更新引入默认包冷却期",
-          "title_en": "Dependabot version updates introduce default package cooldown",
-          "title_original": "Dependabot version updates introduce default package cooldown",
-          "summary": null,
-          "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T16:42:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7159,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T16:42:59Z",
-      "latest_at": "2026-07-14T16:42:59Z",
-      "primary_item": {
-        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
-        "title": "Dependabot版本更新引入默认包冷却期 / Dependabot version updates introduce default package cooldown",
-        "title_zh": "Dependabot版本更新引入默认包冷却期",
-        "title_en": "Dependabot version updates introduce default package cooldown",
-        "title_original": "Dependabot version updates introduce default package cooldown",
-        "summary": null,
-        "recommend_reason_zh": "Dependabot版本更新默认加入三天冷却期，新版本发布后至少等待三天才开启PR，有效防范供应链攻击；该默认值适用于github.com所有生态，GHES 3.23中生效。",
-        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Dependabot自动更新会延迟，需要检查冷却期配置，避免错过关键补丁。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
-      }
-    },
-    {
-      "story_id": "story_64f3c9bc3658",
-      "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-      "url": "https://www.aibase.com/news/29622",
-      "primary_url": "https://www.aibase.com/news/29622",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_en": null,
-          "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:22:34.280850Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "title_en": null,
-          "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:22:34.280850Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9107,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T09:22:34.280850Z",
-      "latest_at": "2026-07-15T09:22:34.280850Z",
-      "primary_item": {
-        "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-        "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "title_zh": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "title_en": null,
-        "title_original": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "summary": null,
-        "recommend_reason_zh": "Grok Build默认将整个代码库上传至Google Cloud，包括标记为不可访问和历史中删除的信息，数据留存范围远超Claude Code，SpaceXAI已紧急禁用该功能并承诺彻底删除。",
-        "url": "https://www.aibase.com/news/29622",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全事件需留意，但无直接工具可换，等官方修复或补偿方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T16:01:26.103598Z"
+        "scored_at": "2026-07-15T17:48:50.238121Z"
       }
     }
   ]
