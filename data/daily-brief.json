@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:16:06.025348Z",
+  "generated_at": "2026-07-15T23:15:30.663348Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9334,
+        "recency": 0.9201,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
+      }
+    },
+    {
+      "story_id": "story_85928d22c4fa",
+      "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
+          "title_zh": "改进秘密扫描与公共监控",
+          "title_en": "Improvements to secret scanning and public monitoring",
+          "title_original": "Improvements to secret scanning and public monitoring",
+          "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub…\nThis week, we’re rolling out several improvements to secret scanning and public monitoring:\nGitHub secret scanning protects users by searching repositories for known types of secrets such as tokens and private keys. By identifying and flagging these secrets, our scans help prevent data leaks and frau",
+          "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
+          "title_zh": "改进秘密扫描与公共监控",
+          "title_en": "Improvements to secret scanning and public monitoring",
+          "title_original": "Improvements to secret scanning and public monitoring",
+          "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub…\nThis week, we’re rolling out several improvements to secret scanning and public monitoring:\nGitHub secret scanning protects users by searching repositories for known types of secrets such as tokens and private keys. By identifying and flagging these secrets, our scans help prevent data leaks and frau",
+          "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T22:38:16Z",
+      "latest_at": "2026-07-15T22:38:16Z",
+      "primary_item": {
+        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+        "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
+        "title_zh": "改进秘密扫描与公共监控",
+        "title_en": "Improvements to secret scanning and public monitoring",
+        "title_original": "Improvements to secret scanning and public monitoring",
+        "summary": "This week, we’re rolling out several improvements to secret scanning and public monitoring: Resend is now a GitHub secret scanning partner. Secret scanning now detects new secret types from APIclub…\nThis week, we’re rolling out several improvements to secret scanning and public monitoring:\nGitHub secret scanning protects users by searching repositories for known types of secrets such as tokens and private keys. By identifying and flagging these secrets, our scans help prevent data leaks and frau",
+        "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 78,
+      "persona_review": "扫密钥更准了，CICD 里加个扫描步骤今天就能防泄漏。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8376,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9328,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,92 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
-      }
-    },
-    {
-      "story_id": "story_c17d75933e6c",
-      "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
-          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
-          "title_en": "GitHub Copilot in Visual Studio — June update",
-          "title_original": "GitHub Copilot in Visual Studio — June update",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
-          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
-          "title_en": "GitHub Copilot in Visual Studio — June update",
-          "title_original": "GitHub Copilot in Visual Studio — June update",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7253,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:01:24Z",
-      "latest_at": "2026-07-15T00:01:24Z",
-      "primary_item": {
-        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-        "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
-        "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
-        "title_en": "GitHub Copilot in Visual Studio — June update",
-        "title_original": "GitHub Copilot in Visual Studio — June update",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "VS用户需要看更新详情的，可能改了常用操作或修复了bug。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8622,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,30 +509,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
-      "story_id": "story_4e955aceea0c",
-      "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "story_id": "story_c17d75933e6c",
+      "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
-          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+          "title_en": "GitHub Copilot in Visual Studio — June update",
+          "title_original": "GitHub Copilot in Visual Studio — June update",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "source_count": 1,
@@ -541,31 +541,31 @@
       ],
       "items": [
         {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
-          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+          "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+          "title_en": "GitHub Copilot in Visual Studio — June update",
+          "title_original": "GitHub Copilot in Visual Studio — June update",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
+          "published_at": "2026-07-15T00:01:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7211,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -574,111 +574,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T23:37:29Z",
-      "latest_at": "2026-07-14T23:37:29Z",
+      "earliest_at": "2026-07-15T00:01:24Z",
+      "latest_at": "2026-07-15T00:01:24Z",
       "primary_item": {
-        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-        "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
-        "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
-        "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
-        "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+        "title": "Visual Studio 中 GitHub Copilot 的六月更新 / GitHub Copilot in Visual Studio — June update",
+        "title_zh": "Visual Studio 中 GitHub Copilot 的六月更新",
+        "title_en": "GitHub Copilot in Visual Studio — June update",
+        "title_original": "GitHub Copilot in Visual Studio — June update",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "recommend_reason_zh": "GitHub Copilot in Visual Studio 六月更新新增MCP服务器信任层，首个C++现代化代理场景正式发布，并覆盖Copilot Free到Enterprise所有计划，让你更清晰掌握使用情况。",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "BYOK对安全团队有用，配置不复杂；个人开发者暂时不需要动。",
+      "persona_score": 65,
+      "persona_review": "VS用户需要看更新详情的，可能改了常用操作或修复了bug。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
-      }
-    },
-    {
-      "story_id": "story_72440e047ac9",
-      "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_zh": "Codex 周活超700万，两月更新150+项",
-          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:01:05Z",
-      "latest_at": "2026-07-14T23:01:05Z",
-      "primary_item": {
-        "id": "5d91636db5625e900361a03a18921524a4153cb4",
-        "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_zh": "Codex 周活超700万，两月更新150+项",
-        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
-        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
-        "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
-        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Codex更新频繁，生态活跃，搞AI编程的今天可查更新日志优化工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -726,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -810,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 0.8103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -894,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -930,7 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -978,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.725,
+        "recency": 0.7147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1015,7 +931,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1063,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,7 +1014,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
+      }
+    },
+    {
+      "story_id": "story_4e955aceea0c",
+      "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+          "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7109,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:37:29Z",
+      "latest_at": "2026-07-14T23:37:29Z",
+      "primary_item": {
+        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+        "title": "GitHub Copilot for JetBrains 扩展 BYOK 能力 / GitHub Copilot for JetBrains expands BYOK capabilities",
+        "title_zh": "GitHub Copilot for JetBrains 扩展 BYOK 能力",
+        "title_en": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "title_original": "GitHub Copilot for JetBrains expands BYOK capabilities",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Copilot for JetBrains 更新扩展了 BYOK 能力，支持自定义 OpenAI 兼容端点与 API 密钥，新增 Claude agent 代理（Pro 及以上）和本地沙箱预览，可定制团队工作流。",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 68,
+      "persona_review": "BYOK对安全团队有用，配置不复杂；个人开发者暂时不需要动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1146,15 +1147,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.7397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1182,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1229,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7517,
+        "recency": 0.7411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,7 +1265,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1312,15 +1313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.725,
+        "recency": 0.7147,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1349,7 +1350,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1397,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1432,7 +1433,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1480,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8217,
+        "recency": 0.81,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1516,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1563,15 +1564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7556,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1598,7 +1599,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     },
     {
@@ -1646,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8301,
+        "recency": 0.8183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1681,7 +1682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-15T22:23:18.629942Z"
+        "scored_at": "2026-07-15T23:23:33.304473Z"
       }
     }
   ]
