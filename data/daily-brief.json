@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T20:12:39.127603Z",
+  "generated_at": "2026-07-16T21:17:28.000864Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.941,
+        "recency": 0.9264,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9413,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.941,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -302,7 +302,7 @@
           "title_zh": "仓库管理员可以归档拉取请求",
           "title_en": "Repository admins can archive pull requests",
           "title_original": "Repository admins can archive pull requests",
-          "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+          "summary": null,
           "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
           "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
           "source": "GitHub Changelog",
@@ -322,7 +322,7 @@
           "title_zh": "仓库管理员可以归档拉取请求",
           "title_en": "Repository admins can archive pull requests",
           "title_original": "Repository admins can archive pull requests",
-          "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+          "summary": null,
           "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
           "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
           "source": "GitHub Changelog",
@@ -333,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9829,
+        "recency": 0.9677,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,7 +358,7 @@
         "title_zh": "仓库管理员可以归档拉取请求",
         "title_en": "Repository admins can archive pull requests",
         "title_original": "Repository admins can archive pull requests",
-        "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+        "summary": null,
         "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
         "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
         "source": "GitHub Changelog",
@@ -370,7 +370,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
+      }
+    },
+    {
+      "story_id": "story_780136eb567a",
+      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
+          "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T20:26:23Z"
+        },
+        {
+          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk’s xAI files first lawsuit against Grok user accused of making child sex images.\nFacing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI f",
+          "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-16T20:26:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+          "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
+          "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T20:26:23Z"
+        },
+        {
+          "id": "1890876761adf3a7fca676b2c15fa1ff9e15c96c",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+          "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk’s xAI files first lawsuit against Grok user accused of making child sex images.\nFacing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI f",
+          "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
+          "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-16T20:26:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T20:26:23Z",
+      "latest_at": "2026-07-16T20:26:23Z",
+      "primary_item": {
+        "id": "2aca8373dd0d45a54de2bb25665b9081400fd533",
+        "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用 / xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+        "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+        "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+        "title_original": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+        "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
+        "recommend_reason_zh": "xAI首次起诉用Grok制作儿童性虐材料（CSAM）的用户，被告Terry Wayne Harwood用两个账号从12月到2月生成大量非法图片，受害者包括一名年仅10岁的女孩。",
+        "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "法律纠纷不写代码，但提醒你注意内容安全合规。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -418,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7469,
+        "recency": 0.7353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +569,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -503,15 +617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8568,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,7 +654,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -588,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.886,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,7 +739,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -642,7 +756,7 @@
           "title_zh": "Visual Studio 订阅管理的 REST API 端点",
           "title_en": "REST API endpoints for Visual Studio Subscription management",
           "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+          "summary": null,
           "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
           "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
           "source": "GitHub Changelog",
@@ -662,7 +776,7 @@
           "title_zh": "Visual Studio 订阅管理的 REST API 端点",
           "title_en": "REST API endpoints for Visual Studio Subscription management",
           "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+          "summary": null,
           "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
           "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
           "source": "GitHub Changelog",
@@ -673,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9702,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -698,7 +812,7 @@
         "title_zh": "Visual Studio 订阅管理的 REST API 端点",
         "title_en": "REST API endpoints for Visual Studio Subscription management",
         "title_original": "REST API endpoints for Visual Studio Subscription management",
-        "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+        "summary": null,
         "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
         "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
         "source": "GitHub Changelog",
@@ -710,7 +824,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -758,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.941,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -795,179 +909,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
-      }
-    },
-    {
-      "story_id": "story_a297969d5314",
-      "title": "Grok Build 现已开源 / Grok Build is now open source",
-      "url": "https://x.com/elonmusk/status/2077495635687723408",
-      "primary_url": "https://x.com/elonmusk/status/2077495635687723408",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
-          "title": "Grok Build 现已开源 / Grok Build is now open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is now open source",
-          "title_original": "Grok Build is now open source",
-          "summary": "Grok Build 现已开源",
-          "recommend_reason_zh": "Grok Build正式开源，任何人都可以访问其代码库，加入个性化时间线功能，注册即可体验，技术透明度再提升。",
-          "url": "https://x.com/elonmusk/status/2077495635687723408",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:48:52Z"
-        },
-        {
-          "id": "07e9c1fd1e0842b43809b1b63137a8db3c33bfd2",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build开源发布，xAI借此重返AI战场，而Pi框架对一年前的GPT-OSS-20B模型支持良好，无需复杂配置即可快速运行。",
-          "url": "https://news.ycombinator.com/item?id=48926590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T23:04:51.291000Z"
-        },
-        {
-          "id": "61d886ee39121cf93122ce8c086dac36872cb2c4",
-          "title": "SpaceXAI 发布 Grok Build 编码智能体工具",
-          "title_zh": "SpaceXAI 发布 Grok Build 编码智能体工具",
-          "title_en": "Grok Build",
-          "title_original": "Grok Build",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI的Grok Build是一款全屏TUI的AI编码代理，能理解代码库、编辑文件、执行shell命令并搜索网页，支持交互式、无头模式及通过ACP嵌入编辑器，为macOS、Linux和Windows提供二进制发布。",
-          "url": "https://github.com/xai-org/grok-build",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T22:17:34.170000Z"
-        },
-        {
-          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI将AI编码智能体Grok Build开源，基于Rust构建的全屏TUI支持鼠标交互、编辑文件、执行shell命令，并为macOS、Linux、Windows发布预编译二进制。",
-          "url": "https://github.com/xai-org/grok-build",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T20:24:58Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "X：Elon Musk (@elonmusk, xAI)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
-          "title": "Grok Build 现已开源 / Grok Build is now open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is now open source",
-          "title_original": "Grok Build is now open source",
-          "summary": "Grok Build 现已开源",
-          "recommend_reason_zh": "Grok Build正式开源，任何人都可以访问其代码库，加入个性化时间线功能，注册即可体验，技术透明度再提升。",
-          "url": "https://x.com/elonmusk/status/2077495635687723408",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:48:52Z"
-        },
-        {
-          "id": "07e9c1fd1e0842b43809b1b63137a8db3c33bfd2",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "Grok Build开源发布，xAI借此重返AI战场，而Pi框架对一年前的GPT-OSS-20B模型支持良好，无需复杂配置即可快速运行。",
-          "url": "https://news.ycombinator.com/item?id=48926590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T23:04:51.291000Z"
-        },
-        {
-          "id": "61d886ee39121cf93122ce8c086dac36872cb2c4",
-          "title": "SpaceXAI 发布 Grok Build 编码智能体工具",
-          "title_zh": "SpaceXAI 发布 Grok Build 编码智能体工具",
-          "title_en": "Grok Build",
-          "title_original": "Grok Build",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI的Grok Build是一款全屏TUI的AI编码代理，能理解代码库、编辑文件、执行shell命令并搜索网页，支持交互式、无头模式及通过ACP嵌入编辑器，为macOS、Linux和Windows提供二进制发布。",
-          "url": "https://github.com/xai-org/grok-build",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T22:17:34.170000Z"
-        },
-        {
-          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI将AI编码智能体Grok Build开源，基于Rust构建的全屏TUI支持鼠标交互、编辑文件、执行shell命令，并为macOS、Linux、Windows发布预编译二进制。",
-          "url": "https://github.com/xai-org/grok-build",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T20:24:58Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7133,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T20:24:58Z",
-      "latest_at": "2026-07-15T23:04:51.291000Z",
-      "primary_item": {
-        "id": "6e572ca1990679f00e59cde232eaf2c655075dcf",
-        "title": "Grok Build 现已开源 / Grok Build is now open source",
-        "title_zh": "Grok Build 现已开源",
-        "title_en": "Grok Build is now open source",
-        "title_original": "Grok Build is now open source",
-        "summary": "Grok Build 现已开源",
-        "recommend_reason_zh": "Grok Build正式开源，任何人都可以访问其代码库，加入个性化时间线功能，注册即可体验，技术透明度再提升。",
-        "url": "https://x.com/elonmusk/status/2077495635687723408",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 95,
-      "persona_review": "能直接clone仓库看源码了，想魔改或自部署的今天就能动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1015,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9791,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1051,7 +993,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1128,15 +1070,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9503,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1165,7 +1107,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1182,7 +1124,7 @@
           "title_zh": "Xcode 27 runner 镜像现公开预览",
           "title_en": "Xcode 27 runner image now in public preview",
           "title_original": "Xcode 27 runner image now in public preview",
-          "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+          "summary": null,
           "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
           "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
           "source": "GitHub Changelog",
@@ -1202,7 +1144,7 @@
           "title_zh": "Xcode 27 runner 镜像现公开预览",
           "title_en": "Xcode 27 runner image now in public preview",
           "title_original": "Xcode 27 runner image now in public preview",
-          "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+          "summary": null,
           "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
           "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
           "source": "GitHub Changelog",
@@ -1213,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9686,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1238,7 +1180,7 @@
         "title_zh": "Xcode 27 runner 镜像现公开预览",
         "title_en": "Xcode 27 runner image now in public preview",
         "title_original": "Xcode 27 runner image now in public preview",
-        "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+        "summary": null,
         "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
         "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
         "source": "GitHub Changelog",
@@ -1250,7 +1192,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1298,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7469,
+        "recency": 0.7353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1335,7 +1277,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1383,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1419,7 +1361,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1496,15 +1438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1533,7 +1475,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1581,15 +1523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9226,
+        "recency": 0.9084,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1617,7 +1559,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1665,15 +1607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1701,7 +1643,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1749,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8629,
+        "recency": 0.8495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1785,7 +1727,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     },
     {
@@ -1833,15 +1775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1869,7 +1811,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T20:21:31.601384Z"
+        "scored_at": "2026-07-16T21:24:50.535296Z"
       }
     }
   ]
