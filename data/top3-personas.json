@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T06:36:30.689415Z",
+  "generated_at": "2026-07-17T09:31:01.400837Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_17b15ceeb6c5",
-      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "story_id": "story_4cdf56f2cdfc",
+      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
+      "url": "https://www.aibase.com/news/29695",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "终于能关掉那些陈年PR了？顺手的事拖这么久，GitHub的PR管理就这？"
+          "review": "8B模型登顶某个榜，但RTEB榜全称是什么？敢上BEIR跑一圈吗？"
         },
         "paper-police": {
-          "score": 70,
-          "review": "官方公告有链接可查，功能明确，无需论文代码。"
+          "score": 20,
+          "review": "只有新闻稿，无论文代码和独立评测，可信度存疑。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。"
+          "score": 90,
+          "review": "直接能换用，检索任务性能更强。"
         }
       }
     },
     {
-      "story_id": "story_95e34e657e86",
-      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "story_id": "story_624c8b050a08",
+      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一 / NVIDIA AI Releases Nemotron 3 Embed： An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "RTEB第一？先看看榜上对手是谁，别又是挑了个没人跑的benchmark。"
+          "score": 75,
+          "review": "RTEB榜上就你一家？8B参数跑第一不稀奇。"
         },
         "paper-police": {
           "score": 25,
-          "review": "只有博客宣称，无论文无代码，排名缺乏独立验证。"
+          "review": "无论文无代码，仅新闻稿宣称第一，待第三方验证。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。"
+          "score": 90,
+          "review": "开源即用，检索或RAG可直接替换，今天就能测试效果。"
         }
       }
     }
