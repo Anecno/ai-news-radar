@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T21:10:52.934314Z",
+  "generated_at": "2026-07-18T22:11:40.346327Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_39f96da3c40c",
-      "title": "仓库级GitHub Copilot使用指标正式推出 / Repository-level GitHub Copilot usage metrics generally available",
-      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
+      "story_id": "story_56c5b0ab76c7",
+      "title": "Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "统计颗粒度更细了，管理者终于有数据证明谁在摸鱼。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方公告，无可复现评测，信源单一。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "团队可查各仓库Copilot使用量，辅助成本分摊和采纳分析，今天就能开。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c13975dae097",
-      "title": "Copilot代码审查：定制化与可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "定制化可配置性，终于不用被Copilot的默认规则气到摔键盘了。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅官方博客宣称更新，无代码或第三方评测可验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "今天就能配置审查规则，适配自己团队风格，省去手动 review 重复劳动。"
-        }
-      }
-    },
-    {
-      "story_id": "story_41dc3e242cb7",
-      "title": "GitHub Copilot 应用现已可在使用量指标 API 中使用 / GitHub Copilot app now available in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "API 加了个字段就打公告，还以为 Copilot 修了代码补全不准的老毛病。"
+          "score": 30,
+          "review": "版本号刷得勤，更新日志却空得像节后办公室。"
         },
         "paper-police": {
           "score": 20,
-          "review": "官方改日志，无性能数据，无独立验证，仅功能说明。"
+          "review": "只有更新日志，无论文无benchmark，无法验证性能。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "直接接入API监控Copilot用量，方便团队管理额度。"
+          "score": 72,
+          "review": "小版本更新，用Codex CLI的查下changelog看看修了啥bug。"
+        }
+      }
+    },
+    {
+      "story_id": "story_dad2bbf2a5ce",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 80,
+          "review": "Mac备用机也有了新用途，不过先得有两台Mac才行。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "无论文无代码无benchmark，操作指南不算学术发布。"
+        },
+        "pragmatic": {
+          "score": 70,
+          "review": "能抄的配置教程，有备用Mac的今天就能动手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_6e3ae8d4de00",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 48,
+          "review": "拿个没听说过的Fable 5跟GPT比NP难问题，参数名起得挺玄乎。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "博客对比有说法，但无论文无代码无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "研究对比有参考价值，但无实际可用的工具或API，观望即可。"
         }
       }
     }
