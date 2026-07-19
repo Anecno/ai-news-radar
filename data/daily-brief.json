@@ -1,8 +1,233 @@
 {
-  "generated_at": "2026-07-19T00:10:39.372415Z",
+  "generated_at": "2026-07-19T03:55:20.286468Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 11,
   "items": [
+    {
+      "story_id": "story_d8b201080948",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "title_en": "Transcribe.cpp",
+          "title_original": "Transcribe.cpp",
+          "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+          "recommend_reason_zh": "Handy 维护者打造的 transcribe.cpp 基于 ggml，支持最新转录模型，经数值验证与 WER 测试确保精度，并已在 Ryzen 4750U 及 M4 Max 上完成 Vulkan 加速基准测试。",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "title_en": "Transcribe.cpp",
+          "title_original": "Transcribe.cpp",
+          "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+          "recommend_reason_zh": "Handy 维护者打造的 transcribe.cpp 基于 ggml，支持最新转录模型，经数值验证与 WER 测试确保精度，并已在 Ryzen 4750U 及 M4 Max 上完成 Vulkan 加速基准测试。",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9842,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T02:49:15.657000Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "primary_item": {
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+        "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "title_en": "Transcribe.cpp",
+        "title_original": "Transcribe.cpp",
+        "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+        "recommend_reason_zh": "Handy 维护者打造的 transcribe.cpp 基于 ggml，支持最新转录模型，经数值验证与 WER 测试确保精度，并已在 Ryzen 4750U 及 M4 Max 上完成 Vulkan 加速基准测试。",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "今天就能clone使用，本地离线转录，支持16种模型族，直接省API费用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-19T04:00:26.248115Z"
+      }
+    },
+    {
+      "story_id": "story_c668670e64ca",
+      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "source": "petapixel.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": null,
+          "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "summary": "No more AI-edited listings without disclosures.\nNew York City mayor Mamdani announced new recommendations for tenants, including disclosure requirements for AI in real estate listings.\nMayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties\nSearch\nNew York City mayor Zohran Mamdani is having a very busy week. Just a day after announcing a “click-to-cancel” rule aimed at companies like Adobe, Mamdani is cracking down on “deceptive landlord practices,” including using AI-",
+          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东必须披露使用AI修改的房源图片，该建议基于对2,400名纽约市民的听证，旨在打击虚假宣传。",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:52:16.925000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": null,
+          "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "summary": "No more AI-edited listings without disclosures.\nNew York City mayor Mamdani announced new recommendations for tenants, including disclosure requirements for AI in real estate listings.\nMayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties\nSearch\nNew York City mayor Zohran Mamdani is having a very busy week. Just a day after announcing a “click-to-cancel” rule aimed at companies like Adobe, Mamdani is cracking down on “deceptive landlord practices,” including using AI-",
+          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东必须披露使用AI修改的房源图片，该建议基于对2,400名纽约市民的听证，旨在打击虚假宣传。",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:52:16.925000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9507,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T00:25:26.091000Z",
+      "primary_item": {
+        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "title_en": null,
+        "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "summary": "No more AI-edited listings without disclosures.\nNew York City mayor Mamdani announced new recommendations for tenants, including disclosure requirements for AI in real estate listings.\nMayor Mamdani Says Landlords Can’t Secretly Use AI Images to Advertise Properties\nSearch\nNew York City mayor Zohran Mamdani is having a very busy week. Just a day after announcing a “click-to-cancel” rule aimed at companies like Adobe, Mamdani is cracking down on “deceptive landlord practices,” including using AI-",
+        "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东必须披露使用AI修改的房源图片，该建议基于对2,400名纽约市民的听证，旨在打击虚假宣传。",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+        "source": "petapixel.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "地方性法规，做租房AI广告的需注意，其余开发者暂时不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-19T04:00:26.248115Z"
+      }
+    },
     {
       "story_id": "story_b3a9ac157817",
       "title": "为什么人工智能公司的标志看起来像肛门？",
@@ -135,15 +360,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5671,
-      "importance": 0.5671,
-      "importance_score": 0.5671,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8407,
+        "recency": 0.7965,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +395,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -276,15 +501,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5593,
-      "importance": 0.5593,
-      "importance_score": 0.5593,
+      "score": 0.5505,
+      "importance": 0.5505,
+      "importance_score": 0.5505,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9363,
+        "recency": 0.8871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,7 +536,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
+      }
+    },
+    {
+      "story_id": "story_e10fb03864e5",
+      "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://news.ycombinator.com/item?id=48964185",
+      "primary_url": "https://news.ycombinator.com/item?id=48964185",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "AI狂热正在摧毁全球决策能力",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": "There surely are companies out there using AI in such a way that is actually advancing them above and beyond their competition. They are probably quietly doing it rather than announcing it loudly. The whole point of the article is about the big corps with hordes of management and people in them. My argument is that they have always been that way. Before AI it was \"data science and analytics\" or (as the author says) \"blockchain\".\nThe whole point of the article is about the big corps with hordes o",
+          "recommend_reason_zh": "Ford rehires human engineers after AI fails to match quality checks，本文以此案例揭露AI狂热如何蒙蔽公司决策，警惕高管对AI的虚假期望。",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:55:42.036000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "AI狂热正在摧毁全球决策能力",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": "作者团队观察到所有AI项目在一年半内100%失败，许多公司仅购买Copilot许可证便宣称胜利。本文揭露了高管和员工因畏惧被解雇而不敢直言，揭示了全球机构正陷入难以挽回的AI精神错乱。",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "AI狂热正在摧毁全球决策能力",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": "There surely are companies out there using AI in such a way that is actually advancing them above and beyond their competition. They are probably quietly doing it rather than announcing it loudly. The whole point of the article is about the big corps with hordes of management and people in them. My argument is that they have always been that way. Before AI it was \"data science and analytics\" or (as the author says) \"blockchain\".\nThe whole point of the article is about the big corps with hordes o",
+          "recommend_reason_zh": "Ford rehires human engineers after AI fails to match quality checks，本文以此案例揭露AI狂热如何蒙蔽公司决策，警惕高管对AI的虚假期望。",
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:55:42.036000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "AI狂热正在摧毁全球决策能力",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": "作者团队观察到所有AI项目在一年半内100%失败，许多公司仅购买Copilot许可证便宣称胜利。本文揭露了高管和员工因畏惧被解雇而不敢直言，揭示了全球机构正陷入难以挽回的AI精神错乱。",
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:10:54Z",
+      "latest_at": "2026-07-19T03:55:42.036000Z",
+      "primary_item": {
+        "id": "50309255056c40114111478e6000e7427e2e1f2f",
+        "title": "AI狂热正在摧毁全球决策能力 / AI Mania Is Eviscerating Global Decision-Making",
+        "title_zh": "AI狂热正在摧毁全球决策能力",
+        "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+        "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+        "summary": "There surely are companies out there using AI in such a way that is actually advancing them above and beyond their competition. They are probably quietly doing it rather than announcing it loudly. The whole point of the article is about the big corps with hordes of management and people in them. My argument is that they have always been that way. Before AI it was \"data science and analytics\" or (as the author says) \"blockchain\".\nThe whole point of the article is about the big corps with hordes o",
+        "recommend_reason_zh": "Ford rehires human engineers after AI fails to match quality checks，本文以此案例揭露AI狂热如何蒙蔽公司决策，警惕高管对AI的虚假期望。",
+        "url": "https://news.ycombinator.com/item?id=48964185",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "观点评论，无实用信息。等有具体方案再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -417,15 +754,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5487,
-      "importance": 0.5487,
-      "importance_score": 0.5487,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.877,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -452,7 +789,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -558,15 +895,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.867,
+        "recency": 0.8214,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -593,7 +930,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -699,15 +1036,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.857,
+        "recency": 0.8118,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -734,7 +1071,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
+      }
+    },
+    {
+      "story_id": "story_bcf8ba0cb093",
+      "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+      "url": "https://news.ycombinator.com/item?id=48964585",
+      "primary_url": "https://news.ycombinator.com/item?id=48964585",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "title_zh": "集成LLM的多变量微积分课程",
+          "title_en": "LLM-Integrated Multivariable Calculus Course",
+          "title_original": "LLM-Integrated Multivariable Calculus Course",
+          "summary": "reply",
+          "recommend_reason_zh": "这篇文章介绍了一门名为LLM-Integrated Multivariable Calculus Course的创新课程，探讨了如何将大语言模型直接融入高等数学教学实践中。",
+          "url": "https://news.ycombinator.com/item?id=48964585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:55:42.036000Z"
+        },
+        {
+          "id": "ae5d9cc14f7a4916b8bb8c397065fa86e48af7e4",
+          "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "title_zh": "集成LLM的多变量微积分课程",
+          "title_en": "LLM-Integrated Multivariable Calculus Course",
+          "title_original": "LLM-Integrated Multivariable Calculus Course",
+          "summary": "The world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nThe world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nThe world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nLeave your email to get updates:",
+          "recommend_reason_zh": "全球首个计算机动画多变量微积分课程，提供英语、德语、法语、西班牙语、意大利语和葡萄牙语六种语言版本。",
+          "url": "https://calculus.academa.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:55:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+          "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "title_zh": "集成LLM的多变量微积分课程",
+          "title_en": "LLM-Integrated Multivariable Calculus Course",
+          "title_original": "LLM-Integrated Multivariable Calculus Course",
+          "summary": "reply",
+          "recommend_reason_zh": "这篇文章介绍了一门名为LLM-Integrated Multivariable Calculus Course的创新课程，探讨了如何将大语言模型直接融入高等数学教学实践中。",
+          "url": "https://news.ycombinator.com/item?id=48964585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:55:42.036000Z"
+        },
+        {
+          "id": "ae5d9cc14f7a4916b8bb8c397065fa86e48af7e4",
+          "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+          "title_zh": "集成LLM的多变量微积分课程",
+          "title_en": "LLM-Integrated Multivariable Calculus Course",
+          "title_original": "LLM-Integrated Multivariable Calculus Course",
+          "summary": "The world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nThe world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nThe world's first computer-animated multivariable calculus course in English, German, French, Spanish, Italian, and Portuguese.\nLeave your email to get updates:",
+          "recommend_reason_zh": "全球首个计算机动画多变量微积分课程，提供英语、德语、法语、西班牙语、意大利语和葡萄牙语六种语言版本。",
+          "url": "https://calculus.academa.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T02:55:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T02:55:43Z",
+      "latest_at": "2026-07-19T03:55:42.036000Z",
+      "primary_item": {
+        "id": "9f6009fc972903ed7027dcb0e9bed206a961c06e",
+        "title": "集成LLM的多变量微积分课程 / LLM-Integrated Multivariable Calculus Course",
+        "title_zh": "集成LLM的多变量微积分课程",
+        "title_en": "LLM-Integrated Multivariable Calculus Course",
+        "title_original": "LLM-Integrated Multivariable Calculus Course",
+        "summary": "reply",
+        "recommend_reason_zh": "这篇文章介绍了一门名为LLM-Integrated Multivariable Calculus Course的创新课程，探讨了如何将大语言模型直接融入高等数学教学实践中。",
+        "url": "https://news.ycombinator.com/item?id=48964585",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "只是个课程，不是工具或API，对开发无直接帮助。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -811,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9813,
+        "recency": 0.9297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -846,119 +1295,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
-      }
-    },
-    {
-      "story_id": "story_c668670e64ca",
-      "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://news.ycombinator.com/item?id=48962983",
-      "primary_url": "https://news.ycombinator.com/item?id=48962983",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:52:16.925000Z"
-        },
-        {
-          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
-          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:52:16.925000Z"
-        },
-        {
-          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
-          "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": "纽约市长Mamdani发布报告，要求房东披露AI编辑的房源图片，并已与2400名纽约市民举行听证会，打击欺骗性房源宣传。",
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9813,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:13:39Z",
-      "latest_at": "2026-07-18T22:52:16.925000Z",
-      "primary_item": {
-        "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-        "title": "市长Mamdani表示房东不能使用AI图片做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "title_zh": "市长Mamdani表示房东不能使用AI图片做广告",
-        "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "summary": null,
-        "recommend_reason_zh": "Mayor Mamdani禁止房东用AI图像做广告，因为AI能虚构现实中不存在的挡土墙，而AI修图质量高到难以识别，例如放入实际放不下的Peloton，易误导租户。",
-        "url": "https://news.ycombinator.com/item?id=48962983",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "地方性监管规定，做房产广告的AI工具需注意合规，多数开发者暂时不受影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     },
     {
@@ -1035,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9328,
+        "recency": 0.8837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,7 +1407,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T00:14:33.042791Z"
+        "scored_at": "2026-07-19T04:00:26.248115Z"
       }
     }
   ]

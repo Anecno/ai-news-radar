@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T00:14:39.736769Z",
+  "generated_at": "2026-07-19T04:00:51.186193Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_d8b201080948",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "16个模型族听着唬人，但能离线跑流畅的有几个？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅项目介绍页，无论文无代码无评测，无法验证真实性能。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "今天就能clone使用，本地离线转录，支持16种模型族，直接省API费用。"
+        }
+      }
+    },
+    {
       "story_id": "story_dad2bbf2a5ce",
       "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
       "url": "https://ykdojo.github.io/claude-controls-mac",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -40,7 +60,7 @@
       "story_id": "story_6e3ae8d4de00",
       "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
       "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 48,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 55,
           "review": "研究对比有参考价值，但无实际可用的工具或API，观望即可。"
-        }
-      }
-    },
-    {
-      "story_id": "story_1a64b2e84394",
-      "title": "图表展示：AI对Stack Overflow的影响",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "把数据拉出来就叫影响分析？相关性和因果先分清楚吧。"
-        },
-        "paper-police": {
-          "score": 8,
-          "review": "只有数据查询，无论文代码benchmark，无法验证AI影响。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "看看数据了解趋势，但没实际工具或方案可抄。"
         }
       }
     }
