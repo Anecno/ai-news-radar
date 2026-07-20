@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:23:39.070589Z",
+  "generated_at": "2026-07-20T16:09:17.062422Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_855107c88571",
+      "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "GA了个寂寞？等评测出来再吹不迟。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "仅官方公告，无论文代码benchmark，无法验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "GitHub内置代码质量工具，直接集成到PR流程，省去配置第三方工具的麻烦。"
+        }
+      }
+    },
+    {
       "story_id": "story_f7f39d4701ab",
       "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
       "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "快速微调方案开源可复现，省时间跑实验，今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_193fb0c41321",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "开源值得鼓励，但负载均衡在MoE里早不是新课题，先跑个千卡集群看看实效。"
-        },
-        "paper-police": {
-          "score": 90,
-          "review": "论文和代码均已公开，benchmark可复现，证据链完整。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源可用，MoE训推负载均衡的现成方案，直接拉代码跑起来。"
         }
       }
     }

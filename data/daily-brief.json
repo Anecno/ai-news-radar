@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-07-20T13:18:19.093827Z",
+  "generated_at": "2026-07-20T16:02:09.774647Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_36e0334205c9",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "Introducing Cosmos 3 Edge",
+          "title_zh": null,
+          "title_en": "Introducing Cosmos 3 Edge",
+          "title_original": "Introducing Cosmos 3 Edge",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nWhat Is World Modeling? Two Transformer Towers, One Shared Representation A Common Representation for Action Policy Mode Post-trained samples for improved performance Try Cosmos 3 Edge The real world is vast and to operate in it physical AI systems need to understand how a scene is changing, anticipate what could happen next, and determine how an action will affect the world.\nMachines operate at the edge in factories, wa",
+          "recommend_reason_zh": "NVIDIA发布4B参数开源世界模型Cosmos 3 Edge，在Jetson Thor上实现15Hz实时推理并每秒生成32个机器人动作，VANTAGE-Bench视觉分析排名第一。",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+          "title": "Introducing Cosmos 3 Edge",
+          "title_zh": null,
+          "title_en": "Introducing Cosmos 3 Edge",
+          "title_original": "Introducing Cosmos 3 Edge",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nWhat Is World Modeling? Two Transformer Towers, One Shared Representation A Common Representation for Action Policy Mode Post-trained samples for improved performance Try Cosmos 3 Edge The real world is vast and to operate in it physical AI systems need to understand how a scene is changing, anticipate what could happen next, and determine how an action will affect the world.\nMachines operate at the edge in factories, wa",
+          "recommend_reason_zh": "NVIDIA发布4B参数开源世界模型Cosmos 3 Edge，在Jetson Thor上实现15Hz实时推理并每秒生成32个机器人动作，VANTAGE-Bench视觉分析排名第一。",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T15:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8599,
+      "importance": 0.8599,
+      "importance_score": 0.8599,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T15:58:51Z",
+      "latest_at": "2026-07-20T15:58:51Z",
+      "primary_item": {
+        "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
+        "title": "Introducing Cosmos 3 Edge",
+        "title_zh": null,
+        "title_en": "Introducing Cosmos 3 Edge",
+        "title_original": "Introducing Cosmos 3 Edge",
+        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nWhat Is World Modeling? Two Transformer Towers, One Shared Representation A Common Representation for Action Policy Mode Post-trained samples for improved performance Try Cosmos 3 Edge The real world is vast and to operate in it physical AI systems need to understand how a scene is changing, anticipate what could happen next, and determine how an action will affect the world.\nMachines operate at the edge in factories, wa",
+        "recommend_reason_zh": "NVIDIA发布4B参数开源世界模型Cosmos 3 Edge，在Jetson Thor上实现15Hz实时推理并每秒生成32个机器人动作，VANTAGE-Bench视觉分析排名第一。",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "新边缘模型，支持部署前评估硬件兼容性，有demo可试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T16:09:04.546782Z"
+      }
+    },
+    {
+      "story_id": "story_855107c88571",
+      "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub Code Quality现已正式可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": "GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps…\nGitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps teams ship code they trust. Code Quality pairs CodeQL’s deterministic analysis with AI-assisted det",
+          "recommend_reason_zh": "GitHub Code Quality正式GA，用CodeQL和AI检测修复缺陷，自家工程团队67.3%的问题合并前解决，已有超1万企业公测，独立付费7月20日起计费。",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
+          "title_zh": "GitHub Code Quality现已正式可用",
+          "title_en": "GitHub Code Quality is now generally available",
+          "title_original": "GitHub Code Quality is now generally available",
+          "summary": "GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps…\nGitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps teams ship code they trust. Code Quality pairs CodeQL’s deterministic analysis with AI-assisted det",
+          "recommend_reason_zh": "GitHub Code Quality正式GA，用CodeQL和AI检测修复缺陷，自家工程团队67.3%的问题合并前解决，已有超1万企业公测，独立付费7月20日起计费。",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9574,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
+      "primary_item": {
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
+        "title_zh": "GitHub Code Quality现已正式可用",
+        "title_en": "GitHub Code Quality is now generally available",
+        "title_original": "GitHub Code Quality is now generally available",
+        "summary": "GitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps…\nGitHub Code Quality is now generally available on GitHub Enterprise Cloud and GitHub Team. It solves an emerging challenge for software development: AI accelerates code output, and Code Quality helps teams ship code they trust. Code Quality pairs CodeQL’s deterministic analysis with AI-assisted det",
+        "recommend_reason_zh": "GitHub Code Quality正式GA，用CodeQL和AI检测修复缺陷，自家工程团队67.3%的问题合并前解决，已有超1万企业公测，独立付费7月20日起计费。",
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "GitHub内置代码质量工具，直接集成到PR流程，省去配置第三方工具的麻烦。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T16:09:04.546782Z"
+      }
+    },
     {
       "story_id": "story_23d7bae1d989",
       "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
@@ -31,7 +201,7 @@
           "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
           "title_en": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
           "title_original": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks.\nHugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely ",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face披露一次完全由自主AI agent系统发起的攻击，包含数千次行动；由于商业AI模型的防护栏无法区分exploit数据与真实攻击，团队改用开源GLM 5.2成功加快分析。",
           "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
           "source": "The Decoder AI News",
@@ -66,7 +236,7 @@
           "title_zh": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
           "title_en": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
           "title_original": "Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "summary": "Hugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely by an autonomous AI agent system. The attack spanned thousands of actions controlled by an agent framework. During forensic analysis, commercial AI models actually got in the way of the defenders because their safety guardrails couldn't tell exploit data from real attacks.\nHugging Face reports an attack on parts of its production infrastructure that was allegedly carried out entirely ",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face披露一次完全由自主AI agent系统发起的攻击，包含数千次行动；由于商业AI模型的防护栏无法区分exploit数据与真实攻击，团队改用开源GLM 5.2成功加快分析。",
           "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
           "source": "The Decoder AI News",
@@ -77,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7919,
+      "importance": 0.7919,
+      "importance_score": 0.7919,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +284,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -145,7 +315,7 @@
           "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
           "title_en": null,
           "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "summary": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nSpeedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nSpeedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nWe read every piece of feedback, and t",
+          "summary": null,
           "recommend_reason_zh": "不要只信论文数据——这个公开排行榜用单张L40S、固定任务GSM8K和Qwen2.5-1.5B，挑战LoRA微调速度，当前纪录仅6分05秒，任何人都能免费重跑验证。",
           "url": "https://github.com/Saivineeth147/lora-speedrun",
           "source": "github.com",
@@ -180,7 +350,7 @@
           "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
           "title_en": null,
           "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "summary": "Speedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nSpeedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nSpeedrunning LoRA fine-tuning: frozen task, frozen hardware, public wall-clock leaderboard. modded-nanogpt for fine-tuning. - Saivineeth147/lora-speedrun\nWe read every piece of feedback, and t",
+          "summary": null,
           "recommend_reason_zh": "不要只信论文数据——这个公开排行榜用单张L40S、固定任务GSM8K和Qwen2.5-1.5B，挑战LoRA微调速度，当前纪录仅6分05秒，任何人都能免费重跑验证。",
           "url": "https://github.com/Saivineeth147/lora-speedrun",
           "source": "github.com",
@@ -191,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -228,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -305,15 +475,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.7626,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -342,7 +512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -390,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -426,7 +596,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -474,15 +644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -510,7 +680,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -558,21 +728,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9382,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T08:53:11Z",
       "latest_at": "2026-07-20T08:53:11Z",
@@ -594,7 +763,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -642,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8268,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,7 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -725,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,7 +929,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -808,15 +977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9264,
+        "recency": 0.8906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -843,90 +1012,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
-      }
-    },
-    {
-      "story_id": "story_84aa90aed0cc",
-      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_en": null,
-          "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-          "recommend_reason_zh": "字节跳动Seed Audio 1.0统一建模人声与音效，端到端生成影视级音频，支持20+语种和100ms时间控制精度，多数场景可用率超90%，是音频创作的一次重要突破。",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "字节 Seed：Research Feed（网页内嵌数据）"
-      ],
-      "items": [
-        {
-          "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-          "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "title_en": null,
-          "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-          "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-          "recommend_reason_zh": "字节跳动Seed Audio 1.0统一建模人声与音效，端到端生成影视级音频，支持20+语种和100ms时间控制精度，多数场景可用率超90%，是音频创作的一次重要突破。",
-          "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-          "source": "字节 Seed：Research Feed（网页内嵌数据）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7352,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T16:00:00Z",
-      "latest_at": "2026-07-19T16:00:00Z",
-      "primary_item": {
-        "id": "db9731af102c5106571a64efffc1d4ecdbbc1070",
-        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "title_zh": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "title_en": null,
-        "title_original": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-        "recommend_reason_zh": "字节跳动Seed Audio 1.0统一建模人声与音效，端到端生成影视级音频，支持20+语种和100ms时间控制精度，多数场景可用率超90%，是音频创作的一次重要突破。",
-        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "模型未开放API或源码，目前无法上手，等demo或试用通道。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -974,15 +1060,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1010,7 +1096,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1058,15 +1144,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8463,
+        "recency": 0.8136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,7 +1179,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1141,15 +1227,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1177,7 +1263,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1225,21 +1311,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T07:30:31.999352Z",
       "latest_at": "2026-07-20T07:30:31.999352Z",
@@ -1261,7 +1346,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1309,21 +1394,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T07:30:31.999352Z",
       "latest_at": "2026-07-20T07:30:31.999352Z",
@@ -1345,7 +1429,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1393,21 +1477,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T07:30:31.999352Z",
       "latest_at": "2026-07-20T07:30:31.999352Z",
@@ -1429,7 +1512,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
+      }
+    },
+    {
+      "story_id": "story_7bf00147cd59",
+      "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+      "url": "https://news.ycombinator.com/item?id=48971738",
+      "primary_url": "https://news.ycombinator.com/item?id=48971738",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+          "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+          "title_zh": "AI建议让人准确度下降但更自信——研究",
+          "title_en": "AI advice made people less accurate but more confident – sudy",
+          "title_original": "AI advice made people less accurate but more confident – sudy",
+          "summary": null,
+          "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T04:06:45.127000Z"
+        },
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": null,
+          "title_original": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "summary": null,
+          "recommend_reason_zh": "一项新研究发现，使用AI建议后，人们说“不知道”的比例从44%暴跌至3%，准确率从27%降至9%，而自信度却从30%升至76%，货币激励几乎无法扭转。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
+          "title": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_zh": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍",
+          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "summary": null,
+          "recommend_reason_zh": "研究发现，AI建议让用户准确性降低3倍但自信增加2倍，实验同样暴露了过度依赖AI模型时决策质量的显著下降。",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T22:50:27.982000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "summary": null,
+          "recommend_reason_zh": "一项研究发现，有AI建议时，人们说“I don't know”的比例从44%骤降至3%，准确率从27%跌至9%，而信心却从30%升至76%，导致“认知投降”。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": "AI advice made people less accurate but more confident – sudy",
+          "title_original": "AI advice made people less accurate but more confident – sudy",
+          "summary": null,
+          "recommend_reason_zh": "一项法国和意大利大学的研究显示，AI建议使人们说“我不知道”的比例从44%骤降至3%，准确率从27%跌至9%，而信心从30%升至76%。研究人员Valerio Capraro警告，这种“认知屈服”尤其影响儿童。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T21:18:10Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "thenextweb.com"
+      ],
+      "items": [
+        {
+          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+          "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+          "title_zh": "AI建议让人准确度下降但更自信——研究",
+          "title_en": "AI advice made people less accurate but more confident – sudy",
+          "title_original": "AI advice made people less accurate but more confident – sudy",
+          "summary": null,
+          "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T04:06:45.127000Z"
+        },
+        {
+          "id": "0eea1d87eacc15a486631f4f55c4b2997bd9dc43",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": null,
+          "title_original": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "summary": null,
+          "recommend_reason_zh": "一项新研究发现，使用AI建议后，人们说“不知道”的比例从44%暴跌至3%，准确率从27%降至9%，而自信度却从30%升至76%，货币激励几乎无法扭转。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "thenextweb.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T23:05:08.884000Z"
+        },
+        {
+          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
+          "title": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_zh": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍",
+          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "summary": null,
+          "recommend_reason_zh": "研究发现，AI建议让用户准确性降低3倍但自信增加2倍，实验同样暴露了过度依赖AI模型时决策质量的显著下降。",
+          "url": "https://news.ycombinator.com/item?id=48971738",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T22:50:27.982000Z"
+        },
+        {
+          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
+          "summary": null,
+          "recommend_reason_zh": "一项研究发现，有AI建议时，人们说“I don't know”的比例从44%骤降至3%，准确率从27%跌至9%，而信心却从30%升至76%，导致“认知投降”。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
+          "title_en": "AI advice made people less accurate but more confident – sudy",
+          "title_original": "AI advice made people less accurate but more confident – sudy",
+          "summary": null,
+          "recommend_reason_zh": "一项法国和意大利大学的研究显示，AI建议使人们说“我不知道”的比例从44%骤降至3%，准确率从27%跌至9%，而信心从30%升至76%。研究人员Valerio Capraro警告，这种“认知屈服”尤其影响儿童。",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-19T21:18:10Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5923,
+      "importance": 0.5923,
+      "importance_score": 0.5923,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8418,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T21:18:10Z",
+      "latest_at": "2026-07-20T04:06:45.127000Z",
+      "primary_item": {
+        "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
+        "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
+        "title_zh": "AI建议让人准确度下降但更自信——研究",
+        "title_en": "AI advice made people less accurate but more confident – sudy",
+        "title_original": "AI advice made people less accurate but more confident – sudy",
+        "summary": null,
+        "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
+        "url": "https://news.ycombinator.com/item?id=48971738",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "提醒设计AI助手时注意过度自信陷阱，但非今天就能用的工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1477,21 +1758,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T07:30:31.999352Z",
       "latest_at": "2026-07-20T07:30:31.999352Z",
@@ -1513,7 +1793,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     },
     {
@@ -1619,15 +1899,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9643,
+        "recency": 0.927,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1654,231 +1934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
-      }
-    },
-    {
-      "story_id": "story_7bf00147cd59",
-      "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
-      "url": "https://news.ycombinator.com/item?id=48971738",
-      "primary_url": "https://news.ycombinator.com/item?id=48971738",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
-          "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
-          "title_zh": "AI建议让人准确度下降但更自信——研究",
-          "title_en": "AI advice made people less accurate but more confident – sudy",
-          "title_original": "AI advice made people less accurate but more confident – sudy",
-          "summary": null,
-          "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
-          "url": "https://news.ycombinator.com/item?id=48971738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T04:06:45.127000Z"
-        },
-        {
-          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
-          "title": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_zh": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍",
-          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": "研究发现，AI建议让用户准确性降低3倍但自信增加2倍，实验同样暴露了过度依赖AI模型时决策质量的显著下降。",
-          "url": "https://news.ycombinator.com/item?id=48971738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T22:50:27.982000Z"
-        },
-        {
-          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": "一项研究发现，有AI建议时，人们说“I don't know”的比例从44%骤降至3%，准确率从27%跌至9%，而信心却从30%升至76%，导致“认知投降”。",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T21:18:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
-          "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
-          "title_zh": "AI建议让人准确度下降但更自信——研究",
-          "title_en": "AI advice made people less accurate but more confident – sudy",
-          "title_original": "AI advice made people less accurate but more confident – sudy",
-          "summary": null,
-          "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
-          "url": "https://news.ycombinator.com/item?id=48971738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T04:06:45.127000Z"
-        },
-        {
-          "id": "8a56ea9bd60176aaa58ad3b25c07c5bfa3775c68",
-          "title": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_zh": "研究人员发现，AI建议使人们准确性降低3倍，但自信度提升2倍",
-          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": "研究发现，AI建议让用户准确性降低3倍但自信增加2倍，实验同样暴露了过度依赖AI模型时决策质量的显著下降。",
-          "url": "https://news.ycombinator.com/item?id=48971738",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T22:50:27.982000Z"
-        },
-        {
-          "id": "d1478b7d662bf7e42e4c5ae373bbec00223f2664",
-          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
-          "title_en": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "title_original": "AI advice made people 3x less accurate but 2x confident, researchers found",
-          "summary": null,
-          "recommend_reason_zh": "一项研究发现，有AI建议时，人们说“I don't know”的比例从44%骤降至3%，准确率从27%跌至9%，而信心却从30%升至76%，导致“认知投降”。",
-          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T21:18:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8757,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T21:18:10Z",
-      "latest_at": "2026-07-20T04:06:45.127000Z",
-      "primary_item": {
-        "id": "4f4d33539412136a3ae48ba7dfcb2ed18b0d213e",
-        "title": "AI建议让人准确度下降但更自信——研究 / AI advice made people less accurate but more confident – sudy",
-        "title_zh": "AI建议让人准确度下降但更自信——研究",
-        "title_en": "AI advice made people less accurate but more confident – sudy",
-        "title_original": "AI advice made people less accurate but more confident – sudy",
-        "summary": null,
-        "recommend_reason_zh": "一项研究让受试者使用几乎必错的LLM（如Step 3.5 Flash）答题，导致准确率下降3倍却更自信。本文犀利指出，其设计等同于给一本错误教科书，而非测试GPT-5.5等现代LLM的真实影响。",
-        "url": "https://news.ycombinator.com/item?id=48971738",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "提醒设计AI助手时注意过度自信陷阱，但非今天就能用的工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
-      }
-    },
-    {
-      "story_id": "story_47477cc0e82b",
-      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-      "url": "https://www.aibase.com/news/29720",
-      "primary_url": "https://www.aibase.com/news/29720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_en": null,
-          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "summary": null,
-          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_en": null,
-          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "summary": null,
-          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T07:30:31.999352Z",
-      "latest_at": "2026-07-20T07:30:31.999352Z",
-      "primary_item": {
-        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "title_en": null,
-        "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "summary": null,
-        "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-        "url": "https://www.aibase.com/news/29720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "营销味重，没看到开放API或仓库，先观望实测再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T13:23:26.746581Z"
+        "scored_at": "2026-07-20T16:09:04.546782Z"
       }
     }
   ]

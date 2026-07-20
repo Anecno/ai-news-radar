@@ -1710,6 +1710,30 @@
       "review": "GitHub有代码和benchmark结果，缺正式论文，可复现但需验证。",
       "title_hash": "c08cbc79",
       "scored_at": "2026-07-20T13:23:39.070520Z"
+    },
+    "story_36e0334205c9|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "新边缘模型，支持部署前评估硬件兼容性，有demo可试。",
+      "title_hash": "a89b82cd",
+      "scored_at": "2026-07-20T16:09:06.996107Z"
+    },
+    "story_855107c88571|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "GitHub内置代码质量工具，直接集成到PR流程，省去配置第三方工具的麻烦。",
+      "title_hash": "72cc35d3",
+      "scored_at": "2026-07-20T16:09:08.949885Z"
+    },
+    "story_855107c88571|cynic|f4237a62": {
+      "score": 72,
+      "review": "GA了个寂寞？等评测出来再吹不迟。",
+      "title_hash": "72cc35d3",
+      "scored_at": "2026-07-20T16:09:14.226846Z"
+    },
+    "story_855107c88571|paper-police|966065bf": {
+      "score": 10,
+      "review": "仅官方公告，无论文代码benchmark，无法验证。",
+      "title_hash": "72cc35d3",
+      "scored_at": "2026-07-20T16:09:17.062338Z"
     }
   }
 }
