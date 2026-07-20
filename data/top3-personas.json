@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:09:17.062422Z",
+  "generated_at": "2026-07-20T18:26:39.761906Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_b6283b3ad139",
-      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-      "url": "https://www.aibase.com/news/29724",
+      "story_id": "story_36e0334205c9",
+      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 75,
-          "review": "300ms首包延迟在Wi-Fi下还行，20种方言能流畅读出几个？"
+          "review": "4B参数开源不错，但“实时”得看在哪块芯片上跑，别是RTX 5090才算数。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "只有新闻宣称，无论文无代码无独立评测，不可信。"
+          "score": 55,
+          "review": "Hugging Face 博客有模型详情和开源权重，但缺论文和独立评测。"
         },
         "pragmatic": {
-          "score": 91,
-          "review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。"
+          "score": 95,
+          "review": "模型已开源，机器人/边缘AI项目今天就能下载部署，实打实的工具箱。"
         }
       }
     },

@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-07-20T16:02:09.774647Z",
+  "generated_at": "2026-07-20T18:20:11.468233Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 17,
+  "total_events": 20,
   "events": [
-    {
-      "story_id": "story_b07488f85ab7",
-      "item_id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-      "merged_into": "story_b07488f85ab7",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_b07488f85ab7",
-      "item_id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-      "merged_into": "story_b07488f85ab7",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_907e8332c2ce",
       "item_id": "1f1ed1cab9a4f828722f54c64e9ed77eb67682e8",
@@ -119,6 +105,41 @@
       "story_id": "story_b653626a0280",
       "item_id": "cbd7c23f30e4a58830f1d5cae27fcfc225b7ab47",
       "merged_into": "story_b653626a0280",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_aac9c955e26e",
+      "item_id": "f0a76f417a97d4d5e9ce51628c55f3f091492cab",
+      "merged_into": "story_aac9c955e26e",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_b653626a0280",
+      "item_id": "7ff42ed41a43a4d97aadb1a7160af5a2465a2e19",
+      "merged_into": "story_b653626a0280",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_aac9c955e26e",
+      "item_id": "bd5c854bfb479954e0c9b2ba6400c2697fbb71f1",
+      "merged_into": "story_aac9c955e26e",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_bf5fcaae9ff0",
+      "item_id": "d8f63f8c652f0d90ec4298d0aaadd03807eba5d7",
+      "merged_into": "story_bf5fcaae9ff0",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_07607b1511cb",
+      "item_id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
+      "merged_into": "story_07607b1511cb",
       "reason": "title_similarity",
       "similarity": 1.0
     }
