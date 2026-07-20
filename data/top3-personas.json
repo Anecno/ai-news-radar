@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T04:12:30.496281Z",
+  "generated_at": "2026-07-20T07:36:40.220871Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_0addcd6712bf",
-      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
-      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "story_id": "story_b07488f85ab7",
+      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "4B以下第一？那4B以上呢？挑个冷门赛道封王，确实是营销捷径。"
+          "score": 75,
+          "review": "需求旺盛？还是产能跟不上？先数数有多少人等着排队吧。"
         },
         "paper-police": {
           "score": 20,
-          "review": "缺论文和开源代码，仅官方宣称，待独立验证。"
+          "review": "只有官方公告，无论文代码benchmark，无法验证。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "小模型性能领先且适配多芯片，边缘部署首选，今天就能试用。"
+          "score": 68,
+          "review": "新人暂时用不了，已有用户不影响，想用先等等。"
         }
       }
     },
     {
-      "story_id": "story_bf0937a60822",
-      "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-      "url": "https://www.aibase.com/news/29704",
+      "story_id": "story_433d10817ce7",
+      "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
+      "url": "https://github.com/openai/codex/pull/33972/files",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 25,
-          "review": "三成漏检？原来AI检测器最大的本事是测不出自己。"
+          "review": "别人都在堆长上下文，你们倒好，反向优化挺利索。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "测试结果有报道，但无论文和代码支撑，无法独立验证。"
+          "score": 45,
+          "review": "有PR改动记录，但无评测报告，真伪待查。"
         },
         "pragmatic": {
-          "score": 60,
-          "review": "别全信AI检测器，生成内容审核还得加人工兜底。"
+          "score": 68,
+          "review": "上下文砍掉十万，长代码补全能力倒退，用Codex的得考虑分段提示了。"
         }
       }
     }

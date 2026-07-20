@@ -1536,6 +1536,72 @@
       "review": "测试结果有报道，但无论文和代码支撑，无法独立验证。",
       "title_hash": "431162e9",
       "scored_at": "2026-07-20T04:12:30.496230Z"
+    },
+    "story_c1a4355fdb3f|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "模型参数小适合边缘端，但未开放使用，先收藏等开源。",
+      "title_hash": "d297b490",
+      "scored_at": "2026-07-20T07:36:12.270530Z"
+    },
+    "story_054bc9507dc3|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "融资消息不改变使用方法，现有用户继续用就行。",
+      "title_hash": "b6229480",
+      "scored_at": "2026-07-20T07:36:14.648020Z"
+    },
+    "story_30dc5804a635|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "尚未发布，等下周正式上线再测效果。",
+      "title_hash": "568df984",
+      "scored_at": "2026-07-20T07:36:16.923567Z"
+    },
+    "story_ae64637fe419|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "安全事件警示，但无直接可用工具或方案，关注自家API密钥管理即可。",
+      "title_hash": "74e35837",
+      "scored_at": "2026-07-20T07:36:19.392701Z"
+    },
+    "story_6d01539468ee|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "模型未开放，等API上架再评估。",
+      "title_hash": "8950e1e1",
+      "scored_at": "2026-07-20T07:36:22.600999Z"
+    },
+    "story_47477cc0e82b|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "营销味重，没看到开放API或仓库，先观望实测再动手。",
+      "title_hash": "953c9ba7",
+      "scored_at": "2026-07-20T07:36:26.412078Z"
+    },
+    "story_dd4999ba5c3d|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "市场热度数据，没有可用的工具或接口，看看就行。",
+      "title_hash": "45226b6b",
+      "scored_at": "2026-07-20T07:36:28.597740Z"
+    },
+    "story_b07488f85ab7|cynic|f4237a62": {
+      "score": 75,
+      "review": "需求旺盛？还是产能跟不上？先数数有多少人等着排队吧。",
+      "title_hash": "709cacb0",
+      "scored_at": "2026-07-20T07:36:30.825679Z"
+    },
+    "story_b07488f85ab7|paper-police|966065bf": {
+      "score": 20,
+      "review": "只有官方公告，无论文代码benchmark，无法验证。",
+      "title_hash": "709cacb0",
+      "scored_at": "2026-07-20T07:36:33.202153Z"
+    },
+    "story_433d10817ce7|cynic|f4237a62": {
+      "score": 25,
+      "review": "别人都在堆长上下文，你们倒好，反向优化挺利索。",
+      "title_hash": "651cea64",
+      "scored_at": "2026-07-20T07:36:36.013762Z"
+    },
+    "story_433d10817ce7|paper-police|966065bf": {
+      "score": 45,
+      "review": "有PR改动记录，但无评测报告，真伪待查。",
+      "title_hash": "651cea64",
+      "scored_at": "2026-07-20T07:36:40.220819Z"
     }
   }
 }
