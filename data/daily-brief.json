@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:30:31.999352Z",
+  "generated_at": "2026-07-20T11:13:53.960832Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8625,
+        "recency": 0.8174,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0af9f3389",
+      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+      "url": "https://www.aibase.com/news/29725",
+      "primary_url": "https://www.aibase.com/news/29725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_en": null,
+          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "summary": "A half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nExplore AI Fronti",
+          "recommend_reason_zh": "工信部半年报披露，OpenHarmony设备已超13.5亿台，上半年软件业务收入破6.2万亿元，同比增长10.3%，开源生态规模清晰可见。",
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "title_en": null,
+          "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+          "summary": "A half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nExplore AI Fronti",
+          "recommend_reason_zh": "工信部半年报披露，OpenHarmony设备已超13.5亿台，上半年软件业务收入破6.2万亿元，同比增长10.3%，开源生态规模清晰可见。",
+          "url": "https://www.aibase.com/news/29725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T11:13:53.960832Z",
+      "latest_at": "2026-07-20T11:13:53.960832Z",
+      "primary_item": {
+        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
+        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "title_zh": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "title_en": null,
+        "title_original": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
+        "summary": "A half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nA half-year report from a State Council Information Office press conference directly measured the weight of China's open-source ecosystem. At 10:00 a.m. on July\nExplore AI Fronti",
+        "recommend_reason_zh": "工信部半年报披露，OpenHarmony设备已超13.5亿台，上半年软件业务收入破6.2万亿元，同比增长10.3%，开源生态规模清晰可见。",
+        "url": "https://www.aibase.com/news/29725",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "生态数据好看，但对AI开发没直接工具或降价可用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -162,15 +246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.8996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,63 +282,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
-      "story_id": "story_054bc9507dc3",
-      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-      "url": "https://www.aibase.com/news/29718",
-      "primary_url": "https://www.aibase.com/news/29718",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2d573d7d3b45",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
           "title_en": null,
-          "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "summary": "A single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nExplore AI Fronti",
-          "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": "通义实验室发布的Qwen-Audio-3.0-TTS实时语音合成模型，让语音从“能说话”进化到“会表达”，打破传统TTS的机械感。",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：通义实验室（千问）"
       ],
       "items": [
         {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
           "title_en": null,
-          "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "summary": "A single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nExplore AI Fronti",
-          "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": "通义实验室发布的Qwen-Audio-3.0-TTS实时语音合成模型，让语音从“能说话”进化到“会表达”，打破传统TTS的机械感。",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -262,27 +346,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T07:30:31.999352Z",
-      "latest_at": "2026-07-20T07:30:31.999352Z",
+      "earliest_at": "2026-07-20T08:53:11Z",
+      "latest_at": "2026-07-20T08:53:11Z",
       "primary_item": {
-        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-        "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
         "title_en": null,
-        "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-        "summary": "A single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nA single command can bring up an open-source large model locally. This tool, which has freed countless developers from API keys and exorbitant bills, has just s\nExplore AI Fronti",
-        "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
-        "url": "https://www.aibase.com/news/29718",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+        "recommend_reason_zh": "通义实验室发布的Qwen-Audio-3.0-TTS实时语音合成模型，让语音从“能说话”进化到“会表达”，打破传统TTS的机械感。",
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "融资消息不改变使用方法，现有用户继续用就行。",
+      "persona_score": 70,
+      "persona_review": "实时TTS模型新选项，有API接口可直接集成测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -330,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -366,7 +450,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_7220f2ac0e38",
+      "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+      "url": "https://www.ithome.com/0/979/017.htm",
+      "primary_url": "https://www.ithome.com/0/979/017.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "title_zh": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "title_en": null,
+          "title_original": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "summary": "上海科学智能研究院开放科学多模态基础模型\"神珍\"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
+          "recommend_reason_zh": "上海科学智能研究院发布110亿参数多模态基础模型“神珍”，统一处理DNA、RNA等六类数据，在20项生物序列任务中9项最优，医学影像分割平均Dice达91.20。",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T07:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+          "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "title_zh": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "title_en": null,
+          "title_original": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+          "summary": "上海科学智能研究院开放科学多模态基础模型\"神珍\"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
+          "recommend_reason_zh": "上海科学智能研究院发布110亿参数多模态基础模型“神珍”，统一处理DNA、RNA等六类数据，在20项生物序列任务中9项最优，医学影像分割平均Dice达91.20。",
+          "url": "https://www.ithome.com/0/979/017.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T07:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9408,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:00:15Z",
+      "latest_at": "2026-07-20T07:00:15Z",
+      "primary_item": {
+        "id": "b7044c331d1b621e3a6a807f26d1a02069721734",
+        "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+        "title_zh": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+        "title_en": null,
+        "title_original": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+        "summary": "上海科学智能研究院开放科学多模态基础模型\"神珍\"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
+        "recommend_reason_zh": "上海科学智能研究院发布110亿参数多模态基础模型“神珍”，统一处理DNA、RNA等六类数据，在20项生物序列任务中9项最优，医学影像分割平均Dice达91.20。",
+        "url": "https://www.ithome.com/0/979/017.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "多模态模型开放，具体实测效果和接口待验证，可关注但别急着上线。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -414,21 +582,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9202,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T01:45:09.765000Z",
       "latest_at": "2026-07-20T01:45:09.765000Z",
@@ -450,7 +617,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_193fb0c41321",
+      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
+      "primary_url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
+          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "title_en": null,
+          "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
+          "recommend_reason_zh": "小红书与北大联合开源UltraEP，为大规模MoE训推提供实时负载均衡方案，助力理想专家负载均衡走进生产环境。",
+          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:00:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
+          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "title_en": null,
+          "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+          "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
+          "recommend_reason_zh": "小红书与北大联合开源UltraEP，为大规模MoE训推提供实时负载均衡方案，助力理想专家负载均衡走进生产环境。",
+          "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:00:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T08:00:45Z",
+      "latest_at": "2026-07-20T08:00:45Z",
+      "primary_item": {
+        "id": "a58c6c23b9542f0c7c9bb1c209685c293ba58241",
+        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+        "title_zh": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+        "title_en": null,
+        "title_original": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+        "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
+        "recommend_reason_zh": "小红书与北大联合开源UltraEP，为大规模MoE训推提供实时负载均衡方案，助力理想专家负载均衡走进生产环境。",
+        "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源可用，MoE训推负载均衡的现成方案，直接拉代码跑起来。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -498,21 +748,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7993,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T16:00:00Z",
       "latest_at": "2026-07-19T16:00:00Z",
@@ -534,7 +783,259 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_d18258ee5eba",
+      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+      "url": "https://www.aibase.com/news/29722",
+      "primary_url": "https://www.aibase.com/news/29722",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_en": null,
+          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "summary": "A line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nExplore AI Fronti",
+          "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_en": null,
+          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "summary": "A line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nExplore AI Fronti",
+          "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T11:13:53.960832Z",
+      "latest_at": "2026-07-20T11:13:53.960832Z",
+      "primary_item": {
+        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "title_en": null,
+        "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "summary": "A line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nA line of public code that should not have exposed commercial secrets has revealed Anthropic's next chip layout. According to the chip industry analysis firm Se\nExplore AI Fronti",
+        "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+        "url": "https://www.aibase.com/news/29722",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "对开发者无直接影响，等AMD正式发布产品再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_b6283b3ad139",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
+      "primary_url": "https://www.aibase.com/news/29724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_en": null,
+          "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "summary": "Recently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nExplore AI Fronti",
+          "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_en": null,
+          "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "summary": "Recently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nExplore AI Fronti",
+          "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T11:13:53.960832Z",
+      "latest_at": "2026-07-20T11:13:53.960832Z",
+      "primary_item": {
+        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "title_en": null,
+        "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "summary": "Recently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nRecently, the Alibaba Qwen team officially launched the new real-time speech synthesis model Qwen-Audio-3.0-TTS, pushing speech synthesis from \"being able to sp\nExplore AI Fronti",
+        "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+        "url": "https://www.aibase.com/news/29724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 91,
+      "persona_review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_054bc9507dc3",
+      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+      "url": "https://www.aibase.com/news/29718",
+      "primary_url": "https://www.aibase.com/news/29718",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "title_en": null,
+          "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "summary": null,
+          "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
+          "url": "https://www.aibase.com/news/29718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:30:31.999352Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "title_en": null,
+          "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+          "summary": null,
+          "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
+          "url": "https://www.aibase.com/news/29718",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:30:31.999352Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9477,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:30:31.999352Z",
+      "latest_at": "2026-07-20T07:30:31.999352Z",
+      "primary_item": {
+        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
+        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+        "title_zh": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+        "title_en": null,
+        "title_original": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
+        "summary": null,
+        "recommend_reason_zh": "Ollama 完成 8800 万美元融资，已进入 85% 的财富 500 强企业，用一条命令即可在本地运行开源大模型，告别 API 密钥和高昂账单。",
+        "url": "https://www.aibase.com/news/29718",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "融资消息不改变使用方法，现有用户继续用就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -551,7 +1052,7 @@
           "title_zh": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
           "title_en": null,
           "title_original": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "summary": "&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek V4正式版实测曝光，初步成绩达Claude Opus 4.8水平，3D生成能力远超Opus 4.8，游戏代码测试甚至超越Fable5和GPT-5.6，下周一或与Kimi K3正面交锋。",
           "url": "https://www.aibase.com/news/29717",
           "source": "AIbase",
@@ -571,7 +1072,7 @@
           "title_zh": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
           "title_en": null,
           "title_original": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-          "summary": "&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek V4正式版实测曝光，初步成绩达Claude Opus 4.8水平，3D生成能力远超Opus 4.8，游戏代码测试甚至超越Fable5和GPT-5.6，下周一或与Kimi K3正面交锋。",
           "url": "https://www.aibase.com/news/29717",
           "source": "AIbase",
@@ -582,15 +1083,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +1107,7 @@
         "title_zh": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
         "title_en": null,
         "title_original": "DeepSeek V4正式版实测曝光，或于下周一发布剑指Kimi K3",
-        "summary": "&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\n&nbsp;While the global AI community is focused on the popularity of Kimi K3, domestic large model vendor DeepSeek has announced new developments. Recently, test\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "DeepSeek V4正式版实测曝光，初步成绩达Claude Opus 4.8水平，3D生成能力远超Opus 4.8，游戏代码测试甚至超越Fable5和GPT-5.6，下周一或与Kimi K3正面交锋。",
         "url": "https://www.aibase.com/news/29717",
         "source": "AIbase",
@@ -618,256 +1119,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_2ca67ade8503",
-      "title": "Qwen3.8 开源发布，2.4T 参数模型上线 / Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-      "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
-          "title": "Qwen3.8 开源发布，2.4T 参数模型上线 / Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "title_zh": "Qwen3.8 开源发布，2.4T 参数模型上线",
-          "title_en": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "title_original": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T08:10:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
-          "title": "Qwen3.8 开源发布，2.4T 参数模型上线 / Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "title_zh": "Qwen3.8 开源发布，2.4T 参数模型上线",
-          "title_en": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "title_original": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-          "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T08:10:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T08:10:39Z",
-      "latest_at": "2026-07-19T08:10:39Z",
-      "primary_item": {
-        "id": "d5ec218da0cf14fffc1c7a1b846c3c943af503fc",
-        "title": "Qwen3.8 开源发布，2.4T 参数模型上线 / Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-        "title_zh": "Qwen3.8 开源发布，2.4T 参数模型上线",
-        "title_en": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-        "title_original": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-        "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "等权重开放再动手，目前先了解。参数虽大，没链接没文档=空转。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_7fa464d3bd04",
-      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-      "primary_url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-      "source": "公众号：昆仑万维（天工）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "title_en": null,
-          "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
-          "recommend_reason_zh": "昆仑万维宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5等模型，带你前瞻下一代AI技术方向。",
-          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T12:35:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：昆仑万维（天工）"
-      ],
-      "items": [
-        {
-          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "title_en": null,
-          "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-          "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
-          "recommend_reason_zh": "昆仑万维宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5等模型，带你前瞻下一代AI技术方向。",
-          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-          "source": "公众号：昆仑万维（天工）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T12:35:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.761,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T12:35:56Z",
-      "latest_at": "2026-07-19T12:35:56Z",
-      "primary_item": {
-        "id": "83952e148349f8569b30edfa9d5867019f64c72d",
-        "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-        "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-        "title_en": null,
-        "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-        "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
-        "recommend_reason_zh": "昆仑万维宣布2026年为“世界模型元年”，并发布Matrix-Game 3.5等模型，带你前瞻下一代AI技术方向。",
-        "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-        "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "口号型发布，没开放API的模型等于没发布，等可用链接再评价。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7745,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-        "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "开源模型可直接用于机器人开发，今天就能下载实验。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -884,7 +1136,7 @@
           "title_zh": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
           "title_en": null,
           "title_original": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "summary": "The world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face遭黑客AI agent攻击，安全团队先试用某美国商业大模型API分析超17000条日志，因无法区分敌我而失败，最终部署中国开源模型GLM5.2成功完成取证，凸显本地部署开源模型在安全分析中的灵活性。",
           "url": "https://www.aibase.com/news/29719",
           "source": "AIbase",
@@ -904,7 +1156,7 @@
           "title_zh": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
           "title_en": null,
           "title_original": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-          "summary": "The world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Hugging Face遭黑客AI agent攻击，安全团队先试用某美国商业大模型API分析超17000条日志，因无法区分敌我而失败，最终部署中国开源模型GLM5.2成功完成取证，凸显本地部署开源模型在安全分析中的灵活性。",
           "url": "https://www.aibase.com/news/29719",
           "source": "AIbase",
@@ -915,15 +1167,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,7 +1191,7 @@
         "title_zh": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
         "title_en": null,
         "title_original": "Hugging Face披露AI智能体攻击事件，采用GLM5.2完成日志取证分析",
-        "summary": "The world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nThe world's largest AI open-source community, Hugging Face, recently disclosed that its servers were attacked by a hacker AI agent. After the incident, the secu\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "Hugging Face遭黑客AI agent攻击，安全团队先试用某美国商业大模型API分析超17000条日志，因无法区分敌我而失败，最终部署中国开源模型GLM5.2成功完成取证，凸显本地部署开源模型在安全分析中的灵活性。",
         "url": "https://www.aibase.com/news/29719",
         "source": "AIbase",
@@ -951,7 +1203,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -968,7 +1220,7 @@
           "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
           "title_en": null,
           "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "summary": "Recently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "ByteDance发布Seed Audio 1.0，实现从单一语音合成到完整声音场景创作的跨越，支持100毫秒精度的音效与对话控制，在火山方舟体验中心开放测试。",
           "url": "https://www.aibase.com/news/29716",
           "source": "AIbase",
@@ -988,7 +1240,7 @@
           "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
           "title_en": null,
           "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-          "summary": "Recently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "ByteDance发布Seed Audio 1.0，实现从单一语音合成到完整声音场景创作的跨越，支持100毫秒精度的音效与对话控制，在火山方舟体验中心开放测试。",
           "url": "https://www.aibase.com/news/29716",
           "source": "AIbase",
@@ -999,15 +1251,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1023,7 +1275,7 @@
         "title_zh": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
         "title_en": null,
         "title_original": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-        "summary": "Recently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nRecently, ByteDance officially launched the audio creation model Seed Audio 1.0, marking a new stage in AI audio generation technology, moving from a single spe\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "ByteDance发布Seed Audio 1.0，实现从单一语音合成到完整声音场景创作的跨越，支持100毫秒精度的音效与对话控制，在火山方舟体验中心开放测试。",
         "url": "https://www.aibase.com/news/29716",
         "source": "AIbase",
@@ -1035,259 +1287,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
-      "story_id": "story_47477cc0e82b",
-      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-      "url": "https://www.aibase.com/news/29720",
-      "primary_url": "https://www.aibase.com/news/29720",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_09b4c076085e",
+      "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+      "primary_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+      "source": "slcyber.io",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
+          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "title_zh": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
           "title_en": null,
-          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "summary": "In the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nExplore AI Fronti",
-          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
+          "title_original": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "summary": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instance is vulnerable, you can use our tool we've hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during\nStay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instanc",
+          "recommend_reason_zh": "漏洞中介为WordPress的RCE漏洞出价50万美元，而作者利用GPT-5.6 Sol Ultra模型改编自Cycle Double Cover猜想的提示词，仅花25美元就发现了WordPress预认证SQL注入漏洞。",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+          "source": "slcyber.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T10:47:09.626000Z"
+        },
+        {
+          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
+          "title": "漏洞经纪人出价50万美元收购WordPress RCE漏洞，我只用GPT5.6和25美元就找到一个。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_zh": "漏洞经纪人出价50万美元收购WordPress RCE漏洞，我只用GPT5.6和25美元就找到一个。",
+          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "summary": "String concatenation SQL injection in the year 2026.\nreply\n>Rather than executing an SQL query directly, we’ll use the dbDelta function >Note that the dbDelta function is rather picky, however. For instance: >You must put each field on its own line in your SQL statement. >You must have two spaces between the words PRIMARY KEY and the definition of your primary key. >You must use the key word KEY rather than its synonym INDEX and you must include at least one KEY. >KEY must be followed by a SINGL",
+          "recommend_reason_zh": "通过GPT5.6和仅25美元，作者发现了WordPress中一个利用dbDelta严格语法（如字段独占一行、PRIMARY KEY后两个空格）的字符串拼接SQL注入，漏洞经纪人愿付$500k购买此类RCE。",
+          "url": "https://news.ycombinator.com/item?id=48975665",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T10:44:16.685000Z"
+        },
+        {
+          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
+          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_zh": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "summary": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instance is vulnerable, you can use our tool we've hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during\nStay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instanc",
+          "recommend_reason_zh": "利用GPT5.6 Sol Ultra和25美元成本，安全研究员发现一个WordPress预认证SQL注入漏洞，而Exploit brokers为类似RCE漏洞支付高达50万美元。",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-20T08:13:36Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews",
+        "slcyber.io"
       ],
       "items": [
         {
-          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
+          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "title_zh": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
           "title_en": null,
-          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-          "summary": "In the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nExplore AI Fronti",
-          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-          "url": "https://www.aibase.com/news/29720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T07:30:31.999352Z",
-      "latest_at": "2026-07-20T07:30:31.999352Z",
-      "primary_item": {
-        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
-        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "title_en": null,
-        "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
-        "summary": "In the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nIn the summer of 2026, along the Huangpu River, the World Artificial Intelligence Conference was held as scheduled. At this event, HiDream.ai unveiled a major n\nExplore AI Fronti",
-        "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
-        "url": "https://www.aibase.com/news/29720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "营销味重，没看到开放API或仓库，先观望实测再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_dd4999ba5c3d",
-      "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-      "url": "https://www.aibase.com/news/29721",
-      "primary_url": "https://www.aibase.com/news/29721",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "title_original": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "summary": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instance is vulnerable, you can use our tool we've hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during\nStay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instanc",
+          "recommend_reason_zh": "漏洞中介为WordPress的RCE漏洞出价50万美元，而作者利用GPT-5.6 Sol Ultra模型改编自Cycle Double Cover猜想的提示词，仅花25美元就发现了WordPress预认证SQL注入漏洞。",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+          "source": "slcyber.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T10:47:09.626000Z"
+        },
         {
-          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "title_zh": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "summary": "The newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nExplore AI Fronti",
-          "recommend_reason_zh": "腾讯WorkBuddy 2026年6月月访问量达2097万，超过第二三名总和，集成HuanYuan、DeepSeek等大模型，领跑国内PC端AI办公智能体市场。",
-          "url": "https://www.aibase.com/news/29721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
+          "id": "3ab3689a1aa2714fb90ef62d309e0ad9bb3de6ff",
+          "title": "漏洞经纪人出价50万美元收购WordPress RCE漏洞，我只用GPT5.6和25美元就找到一个。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_zh": "漏洞经纪人出价50万美元收购WordPress RCE漏洞，我只用GPT5.6和25美元就找到一个。",
+          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "summary": "String concatenation SQL injection in the year 2026.\nreply\n>Rather than executing an SQL query directly, we’ll use the dbDelta function >Note that the dbDelta function is rather picky, however. For instance: >You must put each field on its own line in your SQL statement. >You must have two spaces between the words PRIMARY KEY and the definition of your primary key. >You must use the key word KEY rather than its synonym INDEX and you must include at least one KEY. >KEY must be followed by a SINGL",
+          "recommend_reason_zh": "通过GPT5.6和仅25美元，作者发现了WordPress中一个利用dbDelta严格语法（如字段独占一行、PRIMARY KEY后两个空格）的字符串拼接SQL注入，漏洞经纪人愿付$500k购买此类RCE。",
+          "url": "https://news.ycombinator.com/item?id=48975665",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T10:44:16.685000Z"
+        },
         {
-          "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-          "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "title_zh": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "title_en": null,
-          "title_original": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-          "summary": "The newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nExplore AI Fronti",
-          "recommend_reason_zh": "腾讯WorkBuddy 2026年6月月访问量达2097万，超过第二三名总和，集成HuanYuan、DeepSeek等大模型，领跑国内PC端AI办公智能体市场。",
-          "url": "https://www.aibase.com/news/29721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:30:31.999352Z"
+          "id": "18b67079333c64ae73e0b9d1cc727c01b745549c",
+          "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。 / Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_zh": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+          "title_en": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "title_original": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+          "summary": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instance is vulnerable, you can use our tool we've hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during\nStay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instanc",
+          "recommend_reason_zh": "利用GPT5.6 Sol Ultra和25美元成本，安全研究员发现一个WordPress预认证SQL注入漏洞，而Exploit brokers为类似RCE漏洞支付高达50万美元。",
+          "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-20T08:13:36Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9936,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-20T07:30:31.999352Z",
-      "latest_at": "2026-07-20T07:30:31.999352Z",
+      "earliest_at": "2026-07-20T08:13:36Z",
+      "latest_at": "2026-07-20T10:47:09.626000Z",
       "primary_item": {
-        "id": "cd79f7cfd68526d23238a913802864ec791b712e",
-        "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-        "title_zh": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
+        "id": "afd9a43d8bf0fd72514ec6325cacfe5096287221",
+        "title": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+        "title_zh": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
         "title_en": null,
-        "title_original": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
-        "summary": "The newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nThe newly released \"2026 Q2 China Office AI Agent Platform Market Insight Report\" shows that Tencent's WorkBuddy maintains a leading position in the domestic PC\nExplore AI Fronti",
-        "recommend_reason_zh": "腾讯WorkBuddy 2026年6月月访问量达2097万，超过第二三名总和，集成HuanYuan、DeepSeek等大模型，领跑国内PC端AI办公智能体市场。",
-        "url": "https://www.aibase.com/news/29721",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "漏洞中介愿意为 WordPress 的 RCE 漏洞支付 50 万美元。我发现了一个利用 GPT-5.6 的漏洞，售价 25 美元。",
+        "summary": "Stay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instance is vulnerable, you can use our tool we've hosted here: https://wp2shell.com/. We held off on publishing this issue to give defenders a chance to upgrade their WordPress instances over the weekend, but during\nStay current: Get research alerts for newly disclosed vulnerabilities and exposures If you're running WordPress and want to check if your instanc",
+        "recommend_reason_zh": "漏洞中介为WordPress的RCE漏洞出价50万美元，而作者利用GPT-5.6 Sol Ultra模型改编自Cycle Double Cover猜想的提示词，仅花25美元就发现了WordPress预认证SQL注入漏洞。",
+        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6",
+        "source": "slcyber.io",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 20,
-      "persona_review": "市场热度数据，没有可用的工具或接口，看看就行。",
+      "persona_review": "漏洞市场科普，GPT-5.6是噱头，对日常开发无直接帮助。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_7f9b67c14b1c",
-      "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-      "url": "https://www.aibase.com/news/29708",
-      "primary_url": "https://www.aibase.com/news/29708",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-          "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "title_zh": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "title_en": null,
-          "title_original": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "summary": null,
-          "recommend_reason_zh": "BrowseComp在10个月内将模型分数从30%刷到90%后，美团LongCat推出更难的LoHoSearch，基于Wikipedia 762万实体自动出题，11个前沿模型最高仅34.74%。",
-          "url": "https://www.aibase.com/news/29708",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:06:13.899077Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-          "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "title_zh": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "title_en": null,
-          "title_original": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-          "summary": null,
-          "recommend_reason_zh": "BrowseComp在10个月内将模型分数从30%刷到90%后，美团LongCat推出更难的LoHoSearch，基于Wikipedia 762万实体自动出题，11个前沿模型最高仅34.74%。",
-          "url": "https://www.aibase.com/news/29708",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:06:13.899077Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.952,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T04:06:13.899077Z",
-      "latest_at": "2026-07-20T04:06:13.899077Z",
-      "primary_item": {
-        "id": "4b80780ac7fe3739d3295812566d273d548891dd",
-        "title": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-        "title_zh": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-        "title_en": null,
-        "title_original": "BrowseComp被刷到90%后，美团LongCat甩出LoHoSearch：前沿模型集体跌回三成出头",
-        "summary": null,
-        "recommend_reason_zh": "BrowseComp在10个月内将模型分数从30%刷到90%后，美团LongCat推出更难的LoHoSearch，基于Wikipedia 762万实体自动出题，11个前沿模型最高仅34.74%。",
-        "url": "https://www.aibase.com/news/29708",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "新基准旧模型翻车，关注后续方案是否开源，今天不用急。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -1392,15 +1533,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9521,
+        "recency": 0.9023,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1427,7 +1568,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
+      }
+    },
+    {
+      "story_id": "story_47477cc0e82b",
+      "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+      "url": "https://www.aibase.com/news/29720",
+      "primary_url": "https://www.aibase.com/news/29720",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "title_en": null,
+          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "summary": null,
+          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:30:31.999352Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+          "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "title_en": null,
+          "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+          "summary": null,
+          "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
+          "url": "https://www.aibase.com/news/29720",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T07:30:31.999352Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9477,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T07:30:31.999352Z",
+      "latest_at": "2026-07-20T07:30:31.999352Z",
+      "primary_item": {
+        "id": "33c4456e27ccf2b161161bca8777983efc49bd07",
+        "title": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+        "title_zh": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+        "title_en": null,
+        "title_original": "打破 15 秒魔咒：智象未来发布全球首个无限时长创作智能体vivago R1，商业可用率拉到85%",
+        "summary": null,
+        "recommend_reason_zh": "HiDream.ai发布全球首个无限时长创作智能体vivago R1，将商业可用率拉至85%，打破AI视频15秒时长瓶颈，让内容创作从工具迈向智慧伙伴。",
+        "url": "https://www.aibase.com/news/29720",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "营销味重，没看到开放API或仓库，先观望实测再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
@@ -1453,7 +1678,7 @@
           "published_at": "2026-07-19T23:05:08.884000Z"
         },
         {
-          "id": "cbcb732965953014ea98279c2bfbbeb2f4846aec",
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
           "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
           "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
           "title_en": "AI advice made people less accurate but more confident – sudy",
@@ -1461,9 +1686,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-19T21:18:10Z"
         },
         {
@@ -1483,7 +1708,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "The Next Web",
         "thenextweb.com"
       ],
@@ -1503,7 +1728,7 @@
           "published_at": "2026-07-19T23:05:08.884000Z"
         },
         {
-          "id": "cbcb732965953014ea98279c2bfbbeb2f4846aec",
+          "id": "3abe293cd2a3db5921f0d11ee4bf5757ee5a263c",
           "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
           "title_zh": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍",
           "title_en": "AI advice made people less accurate but more confident – sudy",
@@ -1511,9 +1736,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-19T21:18:10Z"
         },
         {
@@ -1533,15 +1758,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8855,
+        "recency": 0.8391,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1568,373 +1793,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     },
     {
-      "story_id": "story_92c0805e612f",
-      "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-      "url": "https://www.aibase.com/news/29701",
-      "primary_url": "https://www.aibase.com/news/29701",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_968bb31d8278",
+      "title": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "primary_url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "source": "robotics.xiaomi.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-          "title_zh": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
+          "title": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
+          "title_zh": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
           "title_en": null,
-          "title_original": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "title_original": "小米-机器人-1",
+          "summary": "Xiaomi-Robotics-1 is a ready-to-use robot foundation model trained on over 100K hours of real-world manipulation trajectories.\nBreaking the data barrier. Scaling robot policy models with embodiment-free pre-training.\nFoundation models in language and vision keep moving the frontier by riding empirical scaling laws: capability tracks data, parameters, and compute. Robotics has missed out. Large-scale, high-quality data is hard to come by, and that scarcity, more than anything else, has capped how",
+          "recommend_reason_zh": "小米推出机器人基础模型Xiaomi-Robotics-1，用10万小时无体素操作轨迹预训练，再结合7200小时真实家居机器人数据微调，实现规模化策略模型突破。",
+          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "source": "robotics.xiaomi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T07:52:12.469000Z"
+        },
+        {
+          "id": "b0c0c9244c2c2c041bc4935c98532fe930c2d8e5",
+          "title": "小米Xiaomi-Robotics-1机器人基础模型超10万小时数据训练",
+          "title_zh": "小米Xiaomi-Robotics-1机器人基础模型超10万小时数据训练",
+          "title_en": "Xiaomi-Robotics-1",
+          "title_original": "Xiaomi-Robotics-1",
           "summary": null,
-          "recommend_reason_zh": "Anthropic调整Claude Fable5订阅权限，7月20日起Max和Team Premium用户配额降33%且实际可用仅50%，Pro和Team Standard用户失去访问权获$100一次性额度。",
-          "url": "https://www.aibase.com/news/29701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:06:13.899077Z"
+          "recommend_reason_zh": "Xiaomi-Robotics-1 基于超过10万小时真实世界操作轨迹训练，覆盖1700多种场景，通过无实体预训练与7200小时真实家庭数据后训练，展示出清晰的规模缩放规律。",
+          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T04:45:15Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "robotics.xiaomi.com"
       ],
       "items": [
         {
-          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-          "title_zh": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
+          "title": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
+          "title_zh": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
           "title_en": null,
-          "title_original": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "title_original": "小米-机器人-1",
+          "summary": "Xiaomi-Robotics-1 is a ready-to-use robot foundation model trained on over 100K hours of real-world manipulation trajectories.\nBreaking the data barrier. Scaling robot policy models with embodiment-free pre-training.\nFoundation models in language and vision keep moving the frontier by riding empirical scaling laws: capability tracks data, parameters, and compute. Robotics has missed out. Large-scale, high-quality data is hard to come by, and that scarcity, more than anything else, has capped how",
+          "recommend_reason_zh": "小米推出机器人基础模型Xiaomi-Robotics-1，用10万小时无体素操作轨迹预训练，再结合7200小时真实家居机器人数据微调，实现规模化策略模型突破。",
+          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "source": "robotics.xiaomi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T07:52:12.469000Z"
+        },
+        {
+          "id": "b0c0c9244c2c2c041bc4935c98532fe930c2d8e5",
+          "title": "小米Xiaomi-Robotics-1机器人基础模型超10万小时数据训练",
+          "title_zh": "小米Xiaomi-Robotics-1机器人基础模型超10万小时数据训练",
+          "title_en": "Xiaomi-Robotics-1",
+          "title_original": "Xiaomi-Robotics-1",
           "summary": null,
-          "recommend_reason_zh": "Anthropic调整Claude Fable5订阅权限，7月20日起Max和Team Premium用户配额降33%且实际可用仅50%，Pro和Team Standard用户失去访问权获$100一次性额度。",
-          "url": "https://www.aibase.com/news/29701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T04:06:13.899077Z"
+          "recommend_reason_zh": "Xiaomi-Robotics-1 基于超过10万小时真实世界操作轨迹训练，覆盖1700多种场景，通过无实体预训练与7200小时真实家庭数据后训练，展示出清晰的规模缩放规律。",
+          "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T04:45:15Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.952,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9526,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-20T04:06:13.899077Z",
-      "latest_at": "2026-07-20T04:06:13.899077Z",
+      "earliest_at": "2026-07-20T04:45:15Z",
+      "latest_at": "2026-07-20T07:52:12.469000Z",
       "primary_item": {
-        "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
-        "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-        "title_zh": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+        "id": "4b77cd8b0f3f4a6193c6301d9019be586527c5c6",
+        "title": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
+        "title_zh": "小米发布机器人基础模型Xiaomi-Robotics-1，超10万小时真机训练",
         "title_en": null,
-        "title_original": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic调整Claude Fable5订阅权限，7月20日起Max和Team Premium用户配额降33%且实际可用仅50%，Pro和Team Standard用户失去访问权获$100一次性额度。",
-        "url": "https://www.aibase.com/news/29701",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "小米-机器人-1",
+        "summary": "Xiaomi-Robotics-1 is a ready-to-use robot foundation model trained on over 100K hours of real-world manipulation trajectories.\nBreaking the data barrier. Scaling robot policy models with embodiment-free pre-training.\nFoundation models in language and vision keep moving the frontier by riding empirical scaling laws: capability tracks data, parameters, and compute. Robotics has missed out. Large-scale, high-quality data is hard to come by, and that scarcity, more than anything else, has capped how",
+        "recommend_reason_zh": "小米推出机器人基础模型Xiaomi-Robotics-1，用10万小时无体素操作轨迹预训练，再结合7200小时真实家居机器人数据微调，实现规模化策略模型突破。",
+        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+        "source": "robotics.xiaomi.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 50,
-      "persona_review": "权限变动影响已有工作流，扩容是好事但不确定何时恢复正常。",
+      "persona_review": "模型未开放，先观望，等有API或开源再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_b07488f85ab7",
-      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "primary_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "source": "twitter.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": null,
-          "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "summary": null,
-          "recommend_reason_zh": "由于Kimi K3需求远超预期，过去48小时逼近容量极限，Moonshot AI为保护现有订阅用户暂停新订阅申请，凸显该产品热度爆棚。",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
-        },
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 因 Kimi K3 需求火爆暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "Moonshot AI 因 Kimi K3 需求火爆暂停新订阅",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot AI因Kimi K3需求暂停新订阅，用户反映模型思考12分钟即耗尽日配额，且建议避开20美元套餐，文中还深入探讨了其mLSTM层的并行计算原理与工程取舍。",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T19:20:01.359000Z"
-        },
-        {
-          "id": "3b06df677d4b9b42844cac815b61219435cdb723",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot AI因Kimi K3需求远超预期，过去48小时内接近容量极限，暂停新订阅以保护现有用户体验，GPU已不堪重负。",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "twitter.com"
-      ],
-      "items": [
-        {
-          "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": null,
-          "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "summary": null,
-          "recommend_reason_zh": "由于Kimi K3需求远超预期，过去48小时逼近容量极限，Moonshot AI为保护现有订阅用户暂停新订阅申请，凸显该产品热度爆棚。",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "twitter.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T20:09:31.820000Z"
-        },
-        {
-          "id": "4de9207fd8daa01cb81b9aa97ecad828f90abaeb",
-          "title": "Moonshot AI 因 Kimi K3 需求火爆暂停新订阅 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "Moonshot AI 因 Kimi K3 需求火爆暂停新订阅",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot AI因Kimi K3需求暂停新订阅，用户反映模型思考12分钟即耗尽日配额，且建议避开20美元套餐，文中还深入探讨了其mLSTM层的并行计算原理与工程取舍。",
-          "url": "https://news.ycombinator.com/item?id=48969291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T19:20:01.359000Z"
-        },
-        {
-          "id": "3b06df677d4b9b42844cac815b61219435cdb723",
-          "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-          "title_en": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "title_original": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot AI因Kimi K3需求远超预期，过去48小时内接近容量极限，暂停新订阅以保护现有用户体验，GPU已不堪重负。",
-          "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T16:02:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8488,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T16:02:25Z",
-      "latest_at": "2026-07-19T20:09:31.820000Z",
-      "primary_item": {
-        "id": "8f4c7c76d8086dd75b042af6e723545c91401f96",
-        "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "title_zh": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "title_en": null,
-        "title_original": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-        "summary": null,
-        "recommend_reason_zh": "由于Kimi K3需求远超预期，过去48小时逼近容量极限，Moonshot AI为保护现有订阅用户暂停新订阅申请，凸显该产品热度爆棚。",
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "source": "twitter.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "新人暂时用不了，已有用户不影响，想用先等等。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
-      }
-    },
-    {
-      "story_id": "story_433d10817ce7",
-      "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "primary_url": "https://github.com/openai/codex/pull/33972/files",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_en": null,
-          "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T14:49:41.361000Z"
-        },
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 缩减至 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_zh": "OpenAI 将 Codex 模型上下文大小从 372k 缩减至 272k",
-          "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_original": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将Codex模型的上下文长度从372k降至272k，用户称赞错误减少，但担忧不公开“concise summary”内容并可能加密会话日志引发争议。",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T11:48:53.023000Z"
-        },
-        {
-          "id": "33a2ad2eab34350ef1d6d281ed618d6650c37e98",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_original": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将Codex模型上下文窗口从372k降至272k，同时刷新GPT-5.6指令与元数据，并向后移植到0.144稳定版。",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_en": null,
-          "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T14:49:41.361000Z"
-        },
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 缩减至 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_zh": "OpenAI 将 Codex 模型上下文大小从 372k 缩减至 272k",
-          "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_original": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将Codex模型的上下文长度从372k降至272k，用户称赞错误减少，但担忧不公开“concise summary”内容并可能加密会话日志引发争议。",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T11:48:53.023000Z"
-        },
-        {
-          "id": "33a2ad2eab34350ef1d6d281ed618d6650c37e98",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "title_en": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "title_original": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将Codex模型上下文窗口从372k降至272k，同时刷新GPT-5.6指令与元数据，并向后移植到0.144稳定版。",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7859,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T07:54:39Z",
-      "latest_at": "2026-07-19T14:49:41.361000Z",
-      "primary_item": {
-        "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-        "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-        "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-        "title_en": null,
-        "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
-        "url": "https://github.com/openai/codex/pull/33972/files",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "上下文砍掉十万，长代码补全能力倒退，用Codex的得考虑分段提示了。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T07:36:09.460295Z"
+        "scored_at": "2026-07-20T11:20:22.975401Z"
       }
     }
   ]

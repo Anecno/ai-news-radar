@@ -1602,6 +1602,90 @@
       "review": "有PR改动记录，但无评测报告，真伪待查。",
       "title_hash": "651cea64",
       "scored_at": "2026-07-20T07:36:40.220819Z"
+    },
+    "story_b4c0af9f3389|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "生态数据好看，但对AI开发没直接工具或降价可用。",
+      "title_hash": "3d0a7ea5",
+      "scored_at": "2026-07-20T11:20:25.265988Z"
+    },
+    "story_2d573d7d3b45|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "实时TTS模型新选项，有API接口可直接集成测试。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T11:20:27.650834Z"
+    },
+    "story_7220f2ac0e38|pragmatic|0a5c5b24": {
+      "score": 65,
+      "review": "多模态模型开放，具体实测效果和接口待验证，可关注但别急着上线。",
+      "title_hash": "7db3de0f",
+      "scored_at": "2026-07-20T11:20:30.717721Z"
+    },
+    "story_193fb0c41321|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源可用，MoE训推负载均衡的现成方案，直接拉代码跑起来。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T11:20:32.455907Z"
+    },
+    "story_d18258ee5eba|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "对开发者无直接影响，等AMD正式发布产品再评估。",
+      "title_hash": "c7de0747",
+      "scored_at": "2026-07-20T11:20:34.931526Z"
+    },
+    "story_b6283b3ad139|pragmatic|0a5c5b24": {
+      "score": 91,
+      "review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。",
+      "title_hash": "4c4100ed",
+      "scored_at": "2026-07-20T11:20:37.104069Z"
+    },
+    "story_09b4c076085e|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "漏洞市场科普，GPT-5.6是噱头，对日常开发无直接帮助。",
+      "title_hash": "f33031d4",
+      "scored_at": "2026-07-20T11:20:39.938904Z"
+    },
+    "story_968bb31d8278|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "模型未开放，先观望，等有API或开源再动手。",
+      "title_hash": "eb25e827",
+      "scored_at": "2026-07-20T11:20:42.974666Z"
+    },
+    "story_b6283b3ad139|cynic|f4237a62": {
+      "score": 75,
+      "review": "300ms首包延迟在Wi-Fi下还行，20种方言能流畅读出几个？",
+      "title_hash": "4c4100ed",
+      "scored_at": "2026-07-20T11:20:47.028423Z"
+    },
+    "story_b6283b3ad139|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有新闻宣称，无论文无代码无独立评测，不可信。",
+      "title_hash": "4c4100ed",
+      "scored_at": "2026-07-20T11:20:50.036360Z"
+    },
+    "story_193fb0c41321|cynic|f4237a62": {
+      "score": 78,
+      "review": "开源值得鼓励，但负载均衡在MoE里早不是新课题，先跑个千卡集群看看实效。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T11:20:52.591597Z"
+    },
+    "story_193fb0c41321|paper-police|966065bf": {
+      "score": 90,
+      "review": "论文和代码均已公开，benchmark可复现，证据链完整。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T11:20:56.112659Z"
+    },
+    "story_2d573d7d3b45|cynic|f4237a62": {
+      "score": 65,
+      "review": "版本号刷到3.0，听感进步没？先跑个MOS分再吹实时。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T11:20:59.030491Z"
+    },
+    "story_2d573d7d3b45|paper-police|966065bf": {
+      "score": 15,
+      "review": "只有官方公众号宣称，无论文无代码无评测，可信度低。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T11:21:01.329717Z"
     }
   }
 }

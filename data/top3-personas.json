@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:36:40.220871Z",
+  "generated_at": "2026-07-20T11:21:01.329789Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "story_id": "story_b6283b3ad139",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 75,
-          "review": "开源诚意到了，但机器人走出demo走廊前，先别谈理解与记忆。"
+          "review": "300ms首包延迟在Wi-Fi下还行，20种方言能流畅读出几个？"
         },
         "paper-police": {
-          "score": 55,
-          "review": "开源代码即可验证，但缺论文和独立评测，需自行跑分确认。"
+          "score": 10,
+          "review": "只有新闻宣称，无论文无代码无独立评测，不可信。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "开源模型可直接用于机器人开发，今天就能下载实验。"
+          "score": 91,
+          "review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。"
         }
       }
     },
     {
-      "story_id": "story_b07488f85ab7",
-      "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "story_id": "story_193fb0c41321",
+      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "需求旺盛？还是产能跟不上？先数数有多少人等着排队吧。"
+          "score": 78,
+          "review": "开源值得鼓励，但负载均衡在MoE里早不是新课题，先跑个千卡集群看看实效。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有官方公告，无论文代码benchmark，无法验证。"
+          "score": 90,
+          "review": "论文和代码均已公开，benchmark可复现，证据链完整。"
         },
         "pragmatic": {
-          "score": 68,
-          "review": "新人暂时用不了，已有用户不影响，想用先等等。"
+          "score": 88,
+          "review": "开源可用，MoE训推负载均衡的现成方案，直接拉代码跑起来。"
         }
       }
     },
     {
-      "story_id": "story_433d10817ce7",
-      "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-      "url": "https://github.com/openai/codex/pull/33972/files",
+      "story_id": "story_2d573d7d3b45",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "别人都在堆长上下文，你们倒好，反向优化挺利索。"
+          "score": 65,
+          "review": "版本号刷到3.0，听感进步没？先跑个MOS分再吹实时。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "有PR改动记录，但无评测报告，真伪待查。"
+          "score": 15,
+          "review": "只有官方公众号宣称，无论文无代码无评测，可信度低。"
         },
         "pragmatic": {
-          "score": 68,
-          "review": "上下文砍掉十万，长代码补全能力倒退，用Codex的得考虑分段提示了。"
+          "score": 70,
+          "review": "实时TTS模型新选项，有API接口可直接集成测试。"
         }
       }
     }
