@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T20:41:15.127269Z",
+  "generated_at": "2026-07-20T22:13:57.467486Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9343,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9346,
+        "recency": 0.914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.857,
+        "recency": 0.8381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -286,7 +286,7 @@
           "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
           "title_en": null,
           "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "summary": null,
           "recommend_reason_zh": "分析12,750篇arXiv论文全文，发现2026年初超30%新投稿读起来像AI写的，计算机科学领域高达65%，数学仅0.7%，检测器假阳性率仅0.4%。",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
           "source": "unslop.run",
@@ -300,7 +300,7 @@
           "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
           "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
           "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "summary": null,
           "recommend_reason_zh": "检测了12,750篇arXiv论文，在0.4%假阳性率下识别85%的AI文本，发现约三分之一新论文像机器写的，其中计算机科学领域高达65%，数学仅约0.7%。",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
           "source": "Hacker News (黑客新闻)",
@@ -336,7 +336,7 @@
           "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
           "title_en": null,
           "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "summary": null,
           "recommend_reason_zh": "分析12,750篇arXiv论文全文，发现2026年初超30%新投稿读起来像AI写的，计算机科学领域高达65%，数学仅0.7%，检测器假阳性率仅0.4%。",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
           "source": "unslop.run",
@@ -350,7 +350,7 @@
           "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
           "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
           "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "summary": null,
           "recommend_reason_zh": "检测了12,750篇arXiv论文，在0.4%假阳性率下识别85%的AI文本，发现约三分之一新论文像机器写的，其中计算机科学领域高达65%，数学仅约0.7%。",
           "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
           "source": "Hacker News (黑客新闻)",
@@ -361,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9685,
+        "recency": 0.9472,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -398,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -415,7 +415,7 @@
           "title_zh": "计费UI中面向成本中心的AI信用池",
           "title_en": "AI credit pools for cost centers in the billing UI",
           "title_original": "AI credit pools for cost centers in the billing UI",
-          "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+          "summary": null,
           "recommend_reason_zh": "现在你可以在billing UI中为cost center开启AI credit pool，不再限于通过GitHub REST API操作；系统自动根据已分配许可计算额度并随变动调整，你无需手动设置数字。",
           "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
@@ -435,7 +435,7 @@
           "title_zh": "计费UI中面向成本中心的AI信用池",
           "title_en": "AI credit pools for cost centers in the billing UI",
           "title_original": "AI credit pools for cost centers in the billing UI",
-          "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+          "summary": null,
           "recommend_reason_zh": "现在你可以在billing UI中为cost center开启AI credit pool，不再限于通过GitHub REST API操作；系统自动根据已分配许可计算额度并随变动调整，你无需手动设置数字。",
           "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
@@ -446,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9676,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -471,7 +471,7 @@
         "title_zh": "计费UI中面向成本中心的AI信用池",
         "title_en": "AI credit pools for cost centers in the billing UI",
         "title_original": "AI credit pools for cost centers in the billing UI",
-        "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+        "summary": null,
         "recommend_reason_zh": "现在你可以在billing UI中为cost center开启AI credit pool，不再限于通过GitHub REST API操作；系统自动根据已分配许可计算额度并随变动调整，你无需手动设置数字。",
         "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
@@ -483,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -560,15 +560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8848,
+        "recency": 0.8653,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -645,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8952,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,121 +682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
-      }
-    },
-    {
-      "story_id": "story_907e8332c2ce",
-      "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "primary_url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang's Japan visit",
-          "title_original": "What to watch for after Jensen Huang's Japan visit",
-          "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-          "recommend_reason_zh": "Jensen Huang 的日本之行达成覆盖整个科技生态系统的交易，从硬件到AI应用一应俱全，预示日本在NVIDIA供应链中的角色将持续升级。",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T21:16:07Z"
-        },
-        {
-          "id": "1f1ed1cab9a4f828722f54c64e9ed77eb67682e8",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang’s Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang’s Japan visit",
-          "title_original": "What to watch for after Jensen Huang’s Japan visit",
-          "summary": null,
-          "recommend_reason_zh": "Jensen Huang离开东京时达成了覆盖整个日本技术生态系统的交易，本文解析其访问后的行业影响与值得关注的动向。",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-19T21:16:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang's Japan visit",
-          "title_original": "What to watch for after Jensen Huang's Japan visit",
-          "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-          "recommend_reason_zh": "Jensen Huang 的日本之行达成覆盖整个科技生态系统的交易，从硬件到AI应用一应俱全，预示日本在NVIDIA供应链中的角色将持续升级。",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T21:16:07Z"
-        },
-        {
-          "id": "1f1ed1cab9a4f828722f54c64e9ed77eb67682e8",
-          "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang’s Japan visit",
-          "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-          "title_en": "What to watch for after Jensen Huang’s Japan visit",
-          "title_original": "What to watch for after Jensen Huang’s Japan visit",
-          "summary": null,
-          "recommend_reason_zh": "Jensen Huang离开东京时达成了覆盖整个日本技术生态系统的交易，本文解析其访问后的行业影响与值得关注的动向。",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-19T21:16:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7131,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T21:16:07Z",
-      "latest_at": "2026-07-19T21:16:07Z",
-      "primary_item": {
-        "id": "d9cbe80393053d6c52316ad019400ae6f9dee876",
-        "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地 / What to watch for after Jensen Huang's Japan visit",
-        "title_zh": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
-        "title_en": "What to watch for after Jensen Huang's Japan visit",
-        "title_original": "What to watch for after Jensen Huang's Japan visit",
-        "summary": "Nvidia CEO 黄仁勋在 7 月 15-16 日访日期间，宣布为日本建设\"Vera Rubin AI 工厂\"，配备 13，750 颗 Vera CPU 和 27，500 颗 Rubin GPU，预计 2028 年投运。",
-        "recommend_reason_zh": "Jensen Huang 的日本之行达成覆盖整个科技生态系统的交易，从硬件到AI应用一应俱全，预示日本在NVIDIA供应链中的角色将持续升级。",
-        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "合作蓝图，等具体产品和接口出来再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -844,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -879,7 +765,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -927,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8724,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -962,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1010,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,7 +931,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1093,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9556,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,7 +1015,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1206,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8866,
+        "recency": 0.867,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1243,7 +1129,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1291,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9348,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,7 +1212,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1374,15 +1260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7432,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,7 +1295,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1457,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8247,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1492,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1540,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.8026,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1575,7 +1461,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1623,15 +1509,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1544,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
@@ -1706,15 +1592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8144,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1741,90 +1627,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     },
     {
-      "story_id": "story_e32ded550c3a",
-      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_d18258ee5eba",
+      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+      "url": "https://www.aibase.com/news/29722",
+      "primary_url": "https://www.aibase.com/news/29722",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "title_zh": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "title_en": "Agent swarms and the new model economics",
-          "title_original": "Agent swarms and the new model economics",
-          "summary": "Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用最强模型）和执行者（使用快速廉价模型）。使用 Grok 4.5 时，新集群在 4 小时内通过了 80% 的 SQL 测试套件，而旧集群在第二小时前失败。该系统已用于构建浏览器、修复漏洞和生成数十亿 token 合成训练数据。",
-          "recommend_reason_zh": "新蜂群用Grok 4.5在四小时内通过80%的SQL测试套件，而旧蜂群第二小时前就失控；其自研版本控制系统峰值达每秒1000次提交，远超之前每小时1000次的浏览器swarm。",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_en": null,
+          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "summary": null,
+          "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Cursor Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "title_zh": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "title_en": "Agent swarms and the new model economics",
-          "title_original": "Agent swarms and the new model economics",
-          "summary": "Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用最强模型）和执行者（使用快速廉价模型）。使用 Grok 4.5 时，新集群在 4 小时内通过了 80% 的 SQL 测试套件，而旧集群在第二小时前失败。该系统已用于构建浏览器、修复漏洞和生成数十亿 token 合成训练数据。",
-          "recommend_reason_zh": "新蜂群用Grok 4.5在四小时内通过80%的SQL测试套件，而旧蜂群第二小时前就失控；其自研版本控制系统峰值达每秒1000次提交，远超之前每小时1000次的浏览器swarm。",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
+          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "title_en": null,
+          "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+          "summary": null,
+          "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+          "url": "https://www.aibase.com/news/29722",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T12:00:00Z",
-      "latest_at": "2026-07-20T12:00:00Z",
+      "earliest_at": "2026-07-20T11:13:53.960832Z",
+      "latest_at": "2026-07-20T11:13:53.960832Z",
       "primary_item": {
-        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-        "title_zh": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-        "title_en": "Agent swarms and the new model economics",
-        "title_original": "Agent swarms and the new model economics",
-        "summary": "Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用最强模型）和执行者（使用快速廉价模型）。使用 Grok 4.5 时，新集群在 4 小时内通过了 80% 的 SQL 测试套件，而旧集群在第二小时前失败。该系统已用于构建浏览器、修复漏洞和生成数十亿 token 合成训练数据。",
-        "recommend_reason_zh": "新蜂群用Grok 4.5在四小时内通过80%的SQL测试套件，而旧蜂群第二小时前就失控；其自研版本控制系统峰值达每秒1000次提交，远超之前每小时1000次的浏览器swarm。",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
+        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
+        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "title_zh": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "title_en": null,
+        "title_original": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
+        "summary": null,
+        "recommend_reason_zh": "一行GitHub上AMD高级AI业务总监的公开代码，被SemiAnalysis分析出Anthropic成为AMD新客户，揭示其正加速摆脱对NVIDIA的算力依赖，布局多元化芯片供应。",
+        "url": "https://www.aibase.com/news/29722",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "实验性架构，尚未开放，等集成进产品再关注。",
+      "persona_score": 45,
+      "persona_review": "对开发者无直接影响，等AMD正式发布产品再评估。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-20T20:46:02.493934Z"
+        "scored_at": "2026-07-20T22:17:48.869360Z"
+      }
+    },
+    {
+      "story_id": "story_b6283b3ad139",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
+      "primary_url": "https://www.aibase.com/news/29724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_en": null,
+          "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "summary": null,
+          "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "title_en": null,
+          "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "summary": null,
+          "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T11:13:53.960832Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T11:13:53.960832Z",
+      "latest_at": "2026-07-20T11:13:53.960832Z",
+      "primary_item": {
+        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "title_zh": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "title_en": null,
+        "title_original": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "summary": null,
+        "recommend_reason_zh": "通义千问Qwen-Audio-3.0-TTS正式开放，Flash版本首包延迟仅300ms，支持20种中文方言；Plus版本在Speech Arena全球排名第一，平均说话人相似度达82.75%。",
+        "url": "https://www.aibase.com/news/29724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 91,
+      "persona_review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-20T22:17:48.869360Z"
       }
     }
   ]
