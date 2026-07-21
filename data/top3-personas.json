@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T00:16:58.899710Z",
+  "generated_at": "2026-07-21T03:53:31.376840Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_b6283b3ad139",
-      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-      "url": "https://www.aibase.com/news/29724",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "300ms首包延迟在Wi-Fi下还行，20种方言能流畅读出几个？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有新闻宣称，无论文无代码无独立评测，不可信。"
-        },
-        "pragmatic": {
-          "score": 91,
-          "review": "TTS新选择直接上线，20种方言和低延迟，语音应用今天就能集成。"
-        }
-      }
-    },
-    {
       "story_id": "story_855107c88571",
       "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
       "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "GitHub内置代码质量工具，直接集成到PR流程，省去配置第三方工具的麻烦。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f7f39d4701ab",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "6分钟跑了个马马虎虎的结果，也值得发榜？"
+        },
+        "paper-police": {
+          "score": 79,
+          "review": "GitHub有代码和benchmark结果，缺正式论文，可复现但需验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "快速微调方案开源可复现，省时间跑实验，今天就能用。"
         }
       }
     }
