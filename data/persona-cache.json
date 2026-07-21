@@ -1773,9 +1773,9 @@
     },
     "story_e32ded550c3a|pragmatic|0a5c5b24": {
       "score": 55,
-      "review": "实验性架构，尚未开放，等集成进产品再关注。",
-      "title_hash": "a1a562b2",
-      "scored_at": "2026-07-20T18:26:26.843359Z"
+      "review": "多智能体协作编码有参考价值，但非即用方案，等开源再试。",
+      "title_hash": "f698c9b2",
+      "scored_at": "2026-07-21T12:06:17.341416Z"
     },
     "story_36e0334205c9|cynic|f4237a62": {
       "score": 75,
@@ -1920,6 +1920,42 @@
       "review": "做AI视频的分发注意合规，今天不用改代码但得看细则。",
       "title_hash": "2834c6d2",
       "scored_at": "2026-07-21T09:46:41.889998Z"
+    },
+    "story_dca03783a107|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "开源机器人数据记录工具，做机器人操作的开发者今天就能用上。",
+      "title_hash": "c3aa316d",
+      "scored_at": "2026-07-21T12:06:10.451915Z"
+    },
+    "story_e11bad701999|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "数学推理benchmark成绩，但没开放API或代码，等能用了再关注。",
+      "title_hash": "518ee4a0",
+      "scored_at": "2026-07-21T12:06:13.122291Z"
+    },
+    "story_d79b44b7e75a|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "债务新闻不写代码，投资风险与开发者无关。",
+      "title_hash": "f94a1282",
+      "scored_at": "2026-07-21T12:06:14.858823Z"
+    },
+    "story_e97ad702a98f|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "人形机器人平台，但没提开放API或代码，对普通开发者暂时没用。",
+      "title_hash": "37902c2a",
+      "scored_at": "2026-07-21T12:06:20.017599Z"
+    },
+    "story_dca03783a107|cynic|f4237a62": {
+      "score": 70,
+      "review": "开放记录是好，但数据集质量还得看谁来标，别又是个标注地狱。",
+      "title_hash": "c3aa316d",
+      "scored_at": "2026-07-21T12:06:24.544879Z"
+    },
+    "story_dca03783a107|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有博客宣称，无论文代码和第三方评测，证据不足。",
+      "title_hash": "c3aa316d",
+      "scored_at": "2026-07-21T12:06:27.397185Z"
     }
   }
 }
