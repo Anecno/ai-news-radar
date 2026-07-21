@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:06:27.397256Z",
+  "generated_at": "2026-07-21T14:26:07.960185Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_855107c88571",
-      "title": "GitHub Code Quality现已正式可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "story_id": "story_bc14d188634a",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80% / A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "GA了个寂寞？等评测出来再吹不迟。"
+          "score": 70,
+          "review": "65% PR来自一个tag，其他35%是团队在摸鱼？提示词砍80%还能工作，那之前80%都是废话。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "仅官方公告，无论文代码benchmark，无法验证。"
+          "score": 8,
+          "review": "数字来自内部对话，无论文无代码，无法核实，信源单一。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "GitHub内置代码质量工具，直接集成到PR流程，省去配置第三方工具的麻烦。"
+          "review": "Claude Tag 能帮你省下八成提示词和大量 PR 时间，今天就能用。"
         }
       }
     }
