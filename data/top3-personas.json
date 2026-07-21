@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:26:07.960185Z",
+  "generated_at": "2026-07-21T16:48:15.562663Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_36e0334205c9",
-      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "story_id": "story_d35a8a618528",
+      "title": "Gemini 3.6 Flash 现已登陆 GitHub Copilot / Gemini 3.6 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "4B参数开源不错，但“实时”得看在哪块芯片上跑，别是RTX 5090才算数。"
+          "score": 72,
+          "review": "集成一个Flash模型就发官宣，Copilot靠这个翻不了身。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "Hugging Face 博客有模型详情和开源权重，但缺论文和独立评测。"
+          "score": 25,
+          "review": "官方公告，缺乏论文代码和评测数据，无法验证性能。"
         },
         "pragmatic": {
-          "score": 95,
-          "review": "模型已开源，机器人/边缘AI项目今天就能下载部署，实打实的工具箱。"
+          "score": 90,
+          "review": "直接升级 Copilot 即可用，写代码时体验新模型，今天就能试。"
         }
       }
     },
