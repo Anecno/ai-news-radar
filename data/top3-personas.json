@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:53:31.376840Z",
+  "generated_at": "2026-07-21T06:47:33.981496Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f7f39d4701ab",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "story_id": "story_c88404f53f8e",
+      "title": "Copilot 用户现在可以查看每个计费周期使用的 AI credits / Copilot users can now see AI credits used per billing cycle",
+      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "6分钟跑了个马马虎虎的结果，也值得发榜？"
+          "score": 45,
+          "review": "终于能看清钱花哪了，但AI还是那个AI。"
         },
         "paper-police": {
-          "score": 79,
-          "review": "GitHub有代码和benchmark结果，缺正式论文，可复现但需验证。"
+          "score": 20,
+          "review": "官方宣布新增功能，但无论文代码或评测，无法验证性能。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "快速微调方案开源可复现，省时间跑实验，今天就能用。"
+          "score": 85,
+          "review": "查用量、控成本，Copilot 用户今天就能在账单页看到。"
         }
       }
     }
