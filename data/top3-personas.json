@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:27:30.847267Z",
+  "generated_at": "2026-07-22T16:52:25.373270Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_7e78ee445fab",
-      "title": "全新推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "story_id": "story_8caa1bace817",
+      "title": "腾讯设计Agent平台Miora全面开放",
+      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 50,
-          "review": "版本号跳得快，但参数和跑分一个没给，先发PPT定义创新。"
+          "score": 45,
+          "review": "设计Agent？不就是拖拽组件换个马甲，腾讯这包装费没白花。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方博客给了模型细节和数字，但无开源代码与论文，待验证。"
+          "score": 25,
+          "review": "只有公众号宣称开放，无论文无代码无评测，无法验证真伪。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "新模型今天可用，Flash-Lite适合低成本场景，建议直接测试迁移。"
+          "review": "直接可用的Agent平台，今天就能尝试搭建。"
         }
       }
     },
     {
-      "story_id": "story_d35a8a618528",
-      "title": "Gemini 3.6 Flash 现已登陆 GitHub Copilot / Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "story_id": "story_51ec6d5c5ec8",
+      "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型 / Transcription on OpenRouter",
+      "url": "https://openrouter.ai/blog/tutorials/transcription-on-openrouter",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "集成一个Flash模型就发官宣，Copilot靠这个翻不了身。"
+          "review": "帮人把Whisper包装成API收过路费，起码省了你自己调用云厂商的功夫。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方公告，缺乏论文代码和评测数据，无法验证性能。"
+          "score": 20,
+          "review": "只有官方博客宣布功能，无论文或代码支持，无法验证实际效果。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "直接升级 Copilot 即可用，写代码时体验新模型，今天就能试。"
+          "score": 88,
+          "review": "直接可以用，接 Whisper 转写省去自部署，token 计价可能更便宜。"
         }
       }
     },
     {
-      "story_id": "story_d10c338d6b64",
-      "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作 / How to build interactive experiences with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+      "story_id": "story_737071755d64",
+      "title": "即将到来的GHES变更影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "实时协作概念挺好，但得看能跑多复杂场景，别成了玩具。"
+          "score": 68,
+          "review": "很常规的运维更新，当个新闻发出来也是够闲的。"
         },
         "paper-police": {
           "score": 20,
-          "review": "功能更新无评测数据，仅官方博客，缺独立验证。"
+          "review": "官方宣发但无论文代码，无法验证，等实施后再看。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "GitHub Copilot 新扩展，实时协作交互，今天就能试。"
+          "score": 85,
+          "review": "GHES用户需关注上传支持包变更，不调整可能影响故障排查。"
         }
       }
     }
