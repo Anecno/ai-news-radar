@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:39:44.444867Z",
+  "generated_at": "2026-07-22T20:35:53.764378Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_8caa1bace817",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+      "story_id": "story_e7155e77e138",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "设计Agent？不就是拖拽组件换个马甲，腾讯这包装费没白花。"
+          "score": 72,
+          "review": "1000倍？用了抖音压缩比和字母表吧，能通用我头给你。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有公众号宣称开放，无论文无代码无评测，无法验证真伪。"
+          "score": 65,
+          "review": "有GitHub代码可复现，但缺论文和独立benchmark验证，速度提升待确认。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "直接可用的Agent平台，今天就能尝试搭建。"
+          "score": 88,
+          "review": "开源即用，分词瓶颈项目可秒替换HF Tokenizers，实测省时间。"
         }
       }
     }

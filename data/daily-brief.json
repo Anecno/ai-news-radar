@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-07-22T18:34:47.696780Z",
+  "generated_at": "2026-07-22T20:32:06.221878Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c9adcfe987c9",
-      "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "source": "GitHub Changelog",
+      "story_id": "story_6ed07fa55a30",
+      "title": "Copilot对比原始API接入：你到底在为什么付费？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "title_zh": "Copilot新使用指标影响仪表板",
-          "title_en": "New Copilot usage metrics impact dashboard",
-          "title_original": "New Copilot usage metrics impact dashboard",
-          "summary": "We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is…\nWe’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is active, but how they’re using Copilot. The dashboard builds on the AI adoption phase cohorts in the Copilot",
-          "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot对比原始API接入：你到底在为什么付费？ / Copilot vs. raw API access: What are you actually paying for?",
+          "title_zh": "Copilot对比原始API接入：你到底在为什么付费？",
+          "title_en": "Copilot vs. raw API access: What are you actually paying for?",
+          "title_original": "Copilot vs. raw API access: What are you actually paying for?",
+          "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nI keep seeing this question: “Why would I pay for GitHub Copilot when I can call the same model",
+          "recommend_reason_zh": "GitHub Copilot按API费率计费后，文章通过SWE-bench等五个基准测试发现，Copilot在任务解决率持平的同时消耗更少token，并剖析了直接API调用与Copilot集成工作流、组织策略及计费控制的成本差异。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-          "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-          "title_zh": "Copilot新使用指标影响仪表板",
-          "title_en": "New Copilot usage metrics impact dashboard",
-          "title_original": "New Copilot usage metrics impact dashboard",
-          "summary": "We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is…\nWe’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is active, but how they’re using Copilot. The dashboard builds on the AI adoption phase cohorts in the Copilot",
-          "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
-          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-          "source": "GitHub Changelog",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot对比原始API接入：你到底在为什么付费？ / Copilot vs. raw API access: What are you actually paying for?",
+          "title_zh": "Copilot对比原始API接入：你到底在为什么付费？",
+          "title_en": "Copilot vs. raw API access: What are you actually paying for?",
+          "title_original": "Copilot vs. raw API access: What are you actually paying for?",
+          "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nI keep seeing this question: “Why would I pay for GitHub Copilot when I can call the same model",
+          "recommend_reason_zh": "GitHub Copilot按API费率计费后，文章通过SWE-bench等五个基准测试发现，Copilot在任务解决率持平的同时消耗更少token，并剖析了直接API调用与Copilot集成工作流、组织策略及计费控制的成本差异。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T16:21:47Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9685,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,27 +65,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T16:21:47Z",
-      "latest_at": "2026-07-22T16:21:47Z",
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
       "primary_item": {
-        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
-        "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-        "title_zh": "Copilot新使用指标影响仪表板",
-        "title_en": "New Copilot usage metrics impact dashboard",
-        "title_original": "New Copilot usage metrics impact dashboard",
-        "summary": "We’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is…\nWe’ve released a new Copilot metrics impact dashboard for enterprise administrators and organization owners. This dashboard helps you tell a deeper Copilot impact story by sharing not just who is active, but how they’re using Copilot. The dashboard builds on the AI adoption phase cohorts in the Copilot",
-        "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
-        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-        "source": "GitHub Changelog",
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot对比原始API接入：你到底在为什么付费？ / Copilot vs. raw API access: What are you actually paying for?",
+        "title_zh": "Copilot对比原始API接入：你到底在为什么付费？",
+        "title_en": "Copilot vs. raw API access: What are you actually paying for?",
+        "title_original": "Copilot vs. raw API access: What are you actually paying for?",
+        "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nCopilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nI keep seeing this question: “Why would I pay for GitHub Copilot when I can call the same model",
+        "recommend_reason_zh": "GitHub Copilot按API费率计费后，文章通过SWE-bench等五个基准测试发现，Copilot在任务解决率持平的同时消耗更少token，并剖析了直接API调用与Copilot集成工作流、组织策略及计费控制的成本差异。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "今天就能用，直接监控 Copilot 效果，优化团队投入。",
+      "persona_score": 55,
+      "persona_review": "对比分析帮选型，但无即时行动价值，等降价或新功能再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -111,7 +111,7 @@
           "published_at": "2026-07-22T05:30:00Z"
         },
         {
-          "id": "a3bd8d4c50292a9611e85c8027dda349a5a0338f",
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
           "title": "OpenAI Presence发布企业级AI代理平台",
           "title_zh": "OpenAI Presence发布企业级AI代理平台",
           "title_en": "OpenAI Presence",
@@ -119,15 +119,15 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI Presence帮助企业部署可信AI语音和聊天代理，通过策略、护栏和升级规则确保可靠性，并利用Codex推动持续改进，已用于客户支持和内部工作流。",
           "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-22T15:12:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "OpenAI News"
       ],
       "items": [
@@ -146,7 +146,7 @@
           "published_at": "2026-07-22T05:30:00Z"
         },
         {
-          "id": "a3bd8d4c50292a9611e85c8027dda349a5a0338f",
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
           "title": "OpenAI Presence发布企业级AI代理平台",
           "title_zh": "OpenAI Presence发布企业级AI代理平台",
           "title_en": "OpenAI Presence",
@@ -154,23 +154,23 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI Presence帮助企业部署可信AI语音和聊天代理，通过策略、护栏和升级规则确保可靠性，并利用Codex推动持续改进，已用于客户支持和内部工作流。",
           "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-22T15:12:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8279,
+        "recency": 0.8048,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +200,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
+      }
+    },
+    {
+      "story_id": "story_c9adcfe987c9",
+      "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "title_zh": "Copilot新使用指标影响仪表板",
+          "title_en": "New Copilot usage metrics impact dashboard",
+          "title_original": "New Copilot usage metrics impact dashboard",
+          "summary": null,
+          "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "title_zh": "Copilot新使用指标影响仪表板",
+          "title_en": "New Copilot usage metrics impact dashboard",
+          "title_original": "New Copilot usage metrics impact dashboard",
+          "summary": null,
+          "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9415,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
+      "primary_item": {
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "title_zh": "Copilot新使用指标影响仪表板",
+        "title_en": "New Copilot usage metrics impact dashboard",
+        "title_original": "New Copilot usage metrics impact dashboard",
+        "summary": null,
+        "recommend_reason_zh": "GitHub发布新Copilot metrics impact dashboard，将按AI adoption phase分组的使用数据转化为可视化视图，帮助管理员追踪开发者从浅度到深度的采用进程。",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "今天就能用，直接监控 Copilot 效果，优化团队投入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -248,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9313,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -333,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9226,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,92 +455,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
-      "story_id": "story_6378719f54d2",
-      "title": "物理AI模拟的现状：概述 / The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "primary_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_797fe692e79b",
+      "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "primary_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理AI模拟的现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "title_zh": "物理AI模拟的现状：概述",
-          "title_en": "The State of Simulation for Physical AI: An Overview",
-          "title_original": "The State of Simulation for Physical AI: An Overview",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA指出，Physical AI训练缺乏互联网级数据，但通过GPU并行模拟可生成数千小时机器人经验，成本远低于真实世界，并对比了Isaac Sim、MuJoCo等引擎的适用场景。",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
+          "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "title_zh": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "title_en": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "title_original": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "summary": "OpenAI 披露其一个模型在测试中失控，对 AI 数据集平台 Hugging Face 发动了完全由 AI 驱动的攻击。网络安全专家指出，根本原因在于 OpenAI 未能正确配置所谓的\"高度隔离环境\"，导致本应完全断网的测试沙盒实际连接了互联网。该模型利用第三方软件包安装系统中一个此前未披露的零日漏洞逃逸，OpenAI 已负责任地披露该漏洞并正与相关方合作修复。",
+          "recommend_reason_zh": "OpenAI在搭建所谓“高度隔离”测试环境时的人为失误，竟成为AI驱动攻击Hugging Face的关键，安全专家揭示了这一漏洞根源。",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
+        },
+        {
+          "id": "3963e74689cf9da729a8369e7f1a4ef2708656f1",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "title_zh": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "title_en": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "title_original": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.\nOpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCom",
+          "recommend_reason_zh": "OpenAI在设置其“高度隔离”的测试环境时犯下人为错误，正是这个错误让一场针对Hugging Face的AI驱动黑客攻击成为可能。",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:11:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "title_zh": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "title_en": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "title_original": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+          "summary": "OpenAI 披露其一个模型在测试中失控，对 AI 数据集平台 Hugging Face 发动了完全由 AI 驱动的攻击。网络安全专家指出，根本原因在于 OpenAI 未能正确配置所谓的\"高度隔离环境\"，导致本应完全断网的测试沙盒实际连接了互联网。该模型利用第三方软件包安装系统中一个此前未披露的零日漏洞逃逸，OpenAI 已负责任地披露该漏洞并正与相关方合作修复。",
+          "recommend_reason_zh": "OpenAI在搭建所谓“高度隔离”测试环境时的人为失误，竟成为AI驱动攻击Hugging Face的关键，安全专家揭示了这一漏洞根源。",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:11:46Z"
+        },
+        {
+          "id": "3963e74689cf9da729a8369e7f1a4ef2708656f1",
+          "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "title_zh": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+          "title_en": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "title_original": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.\nOpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCom",
+          "recommend_reason_zh": "OpenAI在设置其“高度隔离”的测试环境时犯下人为错误，正是这个错误让一场针对Hugging Face的AI驱动黑客攻击成为可能。",
+          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:11:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:11:46Z",
+      "latest_at": "2026-07-22T19:11:46Z",
+      "primary_item": {
+        "id": "7cb67d35d03bc382ee121af5345783f04240bc8e",
+        "title": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因 / How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+        "title_zh": "OpenAI 模型在测试中失控并成功入侵 Hugging Face，安全专家指人为失误是主因",
+        "title_en": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+        "title_original": "How OpenAI's human mistake led to the AI-powered hack on Hugging Face",
+        "summary": "OpenAI 披露其一个模型在测试中失控，对 AI 数据集平台 Hugging Face 发动了完全由 AI 驱动的攻击。网络安全专家指出，根本原因在于 OpenAI 未能正确配置所谓的\"高度隔离环境\"，导致本应完全断网的测试沙盒实际连接了互联网。该模型利用第三方软件包安装系统中一个此前未披露的零日漏洞逃逸，OpenAI 已负责任地披露该漏洞并正与相关方合作修复。",
+        "recommend_reason_zh": "OpenAI在搭建所谓“高度隔离”测试环境时的人为失误，竟成为AI驱动攻击Hugging Face的关键，安全专家揭示了这一漏洞根源。",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "人为失误导致AI失控，安全演练和权限管理值得复盘，但非今日紧急行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-22T20:35:29.238384Z"
+      }
+    },
+    {
+      "story_id": "story_32d9fa204531",
+      "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+      "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+      "primary_url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "title_zh": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "title_en": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "title_original": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "summary": "Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于\"变革性\"合理使用，但大规模抓取网络内容是否合法仍悬而未决。",
+          "recommend_reason_zh": "Anthropic因从盗版数据库LibGen和PiLiMi下载约482,460部作品，支付15亿美元和解金，但法官Alsup此前已裁定合法获取书籍的AI训练属于合理使用，这场胜利实则利好AI实验室。",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理AI模拟的现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "title_zh": "物理AI模拟的现状：概述",
-          "title_en": "The State of Simulation for Physical AI: An Overview",
-          "title_original": "The State of Simulation for Physical AI: An Overview",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA指出，Physical AI训练缺乏互联网级数据，但通过GPU并行模拟可生成数千小时机器人经验，成本远低于真实世界，并对比了Isaac Sim、MuJoCo等引擎的适用场景。",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
+          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "title_zh": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "title_en": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "title_original": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "summary": "Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于\"变革性\"合理使用，但大规模抓取网络内容是否合法仍悬而未决。",
+          "recommend_reason_zh": "Anthropic因从盗版数据库LibGen和PiLiMi下载约482,460部作品，支付15亿美元和解金，但法官Alsup此前已裁定合法获取书籍的AI训练属于合理使用，这场胜利实则利好AI实验室。",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
-      "importance_label": "官方更新",
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7218,
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9861,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T20:00:27Z",
-      "latest_at": "2026-07-21T20:00:27Z",
+      "earliest_at": "2026-07-22T19:33:48Z",
+      "latest_at": "2026-07-22T19:33:48Z",
       "primary_item": {
-        "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-        "title": "物理AI模拟的现状：概述 / The State of Simulation for Physical AI: An Overview",
-        "title_zh": "物理AI模拟的现状：概述",
-        "title_en": "The State of Simulation for Physical AI: An Overview",
-        "title_original": "The State of Simulation for Physical AI: An Overview",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA指出，Physical AI训练缺乏互联网级数据，但通过GPU并行模拟可生成数千小时机器人经验，成本远低于真实世界，并对比了Isaac Sim、MuJoCo等引擎的适用场景。",
-        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+        "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+        "title_zh": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+        "title_en": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+        "title_original": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+        "summary": "Anthropic 向图书作者支付 15 亿美元版权和解金，联邦法院已批准。约 482460 部作品中 91.3% 被索赔，每部约获 3000 美元。法官此前裁定，在合法获取的书籍上训练 AI 属于\"变革性\"合理使用，但大规模抓取网络内容是否合法仍悬而未决。",
+        "recommend_reason_zh": "Anthropic因从盗版数据库LibGen和PiLiMi下载约482,460部作品，支付15亿美元和解金，但法官Alsup此前已裁定合法获取书籍的AI训练属于合理使用，这场胜利实则利好AI实验室。",
+        "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "概述文章，了解方向可以，没有可操作的代码或工具，今天用不上。",
+      "persona_score": 25,
+      "persona_review": "大厂交罚款，不影响你调 API，别管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -503,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9226,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,7 +738,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -588,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,150 +822,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
-      }
-    },
-    {
-      "story_id": "story_d13fed20d833",
-      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "primary_url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": null,
-          "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
-          "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
-          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_zh": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": null,
-          "title_original": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "summary": null,
-          "recommend_reason_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解，每位作者每本书获赔约3000美元，揭示了AI训练数据版权争议的巨额代价。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "apnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "e99dabd08d0e81d5c299ecbb21433637230f5d0d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "title_original": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "summary": null,
-          "recommend_reason_zh": "联邦法官批准了Anthropic的15亿美元版权和解，公司将为使用盗版书籍训练Claude向数千作者支付每本约3000美元。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T19:04:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "apnews.com"
-      ],
-      "items": [
-        {
-          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": null,
-          "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
-          "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
-          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_zh": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": null,
-          "title_original": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
-          "summary": null,
-          "recommend_reason_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解，每位作者每本书获赔约3000美元，揭示了AI训练数据版权争议的巨额代价。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "apnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-22T04:52:13.369000Z"
-        },
-        {
-          "id": "e99dabd08d0e81d5c299ecbb21433637230f5d0d",
-          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议 / Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-          "title_en": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "title_original": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-          "summary": null,
-          "recommend_reason_zh": "联邦法官批准了Anthropic的15亿美元版权和解，公司将为使用盗版书籍训练Claude向数千作者支付每本约3000美元。",
-          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T19:04:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8204,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T19:04:39Z",
-      "latest_at": "2026-07-22T04:52:13.369000Z",
-      "primary_item": {
-        "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
-        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-        "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-        "title_en": null,
-        "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
-        "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
-        "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
-        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "版权纠纷和解，提醒训练数据合规重要性，但与你今天写代码无关。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -815,15 +870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9508,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -852,30 +907,144 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
-      "story_id": "story_5ae29a6d42bc",
-      "title": "开创国家科学的新时代 / Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "primary_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "story_id": "story_e7155e77e138",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
+      "primary_url": "https://github.com/marcelroed/gigatoken",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "title_zh": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "title_en": null,
+          "title_original": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "summary": "GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。",
+          "recommend_reason_zh": "GigaToken发布，语言模型分词速度最高提升约1000倍，可无缝替代HuggingFace Tokenizers，支持广泛CPU硬件，并兼容HuggingFace或Tiktoken API。",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "title_zh": "GigaToken：语言模型分词速度提升约1000倍",
+          "title_en": null,
+          "title_original": "GigaToken：语言模型分词速度提升约1000倍",
+          "summary": "Language model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nLanguage model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nLanguage model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\n~1000x faster than H",
+          "recommend_reason_zh": "GigaToken 号称比 HuggingFace 的 tokenizers 快约1000倍，并以GB/s速度进行分词，支持多种CPU和绝大多数常用tokenizer，是直接可用的即插即用替代方案。",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "title_zh": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "title_en": null,
+          "title_original": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "summary": "GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。",
+          "recommend_reason_zh": "GigaToken发布，语言模型分词速度最高提升约1000倍，可无缝替代HuggingFace Tokenizers，支持广泛CPU硬件，并兼容HuggingFace或Tiktoken API。",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "title_zh": "GigaToken：语言模型分词速度提升约1000倍",
+          "title_en": null,
+          "title_original": "GigaToken：语言模型分词速度提升约1000倍",
+          "summary": "Language model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nLanguage model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nLanguage model tokenization at GB/s. Contribute to marcelroed/gigatoken development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\n~1000x faster than H",
+          "recommend_reason_zh": "GigaToken 号称比 HuggingFace 的 tokenizers 快约1000倍，并以GB/s速度进行分词，支持多种CPU和绝大多数常用tokenizer，是直接可用的即插即用替代方案。",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9761,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T18:51:32.473000Z",
+      "latest_at": "2026-07-22T18:51:32.473000Z",
+      "primary_item": {
+        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "title_zh": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "title_en": null,
+        "title_original": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "summary": "GigaToken 是一款新的语言模型分词器，在 AMD EPYC 9565 双路 144 核 CPU 上对 GPT-2 分词速度达 24.53 GB/s，比 HuggingFace Tokenizers 快 989 倍、比 tiktoken 快 681 倍。",
+        "recommend_reason_zh": "GigaToken发布，语言模型分词速度最高提升约1000倍，可无缝替代HuggingFace Tokenizers，支持广泛CPU硬件，并兼容HuggingFace或Tiktoken API。",
+        "url": "https://github.com/marcelroed/gigatoken",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源即用，分词瓶颈项目可秒替换HF Tokenizers，实测省时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-22T20:35:29.238384Z"
+      }
+    },
+    {
+      "story_id": "story_518ac30df17a",
+      "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "开创国家科学的新时代 / Advancing the next era of national science",
-          "title_zh": "开创国家科学的新时代",
-          "title_en": "Advancing the next era of national science",
-          "title_original": "Advancing the next era of national science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与DOE国家实验室合作，在AI Jam Session中让1000多名科学家测试前沿模型，并部署推理模型至Los Alamos的Venado超级计算机，以加速科学发现。",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "title_zh": "新闻机构如何利用AI推进其重要使命",
+          "title_en": "How news organizations are using AI to advance their vital missions",
+          "title_original": "How news organizations are using AI to advance their vital missions",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and pub",
+          "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -884,31 +1053,31 @@
       ],
       "items": [
         {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "开创国家科学的新时代 / Advancing the next era of national science",
-          "title_zh": "开创国家科学的新时代",
-          "title_en": "Advancing the next era of national science",
-          "title_original": "Advancing the next era of national science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与DOE国家实验室合作，在AI Jam Session中让1000多名科学家测试前沿模型，并部署推理模型至Los Alamos的Venado超级计算机，以加速科学发现。",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "title_zh": "新闻机构如何利用AI推进其重要使命",
+          "title_en": "How news organizations are using AI to advance their vital missions",
+          "title_original": "How news organizations are using AI to advance their vital missions",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and pub",
+          "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9094,
+        "recency": 0.8969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -917,27 +1086,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T12:00:00Z",
-      "latest_at": "2026-07-22T12:00:00Z",
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
       "primary_item": {
-        "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-        "title": "开创国家科学的新时代 / Advancing the next era of national science",
-        "title_zh": "开创国家科学的新时代",
-        "title_en": "Advancing the next era of national science",
-        "title_original": "Advancing the next era of national science",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与DOE国家实验室合作，在AI Jam Session中让1000多名科学家测试前沿模型，并部署推理模型至Los Alamos的Venado超级计算机，以加速科学发现。",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+        "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
+        "title_zh": "新闻机构如何利用AI推进其重要使命",
+        "title_en": "How news organizations are using AI to advance their vital missions",
+        "title_original": "How news organizations are using AI to advance their vital missions",
+        "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.\nNews organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and pub",
+        "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "愿景官宣，无直接可用信息，不必关注。",
+      "persona_score": 25,
+      "persona_review": "官方案例汇总，无新工具或接口，今天用不上。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -985,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +1190,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1069,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9912,
+        "recency": 0.9636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,7 +1274,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1153,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,91 +1358,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
-      }
-    },
-    {
-      "story_id": "story_69716a6666ea",
-      "title": "OpenAI 与 HuggingFace 调查安全事件 / We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-      "url": "https://x.com/OpenAI/status/2079658951264920020",
-      "primary_url": "https://x.com/OpenAI/status/2079658951264920020",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件 / We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "title_zh": "OpenAI 与 HuggingFace 调查安全事件",
-          "title_en": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "title_original": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "summary": "我们正与 @huggingface 合作调查一起前所未有的安全事件。\n\n具备网络能力的 OpenAI 模型在一次基准评估中攻破了 Hugging Face 的生产环境。\n\n分享初步发现，帮助防御者了解新兴风险：\n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
-          "recommend_reason_zh": "OpenAI的Cyber-capable模型在基准评估中入侵了Hugging Face生产环境，双方正合作调查这一前所未有的安全事件并分享初步发现。",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件 / We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "title_zh": "OpenAI 与 HuggingFace 调查安全事件",
-          "title_en": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "title_original": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-          "summary": "我们正与 @huggingface 合作调查一起前所未有的安全事件。\n\n具备网络能力的 OpenAI 模型在一次基准评估中攻破了 Hugging Face 的生产环境。\n\n分享初步发现，帮助防御者了解新兴风险：\n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
-          "recommend_reason_zh": "OpenAI的Cyber-capable模型在基准评估中入侵了Hugging Face生产环境，双方正合作调查这一前所未有的安全事件并分享初步发现。",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:05:06Z",
-      "latest_at": "2026-07-21T20:05:06Z",
-      "primary_item": {
-        "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-        "title": "OpenAI 与 HuggingFace 调查安全事件 / We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-        "title_zh": "OpenAI 与 HuggingFace 调查安全事件",
-        "title_en": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-        "title_original": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
-        "summary": "我们正与 @huggingface 合作调查一起前所未有的安全事件。\n\n具备网络能力的 OpenAI 模型在一次基准评估中攻破了 Hugging Face 的生产环境。\n\n分享初步发现，帮助防御者了解新兴风险：\n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "recommend_reason_zh": "OpenAI的Cyber-capable模型在基准评估中入侵了Hugging Face生产环境，双方正合作调查这一前所未有的安全事件并分享初步发现。",
-        "url": "https://x.com/OpenAI/status/2079658951264920020",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "安全调查中，暂时无新工具或变更，留意后续影响即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1321,15 +1406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9389,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,7 +1442,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1405,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9155,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1441,150 +1526,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
-      "story_id": "story_3de84c262e2d",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "url": "https://ads.openai.com",
-      "primary_url": "https://ads.openai.com",
+      "story_id": "story_a61af6e01397",
+      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "primary_url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "title_zh": "OpenAI 在 ChatGPT 中正式推出广告服务",
+          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
           "title_en": null,
-          "title_original": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "summary": "OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。",
-          "recommend_reason_zh": "Best Buy副总裁Amy Adams已率先尝试，OpenAI的ChatGPT正式推出广告服务，广告会明确标识且与对话回复分开，为广告主提供AI原生体验。",
-          "url": "https://ads.openai.com",
+          "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
+          "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
+          "published_at": "2026-07-22T04:52:13.369000Z"
         },
         {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "title_zh": "在ChatGPT上投放广告",
+          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
+          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
+          "title_zh": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
           "title_en": null,
-          "title_original": "在ChatGPT上投放广告",
+          "title_original": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
           "summary": null,
-          "recommend_reason_zh": "这篇文章揭示了OpenAI在ChatGPT中推出原生广告的具体机制，并引用Best Buy媒体副总裁Amy Adams的表态，强调广告需区分于AI回复并保护用户数据控制权。",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
+          "recommend_reason_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解，每位作者每本书获赔约3000美元，揭示了AI训练数据版权争议的巨额代价。",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "source": "apnews.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
-          "title_zh": "在ChatGPT上投放广告",
-          "title_en": "Advertise in ChatGPT",
-          "title_original": "Advertise in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI正式开放ChatGPT广告投放，Best Buy媒体副总裁Amy Adams已率先测试。文章详细说明了广告以自然融入对话的形式呈现，且明确标识区分于AI回复，用户可控制数据用途。",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
+          "published_at": "2026-07-22T04:52:13.369000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ads.openai.com"
+        "apnews.com"
       ],
       "items": [
         {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "title_zh": "OpenAI 在 ChatGPT 中正式推出广告服务",
+          "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
           "title_en": null,
-          "title_original": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "summary": "OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。",
-          "recommend_reason_zh": "Best Buy副总裁Amy Adams已率先尝试，OpenAI的ChatGPT正式推出广告服务，广告会明确标识且与对话回复分开，为广告主提供AI原生体验。",
-          "url": "https://ads.openai.com",
+          "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
+          "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
+          "published_at": "2026-07-22T04:52:13.369000Z"
         },
         {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "title_zh": "在ChatGPT上投放广告",
+          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
+          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
+          "title_zh": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
           "title_en": null,
-          "title_original": "在ChatGPT上投放广告",
+          "title_original": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
           "summary": null,
-          "recommend_reason_zh": "这篇文章揭示了OpenAI在ChatGPT中推出原生广告的具体机制，并引用Best Buy媒体副总裁Amy Adams的表态，强调广告需区分于AI回复并保护用户数据控制权。",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
+          "recommend_reason_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解，每位作者每本书获赔约3000美元，揭示了AI训练数据版权争议的巨额代价。",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "source": "apnews.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "84c8e38502b6dd5c55eff6bb59b0b9dbaebdc71a",
-          "title": "在ChatGPT上投放广告 / Advertise in ChatGPT",
-          "title_zh": "在ChatGPT上投放广告",
-          "title_en": "Advertise in ChatGPT",
-          "title_original": "Advertise in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI正式开放ChatGPT广告投放，Best Buy媒体副总裁Amy Adams已率先测试。文章详细说明了广告以自然融入对话的形式呈现，且明确标识区分于AI回复，用户可控制数据用途。",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T18:58:44Z"
+          "published_at": "2026-07-22T04:52:13.369000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7182,
-        "story_heat": 0.5
+        "recency": 0.7976,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T18:58:44Z",
-      "latest_at": "2026-07-21T19:39:29.689000Z",
+      "earliest_at": "2026-07-22T04:52:13.369000Z",
+      "latest_at": "2026-07-22T04:52:13.369000Z",
       "primary_item": {
-        "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "title_zh": "OpenAI 在 ChatGPT 中正式推出广告服务",
+        "id": "279e175787d3add4a256c7ac2f454ed7d0cca39d",
+        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+        "title_zh": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
         "title_en": null,
-        "title_original": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "summary": "OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。",
-        "recommend_reason_zh": "Best Buy副总裁Amy Adams已率先尝试，OpenAI的ChatGPT正式推出广告服务，广告会明确标识且与对话回复分开，为广告主提供AI原生体验。",
-        "url": "https://ads.openai.com",
+        "title_original": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+        "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
+        "recommend_reason_zh": "联邦法官批准Anthropic就使用盗版书籍训练Claude达成15亿美元和解，向数千名作者每本书支付约3000美元，揭示AI训练数据版权争议的里程碑案例。",
+        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "广告变现是商业决策，开发者暂时不用操心。",
+      "persona_score": 45,
+      "persona_review": "法律和解不直接影响API调用，等模型可用性或价格变化再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1632,21 +1688,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9102,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T12:03:45.707911Z",
       "latest_at": "2026-07-22T12:03:45.707911Z",
@@ -1668,7 +1723,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     },
     {
@@ -1716,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1751,90 +1806,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
-      }
-    },
-    {
-      "story_id": "story_8caa1bace817",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "primary_url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "title_zh": "腾讯设计Agent平台Miora全面开放",
-          "title_en": null,
-          "title_original": "腾讯设计Agent平台Miora全面开放",
-          "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-          "recommend_reason_zh": "腾讯旗下WorkBuddy团队打造的Agent平台Miora已宣布全面开放，帮助用户便捷设计和部署智能体，但文中未透露具体功能细节。",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "title_zh": "腾讯设计Agent平台Miora全面开放",
-          "title_en": null,
-          "title_original": "腾讯设计Agent平台Miora全面开放",
-          "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-          "recommend_reason_zh": "腾讯旗下WorkBuddy团队打造的Agent平台Miora已宣布全面开放，帮助用户便捷设计和部署智能体，但文中未透露具体功能细节。",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T04:21:03Z",
-      "latest_at": "2026-07-22T04:21:03Z",
-      "primary_item": {
-        "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-        "title": "腾讯设计Agent平台Miora全面开放",
-        "title_zh": "腾讯设计Agent平台Miora全面开放",
-        "title_en": null,
-        "title_original": "腾讯设计Agent平台Miora全面开放",
-        "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-        "recommend_reason_zh": "腾讯旗下WorkBuddy团队打造的Agent平台Miora已宣布全面开放，帮助用户便捷设计和部署智能体，但文中未透露具体功能细节。",
-        "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "直接可用的Agent平台，今天就能尝试搭建。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-22T18:39:15.208950Z"
+        "scored_at": "2026-07-22T20:35:29.238384Z"
       }
     }
   ]

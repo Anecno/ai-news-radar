@@ -2376,6 +2376,54 @@
       "review": "官方更新提供了新功能说明，但缺乏可复现的论文、代码或基准测试证据。",
       "title_hash": "53c4e402",
       "scored_at": "2026-07-22T18:39:44.444782Z"
+    },
+    "story_6ed07fa55a30|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "对比分析帮选型，但无即时行动价值，等降价或新功能再关注。",
+      "title_hash": "503ce32e",
+      "scored_at": "2026-07-22T20:35:31.390737Z"
+    },
+    "story_797fe692e79b|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "人为失误导致AI失控，安全演练和权限管理值得复盘，但非今日紧急行动。",
+      "title_hash": "f33e3baa",
+      "scored_at": "2026-07-22T20:35:33.963284Z"
+    },
+    "story_32d9fa204531|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "大厂交罚款，不影响你调 API，别管。",
+      "title_hash": "25d2223f",
+      "scored_at": "2026-07-22T20:35:35.937065Z"
+    },
+    "story_e7155e77e138|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源即用，分词瓶颈项目可秒替换HF Tokenizers，实测省时间。",
+      "title_hash": "650e191c",
+      "scored_at": "2026-07-22T20:35:38.903679Z"
+    },
+    "story_518ac30df17a|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "官方案例汇总，无新工具或接口，今天用不上。",
+      "title_hash": "5ee85bf7",
+      "scored_at": "2026-07-22T20:35:41.942834Z"
+    },
+    "story_a61af6e01397|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "法律和解不直接影响API调用，等模型可用性或价格变化再关注。",
+      "title_hash": "a13331f7",
+      "scored_at": "2026-07-22T20:35:45.277755Z"
+    },
+    "story_e7155e77e138|cynic|f4237a62": {
+      "score": 72,
+      "review": "1000倍？用了抖音压缩比和字母表吧，能通用我头给你。",
+      "title_hash": "650e191c",
+      "scored_at": "2026-07-22T20:35:48.313762Z"
+    },
+    "story_e7155e77e138|paper-police|966065bf": {
+      "score": 65,
+      "review": "有GitHub代码可复现，但缺论文和独立benchmark验证，速度提升待确认。",
+      "title_hash": "650e191c",
+      "scored_at": "2026-07-22T20:35:53.764333Z"
     }
   }
 }
