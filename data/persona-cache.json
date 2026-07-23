@@ -2472,6 +2472,30 @@
       "review": "政策写入术语不代表马上能用，先观望具体落地细则。",
       "title_hash": "b0df15dd",
       "scored_at": "2026-07-23T06:45:34.107811Z"
+    },
+    "story_b7a2b487977e|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "直接集成到Diffusers，可立即使用4位量化加速扩散模型，省显存提速度。",
+      "title_hash": "f2e022b1",
+      "scored_at": "2026-07-23T09:44:56.303281Z"
+    },
+    "story_1022d965cfc1|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "API多一个模型选项，集成前先确认开放时间和定价。",
+      "title_hash": "b662576c",
+      "scored_at": "2026-07-23T09:44:58.642562Z"
+    },
+    "story_b7a2b487977e|cynic|f4237a62": {
+      "score": 75,
+      "review": "4位量化省显存，但画质缩水多少？官方没提，等用户自己试。",
+      "title_hash": "f2e022b1",
+      "scored_at": "2026-07-23T09:45:02.223614Z"
+    },
+    "story_b7a2b487977e|paper-police|966065bf": {
+      "score": 70,
+      "review": "代码在Diffusers开源，但缺独立论文与benchmark复现。",
+      "title_hash": "f2e022b1",
+      "scored_at": "2026-07-23T09:45:09.898130Z"
     }
   }
 }

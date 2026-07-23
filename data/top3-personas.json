@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:45:34.107945Z",
+  "generated_at": "2026-07-23T09:45:09.898225Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_b7a2b487977e",
+      "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "4位量化省显存，但画质缩水多少？官方没提，等用户自己试。"
+        },
+        "paper-police": {
+          "score": 70,
+          "review": "代码在Diffusers开源，但缺独立论文与benchmark复现。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接集成到Diffusers，可立即使用4位量化加速扩散模型，省显存提速度。"
+        }
+      }
+    },
+    {
       "story_id": "story_c9adcfe987c9",
       "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
       "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -40,7 +60,7 @@
       "story_id": "story_e7155e77e138",
       "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
       "url": "https://github.com/marcelroed/gigatoken",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "开源即用，分词瓶颈项目可秒替换HF Tokenizers，实测省时间。"
-        }
-      }
-    },
-    {
-      "story_id": "story_737071755d64",
-      "title": "即将到来的GHES变更影响上传支持包 / Upcoming GHES change impacting uploading support bundles",
-      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 68,
-          "review": "很常规的运维更新，当个新闻发出来也是够闲的。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方宣发但无论文代码，无法验证，等实施后再看。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GHES用户需关注上传支持包变更，不调整可能影响故障排查。"
         }
       }
     }
