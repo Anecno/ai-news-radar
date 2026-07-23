@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:03:04.665974Z",
+  "generated_at": "2026-07-23T14:33:03.615768Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8386,
+        "recency": 0.8088,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -230,7 +230,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -278,15 +278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8403,
+        "recency": 0.8105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -315,7 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7817,
+        "recency": 0.754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,7 +400,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -448,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7525,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,262 +485,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
-      "story_id": "story_89357f950e19",
-      "title": "与Effingham County社区共建AI基础设施 / Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2d16f31e4c0e",
+      "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "primary_url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与Effingham County社区共建AI基础设施 / Building AI infrastructure with the Effingham County community",
-          "title_zh": "与Effingham County社区共建AI基础设施",
-          "title_en": "Building AI infrastructure with the Effingham County community",
-          "title_original": "Building AI infrastructure with the Effingham County community",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在佐治亚州Effingham County启动Project Camellia数据中心，承诺3.2GW电力分阶段交付，居民电费不涨，并投入8000万美元社区福利及7100万美元Codex学分给当地学生。",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "id": "794df629b7a6322acb25902743aaec5346a26e71",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
+          "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:00:00Z"
+        },
+        {
+          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "summary": "Apple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nApple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nApple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nP",
+          "recommend_reason_zh": "Apple与OpenAI的诉讼背后，是后智能手机时代的定义权之争。OpenAI曾花65亿美元收购Jony Ive的AI硬件公司io Products，如今却面临Apple的严厉诉讼。",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "The Verge",
+        "The Verge：AI（RSS）"
       ],
       "items": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与Effingham County社区共建AI基础设施 / Building AI infrastructure with the Effingham County community",
-          "title_zh": "与Effingham County社区共建AI基础设施",
-          "title_en": "Building AI infrastructure with the Effingham County community",
-          "title_original": "Building AI infrastructure with the Effingham County community",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在佐治亚州Effingham County启动Project Camellia数据中心，承诺3.2GW电力分阶段交付，居民电费不涨，并投入8000万美元社区福利及7100万美元Codex学分给当地学生。",
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "id": "794df629b7a6322acb25902743aaec5346a26e71",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
+          "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T14:00:00Z"
+        },
+        {
+          "id": "2d4fc4509f6b2b68ee8e0e251439b8df2901292b",
+          "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
+          "title_en": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "title_original": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+          "summary": "Apple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nApple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nApple and OpenAI are now locked in a legal battle over who gets to define the post-smartphone era.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nP",
+          "recommend_reason_zh": "Apple与OpenAI的诉讼背后，是后智能手机时代的定义权之争。OpenAI曾花65亿美元收购Jony Ive的AI硬件公司io Products，如今却面临Apple的严厉诉讼。",
+          "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-23T14:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7169,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
+      "earliest_at": "2026-07-23T14:00:00Z",
+      "latest_at": "2026-07-23T14:00:00Z",
       "primary_item": {
-        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-        "title": "与Effingham County社区共建AI基础设施 / Building AI infrastructure with the Effingham County community",
-        "title_zh": "与Effingham County社区共建AI基础设施",
-        "title_en": "Building AI infrastructure with the Effingham County community",
-        "title_original": "Building AI infrastructure with the Effingham County community",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI在佐治亚州Effingham County启动Project Camellia数据中心，承诺3.2GW电力分阶段交付，居民电费不涨，并投入8000万美元社区福利及7100万美元Codex学分给当地学生。",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "不会立刻影响开发，动工到投用还早，等有具体开放细节再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
-      }
-    },
-    {
-      "story_id": "story_54df5095c0ce",
-      "title": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "primary_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d153609eb57845646058e7718e14183113f17a91",
-          "title": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "title_zh": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元",
-          "title_en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "title_original": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "summary": null,
-          "recommend_reason_zh": "Google承诺投入4000万美元AI tokens和云积分支持DOE的Genesis Mission，加速科学发现，如PNNL的Dr. Henry Kvinge使用AlphaEvolve自动探索复杂数学系统。",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:38:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "d153609eb57845646058e7718e14183113f17a91",
-          "title": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "title_zh": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元",
-          "title_en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "title_original": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-          "summary": null,
-          "recommend_reason_zh": "Google承诺投入4000万美元AI tokens和云积分支持DOE的Genesis Mission，加速科学发现，如PNNL的Dr. Henry Kvinge使用AlphaEvolve自动探索复杂数学系统。",
-          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:38:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7236,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:38:54Z",
-      "latest_at": "2026-07-22T13:38:54Z",
-      "primary_item": {
-        "id": "d153609eb57845646058e7718e14183113f17a91",
-        "title": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元 / Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "title_zh": "加速科学发现前沿：Google 向 Genesis Mission 投入4000万美元",
-        "title_en": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "title_original": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-        "summary": null,
-        "recommend_reason_zh": "Google承诺投入4000万美元AI tokens和云积分支持DOE的Genesis Mission，加速科学发现，如PNNL的Dr. Henry Kvinge使用AlphaEvolve自动探索复杂数学系统。",
-        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "钱还没变成工具，等落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
-      }
-    },
-    {
-      "story_id": "story_9495caa5c2c2",
-      "title": "来自Galaxy Unpacked 2026的3项谷歌更新 / 3 Google updates from Galaxy Unpacked 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "来自Galaxy Unpacked 2026的3项谷歌更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "title_zh": "来自Galaxy Unpacked 2026的3项谷歌更新",
-          "title_en": "3 Google updates from Galaxy Unpacked 2026",
-          "title_original": "3 Google updates from Galaxy Unpacked 2026",
-          "summary": null,
-          "recommend_reason_zh": "Google在Galaxy Unpacked推出Z Fold8和Flip8，内置Gemini Intelligence自动化40款应用的日常任务，并上线Gemini Notebook合成研究生成幻灯片，附赠6个月AI Pro试用。",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-          "title": "来自Galaxy Unpacked 2026的3项谷歌更新 / 3 Google updates from Galaxy Unpacked 2026",
-          "title_zh": "来自Galaxy Unpacked 2026的3项谷歌更新",
-          "title_en": "3 Google updates from Galaxy Unpacked 2026",
-          "title_original": "3 Google updates from Galaxy Unpacked 2026",
-          "summary": null,
-          "recommend_reason_zh": "Google在Galaxy Unpacked推出Z Fold8和Flip8，内置Gemini Intelligence自动化40款应用的日常任务，并上线Gemini Notebook合成研究生成幻灯片，附赠6个月AI Pro试用。",
-          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
-        "title": "来自Galaxy Unpacked 2026的3项谷歌更新 / 3 Google updates from Galaxy Unpacked 2026",
-        "title_zh": "来自Galaxy Unpacked 2026的3项谷歌更新",
-        "title_en": "3 Google updates from Galaxy Unpacked 2026",
-        "title_original": "3 Google updates from Galaxy Unpacked 2026",
-        "summary": null,
-        "recommend_reason_zh": "Google在Galaxy Unpacked推出Z Fold8和Flip8，内置Gemini Intelligence自动化40款应用的日常任务，并上线Gemini Notebook合成研究生成幻灯片，附赠6个月AI Pro试用。",
-        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "794df629b7a6322acb25902743aaec5346a26e71",
+        "title": "Apple 起诉 OpenAI 窃取硬件制造机密 / Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+        "title_zh": "Apple 起诉 OpenAI 窃取硬件制造机密",
+        "title_en": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+        "title_original": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+        "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
+        "recommend_reason_zh": "Apple诉OpenAI窃取商业机密，指控前员工在面试中泄露硬件制造文件。OpenAI刚花65亿美元收购Jony Ive的io Products，却仍烧钱无战略方向，这场诉讼如何定义后智能手机时代？值得一读。",
+        "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 20,
-      "persona_review": "没有具体内容，等看更新了什么再评价。",
+      "persona_review": "官司看戏就好，没代码可抄，没工具能用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
+      }
+    },
+    {
+      "story_id": "story_92dd58586306",
+      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
+          "recommend_reason_zh": "Qwen-Audio-3.0-TTS推出Flash和Plus两个版本，分别主打实时交互与高质量生成；新增[whisper]、[angry]、[breaths]等细粒度内联标签，支持自由风格自然语言控制。",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T12:33:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+          "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+          "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+          "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
+          "recommend_reason_zh": "Qwen-Audio-3.0-TTS推出Flash和Plus两个版本，分别主打实时交互与高质量生成；新增[whisper]、[angry]、[breaths]等细粒度内联标签，支持自由风格自然语言控制。",
+          "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T12:33:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9716,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T12:33:27Z",
+      "latest_at": "2026-07-23T12:33:27Z",
+      "primary_item": {
+        "id": "ef228568bf7b0662d6a048c9788f440173cc69fc",
+        "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+        "title_zh": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+        "title_en": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+        "title_original": "Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+        "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
+        "recommend_reason_zh": "Qwen-Audio-3.0-TTS推出Flash和Plus两个版本，分别主打实时交互与高质量生成；新增[whisper]、[angry]、[breaths]等细粒度内联标签，支持自由风格自然语言控制。",
+        "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "开源TTS模型登顶，可立即下载试听或集成API，效果对标SOTA。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -817,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.784,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -854,7 +797,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -902,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7881,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,176 +881,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
-      }
-    },
-    {
-      "story_id": "story_518ac30df17a",
-      "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "title_zh": "新闻机构如何利用AI推进其重要使命",
-          "title_en": "How news organizations are using AI to advance their vital missions",
-          "title_original": "How news organizations are using AI to advance their vital missions",
-          "summary": null,
-          "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "title_zh": "新闻机构如何利用AI推进其重要使命",
-          "title_en": "How news organizations are using AI to advance their vital missions",
-          "title_original": "How news organizations are using AI to advance their vital missions",
-          "summary": null,
-          "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
-      "primary_item": {
-        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-        "title": "新闻机构如何利用AI推进其重要使命 / How news organizations are using AI to advance their vital missions",
-        "title_zh": "新闻机构如何利用AI推进其重要使命",
-        "title_en": "How news organizations are using AI to advance their vital missions",
-        "title_original": "How news organizations are using AI to advance their vital missions",
-        "summary": null,
-        "recommend_reason_zh": "本文披露OpenAI工具已支持美国38个州的新闻出版物，并通过OpenAI Academy分享案例，帮助记者节省时间、让数十年报道可检索，推动新闻业实现可持续增长。",
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "官方案例汇总，无新工具或接口，今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
-      }
-    },
-    {
-      "story_id": "story_389dbf0b1f6b",
-      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-      "url": "https://www.aibase.com/news/29844",
-      "primary_url": "https://www.aibase.com/news/29844",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "title_en": null,
-          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
-          "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
-          "url": "https://www.aibase.com/news/29844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T12:03:04.665974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "title_en": null,
-          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-          "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
-          "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
-          "url": "https://www.aibase.com/news/29844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T12:03:04.665974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T12:03:04.665974Z",
-      "latest_at": "2026-07-23T12:03:04.665974Z",
-      "primary_item": {
-        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
-        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-        "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-        "title_en": null,
-        "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
-        "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
-        "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
-        "url": "https://www.aibase.com/news/29844",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "端侧部署示范，但未开放API，开发者暂时用不上，等SDK。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1155,15 +929,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7638,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1191,7 +965,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1239,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7388,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1276,7 +1050,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
+      }
+    },
+    {
+      "story_id": "story_389dbf0b1f6b",
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+      "url": "https://www.aibase.com/news/29844",
+      "primary_url": "https://www.aibase.com/news/29844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_en": null,
+          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "summary": null,
+          "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T12:03:04.665974Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_en": null,
+          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "summary": null,
+          "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T12:03:04.665974Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9645,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T12:03:04.665974Z",
+      "latest_at": "2026-07-23T12:03:04.665974Z",
+      "primary_item": {
+        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "title_en": null,
+        "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "summary": null,
+        "recommend_reason_zh": "面壁智能MinaCPM端侧大模型首次登上全球旗舰，深度赋能三星Galaxy Z Fold8和Fold8 Ultra，提供文本理解与多模态感知能力，8英寸内屏配合4800mAh电池，打破折叠屏窄比例传统。",
+        "url": "https://www.aibase.com/news/29844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "端侧部署示范，但未开放API，开发者暂时用不上，等SDK。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1353,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7525,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1390,7 +1248,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1438,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1474,7 +1332,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1522,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9897,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1557,7 +1415,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1605,15 +1463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1640,7 +1498,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1688,15 +1546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8047,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1723,7 +1581,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1771,15 +1629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7651,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1806,7 +1664,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     },
     {
@@ -1854,15 +1712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9062,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1889,7 +1747,174 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-23T12:10:16.316310Z"
+        "scored_at": "2026-07-23T14:40:35.042969Z"
+      }
+    },
+    {
+      "story_id": "story_1022d965cfc1",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_en": null,
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic本周升级Claude语音模式，从仅支持Haiku 4.5增至Opus、Sonnet和Haiku三种模型可选，并允许用户调节“思考”级别，显著增强语音交互灵活性。",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_en": null,
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic本周升级Claude语音模式，从仅支持Haiku 4.5增至Opus、Sonnet和Haiku三种模型可选，并允许用户调节“思考”级别，显著增强语音交互灵活性。",
+          "url": "https://www.aibase.com/news/29843",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:37:06.742476Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9312,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T09:37:06.742476Z",
+      "latest_at": "2026-07-23T09:37:06.742476Z",
+      "primary_item": {
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "title_en": null,
+        "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic本周升级Claude语音模式，从仅支持Haiku 4.5增至Opus、Sonnet和Haiku三种模型可选，并允许用户调节“思考”级别，显著增强语音交互灵活性。",
+        "url": "https://www.aibase.com/news/29843",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "API多一个模型选项，集成前先确认开放时间和定价。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-23T14:40:35.042969Z"
+      }
+    },
+    {
+      "story_id": "story_0ba3ace346fe",
+      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "title_zh": "微软 MagenticLite 模型全面开源",
+          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
+          "recommend_reason_zh": "MagenticLite将MagenticBrain和Fara 1.5模型（此前仅限Microsoft Foundry）以开放权重在Hugging Face开源，连应用、工具链也全部开放，值得关注。",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "title_zh": "微软 MagenticLite 模型全面开源",
+          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
+          "recommend_reason_zh": "MagenticLite将MagenticBrain和Fara 1.5模型（此前仅限Microsoft Foundry）以开放权重在Hugging Face开源，连应用、工具链也全部开放，值得关注。",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7428,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
+      "primary_item": {
+        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+        "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+        "title_zh": "微软 MagenticLite 模型全面开源",
+        "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+        "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+        "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
+        "recommend_reason_zh": "MagenticLite将MagenticBrain和Fara 1.5模型（此前仅限Microsoft Foundry）以开放权重在Hugging Face开源，连应用、工具链也全部开放，值得关注。",
+        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "模型已开源，可直接下载使用，今天就能试试效果。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-23T14:40:35.042969Z"
       }
     }
   ]
