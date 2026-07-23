@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T14:40:39.222130Z",
+  "generated_at": "2026-07-23T16:54:44.816385Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_c9adcfe987c9",
-      "title": "Copilot新使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
-      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "story_id": "story_92dd58586306",
+      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "指标仪表板不稀罕，能降bug率才叫影响力。"
+          "score": 74,
+          "review": "登顶榜？挑个没对手的赛道自封第一，老把戏了。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新提供了新功能说明，但缺乏可复现的论文、代码或基准测试证据。"
+          "score": 8,
+          "review": "只有推文声称登顶，无论文无代码无评测细节，无法验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "今天就能用，直接监控 Copilot 效果，优化团队投入。"
+          "review": "开源TTS模型登顶，可立即下载试听或集成API，效果对标SOTA。"
         }
       }
     }
