@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:20:21.766180Z",
+  "generated_at": "2026-07-24T00:18:33.260066Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_b7a2b487977e",
-      "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "4位量化省显存，但画质缩水多少？官方没提，等用户自己试。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "代码在Diffusers开源，但缺独立论文与benchmark复现。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "直接集成到Diffusers，可立即使用4位量化加速扩散模型，省显存提速度。"
-        }
-      }
-    },
-    {
       "story_id": "story_92dd58586306",
       "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
       "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 74,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "开源TTS模型登顶，可立即下载试听或集成API，效果对标SOTA。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b17e627022e6",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 30,
+          "review": "成本低多少？基线选的是自家旧模型还是别人巅峰？等第三方跑分。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "CEO发帖无论文无代码无评测，成本效率无从验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "关注API定价，若低于竞品，直接替换可降本。"
         }
       }
     }
