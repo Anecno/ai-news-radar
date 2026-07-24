@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:52:56.204585Z",
+  "generated_at": "2026-07-24T18:01:55.280873Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_ce28d04e10f8",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
+      "story_id": "story_fdc1a7916c66",
+      "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "给Claude套保温杯省缓存费？创意不错，但token才是真吞金兽。"
+          "score": 65,
+          "review": "官方更新，但不过是多一个模型选项，离改变工作流还早。"
         },
         "paper-police": {
-          "score": 50,
-          "review": "有开源代码但无论文和基准评测，功能可验证但缺独立验证。"
+          "score": 20,
+          "review": "仅官方宣布可用，无性能数据或代码，无法验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "直接省缓存开销，用 Claude API 的今天就能上。"
+          "review": "Copilot 用户今天就能选 Opus 5，编码质量可能有提升，直接换模型试试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_884b6719295f",
+      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "又一代新模型，基准测试估计又只挑赢的比，输的绝口不提。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣称性能，缺论文、代码和第三方评测，目前只能算说法。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "新模型API已开放，立刻可调用，性能提升直接用于生产。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_542d81ae471d",
       "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
       "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "直接集成到Linear工作流，自动处理任务，提高效率。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a69b2a307509",
-      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "终于不用拖拽节点了，但自然语言生成的工作流跑起来出bug能怪谁？"
-        },
-        "paper-police": {
-          "score": 15,
-          "review": "仅有官方推特宣布，无论文代码或评测，无法验证性能。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "直接上手试自然语言调工作流，省去拖节点时间。"
         }
       }
     }
