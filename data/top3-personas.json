@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:33:34.415614Z",
+  "generated_at": "2026-07-24T23:21:15.707607Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_542d81ae471d",
-      "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "story_id": "story_5105aa91a912",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://github.com/izeigerman/claude-thermos",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "集成本身没问题，Linear用户记得先确认付费墙在哪。"
+          "score": 78,
+          "review": "给API套个保温杯，省下的电费够买杯咖啡吗？"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有官方公告，无论文无代码无评测，无法独立验证。"
+          "score": 45,
+          "review": "代码开源可复现，但无论文和benchmark，需用户验证效果。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "直接集成到Linear工作流，自动处理任务，提高效率。"
+          "review": "想省Claude API费？直接上这个工具，避免重复付费，今天就能用。"
         }
       }
     }

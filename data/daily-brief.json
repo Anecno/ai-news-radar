@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:29:18.382944Z",
+  "generated_at": "2026-07-24T23:16:36.552746Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9328,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7332,
+        "recency": 0.7145,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -284,7 +284,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -361,15 +361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8446,
+        "recency": 0.8231,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -398,92 +398,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
-      "story_id": "story_542d81ae471d",
-      "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_59b2266d0512",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+      "url": "https://updates.midjourney.com/version-8-2",
+      "primary_url": "https://updates.midjourney.com/version-8-2",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+          "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Midjourney：Updates（RSS）"
       ],
       "items": [
         {
-          "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-          "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-          "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-          "title_en": "Copilot cloud agent for Linear is now generally available",
-          "title_original": "Copilot cloud agent for Linear is now generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-          "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T22:32:23Z"
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+          "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "官方更新",
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7179,
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T22:32:23Z",
-      "latest_at": "2026-07-23T22:32:23Z",
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
       "primary_item": {
-        "id": "09274412181224c288c30c79cc8cd092e8a6df03",
-        "title": "Copilot 云端智能体现已对 Linear 全面开放 / Copilot cloud agent for Linear is now generally available",
-        "title_zh": "Copilot 云端智能体现已对 Linear 全面开放",
-        "title_en": "Copilot cloud agent for Linear is now generally available",
-        "title_original": "Copilot cloud agent for Linear is now generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot cloud agent现已正式集成Linear，可自动分析并处理分配的问题，支持在工作区中精细控制运行方式，适用于Copilot Pro至Enterprise用户。",
-        "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+        "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "title_en": "Version 8.2",
+        "title_original": "Version 8.2",
+        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+        "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
+        "url": "https://updates.midjourney.com/version-8-2",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "直接集成到Linear工作流，自动处理任务，提高效率。",
+      "persona_score": 72,
+      "persona_review": "设计师可更新体验，美学提升有望减少调参时间。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -560,15 +559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -597,7 +596,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -645,15 +644,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8933,
+        "recency": 0.8705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,7 +680,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -729,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -765,7 +764,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -813,21 +812,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8679,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T13:27:56Z",
       "latest_at": "2026-07-24T13:27:56Z",
@@ -849,7 +847,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -926,15 +924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8489,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -963,7 +961,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1011,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,90 +1044,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
-      }
-    },
-    {
-      "story_id": "story_7d231e7bb6a8",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50.349000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T17:25:50.349000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9431,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T17:25:50.349000Z",
-      "latest_at": "2026-07-24T17:25:50.349000Z",
-      "primary_item": {
-        "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
-        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
-        "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-        "title_en": "The new rules of context engineering for Claude 5 generation models",
-        "title_original": "The new rules of context engineering for Claude 5 generation models",
-        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-        "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "Claude Code 提示词精简技巧可直接套用，优化上下文成本。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1177,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1127,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+          "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:25:50.349000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.919,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T17:25:50.349000Z",
+      "latest_at": "2026-07-24T17:25:50.349000Z",
+      "primary_item": {
+        "id": "9bdb9918b520ffbba73202bacd9f3631e20d3f8e",
+        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80% / The new rules of context engineering for Claude 5 generation models",
+        "title_zh": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+        "title_en": "The new rules of context engineering for Claude 5 generation models",
+        "title_original": "The new rules of context engineering for Claude 5 generation models",
+        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+        "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "Claude Code 提示词精简技巧可直接套用，优化上下文成本。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1260,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8556,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1293,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1343,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9665,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1427,15 +1425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1462,7 +1460,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1510,15 +1508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7281,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,7 +1543,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1593,15 +1591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1628,7 +1626,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1676,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1711,7 +1709,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     },
     {
@@ -1759,15 +1757,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1794,7 +1792,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-24T21:33:34.415402Z"
+        "scored_at": "2026-07-24T23:21:00.469849Z"
       }
     }
   ]
