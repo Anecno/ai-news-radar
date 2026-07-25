@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:37:26.381846Z",
+  "generated_at": "2026-07-25T10:07:40.501554Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_5105aa91a912",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
+      "story_id": "story_a69b2a307509",
+      "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "给API套个保温杯，省下的电费够买杯咖啡吗？"
+          "score": 72,
+          "review": "终于不用拖拽节点了，但自然语言生成的工作流跑起来出bug能怪谁？"
         },
         "paper-police": {
-          "score": 45,
-          "review": "代码开源可复现，但无论文和benchmark，需用户验证效果。"
+          "score": 15,
+          "review": "仅有官方推特宣布，无论文代码或评测，无法验证性能。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "想省Claude API费？直接上这个工具，避免重复付费，今天就能用。"
+          "score": 88,
+          "review": "直接上手试自然语言调工作流，省去拖节点时间。"
         }
       }
     }
