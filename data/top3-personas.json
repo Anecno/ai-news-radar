@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:24:19.540093Z",
+  "generated_at": "2026-07-25T17:20:27.066311Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_db9570cdaf10",
+      "story_id": "story_884b6719295f",
       "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 85,
-          "review": "规格和细节齐全，这次确实有料。"
+          "score": 72,
+          "review": "又一代新模型，基准测试估计又只挑赢的比，输的绝口不提。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "官方发布但无论文无代码，性能宣称有待独立验证。"
+          "score": 25,
+          "review": "官方博客宣称性能，缺论文、代码和第三方评测，目前只能算说法。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "新模型已上线API，立刻可测效果，选型时关注价格和延迟变化。"
-        }
-      }
-    },
-    {
-      "story_id": "story_fdc1a7916c66",
-      "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "官方更新，但不过是多一个模型选项，离改变工作流还早。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方宣布可用，无性能数据或代码，无法验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "Copilot 用户今天就能选 Opus 5，编码质量可能有提升，直接换模型试试。"
+          "review": "新模型API已开放，立刻可调用，性能提升直接用于生产。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_1b6fa8de7ae9",
       "title": "Anthropic的Claude Opus 5以一半代币价格提供接近Fable 5的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
       "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 42,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "直接省一半成本，今天就能切换试用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_59b2266d0512",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+      "url": "https://updates.midjourney.com/version-8-2",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "美学提升？说人话就是滤镜调得更讨喜了，个性化理解是又加了个提示词权重滑块吧。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅有官方更新公告，缺乏可复现的论文、代码及第三方评测。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "设计师可更新体验，美学提升有望减少调参时间。"
         }
       }
     }
