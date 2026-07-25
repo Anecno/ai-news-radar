@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:38:09.568789Z",
+  "generated_at": "2026-07-25T21:12:20.246721Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f8a62f174fa0",
+      "title": "Open-weight AI 正在经历它的 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 30,
+          "review": "Kubernetes 时刻？先看看有没有K8s的生态和工具链再吹。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "纯观点类比，无论文无代码无数据，查无实据。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "观点文章无新工具，开发路线无需调整。"
+        }
+      }
+    },
+    {
       "story_id": "story_74755d9d6ce9",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
       "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 50,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 50,
           "review": "安全事件复盘，对日常开发无直接影响，关注后续补救即可。"
-        }
-      }
-    },
-    {
-      "story_id": "story_354000be966e",
-      "title": "美国企业界突然决定不再在AI上乱花钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "之前撒钱撒得欢，现在突然会算账了？怕是泡沫破了才醒。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "纯商业新闻，无数据无来源可查，等同于传言。"
-        },
-        "pragmatic": {
-          "score": 50,
-          "review": "企业砍AI预算，短期不影响代码，但接私活或跳槽得留意风向。"
         }
       }
     }
