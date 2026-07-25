@@ -30535,5 +30535,14 @@
   "re1|48638f3dfa04716dd3b14bf913e812155aec526a": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
   "re1|82843002dcab3d3d3d429af157084009cc96fa6e": "现代汽车计划2028年前部署人形机器人，但公司澄清该计划与目前韩国工会的部分罢工谈判无关。",
   "re1|3022fa36f7cb006ae6a34e066bdf689df0e7af0a": "Hugging Face CEO Clem Delangue面见OpenAI，要求公开利用GPT-5.6 Sol的自主代理攻击的全部追踪信息，并索取1亿美元计算资源加强防御。",
-  "re1|c372bcec5fe1ac26a3a9f6e0ff4d763ca272f83b": "OpenAI官方确认ChatGPT全球宕机，本文基于官方声明还原了事件最新进展与用户影响范围。"
+  "re1|c372bcec5fe1ac26a3a9f6e0ff4d763ca272f83b": "OpenAI官方确认ChatGPT全球宕机，本文基于官方声明还原了事件最新进展与用户影响范围。",
+  "ds1|General Resolution: LLM Usage in Debian": "通用决议：Debian 中的 LLM 使用",
+  "ds1|Running a 28.9M parameter LLM on an $8 microcontroller": "在8美元微控制器上运行一个28.9M参数LLM",
+  "ds1|Show HN: Minesweeper Raycasted": "Show HN：光线追踪版扫雷",
+  "re1|3003009cec032da3628b63627ec24b11dcaf03d3": "本文揭示了Debian社区关于LLM使用提案的激烈辩论，有人质疑Trixie版本已有多少比例违反第一项提案要求，甚至质问“为何要让Debian消亡”。",
+  "re1|0c1b999aa8a7c457a788a3f3b60d839f720306be": "本文展示了如何在仅售8美元的微控制器上运行一个28.9M参数的LLM，挑战了AI模型对高端硬件的固有依赖，为边缘计算带来全新可能。",
+  "re1|d3b2092cf1e764569a540d51f94a30bbe1047cd4": "普京的原话“谁成为AI领导者，谁就将成为世界统治者”揭示了他长期将AI视为人类新时代霸权之路的核心观点，值得关注地缘政治与科技格局演变。",
+  "re1|197c2413be96ebaddc4f80e9bb195003c3b1bce8": "Debian社区提案禁止LLM辅助贡献，理由包括LLM生成的包混合不同时期内容、watch文件无效，且新提交者无法真正学习打包，易致审阅者倦怠。",
+  "re1|52c6eb65613a3da7d280d98fe52979450ebaf371": "这篇文章展示了一个由Claude用户通过Artifacts创建的Raycasted扫雷游戏，可直接试玩体验，呈现AI生成互动内容的潜力。",
+  "re1|9a0ac0f6bd958140f3362cc6dad8703df4704767": "在8美元的ESP32-S3微控制器上运行28.9M参数语言模型，速度约9 tokens/秒，比此前260K参数模型大100倍，得益于Google的Per-Layer Embeddings技术将大部分模型存于闪存而非RAM。"
 }
