@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:12:20.246721Z",
+  "generated_at": "2026-07-25T22:14:13.856486Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_59b2266d0512",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-      "url": "https://updates.midjourney.com/version-8-2",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "美学提升？说人话就是滤镜调得更讨喜了，个性化理解是又加了个提示词权重滑块吧。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅有官方更新公告，缺乏可复现的论文、代码及第三方评测。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "设计师可更新体验，美学提升有望减少调参时间。"
-        }
-      }
-    },
-    {
       "story_id": "story_f8a62f174fa0",
       "title": "Open-weight AI 正在经历它的 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
       "url": "https://news.ycombinator.com/item?id=49048034",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 30,
@@ -60,7 +40,7 @@
       "story_id": "story_74755d9d6ce9",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
       "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 50,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 50,
           "review": "安全事件复盘，对日常开发无直接影响，关注后续补救即可。"
+        }
+      }
+    },
+    {
+      "story_id": "story_354000be966e",
+      "title": "美国企业界突然决定不再在AI上乱花钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://news.ycombinator.com/item?id=49047448",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "之前撒钱撒得欢，现在突然会算账了？怕是泡沫破了才醒。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "纯商业新闻，无数据无来源可查，等同于传言。"
+        },
+        "pragmatic": {
+          "score": 50,
+          "review": "企业砍AI预算，短期不影响代码，但接私活或跳槽得留意风向。"
         }
       }
     }

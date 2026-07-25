@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T21:09:17.299121Z",
+  "generated_at": "2026-07-25T22:11:01.222511Z",
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_74755d9d6ce9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
+        "scored_at": "2026-07-25T22:14:09.281285Z"
       }
     },
     {
@@ -132,15 +132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -167,90 +167,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
-      }
-    },
-    {
-      "story_id": "story_59b2266d0512",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-      "url": "https://updates.midjourney.com/version-8-2",
-      "primary_url": "https://updates.midjourney.com/version-8-2",
-      "source": "Midjourney：Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "title_en": "Version 8.2",
-          "title_original": "Version 8.2",
-          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-          "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Midjourney：Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "title_en": "Version 8.2",
-          "title_original": "Version 8.2",
-          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-          "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.719,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T22:18:48Z",
-      "latest_at": "2026-07-24T22:18:48Z",
-      "primary_item": {
-        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-        "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "title_en": "Version 8.2",
-        "title_original": "Version 8.2",
-        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-        "recommend_reason_zh": "Midjourney发布V8.2图像模型，主打美学升级与个性化：图像更创意、大胆、精致，随机低质量问题大幅减少，个性化能“理解”用户个人偏好。",
-        "url": "https://updates.midjourney.com/version-8-2",
-        "source": "Midjourney：Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "设计师可更新体验，美学提升有望减少调参时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
+        "scored_at": "2026-07-25T22:14:09.281285Z"
       }
     },
     {
@@ -385,15 +302,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
+      "score": 0.5887,
+      "importance": 0.5887,
+      "importance_score": 0.5887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9747,
+        "recency": 0.9603,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -420,7 +337,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
+        "scored_at": "2026-07-25T22:14:09.281285Z"
+      }
+    },
+    {
+      "story_id": "story_2fe9abb9e4dd",
+      "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": "reply\nGood god, this again. Another group oppressed -- those who stay silent because they don't like being criticized for their stand against the elite! They can stand alongside their political refugees, the white man, the poor downtrodden billionaire, vaccine conspiracy theorists, and those that will not be masked! Yes, there are plenty of insufferable AI advocates, and there are companies that didn't want to sit on the sidelines of a technological revolution. Did people overcorrect? Yes. Are s",
+          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "AI狂潮正在摧毁全球决策 / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "title_zh": "AI狂潮正在摧毁全球决策",
+          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
+          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
+          "summary": null,
+          "recommend_reason_zh": "这篇选自Nikhil Suresh的文章揭露了一个Fortune 500高管私下承认，客户声称AI带来100倍生产力提升的荒谬性，但无人敢反对，因为质疑会令客户难堪并导致合同取消。",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Daring Fireball",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": "reply\nGood god, this again. Another group oppressed -- those who stay silent because they don't like being criticized for their stand against the elite! They can stand alongside their political refugees, the white man, the poor downtrodden billionaire, vaccine conspiracy theorists, and those that will not be masked! Yes, there are plenty of insufferable AI advocates, and there are companies that didn't want to sit on the sidelines of a technological revolution. Did people overcorrect? Yes. Are s",
+          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
+          "title": "AI狂潮正在摧毁全球决策 / ‘AI Mania Is Eviscerating Global Decision-Making’",
+          "title_zh": "AI狂潮正在摧毁全球决策",
+          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
+          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
+          "summary": null,
+          "recommend_reason_zh": "这篇选自Nikhil Suresh的文章揭露了一个Fortune 500高管私下承认，客户声称AI带来100倍生产力提升的荒谬性，但无人敢反对，因为质疑会令客户难堪并导致合同取消。",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T18:15:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9958,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:15:12Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "primary_item": {
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_zh": "AI 热潮正在摧毁全球决策能力",
+        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "summary": "reply\nGood god, this again. Another group oppressed -- those who stay silent because they don't like being criticized for their stand against the elite! They can stand alongside their political refugees, the white man, the poor downtrodden billionaire, vaccine conspiracy theorists, and those that will not be masked! Yes, there are plenty of insufferable AI advocates, and there are companies that didn't want to sit on the sidelines of a technological revolution. Did people overcorrect? Yes. Are s",
+        "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "宏观评论，不写代码就别管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-25T22:14:09.281285Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+      "url": "https://news.ycombinator.com/item?id=49051361",
+      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "reply\nIf we truly had the right abstractions, no one would care to use LLM's for programming.\nreply\nstruct TensorView<T>{\n body: Arc<[T]>,\n shape: [usize],\n stride: [usize],\n offset: usize,\n} Okay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nOkay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nreply\nreply\nreply\nI think we see this pattern over and over and it might just be that the problem domain is a weird projection into more dimensions of complexity ",
+          "recommend_reason_zh": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": "reply\nIf we truly had the right abstractions, no one would care to use LLM's for programming.\nreply\nstruct TensorView<T>{\n body: Arc<[T]>,\n shape: [usize],\n stride: [usize],\n offset: usize,\n} Okay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nOkay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nreply\nreply\nreply\nI think we see this pattern over and over and it might just be that the problem domain is a weird projection into more dimensions of complexity ",
+          "recommend_reason_zh": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9958,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "primary_item": {
+        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+        "title_zh": "Claude 5代模型的上下文工程新规则",
+        "title_en": "The new rules of context engineering for Claude 5 generation models",
+        "title_original": "The new rules of context engineering for Claude 5 generation models",
+        "summary": "reply\nIf we truly had the right abstractions, no one would care to use LLM's for programming.\nreply\nstruct TensorView<T>{\n body: Arc<[T]>,\n shape: [usize],\n stride: [usize],\n offset: usize,\n} Okay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nOkay now fill in all the helper methods. And GPT 5.6 Sol did a good job.\nreply\nreply\nreply\nI think we see this pattern over and over and it might just be that the problem domain is a weird projection into more dimensions of complexity ",
+        "recommend_reason_zh": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
+        "url": "https://news.ycombinator.com/item?id=49051361",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "规则听起来有用，但Claude 5还没出，暂时动不了手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-25T22:14:09.281285Z"
       }
     },
     {
@@ -497,15 +638,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9537,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -532,7 +673,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
+        "scored_at": "2026-07-25T22:14:09.281285Z"
       }
     },
     {
@@ -609,15 +750,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5254,
+      "importance": 0.5254,
+      "importance_score": 0.5254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9001,
+        "recency": 0.8868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -644,7 +785,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-25T21:12:08.649339Z"
+        "scored_at": "2026-07-25T22:14:09.281285Z"
       }
     }
   ]
