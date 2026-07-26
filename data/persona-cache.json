@@ -3116,16 +3116,16 @@
       "scored_at": "2026-07-25T22:14:11.166804Z"
     },
     "story_fd83d61e5894|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "低成本边缘推理有望，但需看是否有现成代码可复用。",
-      "title_hash": "ccd9fe03",
-      "scored_at": "2026-07-25T23:16:05.703273Z"
+      "score": 45,
+      "review": "玩具级演示，算力受限实用性低，非嵌入式开发者不用管。",
+      "title_hash": "8665f9db",
+      "scored_at": "2026-07-26T04:03:10.585357Z"
     },
     "story_b90b03f133ee|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "社区内政，不影响你写代码，等有实际产出再看。",
-      "title_hash": "c8d0b401",
-      "scored_at": "2026-07-25T23:16:07.473901Z"
+      "review": "提案阶段，等实际方案落地再评估影响。",
+      "title_hash": "d58984e0",
+      "scored_at": "2026-07-26T04:03:04.087065Z"
     },
     "story_fd83d61e5894|cynic|f4237a62": {
       "score": 55,
@@ -3140,10 +3140,10 @@
       "scored_at": "2026-07-25T23:16:14.346536Z"
     },
     "story_213f8ad1a1a3|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "融资和评论泄露不写代码，别分了。扫一眼标题完事。",
-      "title_hash": "1a784a82",
-      "scored_at": "2026-07-26T00:17:57.313499Z"
+      "score": 20,
+      "review": "融资暂停和言论泄露，与写代码无关，跳过。",
+      "title_hash": "bacc7b59",
+      "scored_at": "2026-07-26T04:03:06.627446Z"
     },
     "story_f87d3f1e3314|pragmatic|0a5c5b24": {
       "score": 30,
@@ -3156,6 +3156,42 @@
       "review": "职业路径参考，对想投简历的人有用，但今天没法跑代码。",
       "title_hash": "8b9a4ac4",
       "scored_at": "2026-07-26T00:18:03.426350Z"
+    },
+    "story_373076a10218|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "Grok CLI 已可下载，今天就能试 /tutorial 命令。对开发者直接可用。",
+      "title_hash": "029d1e7d",
+      "scored_at": "2026-07-26T04:03:00.358121Z"
+    },
+    "story_053563a28f71|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "Cloudflare新增AI流量选项，具体方案需看文档，对CDN用户有潜在影响。",
+      "title_hash": "f08d1d30",
+      "scored_at": "2026-07-26T04:03:13.335227Z"
+    },
+    "story_373076a10218|cynic|f4237a62": {
+      "score": 35,
+      "review": "一个 /tutorial 命令就值得发条推？命令行套壳而已，核心能力半点没提。",
+      "title_hash": "029d1e7d",
+      "scored_at": "2026-07-26T04:03:17.874207Z"
+    },
+    "story_373076a10218|paper-police|966065bf": {
+      "score": 8,
+      "review": "仅一条推文自称发布，无论文代码benchmark，没法复现。",
+      "title_hash": "029d1e7d",
+      "scored_at": "2026-07-26T04:03:20.544570Z"
+    },
+    "story_053563a28f71|cynic|f4237a62": {
+      "score": 55,
+      "review": "AI流量选项？换个名字卖旧套餐的惯用伎俩。",
+      "title_hash": "f08d1d30",
+      "scored_at": "2026-07-26T04:03:23.820254Z"
+    },
+    "story_053563a28f71|paper-police|966065bf": {
+      "score": 0,
+      "review": "纯新闻稿，无论文代码benchmark，等于什么都没发生。",
+      "title_hash": "f08d1d30",
+      "scored_at": "2026-07-26T04:03:25.879273Z"
     }
   }
 }
