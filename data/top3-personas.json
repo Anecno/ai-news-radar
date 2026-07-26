@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:34:38.660202Z",
+  "generated_at": "2026-07-26T17:21:06.480113Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_373076a10218",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "一个 /tutorial 命令就值得发条推？命令行套壳而已，核心能力半点没提。"
-        },
-        "paper-police": {
-          "score": 8,
-          "review": "仅一条推文自称发布，无论文代码benchmark，没法复现。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "Grok CLI 已可下载，今天就能试 /tutorial 命令。对开发者直接可用。"
-        }
-      }
-    },
-    {
       "story_id": "story_fd83d61e5894",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 78,
           "review": "8美元跑小模型，IoT推理新玩法，仓库已开放可clone试。但参数量小，别期待太高精度。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a3ff96779b04",
+      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "url": "https://www.ithome.com/0/981/688.htm",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "泄露提示词就能复制模型？建议改行当编剧。"
+        },
+        "paper-police": {
+          "score": 6,
+          "review": "泄露内容无官方确认且无任何可验证证据，暂作传闻处理。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "泄露的提示词可作学习参考，但无法直接用于生产。"
         }
       }
     }

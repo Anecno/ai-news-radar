@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T15:30:00.460649Z",
+  "generated_at": "2026-07-26T17:16:33.682097Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_fd83d61e5894",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8459,
+        "recency": 0.8245,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9633,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -256,7 +256,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -304,21 +304,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8822,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T08:35:49Z",
       "latest_at": "2026-07-26T08:35:49Z",
@@ -340,90 +339,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
-      }
-    },
-    {
-      "story_id": "story_373076a10218",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "primary_url": "https://x.com/elonmusk/status/2081174079969632347",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": "下载Grok Build后输入/tutorial即可获取教程，X.ai提供个性化时间线，注册即同意服务条款与隐私政策。",
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "6ead983ec445354837fda616f660a0314129158f",
-          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-          "recommend_reason_zh": "下载Grok Build后输入/tutorial即可获取教程，X.ai提供个性化时间线，注册即同意服务条款与隐私政策。",
-          "url": "https://x.com/elonmusk/status/2081174079969632347",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T00:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8044,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T00:25:41Z",
-      "latest_at": "2026-07-26T00:25:41Z",
-      "primary_item": {
-        "id": "6ead983ec445354837fda616f660a0314129158f",
-        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-        "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
-        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-        "recommend_reason_zh": "下载Grok Build后输入/tutorial即可获取教程，X.ai提供个性化时间线，注册即同意服务条款与隐私政策。",
-        "url": "https://x.com/elonmusk/status/2081174079969632347",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Grok CLI 已可下载，今天就能试 /tutorial 命令。对开发者直接可用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -471,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8663,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -506,7 +422,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -669,15 +585,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8459,
+        "recency": 0.8245,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -704,7 +620,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
+      }
+    },
+    {
+      "story_id": "story_62361e6c3c72",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "primary_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "source": "aerospaceglobalnews.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+          "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场机器人停车",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": "伦敦盖特威克机场引入Stanley Robotics自动泊车机器人，能从车底滑入并抬起轮胎，将车辆运送至安全存储区，这项创新值得了解。",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:30:34.391000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "aerospaceglobalnews.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": null,
+          "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+          "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场机器人停车",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": "伦敦盖特威克机场引入Stanley Robotics自动泊车机器人，能从车底滑入并抬起轮胎，将车辆运送至安全存储区，这项创新值得了解。",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:30:34.391000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+          "title_en": "Park by Robot at London Gatwick Airport",
+          "title_original": "Park by Robot at London Gatwick Airport",
+          "summary": null,
+          "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9919,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T16:42:46.682000Z",
+      "primary_item": {
+        "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+        "title": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
+        "title_en": null,
+        "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
+        "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+        "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+        "source": "aerospaceglobalnews.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "机器人停车非AI开发者日常，看看就好，没有可复用的技术。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -810,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "score": 0.5555,
+      "importance": 0.5555,
+      "importance_score": 0.5555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9386,
+        "recency": 0.9149,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -845,7 +902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -951,15 +1008,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8962,
+        "recency": 0.8736,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -986,44 +1043,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
-      "story_id": "story_62361e6c3c72",
-      "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-      "url": "https://news.ycombinator.com/item?id=49058669",
-      "primary_url": "https://news.ycombinator.com/item?id=49058669",
+      "story_id": "story_635975c99eb1",
+      "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
-          "summary": "reply\nreply\nreply\nreply\nreply\nThe article says: \"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\n\"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\nWhich seems to suggest this.\nreply\nreply\nreply\nreply",
-          "recommend_reason_zh": "伦敦盖特威克机场引入Stanley Robotics自动泊车机器人，能从车底滑入并抬起轮胎，将车辆运送至安全存储区，这项创新值得了解。",
-          "url": "https://news.ycombinator.com/item?id=49058669",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
-          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
-          "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "source_count": 2,
@@ -1033,72 +1090,72 @@
       ],
       "items": [
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
-          "summary": "reply\nreply\nreply\nreply\nreply\nThe article says: \"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\n\"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\nWhich seems to suggest this.\nreply\nreply\nreply\nreply",
-          "recommend_reason_zh": "伦敦盖特威克机场引入Stanley Robotics自动泊车机器人，能从车底滑入并抬起轮胎，将车辆运送至安全存储区，这项创新值得了解。",
-          "url": "https://news.ycombinator.com/item?id=49058669",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-          "title_zh": "伦敦盖特威克机场机器人停车",
-          "title_en": "Park by Robot at London Gatwick Airport",
-          "title_original": "Park by Robot at London Gatwick Airport",
-          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
-          "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "summary": null,
+          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9748,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T14:40:27Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
       "latest_at": "2026-07-26T15:30:34.391000Z",
       "primary_item": {
-        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-        "title": "伦敦盖特威克机场机器人停车 / Park by Robot at London Gatwick Airport",
-        "title_zh": "伦敦盖特威克机场机器人停车",
-        "title_en": "Park by Robot at London Gatwick Airport",
-        "title_original": "Park by Robot at London Gatwick Airport",
-        "summary": "reply\nreply\nreply\nreply\nreply\nThe article says: \"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\n\"A Stanley Robotics autonomous parking robot then slides underneath the vehicle, lifts it by its tyres and transports it to a secure storage area.\" Which seems to suggest this.\nWhich seems to suggest this.\nreply\nreply\nreply\nreply",
-        "recommend_reason_zh": "伦敦盖特威克机场引入Stanley Robotics自动泊车机器人，能从车底滑入并抬起轮胎，将车辆运送至安全存储区，这项创新值得了解。",
-        "url": "https://news.ycombinator.com/item?id=49058669",
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+        "title_zh": "新的AI超级力量：专注与贯彻",
+        "title_en": "The New AI Superpowers: Focus and Followthrough",
+        "title_original": "The New AI Superpowers: Focus and Followthrough",
+        "summary": null,
+        "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+        "url": "https://news.ycombinator.com/item?id=49057877",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "机器人停车虽酷，但跟开发者写代码没关系，看看就好。",
+      "persona_score": 10,
+      "persona_review": "鸡汤文，没有干货，不如去看文档。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -1204,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8459,
+        "recency": 0.8245,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1239,7 +1296,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -1345,15 +1402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7924,
+        "recency": 0.7723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1437,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -1457,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1492,119 +1549,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
-      }
-    },
-    {
-      "story_id": "story_635975c99eb1",
-      "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": "Title: The New AI Superpowers: Focus and Followthrough\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https://news.ycombinator.com",
-          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:30:34.391000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": "Burnout is on the rise again, with an ironic twist.\nBurnout is on the rise again, with an ironic twist.\nBurnout is on the rise again, with an ironic twist.\nConventional wisdom is that burnout is caused (solely) by overwork.\nSo logically, if AI can help us complete tasks 2-100x faster than before, we should be UNDERWORKED and experiencing ZERO burnout, right?\nIf only it were that simple.\nYou may be too young to recognize this meme, but it’s the feeling most people in tech had when AI started acce",
-          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": "Title: The New AI Superpowers: Focus and Followthrough\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https://news.ycombinator.com",
-          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-          "url": "https://news.ycombinator.com/item?id=49057877",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:30:34.391000Z"
-        },
-        {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": "Burnout is on the rise again, with an ironic twist.\nBurnout is on the rise again, with an ironic twist.\nBurnout is on the rise again, with an ironic twist.\nConventional wisdom is that burnout is caused (solely) by overwork.\nSo logically, if AI can help us complete tasks 2-100x faster than before, we should be UNDERWORKED and experiencing ZERO burnout, right?\nIf only it were that simple.\nYou may be too young to recognize this meme, but it’s the feeling most people in tech had when AI started acce",
-          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:30:34.391000Z",
-      "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-        "title_zh": "新的AI超级力量：专注与贯彻",
-        "title_en": "The New AI Superpowers: Focus and Followthrough",
-        "title_original": "The New AI Superpowers: Focus and Followthrough",
-        "summary": "Title: The New AI Superpowers: Focus and Followthrough\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https://news.ycombinator.com",
-        "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-        "url": "https://news.ycombinator.com/item?id=49057877",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 10,
-      "persona_review": "鸡汤文，没有干货，不如去看文档。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -1710,15 +1655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7755,
+        "recency": 0.7558,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1745,7 +1690,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     },
     {
@@ -1822,15 +1767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8024,
+        "recency": 0.7821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1857,119 +1802,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
-      }
-    },
-    {
-      "story_id": "story_b3ff30bbaf7b",
-      "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-      "url": "https://news.ycombinator.com/item?id=49048996",
-      "primary_url": "https://news.ycombinator.com/item?id=49048996",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-          "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会上朗读AI提示词",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": "一名政治家在议会演讲时照读了AI提示词“You are a speech writer, an expert on XYZ… your task is to write ABC…”，暴露出其团队用大语言模型写稿却未仔细检查。",
-          "url": "https://news.ycombinator.com/item?id=49048996",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T17:52:19.298000Z"
-        },
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会上朗读AI提示词",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": "加拿大政客Bill Oliver在立法议会演讲时疑似念出AI提示，相关视频由news.com.au发布，已获29,809次观看，引发对AI介入公职发言的争议。",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-          "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会上朗读AI提示词",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": "一名政治家在议会演讲时照读了AI提示词“You are a speech writer, an expert on XYZ… your task is to write ABC…”，暴露出其团队用大语言模型写稿却未仔细检查。",
-          "url": "https://news.ycombinator.com/item?id=49048996",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T17:52:19.298000Z"
-        },
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-          "title_zh": "政客在集会上朗读AI提示词",
-          "title_en": "Politician reads AI prompt during assembly",
-          "title_original": "Politician reads AI prompt during assembly",
-          "summary": null,
-          "recommend_reason_zh": "加拿大政客Bill Oliver在立法议会演讲时疑似念出AI提示，相关视频由news.com.au发布，已获29,809次观看，引发对AI介入公职发言的争议。",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7317,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:31:15Z",
-      "latest_at": "2026-07-25T17:52:19.298000Z",
-      "primary_item": {
-        "id": "814d58d0a8e50f227792465fdaf16738cddbc617",
-        "title": "政客在集会上朗读AI提示词 / Politician reads AI prompt during assembly",
-        "title_zh": "政客在集会上朗读AI提示词",
-        "title_en": "Politician reads AI prompt during assembly",
-        "title_original": "Politician reads AI prompt during assembly",
-        "summary": null,
-        "recommend_reason_zh": "一名政治家在议会演讲时照读了AI提示词“You are a speech writer, an expert on XYZ… your task is to write ABC…”，暴露出其团队用大语言模型写稿却未仔细检查。",
-        "url": "https://news.ycombinator.com/item?id=49048996",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 10,
-      "persona_review": "跟写代码没关系，纯社会新闻，跳过。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T15:34:33.951350Z"
+        "scored_at": "2026-07-26T17:20:59.518852Z"
       }
     }
   ]
