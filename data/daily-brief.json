@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T17:16:33.682097Z",
+  "generated_at": "2026-07-26T18:15:12.773352Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_fd83d61e5894",
@@ -54,7 +54,7 @@
           "published_at": "2026-07-25T23:13:41.572000Z"
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
           "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
           "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
           "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
@@ -62,15 +62,15 @@
           "summary": null,
           "recommend_reason_zh": "在8美元的ESP32-S3微控制器上运行28.9M参数语言模型，速度约9 tokens/秒，比此前260K参数模型大100倍，得益于Google的Per-Layer Embeddings技术将大部分模型存于闪存而非RAM。",
           "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -119,7 +119,7 @@
           "published_at": "2026-07-25T23:13:41.572000Z"
         },
         {
-          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
           "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
           "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
           "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
@@ -127,23 +127,23 @@
           "summary": null,
           "recommend_reason_zh": "在8美元的ESP32-S3微控制器上运行28.9M参数语言模型，速度约9 tokens/秒，比此前260K参数模型大100倍，得益于Google的Per-Layer Embeddings技术将大部分模型存于闪存而非RAM。",
           "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.813,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9389,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -256,7 +256,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8822,
+        "recency": 0.8698,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,7 +339,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8444,
+        "recency": 0.8325,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,7 +422,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -490,7 +490,7 @@
           "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
           "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "title_zh": "Debian 中 LLM 的应用：三项提案",
           "title_en": "LLM Usage in Debian: Three Proposals",
@@ -498,16 +498,16 @@
           "summary": null,
           "recommend_reason_zh": "Debian新提案明确禁止LLM贡献，涵盖源包、lintian等官方软件及文档翻译，指出LLM输出版权模糊、易产生混合不同时期内容的无效包，且加重审核者负担。",
           "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:44:39Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.debian.org"
       ],
@@ -569,7 +569,7 @@
           "published_at": "2026-07-25T19:44:39Z"
         },
         {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
           "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "title_zh": "Debian 中 LLM 的应用：三项提案",
           "title_en": "LLM Usage in Debian: Three Proposals",
@@ -577,23 +577,23 @@
           "summary": null,
           "recommend_reason_zh": "Debian新提案明确禁止LLM贡献，涵盖源包、lintian等官方软件及文档翻译，指出LLM输出版权模糊、易产生混合不同时期内容的无效包，且加重审核者负担。",
           "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T19:44:39Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5892,
-      "importance": 0.5892,
-      "importance_score": 0.5892,
+      "score": 0.5871,
+      "importance": 0.5871,
+      "importance_score": 0.5871,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.813,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -620,7 +620,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -637,7 +637,7 @@
           "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": null,
           "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
-          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+          "summary": null,
           "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
           "source": "aerospaceglobalnews.com",
@@ -687,7 +687,7 @@
           "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": null,
           "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
-          "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+          "summary": null,
           "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
           "source": "aerospaceglobalnews.com",
@@ -726,15 +726,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9919,
+        "recency": 0.978,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -749,7 +749,7 @@
         "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
         "title_en": null,
         "title_original": "伦敦盖特威克机场的“Park by Robot”服务",
-        "summary": "London Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nLondon Gatwick is the first UK airport to launch robotic parking. Passengers can keep their keys while autonomous robots park their cars.\nJuly 24, 2026\nLondon Gatwick has become the first UK airport to introduce robotic parking, allowing passengers to leave their car in a private drop-off cabin. Autonomous robots park it in a secure storage area and car owners",
+        "summary": null,
         "recommend_reason_zh": "伦敦盖特威克机场成为英国首个引入机器人停车服务的机场，乘客无需交出车钥匙，由Stanley Robotics的自动机器人将车辆存放，8月起开放预订。",
         "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
         "source": "aerospaceglobalnews.com",
@@ -761,7 +761,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -867,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9149,
+        "recency": 0.902,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -902,7 +902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -1008,15 +1008,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8736,
+        "recency": 0.8613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1043,44 +1043,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
-      "story_id": "story_635975c99eb1",
-      "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "story_id": "story_a27a507659d1",
+      "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
+          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:30:34.391000Z"
+          "published_at": "2026-07-26T17:56:02.584000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
           "summary": null,
-          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
+          "url": "https://www.agrillo.it/EvasionEn.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "source_count": 2,
@@ -1090,72 +1090,72 @@
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
+          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T15:30:34.391000Z"
+          "published_at": "2026-07-26T17:56:02.584000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-          "title_zh": "新的AI超级力量：专注与贯彻",
-          "title_en": "The New AI Superpowers: Focus and Followthrough",
-          "title_original": "The New AI Superpowers: Focus and Followthrough",
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
           "summary": null,
-          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
+          "url": "https://www.agrillo.it/EvasionEn.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9748,
+        "recency": 0.9954,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
-      "latest_at": "2026-07-26T15:30:34.391000Z",
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:56:02.584000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
-        "title_zh": "新的AI超级力量：专注与贯彻",
-        "title_en": "The New AI Superpowers: Focus and Followthrough",
-        "title_original": "The New AI Superpowers: Focus and Followthrough",
-        "summary": null,
-        "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
-        "url": "https://news.ycombinator.com/item?id=49057877",
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+        "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+        "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+        "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
+        "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+        "url": "https://news.ycombinator.com/item?id=49059660",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 10,
-      "persona_review": "鸡汤文，没有干货，不如去看文档。",
+      "persona_review": "纯科幻脑洞，对今天写代码没任何影响。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -1261,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1296,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -1402,15 +1402,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7723,
+        "recency": 0.7615,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1437,7 +1437,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -1514,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8702,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,148 +1549,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
-      "story_id": "story_2fe9abb9e4dd",
-      "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "url": "https://news.ycombinator.com/item?id=49051692",
-      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "story_id": "story_635975c99eb1",
+      "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "AI 热潮正在摧毁全球决策能力",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
-          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
-          "url": "https://news.ycombinator.com/item?id=49051692",
+          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "AI 热潮正在摧毁全球决策能力",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
-          "recommend_reason_zh": "一位Fortune 500高管坦白，其公司声称AI带来100倍生产力提升实为销售噱头，但无人敢质疑，否则会被视为异端导致合同取消。本文揭示了全球决策层被AI狂热裹挟，异见者被迫沉默的真相。",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "AI狂潮正在摧毁全球决策 / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "AI狂潮正在摧毁全球决策",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "recommend_reason_zh": "这篇选自Nikhil Suresh的文章揭露了一个Fortune 500高管私下承认，客户声称AI带来100倍生产力提升的荒谬性，但无人敢反对，因为质疑会令客户难堪并导致合同取消。",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
+          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "AI 热潮正在摧毁全球决策能力",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
-          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
-          "url": "https://news.ycombinator.com/item?id=49051692",
+          "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+          "url": "https://news.ycombinator.com/item?id=49057877",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "AI 热潮正在摧毁全球决策能力",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+          "title_zh": "新的AI超级力量：专注与贯彻",
+          "title_en": "The New AI Superpowers: Focus and Followthrough",
+          "title_original": "The New AI Superpowers: Focus and Followthrough",
           "summary": null,
-          "recommend_reason_zh": "一位Fortune 500高管坦白，其公司声称AI带来100倍生产力提升实为销售噱头，但无人敢质疑，否则会被视为异端导致合同取消。本文揭示了全球决策层被AI狂热裹挟，异见者被迫沉默的真相。",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "AI狂潮正在摧毁全球决策 / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "AI狂潮正在摧毁全球决策",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "recommend_reason_zh": "这篇选自Nikhil Suresh的文章揭露了一个Fortune 500高管私下承认，客户声称AI带来100倍生产力提升的荒谬性，但无人敢反对，因为质疑会令客户难堪并导致合同取消。",
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
+          "recommend_reason_zh": "面对AI带来的生产力暴增，作者发现自己反而启动了40个“proof of concept”项目陷入burnout，借用Garry Tan关于99%与100%日食差异的比喻，提出真正关键在于focus and followthrough。",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7558,
-        "story_heat": 0.5
+        "recency": 0.9611,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:30:34.391000Z",
       "primary_item": {
-        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-        "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_zh": "AI 热潮正在摧毁全球决策能力",
-        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的AI超级力量：专注与贯彻 / The New AI Superpowers: Focus and Followthrough",
+        "title_zh": "新的AI超级力量：专注与贯彻",
+        "title_en": "The New AI Superpowers: Focus and Followthrough",
+        "title_original": "The New AI Superpowers: Focus and Followthrough",
         "summary": null,
-        "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
-        "url": "https://news.ycombinator.com/item?id=49051692",
+        "recommend_reason_zh": "这篇文章探讨了在AI领域，“专注”（Focus）和“执行力”（Followthrough）如何成为新的核心竞争力，但原文未提供具体数据或细节，无法生成推荐语。请补充文章内容。",
+        "url": "https://news.ycombinator.com/item?id=49057877",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "宏观评论，不写代码就别管。",
+      "persona_score": 10,
+      "persona_review": "鸡汤文，没有干货，不如去看文档。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     },
     {
@@ -1767,15 +1738,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7821,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1802,7 +1773,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T17:20:59.518852Z"
+        "scored_at": "2026-07-26T18:17:42.088794Z"
+      }
+    },
+    {
+      "story_id": "story_b3261f8eea24",
+      "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "recommend_reason_zh": "一位Fortune 500高管坦白，其公司声称AI带来100倍生产力提升实为销售噱头，但无人敢质疑，否则会被视为异端导致合同取消。本文揭示了全球决策层被AI狂热裹挟，异见者被迫沉默的真相。",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "AI 热潮正在摧毁全球决策能力",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "recommend_reason_zh": "一位Fortune 500高管坦白，其公司声称AI带来100倍生产力提升实为销售噱头，但无人敢质疑，否则会被视为异端导致合同取消。本文揭示了全球决策层被AI狂热裹挟，异见者被迫沉默的真相。",
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7452,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T21:18:06Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "primary_item": {
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "AI 热潮正在摧毁全球决策能力 / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_zh": "AI 热潮正在摧毁全球决策能力",
+        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "summary": null,
+        "recommend_reason_zh": "本文指出AI狂热让企业不愿错失技术革命而过度纠正，同时批评那些因反对精英而沉默的人——将其与疫苗阴谋论者、不戴口罩者并列——并预言有人会因原则回避生成式技术后持续抱怨。",
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "纯观点评论，没有可落地的信息，不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-26T18:17:42.088794Z"
       }
     }
   ]
