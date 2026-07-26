@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T19:37:55.089203Z",
+  "generated_at": "2026-07-26T21:11:41.665862Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_12116ef69e35",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 0.7792,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -162,21 +162,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9801,
+        "recency": 0.9582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T18:14:29Z",
       "latest_at": "2026-07-26T18:14:29Z",
@@ -198,7 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -246,15 +245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -281,7 +280,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -329,15 +328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8527,
+        "recency": 0.8337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -364,7 +363,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -412,15 +411,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8161,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -447,205 +446,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
-      }
-    },
-    {
-      "story_id": "story_b90b03f133ee",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": null,
-          "title_original": "Debian 中 LLM 的应用：三项提案",
-          "summary": null,
-          "recommend_reason_zh": "Debian 社区提出禁止 LLM 贡献的提案，理由包括版权不明、质量不可靠（如 LLM 产生的包会混合过时的语法和无效的 watch files），以及伦理问题中 LLM 公司无视 robots.txt。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "Debian中的LLM使用：三种提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian中的LLM使用：三种提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": "Debian社区针对LLM贡献提出三个提案：A禁止、B有条件允许、C建议避免，投票显示仅1/3支持较宽松立场，可能失去三分之一核心贡献者。",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T03:36:38.722000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "通用决议：Debian 中的 LLM 使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "通用决议：Debian 中的 LLM 使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "recommend_reason_zh": "本文揭示了Debian社区关于LLM使用提案的激烈辩论，有人质疑Trixie版本已有多少比例违反第一项提案要求，甚至质问“为何要让Debian消亡”。",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:13:41.572000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "recommend_reason_zh": "Debian社区提案禁止LLM辅助贡献，理由包括LLM生成的包混合不同时期内容、watch文件无效，且新提交者无法真正学习打包，易致审阅者倦怠。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": "Debian新提案明确禁止LLM贡献，涵盖源包、lintian等官方软件及文档翻译，指出LLM输出版权模糊、易产生混合不同时期内容的无效包，且加重审核者负担。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": null,
-          "title_original": "Debian 中 LLM 的应用：三项提案",
-          "summary": null,
-          "recommend_reason_zh": "Debian 社区提出禁止 LLM 贡献的提案，理由包括版权不明、质量不可靠（如 LLM 产生的包会混合过时的语法和无效的 watch files），以及伦理问题中 LLM 公司无视 robots.txt。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "Debian中的LLM使用：三种提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian中的LLM使用：三种提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": "Debian社区针对LLM贡献提出三个提案：A禁止、B有条件允许、C建议避免，投票显示仅1/3支持较宽松立场，可能失去三分之一核心贡献者。",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T03:36:38.722000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "通用决议：Debian 中的 LLM 使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "通用决议：Debian 中的 LLM 使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "recommend_reason_zh": "本文揭示了Debian社区关于LLM使用提案的激烈辩论，有人质疑Trixie版本已有多少比例违反第一项提案要求，甚至质问“为何要让Debian消亡”。",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:13:41.572000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "recommend_reason_zh": "Debian社区提案禁止LLM辅助贡献，理由包括LLM生成的包混合不同时期内容、watch文件无效，且新提交者无法真正学习打包，易致审阅者倦怠。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "title_zh": "Debian 中 LLM 的应用：三项提案",
-          "title_en": "LLM Usage in Debian: Three Proposals",
-          "title_original": "LLM Usage in Debian: Three Proposals",
-          "summary": null,
-          "recommend_reason_zh": "Debian新提案明确禁止LLM贡献，涵盖源包、lintian等官方软件及文档翻译，指出LLM输出版权模糊、易产生混合不同时期内容的无效包，且加重审核者负担。",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5843,
-      "importance": 0.5843,
-      "importance_score": 0.5843,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7969,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "title_zh": "Debian 中 LLM 的应用：三项提案",
-        "title_en": null,
-        "title_original": "Debian 中 LLM 的应用：三项提案",
-        "summary": null,
-        "recommend_reason_zh": "Debian 社区提出禁止 LLM 贡献的提案，理由包括版权不明、质量不可靠（如 LLM 产生的包会混合过时的语法和无效的 watch files），以及伦理问题中 LLM 公司无视 robots.txt。",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "提案阶段，等实际方案落地再评估影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -685,7 +486,7 @@
           "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": "Park by Robot at London Gatwick Airport",
@@ -693,15 +494,15 @@
           "summary": null,
           "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "aerospaceglobalnews.com",
         "hackernews"
       ],
@@ -735,7 +536,7 @@
           "published_at": "2026-07-26T15:30:34.391000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "title_zh": "伦敦盖特威克机场的“Park by Robot”服务",
           "title_en": "Park by Robot at London Gatwick Airport",
@@ -743,23 +544,23 @@
           "summary": null,
           "recommend_reason_zh": "London Gatwick成为首个推出机器人停车服务的英国机场，与Stanley Robotics合作，乘客保留钥匙，机器人抬车搬运，可提升停车场容量。",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.9373,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -786,7 +587,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -892,15 +693,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.5464,
+      "importance": 0.5464,
+      "importance_score": 0.5464,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8843,
+        "recency": 0.8645,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -927,7 +728,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -944,7 +745,7 @@
           "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
           "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
           "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
           "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
@@ -958,7 +759,7 @@
           "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
           "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
           "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": "Hevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error while loading. Please reload",
+          "summary": null,
           "recommend_reason_zh": "HART OS 是一个开源AI操作系统，主打本地优先和联邦架构，让前沿AI无需数据中心即可运行，适用于从电脑到具身AI的各类设备。",
           "url": "https://github.com/hertz-ai/HARTOS",
           "source": "Hacker News (黑客新闻)",
@@ -979,7 +780,7 @@
           "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
           "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
           "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
           "url": "https://news.ycombinator.com/item?id=49061015",
           "source": "hackernews",
@@ -993,7 +794,7 @@
           "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
           "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
           "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-          "summary": "Hevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error while loading. Please reload",
+          "summary": null,
           "recommend_reason_zh": "HART OS 是一个开源AI操作系统，主打本地优先和联邦架构，让前沿AI无需数据中心即可运行，适用于从电脑到具身AI的各类设备。",
           "url": "https://github.com/hertz-ai/HARTOS",
           "source": "Hacker News (黑客新闻)",
@@ -1004,15 +805,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 0.975,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1027,7 +828,7 @@
         "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
         "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
         "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
-        "summary": "reply",
+        "summary": null,
         "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
         "url": "https://news.ycombinator.com/item?id=49061015",
         "source": "hackernews",
@@ -1039,7 +840,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1145,15 +946,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8443,
+        "recency": 0.8255,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1180,7 +981,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1286,15 +1087,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7969,
+        "recency": 0.7792,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1321,148 +1122,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
-      }
-    },
-    {
-      "story_id": "story_7d231e7bb6a8",
-      "title": "Claude 5 生成模型的上下文工程新规则",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 从 Claude Code 中移除超过 80% 的系统提示词，用于 Claude Opus 5 和 Claude Fable 5 模型且编码评估无损失，揭示了过度约束模型的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 从 Claude Code 中移除超过 80% 的系统提示词，用于 Claude Opus 5 和 Claude Fable 5 模型且编码评估无损失，揭示了过度约束模型的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": "本文通过开发者对话揭示，Claude 5代模型（如Opus 5）在上下文工程中仍频繁出现意外删除和错误，且token用量上升，而GPT 5.6 Sol表现更优，引发对600字提示模板是否过度设计的争议。",
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7465,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T23:23:09.413000Z",
-      "primary_item": {
-        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-        "title": "Claude 5 生成模型的上下文工程新规则",
-        "title_zh": "Claude 5 生成模型的上下文工程新规则",
-        "title_en": null,
-        "title_original": "Claude 5 生成模型的上下文工程新规则",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic 从 Claude Code 中移除超过 80% 的系统提示词，用于 Claude Opus 5 和 Claude Fable 5 模型且编码评估无损失，揭示了过度约束模型的新规则。",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "模型未发布，规则无实操价值。等模型上线再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1488,7 +1148,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -1496,15 +1156,15 @@
           "summary": null,
           "recommend_reason_zh": "Inflect-Micro-v2仅用9.36M参数、37.53MB实现完整本地文本到波形语音合成，社区盲测中获66.2%偏好率，UTMOS22达4.395，CPU即可实时推理，展示了超紧凑TTS的突破性表现。",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "huggingface.co"
       ],
       "items": [
@@ -1523,7 +1183,7 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "title_zh": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
           "title_en": "Inflect-Micro-v2: complete voice in 9.36M parameters",
@@ -1531,23 +1191,23 @@
           "summary": null,
           "recommend_reason_zh": "Inflect-Micro-v2仅用9.36M参数、37.53MB实现完整本地文本到波形语音合成，社区盲测中获66.2%偏好率，UTMOS22达4.395，CPU即可实时推理，展示了超紧凑TTS的突破性表现。",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8411,
+        "recency": 0.8223,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,7 +1234,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1600,7 +1260,7 @@
           "published_at": "2026-07-26T17:56:02.584000Z"
         },
         {
-          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
           "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
           "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
           "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
@@ -1608,15 +1268,15 @@
           "summary": null,
           "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
           "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1635,7 +1295,7 @@
           "published_at": "2026-07-26T17:56:02.584000Z"
         },
         {
-          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "id": "d046f8a5036c00e63c224ef6a2a05e8b8abd7a3d",
           "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
           "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
           "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
@@ -1643,23 +1303,23 @@
           "summary": null,
           "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
           "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9758,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1686,7 +1346,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1763,15 +1423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9422,
+        "recency": 0.9212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1798,7 +1458,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1875,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.4988,
+      "importance": 0.4988,
+      "importance_score": 0.4988,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7559,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1910,7 +1570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     },
     {
@@ -1987,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7306,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2022,7 +1682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T19:40:24.273546Z"
+        "scored_at": "2026-07-26T21:13:50.732797Z"
       }
     }
   ]
