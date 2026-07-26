@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:17:47.136448Z",
+  "generated_at": "2026-07-26T19:40:51.115563Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_fd83d61e5894",
+      "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "跑是能跑，等输出等得花都谢了——你管这叫‘运行’？"
+          "score": 65,
+          "review": "28M参数跑在8美元芯片上，每秒输出不到一个词，这速度还不如用纸笔。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "代码已开源，但缺少论文和独立评测，性能待验证。"
+          "score": 70,
+          "review": "代码开源了，但缺论文和第三方评测，真跑起来才知道行不行。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "8美元跑小模型，IoT推理新玩法，仓库已开放可clone试。但参数量小，别期待太高精度。"
+          "score": 75,
+          "review": "开源可clone，低功耗场景能跑但能力有限，适合原型验证。"
         }
       }
     },
     {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
+      "story_id": "story_b171ba4f1505",
+      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "泄露提示词就能复制模型？建议改行当编剧。"
+          "score": 70,
+          "review": "MIDI导出是实用更新，但遮不住版权官司的阴影。"
         },
         "paper-police": {
-          "score": 6,
-          "review": "泄露内容无官方确认且无任何可验证证据，暂作传闻处理。"
+          "score": 18,
+          "review": "只有官方推文，没有论文、代码和评测，无法验证。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "泄露的提示词可作学习参考，但无法直接用于生产。"
+          "score": 75,
+          "review": "MIDI导出实用，音乐制作工作流能串起来了。"
         }
       }
     }

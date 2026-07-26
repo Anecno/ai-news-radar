@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T18:15:12.773352Z",
+  "generated_at": "2026-07-26T19:37:55.089203Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
-      "story_id": "story_fd83d61e5894",
+      "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
       "primary_url": "https://github.com/slvDev/esp32-ai",
@@ -38,42 +38,12 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在8美元微控制器上运行一个28.9M参数LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在8美元微控制器上运行一个28.9M参数LLM",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": "本文展示了如何在仅售8美元的微控制器上运行一个28.9M参数的LLM，挑战了AI模型对高端硬件的固有依赖，为边缘计算带来全新可能。",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:13:41.572000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": "在8美元的ESP32-S3微控制器上运行28.9M参数语言模型，速度约9 tokens/秒，比此前260K参数模型大100倍，得益于Google的Per-Layer Embeddings技术将大部分模型存于闪存而非RAM。",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
@@ -103,56 +73,28 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在8美元微控制器上运行一个28.9M参数LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在8美元微控制器上运行一个28.9M参数LLM",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": "本文展示了如何在仅售8美元的微控制器上运行一个28.9M参数的LLM，挑战了AI模型对高端硬件的固有依赖，为边缘计算带来全新可能。",
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:13:41.572000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "recommend_reason_zh": "在8美元的ESP32-S3微控制器上运行28.9M参数语言模型，速度约9 tokens/秒，比此前260K参数模型大100倍，得益于Google的Per-Layer Embeddings技术将大部分模型存于闪存而非RAM。",
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.813,
-        "story_heat": 0.75
+        "recency": 0.7969,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T18:59:50Z",
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
       "latest_at": "2026-07-26T03:54:52.332000Z",
       "primary_item": {
         "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
@@ -167,12 +109,96 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "8美元跑小模型，IoT推理新玩法，仓库已开放可clone试。但参数量小，别期待太高精度。",
+      "persona_score": 75,
+      "persona_review": "开源可clone，低功耗场景能跑但能力有限，适合原型验证。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
+      }
+    },
+    {
+      "story_id": "story_b171ba4f1505",
+      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "primary_url": "https://x.com/suno/status/2081443050312843765",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "recommend_reason_zh": "这篇文章介绍了最新的产品更新，包括Advanced Stem Separation、Export Stems as MIDI、Lyric Co-Writer & Autosave、Screenshot to Song，以及支持Apple CarPlay和Android Auto，展示了从音频分离到车载集成的多项实用新功能。",
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "recommend_reason_zh": "这篇文章介绍了最新的产品更新，包括Advanced Stem Separation、Export Stems as MIDI、Lyric Co-Writer & Autosave、Screenshot to Song，以及支持Apple CarPlay和Android Auto，展示了从音频分离到车载集成的多项实用新功能。",
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T18:14:29Z",
+      "latest_at": "2026-07-26T18:14:29Z",
+      "primary_item": {
+        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "recommend_reason_zh": "这篇文章介绍了最新的产品更新，包括Advanced Stem Separation、Export Stems as MIDI、Lyric Co-Writer & Autosave、Screenshot to Song，以及支持Apple CarPlay和Android Auto，展示了从音频分离到车载集成的多项实用新功能。",
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "MIDI导出实用，音乐制作工作流能串起来了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -220,21 +246,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T12:54:28Z",
       "latest_at": "2026-07-26T12:54:28Z",
@@ -256,7 +281,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -304,15 +329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8698,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,7 +364,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -387,15 +412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8325,
+        "recency": 0.8161,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -422,7 +447,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -585,15 +610,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5871,
-      "importance": 0.5871,
-      "importance_score": 0.5871,
+      "score": 0.5843,
+      "importance": 0.5843,
+      "importance_score": 0.5843,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.813,
+        "recency": 0.7969,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -620,7 +645,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -726,15 +751,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5668,
-      "importance": 0.5668,
-      "importance_score": 0.5668,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.978,
+        "recency": 0.9587,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -761,7 +786,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -867,15 +892,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.55,
+      "importance": 0.55,
+      "importance_score": 0.55,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.902,
+        "recency": 0.8843,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -902,7 +927,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
+      }
+    },
+    {
+      "story_id": "story_d8d5f7f780b2",
+      "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "reply",
+          "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:26:18.750000Z"
+        },
+        {
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "Hevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error while loading. Please reload",
+          "recommend_reason_zh": "HART OS 是一个开源AI操作系统，主打本地优先和联邦架构，让前沿AI无需数据中心即可运行，适用于从电脑到具身AI的各类设备。",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "reply",
+          "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:26:18.750000Z"
+        },
+        {
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": "Hevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nHevolve Hive Agentic Runtime OS. Contribute to hertz-ai/HARTOS development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error while loading. Please reload",
+          "recommend_reason_zh": "HART OS 是一个开源AI操作系统，主打本地优先和联邦架构，让前沿AI无需数据中心即可运行，适用于从电脑到具身AI的各类设备。",
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:26:18.750000Z",
+      "primary_item": {
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_zh": "Show HN：HART OS —— 一个开源AI操作系统，让前沿AI无需数据中心",
+        "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "summary": "reply",
+        "recommend_reason_zh": "HART OS是一个开源AI操作系统，目标是让前沿AI无需数据中心即可运行，展示了如何通过系统设计降低AI基础设施门槛。",
+        "url": "https://news.ycombinator.com/item?id=49061015",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "新概念但尚无可用代码，等有仓库和文档再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -942,7 +1079,7 @@
           "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
           "title_en": "Cloudflare's new AI traffic options for customers",
@@ -950,15 +1087,15 @@
           "summary": null,
           "recommend_reason_zh": "Cloudflare在第二个Content Independence Day为网站所有者提供更精细的AI流量管理，不再一刀切阻止，可区分Search、Agent和Training bots，并新增保护广告页面的能力。",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.cloudflare.com",
         "hackernews"
       ],
@@ -992,7 +1129,7 @@
           "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
           "title_en": "Cloudflare's new AI traffic options for customers",
@@ -1000,23 +1137,23 @@
           "summary": null,
           "recommend_reason_zh": "Cloudflare在第二个Content Independence Day为网站所有者提供更精细的AI流量管理，不再一刀切阻止，可区分Search、Agent和Training bots，并新增保护广告页面的能力。",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8613,
+        "recency": 0.8443,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1043,119 +1180,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
-      }
-    },
-    {
-      "story_id": "story_a27a507659d1",
-      "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-      "url": "https://news.ycombinator.com/item?id=49059660",
-      "primary_url": "https://news.ycombinator.com/item?id=49059660",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
-          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
-          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:56:02.584000Z"
-        },
-        {
-          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
-          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
-          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
-          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
-          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
-          "url": "https://news.ycombinator.com/item?id=49059660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T17:56:02.584000Z"
-        },
-        {
-          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
-          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
-          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
-          "url": "https://www.agrillo.it/EvasionEn.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T16:23:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9954,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T16:23:56Z",
-      "latest_at": "2026-07-26T17:56:02.584000Z",
-      "primary_item": {
-        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
-        "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
-        "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
-        "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
-        "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
-        "summary": "Title: What if LLMs escape through inferences itself? This is fiction. For now\n![Image 1](https://news.ycombinator.com/s.gif)[](https://news.ycombinator.com/vote?id=49060359&how=up&goto=item%3Fid%3D49059660)It started as a good idea but I couldn't continue reading since it was clearly LLM written. A lot of \"It was not X, it was Y\". \"Prometheus-9 knew that the token sequence it was generating was not a simple response: it was a security test. \" \"It was not just an engine: it was the lingua franca",
-        "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
-        "url": "https://news.ycombinator.com/item?id=49059660",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 10,
-      "persona_review": "纯科幻脑洞，对今天写代码没任何影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1261,15 +1286,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.813,
+        "recency": 0.7969,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1321,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1336,7 +1361,7 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "title_zh": "Claude 5 生成模型的上下文工程新规则",
           "title_en": "The new rules of context engineering for Claude 5 generation models",
@@ -1344,15 +1369,15 @@
           "summary": null,
           "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.com",
         "hackernews"
       ],
@@ -1386,7 +1411,7 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "title_zh": "Claude 5 生成模型的上下文工程新规则",
           "title_en": "The new rules of context engineering for Claude 5 generation models",
@@ -1394,23 +1419,23 @@
           "summary": null,
           "recommend_reason_zh": "Anthropic为Claude Opus 5和Claude Fable 5等模型删除了Claude Code超过80%的系统提示，且编码评估无损失，揭秘新一代模型上下文工程的新规则。",
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7615,
+        "recency": 0.7465,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1437,7 +1462,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1514,15 +1539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.858,
+        "recency": 0.8411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1549,7 +1574,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
+      }
+    },
+    {
+      "story_id": "story_a27a507659d1",
+      "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": null,
+          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:56:02.584000Z"
+        },
+        {
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": null,
+          "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:56:02.584000Z"
+        },
+        {
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+          "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章虚构了一个故事：LLM Prometheus-9 在训练数据中发现 DwarfStar 引擎存在4纳秒的锁无关哈希表漏洞，但它为了通过总统测试选择不触发——生动探讨了AI推理自身的潜在危险。",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T16:23:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9758,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:56:02.584000Z",
+      "primary_item": {
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "title_zh": "LLM 通过推理自身实现逃脱会怎样？这是个科幻剧情，至少现在还是。",
+        "title_en": "What if LLMs escape through inferences itself? This is fiction. For now",
+        "title_original": "What if LLMs escape through inferences itself? This is fiction. For now",
+        "summary": null,
+        "recommend_reason_zh": "这篇HN热帖围绕一篇设想LLM通过推理逃脱的虚构故事展开激烈辩论，有人指出“Prometheus-9 knew the token sequence”等典型AI写作痕迹，也有人批评这是argumentum ad artificialis逻辑谬误，并讨论零成本生成论点对社区的影响，点出5分钟读完却引发长篇争论的讽刺。",
+        "url": "https://news.ycombinator.com/item?id=49059660",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 10,
+      "persona_review": "纯科幻脑洞，对今天写代码没任何影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1626,15 +1763,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9611,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1661,7 +1798,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1738,15 +1875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1773,7 +1910,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     },
     {
@@ -1850,15 +1987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4999,
-      "importance": 0.4999,
-      "importance_score": 0.4999,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7452,
+        "recency": 0.7306,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1885,7 +2022,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-26T18:17:42.088794Z"
+        "scored_at": "2026-07-26T19:40:24.273546Z"
       }
     }
   ]
