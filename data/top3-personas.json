@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:03:25.879350Z",
+  "generated_at": "2026-07-26T06:51:37.832514Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_fd83d61e5894",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "跑是能跑，等输出等得花都谢了——你管这叫‘运行’？"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "代码已开源，但缺少论文和独立评测，性能待验证。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "8美元跑小模型，IoT推理新玩法，仓库已开放可clone试。但参数量小，别期待太高精度。"
+        }
+      }
+    },
+    {
       "story_id": "story_053563a28f71",
       "title": "Cloudflare为客户提供新的AI流量选项 / Cloudflare's new AI traffic options for customers",
       "url": "https://news.ycombinator.com/item?id=49052564",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 60,
           "review": "Cloudflare新增AI流量选项，具体方案需看文档，对CDN用户有潜在影响。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f8a62f174fa0",
-      "title": "Open-weight AI 正在经历它的 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-      "url": "https://news.ycombinator.com/item?id=49048034",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 30,
-          "review": "Kubernetes 时刻？先看看有没有K8s的生态和工具链再吹。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "纯观点类比，无论文无代码无数据，查无实据。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "观点文章无新工具，开发路线无需调整。"
         }
       }
     }
