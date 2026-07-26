@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T06:51:37.832514Z",
+  "generated_at": "2026-07-26T09:29:57.914834Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_56214f7f40b3",
+      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 50,
+          "review": "完整语音模型？先通过通用语音测试再来谈完整。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "模型已开源，但缺论文和独立评测，效果存疑。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "9M参数语音模型已开源，适合边缘部署，今天就能下载试用。"
+        }
+      }
+    },
+    {
       "story_id": "story_373076a10218",
       "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
       "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -40,7 +60,7 @@
       "story_id": "story_fd83d61e5894",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 78,
           "review": "8美元跑小模型，IoT推理新玩法，仓库已开放可clone试。但参数量小，别期待太高精度。"
-        }
-      }
-    },
-    {
-      "story_id": "story_053563a28f71",
-      "title": "Cloudflare为客户提供新的AI流量选项 / Cloudflare's new AI traffic options for customers",
-      "url": "https://news.ycombinator.com/item?id=49052564",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "AI流量选项？换个名字卖旧套餐的惯用伎俩。"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "纯新闻稿，无论文代码benchmark，等于什么都没发生。"
-        },
-        "pragmatic": {
-          "score": 60,
-          "review": "Cloudflare新增AI流量选项，具体方案需看文档，对CDN用户有潜在影响。"
         }
       }
     }
