@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:15:49.759977Z",
+  "generated_at": "2026-07-27T04:09:07.112230Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,42 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_56214f7f40b3",
-      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "story_id": "story_87f4abb6708f",
+      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 50,
-          "review": "完整语音模型？先通过通用语音测试再来谈完整。"
+          "score": 62,
+          "review": "20亿Token烧出个开源skill？成本够拍十场发布会了。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "模型已开源，但缺论文和独立评测，效果存疑。"
+          "score": 25,
+          "review": "仅公众号宣称开源，未见论文与评测，需查证代码仓库。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "9M参数语音模型已开源，适合边缘部署，今天就能下载试用。"
+          "review": "开源即用，帮你省掉试错成本，Agent开发者赶紧clone。"
         }
       }
     },
     {
-      "story_id": "story_12116ef69e35",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
+      "story_id": "story_8c2285d406e4",
+      "title": "​Midjourney 推出 V8.2 图像模型：审美更锋利、废片大减，个性化更懂你的口味",
+      "url": "https://www.aibase.com/news/29896",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "28M参数跑在8美元芯片上，每秒输出不到一个词，这速度还不如用纸笔。"
+          "score": 72,
+          "review": "废片大减？请定义下‘废片’，是你们觉得还是我觉得？审美这玩意儿别吹太玄。"
         },
         "paper-police": {
-          "score": 70,
-          "review": "代码开源了，但缺论文和第三方评测，真跑起来才知道行不行。"
+          "score": 8,
+          "review": "仅新闻报道，无论文无代码无benchmark，信源不可验证。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "开源可clone，低功耗场景能跑但能力有限，适合原型验证。"
+          "score": 88,
+          "review": "订阅用户直接升级，废片减少提效明显。"
         }
       }
     },
