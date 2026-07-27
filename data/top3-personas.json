@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:22:38.146323Z",
+  "generated_at": "2026-07-27T17:20:17.682223Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 90,
+          "review": "2.8T的参数是实打实的大，但你先告诉我要多少显存才能跑起来。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "权重和技术报告已公开，但缺独立benchmark验证，需等第三方复现。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "2.8T MoE 权重和技术报告已开源，可直接下载部署，今天就能上手实验。"
+        }
+      }
+    },
+    {
       "story_id": "story_1ea579ee44b6",
       "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
       "url": "https://www.aibase.com/news/29917",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -40,7 +60,7 @@
       "story_id": "story_71876d6c1e78",
       "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
       "url": "https://www.aibase.com/news/29912",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "一键部署省去配置麻烦，直接上手发布AI应用，对开发者是实在的效率提升。"
-        }
-      }
-    },
-    {
-      "story_id": "story_87f4abb6708f",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "20亿Token烧出个开源skill？成本够拍十场发布会了。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅公众号宣称开源，未见论文与评测，需查证代码仓库。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "开源即用，帮你省掉试错成本，Agent开发者赶紧clone。"
         }
       }
     }
