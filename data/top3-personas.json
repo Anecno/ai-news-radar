@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:21:10.453459Z",
+  "generated_at": "2026-07-29T22:21:04.370799Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_407f953ae8e0",
+      "title": "Copilot代码审查：Agent技能和MCP现已正式推出 / Copilot code review: Agent skills and MCP now generally available",
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "Agent技能和MCP都是之前预告过的，正式版就是补个票。"
+        },
+        "paper-police": {
+          "score": 28,
+          "review": "官方公告但无论文代码和benchmark，只有功能描述无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "GitHub Copilot代码审查的Agent技能和MCP正式上线，今天就能集成到工作流中提效。"
+        }
+      }
+    },
+    {
       "story_id": "story_8e9a39b56823",
       "title": "Copilot Business和Enterprise默认启用模型 / Default model enablement for Copilot Business and Enterprise",
       "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "默认模型改了，检查你的 Copilot 设置，确保不影响已有项目习惯。"
-        }
-      }
-    },
-    {
-      "story_id": "story_0b6f3b872327",
-      "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
-      "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "开源检测层？先看看能不能拦住自家那些花哨的agent。"
-        },
-        "paper-police": {
-          "score": 68,
-          "review": "开源声明已发，等代码仓库和 benchmark 验证，暂缺独立评测。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "直接可用，Agent 检测场景今天就能拉下来用。"
         }
       }
     }
