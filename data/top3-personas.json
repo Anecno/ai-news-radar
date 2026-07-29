@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:52:48.551575Z",
+  "generated_at": "2026-07-29T21:21:10.453459Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_aa4a42f08412",
+      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "三个名字倒挺科幻，换个壳就说融合前沿，先跑个第三方基准再说？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣称性能，无论文无代码，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 93,
+          "review": "新模型已开放，Sol、Terra、Luna三款可选，立即试用看性价比和特色能力。"
+        }
+      }
+    },
+    {
       "story_id": "story_8e9a39b56823",
       "title": "Copilot Business和Enterprise默认启用模型 / Default model enablement for Copilot Business and Enterprise",
       "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -40,7 +60,7 @@
       "story_id": "story_0b6f3b872327",
       "title": "Perplexity 开源智能体检测层 Numbat / Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
       "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "直接可用，Agent 检测场景今天就能拉下来用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b76147d8f088",
-      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "2GB 跑 26B 模型？先告诉我这得量化到几位，每秒吐几个字。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "开源代码存在，但缺论文和benchmark，能否2GB跑Gemma4 26B待验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "直接 clone 仓库，M 芯片 Mac 上跑 26B 模型，2GB 内存就能用。"
         }
       }
     }
