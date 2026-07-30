@@ -4298,10 +4298,28 @@
       "scored_at": "2026-07-29T22:21:04.370727Z"
     },
     "story_54430aee701b|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "可能涉及推理时超参数技巧，跑类似基准的可以复现试试。",
-      "title_hash": "5163091c",
-      "scored_at": "2026-07-29T23:22:35.389714Z"
+      "score": 90,
+      "review": "两个新设置直接拉高推理得分，需高准确率的任务立即调整API参数。",
+      "title_hash": "4ef7396e",
+      "scored_at": "2026-07-30T00:20:44.734345Z"
+    },
+    "story_a314f7fdcee9|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "安全威胁案例，提醒排查自有空间权限，但无具体工具可抄。",
+      "title_hash": "73ef3eaa",
+      "scored_at": "2026-07-30T00:20:47.279574Z"
+    },
+    "story_54430aee701b|cynic|f4237a62": {
+      "score": 45,
+      "review": "三倍提升？先报基数是0.1还是100吧。",
+      "title_hash": "4ef7396e",
+      "scored_at": "2026-07-30T00:20:50.886849Z"
+    },
+    "story_54430aee701b|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方博客声称提升三倍，但无论文无开源无第三方复现，等待验证。",
+      "title_hash": "4ef7396e",
+      "scored_at": "2026-07-30T00:20:53.500236Z"
     }
   }
 }

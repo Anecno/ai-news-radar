@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:22:35.389915Z",
+  "generated_at": "2026-07-30T00:20:53.500348Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_aa4a42f08412",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 42,
-          "review": "三个名字倒挺科幻，换个壳就说融合前沿，先跑个第三方基准再说？"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方博客宣称性能，无论文无代码，无法独立验证。"
-        },
-        "pragmatic": {
-          "score": 93,
-          "review": "新模型已开放，Sol、Terra、Luna三款可选，立即试用看性价比和特色能力。"
-        }
-      }
-    },
-    {
       "story_id": "story_407f953ae8e0",
       "title": "Copilot代码审查：Agent技能和MCP现已正式推出 / Copilot code review: Agent skills and MCP now generally available",
       "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 92,
           "review": "GitHub Copilot代码审查的Agent技能和MCP正式上线，今天就能集成到工作流中提效。"
+        }
+      }
+    },
+    {
+      "story_id": "story_54430aee701b",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "三倍提升？先报基数是0.1还是100吧。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方博客声称提升三倍，但无论文无开源无第三方复现，等待验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "两个新设置直接拉高推理得分，需高准确率的任务立即调整API参数。"
         }
       }
     },

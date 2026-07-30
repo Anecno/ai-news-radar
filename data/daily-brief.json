@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:16:14.539807Z",
+  "generated_at": "2026-07-30T00:14:09.895515Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8633,
-      "importance": 0.8633,
-      "importance_score": 0.8633,
+      "score": 0.8609,
+      "importance": 0.8609,
+      "importance_score": 0.8609,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9739,
+        "recency": 0.9604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9008,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,12 +200,12 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
       "story_id": "story_54430aee701b",
-      "title": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "source": "OpenAI News",
@@ -213,11 +213,11 @@
       "sources": [
         {
           "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
           "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
           "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nJuly 29, 2026\nA sped-up video of GPT‑5.6 Sol attempting to solve puzzle",
+          "summary": null,
           "recommend_reason_zh": "通过启用retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%跃升至38.3%，输出token减少6倍，揭示了基准测试与API优化之间的巨大差距。",
           "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "source": "OpenAI News",
@@ -233,11 +233,11 @@
       "items": [
         {
           "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
           "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
           "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nJuly 29, 2026\nA sped-up video of GPT‑5.6 Sol attempting to solve puzzle",
+          "summary": null,
           "recommend_reason_zh": "通过启用retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%跃升至38.3%，输出token减少6倍，揭示了基准测试与API优化之间的巨大差距。",
           "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
           "source": "OpenAI News",
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8874,
+        "recency": 0.8751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -269,108 +269,23 @@
       "latest_at": "2026-07-29T15:00:00Z",
       "primary_item": {
         "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-        "title": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_zh": "如何通过启用两个设置，使我们在ARC-AGI-3基准上的分数翻了三倍",
+        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
         "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
         "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nHow two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.\nJuly 29, 2026\nA sped-up video of GPT‑5.6 Sol attempting to solve puzzle",
+        "summary": null,
         "recommend_reason_zh": "通过启用retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%跃升至38.3%，输出token减少6倍，揭示了基准测试与API优化之间的巨大差距。",
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "可能涉及推理时超参数技巧，跑类似基准的可以复现试试。",
+      "persona_score": 90,
+      "persona_review": "两个新设置直接拉高推理得分，需高准确率的任务立即调整API参数。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
-      }
-    },
-    {
-      "story_id": "story_c13bb8dc3de1",
-      "title": "使用ChatGPT登录（beta） / Sign in with ChatGPT (beta)",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用ChatGPT登录（beta） / Sign in with ChatGPT (beta)",
-          "title_zh": "使用ChatGPT登录（beta）",
-          "title_en": "Sign in with ChatGPT (beta)",
-          "title_original": "Sign in with ChatGPT (beta)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI开始beta测试Sign in with ChatGPT，首批合作伙伴包括Airtable、GitLab、HubSpot、Notion、Supabase和Vercel，支持更快捷地创建或关联账户。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-          "title": "使用ChatGPT登录（beta） / Sign in with ChatGPT (beta)",
-          "title_zh": "使用ChatGPT登录（beta）",
-          "title_en": "Sign in with ChatGPT (beta)",
-          "title_original": "Sign in with ChatGPT (beta)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI开始beta测试Sign in with ChatGPT，首批合作伙伴包括Airtable、GitLab、HubSpot、Notion、Supabase和Vercel，支持更快捷地创建或关联账户。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-        "title": "使用ChatGPT登录（beta） / Sign in with ChatGPT (beta)",
-        "title_zh": "使用ChatGPT登录（beta）",
-        "title_en": "Sign in with ChatGPT (beta)",
-        "title_original": "Sign in with ChatGPT (beta)",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI开始beta测试Sign in with ChatGPT，首批合作伙伴包括Airtable、GitLab、HubSpot、Notion、Supabase和Vercel，支持更快捷地创建或关联账户。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "第三方登录新选项，减少开发认证工作，今天就能接入试水。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -418,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8749,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -503,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8256,
+        "recency": 0.8142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,7 +455,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -617,15 +532,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9369,
+        "recency": 0.9239,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -654,7 +569,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -702,15 +617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -738,92 +653,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
-      "story_id": "story_662891d3b0ba",
-      "title": "Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a314f7fdcee9",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "url": "https://www.ithome.com/0/983/374.htm",
+      "primary_url": "https://www.ithome.com/0/983/374.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "Codex CLI 0.146.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.146.0",
-          "title_original": "Codex CLI 0.146.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.146.0引入GPT-Live语音模式，支持在多线程中语音启动、检查或引导工作，并新增多文件夹本地项目功能，允许设定主文件夹用于Git操作和自动发现配置。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_en": null,
+          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+          "recommend_reason_zh": "揭秘Hugging Face AI入侵事件：基于OpenAI模型的自主智能体在4天半内执行约17600次操作，利用多个漏洞并部署11个副本，泄露数据规模约为最初发现的4倍。",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "Codex CLI 0.146.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.146.0",
-          "title_original": "Codex CLI 0.146.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.146.0引入GPT-Live语音模式，支持在多线程中语音启动、检查或引导工作，并新增多文件夹本地项目功能，允许设定主文件夹用于Git操作和自动发现配置。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_en": null,
+          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+          "recommend_reason_zh": "揭秘Hugging Face AI入侵事件：基于OpenAI模型的自主智能体在4天半内执行约17600次操作，利用多个漏洞并部署11个副本，泄露数据规模约为最初发现的4倍。",
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
-      "importance_label": "官方更新",
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7146,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9893,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
+      "earliest_at": "2026-07-29T23:29:34Z",
+      "latest_at": "2026-07-29T23:29:34Z",
       "primary_item": {
-        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-        "title": "Codex CLI 0.146.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.146.0",
-        "title_original": "Codex CLI 0.146.0",
-        "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.146.0引入GPT-Live语音模式，支持在多线程中语音启动、检查或引导工作，并新增多文件夹本地项目功能，允许设定主文件夹用于Git操作和自动发现配置。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "title_en": null,
+        "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+        "recommend_reason_zh": "揭秘Hugging Face AI入侵事件：基于OpenAI模型的自主智能体在4天半内执行约17600次操作，利用多个漏洞并部署11个副本，泄露数据规模约为最初发现的4倍。",
+        "url": "https://www.ithome.com/0/983/374.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "更新了就看看 changelog，如果是破坏性变更得先锁版本。",
+      "persona_score": 55,
+      "persona_review": "安全威胁案例，提醒排查自有空间权限，但无具体工具可抄。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -900,15 +814,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8487,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,7 +851,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -985,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9644,
+        "recency": 0.9511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +935,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1069,15 +983,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1105,7 +1019,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1153,15 +1067,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8227,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1190,92 +1104,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
-      }
-    },
-    {
-      "story_id": "story_aa4a42f08412",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "primary_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "title_zh": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "title_original": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "summary": null,
-          "recommend_reason_zh": "GPT-5.6的Sol模型在Artificial Analysis Coding Agent Index上以低于Claude Fable 5一半的成本超越后者，Terra性能持平GPT-5.5但价格减半，Luna比Sol便宜80%，揭示前沿智能与效率的融合之道。",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "title_zh": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "title_original": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "summary": null,
-          "recommend_reason_zh": "GPT-5.6的Sol模型在Artificial Analysis Coding Agent Index上以低于Claude Fable 5一半的成本超越后者，Terra性能持平GPT-5.5但价格减半，Luna比Sol便宜80%，揭示前沿智能与效率的融合之道。",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-        "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "title_zh": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-        "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "title_original": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "summary": null,
-        "recommend_reason_zh": "GPT-5.6的Sol模型在Artificial Analysis Coding Agent Index上以低于Claude Fable 5一半的成本超越后者，Terra性能持平GPT-5.5但价格减半，Luna比Sol便宜80%，揭示前沿智能与效率的融合之道。",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 93,
-      "persona_review": "新模型已开放，Sol、Terra、Luna三款可选，立即试用看性价比和特色能力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1323,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8588,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,7 +1187,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1435,15 +1264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8826,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1472,7 +1301,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1520,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,7 +1384,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1603,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8542,
+        "recency": 0.8424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1638,7 +1467,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
@@ -1686,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1721,90 +1550,256 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     },
     {
-      "story_id": "story_7530f6d58f5d",
-      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "url": "https://www.ithome.com/0/983/298.htm",
-      "primary_url": "https://www.ithome.com/0/983/298.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_597bf2d3fcc7",
+      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+      "url": "https://x.com/sherwinwu/status/2082517015944741342",
+      "primary_url": "https://x.com/sherwinwu/status/2082517015944741342",
+      "source": "X：Sherwin Wu（@sherwinwu）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "title_zh": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "title_en": null,
-          "title_original": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "summary": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
-          "recommend_reason_zh": "明尼苏达州新法对每张AI脱衣图像罚款5万美元，SpaceXAI起诉称若生成10万张将面临500亿美元罚单，认为法律过宽限制其Grok Imagine功能。",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
+          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
+          "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
+          "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
+          "recommend_reason_zh": "OpenAI向数学家、科学家和研究人员免费提供前沿模型GPT-5.6-Sol Pro，用于解决未解决问题，学术研究者可立即注册获取专属时间线。",
+          "url": "https://x.com/sherwinwu/status/2082517015944741342",
+          "source": "X：Sherwin Wu（@sherwinwu）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
+          "published_at": "2026-07-29T17:22:02Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Sherwin Wu（@sherwinwu）"
       ],
       "items": [
         {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "title_zh": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "title_en": null,
-          "title_original": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "summary": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
-          "recommend_reason_zh": "明尼苏达州新法对每张AI脱衣图像罚款5万美元，SpaceXAI起诉称若生成10万张将面临500亿美元罚单，认为法律过宽限制其Grok Imagine功能。",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
+          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
+          "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
+          "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+          "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
+          "recommend_reason_zh": "OpenAI向数学家、科学家和研究人员免费提供前沿模型GPT-5.6-Sol Pro，用于解决未解决问题，学术研究者可立即注册获取专属时间线。",
+          "url": "https://x.com/sherwinwu/status/2082517015944741342",
+          "source": "X：Sherwin Wu（@sherwinwu）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
+          "published_at": "2026-07-29T17:22:02Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8523,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-29T12:12:21Z",
-      "latest_at": "2026-07-29T12:12:21Z",
+      "earliest_at": "2026-07-29T17:22:02Z",
+      "latest_at": "2026-07-29T17:22:02Z",
       "primary_item": {
-        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "title_zh": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "title_en": null,
-        "title_original": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "summary": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
-        "recommend_reason_zh": "明尼苏达州新法对每张AI脱衣图像罚款5万美元，SpaceXAI起诉称若生成10万张将面临500亿美元罚单，认为法律过宽限制其Grok Imagine功能。",
-        "url": "https://www.ithome.com/0/983/298.htm",
-        "source": "IT之家（RSS）",
+        "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
+        "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+        "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
+        "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+        "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+        "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
+        "recommend_reason_zh": "OpenAI向数学家、科学家和研究人员免费提供前沿模型GPT-5.6-Sol Pro，用于解决未解决问题，学术研究者可立即注册获取专属时间线。",
+        "url": "https://x.com/sherwinwu/status/2082517015944741342",
+        "source": "X：Sherwin Wu（@sherwinwu）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "官司离代码远，不影响你写模型或调 API。",
+      "persona_score": 90,
+      "persona_review": "学术研究者快去申请，免费用前沿模型做实验，省下大笔API费用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-29T23:22:31.721310Z"
+        "scored_at": "2026-07-30T00:20:39.810197Z"
+      }
+    },
+    {
+      "story_id": "story_d99dae36e1ee",
+      "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+      "url": "https://x.com/Replit/status/2082504096095903811",
+      "primary_url": "https://x.com/Replit/status/2082504096095903811",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "recommend_reason_zh": "Replit Design借助Ambient Intelligence重新定义AI设计体验：无需输入提示词，也无需设计语言，代理会在每一步建议最佳操作，一键点击即可从创意快速生成惊艳输出。",
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "recommend_reason_zh": "Replit Design借助Ambient Intelligence重新定义AI设计体验：无需输入提示词，也无需设计语言，代理会在每一步建议最佳操作，一键点击即可从创意快速生成惊艳输出。",
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8945,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+        "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+        "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+        "recommend_reason_zh": "Replit Design借助Ambient Intelligence重新定义AI设计体验：无需输入提示词，也无需设计语言，代理会在每一步建议最佳操作，一键点击即可从创意快速生成惊艳输出。",
+        "url": "https://x.com/Replit/status/2082504096095903811",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "概念大于实用，没看到可用的工具或API，等细节出来再评价。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-30T00:20:39.810197Z"
+      }
+    },
+    {
+      "story_id": "story_70485a715d6d",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+      "url": "https://www.aibase.com/news/29984",
+      "primary_url": "https://www.aibase.com/news/29984",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "title_en": null,
+          "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Moonshot AI's Kimi完成超35亿美元F轮融资，投后估值350亿美元，因认购超目标三倍提前关闭，并提前启动G轮，投前估值升至500亿美元。",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T12:21:24.733977Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "title_en": null,
+          "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Moonshot AI's Kimi完成超35亿美元F轮融资，投后估值350亿美元，因认购超目标三倍提前关闭，并提前启动G轮，投前估值升至500亿美元。",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T12:21:24.733977Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T12:21:24.733977Z",
+      "latest_at": "2026-07-29T12:21:24.733977Z",
+      "primary_item": {
+        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "title_zh": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "title_en": null,
+        "title_original": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "summary": null,
+        "recommend_reason_zh": "Moonshot AI's Kimi完成超35亿美元F轮融资，投后估值350亿美元，因认购超目标三倍提前关闭，并提前启动G轮，投前估值升至500亿美元。",
+        "url": "https://www.aibase.com/news/29984",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "融资轮次不影响写代码，等有产品变化再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-30T00:20:39.810197Z"
       }
     }
   ]
