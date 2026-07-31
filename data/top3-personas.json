@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:45:39.867396Z",
+  "generated_at": "2026-07-31T23:31:35.244866Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_a8a5dd7a485b",
-      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-      "url": "https://www.aibase.com/news/30044",
+      "story_id": "story_af28dcb2d4df",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "V4还没影就吹Agent爆发，查官网还是V3，改名蹭热度倒是熟练。"
+          "score": 30,
+          "review": "开源前三的榜单是谁排的？跑分和复现代码晒出来再喊。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "公测可试但无论文无benchmark，Agent能力无证据支撑。"
+          "score": 8,
+          "review": "仅一条推文称开源，无论文无代码链接无评测，无从验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "API公测已开放，Agent能力增强，今天就能上手测，适合接入现有流程。"
+          "review": "权重已放，能直接跑推理，开源前三值得换上去试试。"
         }
       }
     },
     {
-      "story_id": "story_e921ef2eca88",
-      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
-      "url": "https://www.ithome.com/0/984/116.htm",
+      "story_id": "story_c38e05787678",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 40,
-          "review": "拿预览版当对比基线，正式版超越自己家老版本，这算哪门子新闻？"
+          "score": 55,
+          "review": "开源可能属实，但“干翻工作室”的 demo 挑了几个镜头？"
         },
         "paper-police": {
-          "score": 28,
-          "review": "仅IT之家报道，无论文无代码，基准数字无法复现验证。"
+          "score": 20,
+          "review": "仅一条推文宣称开源，无代码仓库无评测，真实性待验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "API 公测可直连，Agent 场景换新模型提效果，今天就能试。"
+          "score": 80,
+          "review": "开源即用，动画配音自动化直接可试，省外包钱。"
         }
       }
     }
