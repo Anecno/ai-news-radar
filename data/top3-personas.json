@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:26:13.167343Z",
+  "generated_at": "2026-07-31T12:38:21.646241Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_22e399480259",
-      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级 / 🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
-      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "story_id": "story_559c84081a7e",
+      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
+      "url": "https://www.minimax.io/blog/minimax-h3",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "公测就说大幅升级，基准测试和具体参数敢不敢晒一下？"
+          "score": 52,
+          "review": "开源口号响亮，但训练数据和license细则敢晒出来吗？"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方公测只一句能力升级，无论文无评测，等第三方跑分再说。"
+          "score": 50,
+          "review": "官方博客宣称开源，但无论文无代码链接，等仓库和评测复现再定论。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "API已公测，Agent任务今天就能换上去跑，成本效果实测见分晓。"
+          "review": "开源可克隆，多模态生成今天就能跑，视频带立体声是亮点。"
         }
       }
     },
