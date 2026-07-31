@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T17:53:26.964783Z",
+  "generated_at": "2026-07-31T19:53:06.160342Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "瓦解诈骗犯罪行动",
           "title_en": "Disrupting a Criminal Scam Operation",
           "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nAugust 4, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, rom",
+          "summary": null,
           "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
           "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
@@ -37,7 +37,7 @@
           "title_zh": "瓦解诈骗犯罪行动",
           "title_en": "Disrupting a Criminal Scam Operation",
           "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nAugust 4, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, rom",
+          "summary": null,
           "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
           "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
           "source": "OpenAI News",
@@ -65,15 +65,15 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T17:53:26.964783Z",
-      "latest_at": "2026-07-31T17:53:26.964783Z",
+      "earliest_at": "2026-07-31T19:53:06.160342Z",
+      "latest_at": "2026-07-31T19:53:06.160342Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
         "title_zh": "瓦解诈骗犯罪行动",
         "title_en": "Disrupting a Criminal Scam Operation",
         "title_original": "Disrupting a Criminal Scam Operation",
-        "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.\nAugust 4, 2026\nOpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, rom",
+        "summary": null,
         "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
         "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
         "source": "OpenAI News",
@@ -85,30 +85,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
-      "story_id": "story_934172c730ea",
-      "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "story_id": "story_f3f30fdb88a1",
+      "title": "企业团队的模型策略定向现已公开预览 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-          "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队的模型策略定向现已公开预览 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队的模型策略定向现已公开预览",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
+          "recommend_reason_zh": "GitHub Enterprise的Copilot用户迎来基于用户的模型策略定向公开预览，管理员可为整个企业设基准模型，再按团队角色额外授权，多数客户8月3日可启用，实现比组织级更精细的团队级治理。",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "source_count": 1,
@@ -117,31 +117,31 @@
       ],
       "items": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
-          "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
-          "title_en": "Restricting npm bypass-2FA granular access tokens",
-          "title_original": "Restricting npm bypass-2FA granular access tokens",
-          "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-          "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队的模型策略定向现已公开预览 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队的模型策略定向现已公开预览",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
+          "recommend_reason_zh": "GitHub Enterprise的Copilot用户迎来基于用户的模型策略定向公开预览，管理员可为整个企业设基准模型，再按团队角色额外授权，多数客户8月3日可启用，实现比组织级更精细的团队级治理。",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9839,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -150,199 +150,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
       "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
-        "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
-        "title_en": "Restricting npm bypass-2FA granular access tokens",
-        "title_original": "Restricting npm bypass-2FA granular access tokens",
-        "summary": "npm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of…\nnpm granular access tokens (GATs) configured to bypass 2FA can no longer perform sensitive account, org, and package management actions. These now require an interactive 2FA challenge, closing one of the largest credential-based attack surfaces on the registry.\nThis only impacts npm granular access",
-        "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队的模型策略定向现已公开预览 / Enterprise teams model policy targeting in public preview",
+        "title_zh": "企业团队的模型策略定向现已公开预览",
+        "title_en": "Enterprise teams model policy targeting in public preview",
+        "title_original": "Enterprise teams model policy targeting in public preview",
+        "summary": "You can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline…\nYou can now take advantage of user-based model policy targeting for GitHub Enterprise customers with Copilot Business or Copilot Enterprise licenses. This feature empowers AI administrators to set a baseline of models for the entire enterprise and then grant additional models to specific en",
+        "recommend_reason_zh": "GitHub Enterprise的Copilot用户迎来基于用户的模型策略定向公开预览，管理员可为整个企业设基准模型，再按团队角色额外授权，多数客户8月3日可启用，实现比组织级更精细的团队级治理。",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 75,
-      "persona_review": "CI/CD 里用细粒度令牌绕过 2FA 的得改配置，检查你的自动化流程。",
+      "persona_review": "企业团队可试，但预览功能建议先小范围验证，别直接上全部生产。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
-      }
-    },
-    {
-      "story_id": "story_c8fe6d7c36db",
-      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_en": null,
-          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
-          "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "title_en": null,
-          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
-          "title": "Show HN: 将DeepSeek蒸馏到GPT-OSS不会转移审查机制。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_zh": "Show HN: 将DeepSeek蒸馏到GPT-OSS不会转移审查机制。试试看",
-          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49113599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T20:35:32.743000Z"
-        },
-        {
-          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4 Flash在涉华敏感问题上比对照组多出45分审查，但将其蒸馏到GPT-OSS-120B后，审查行为并未转移，金融推理得分83.61%，成本仅为Kimi K3的1/160。",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-30T18:13:06Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.ctgt.ai"
-      ],
-      "items": [
-        {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_en": null,
-          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
-          "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "title_en": null,
-          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
-          "title": "Show HN: 将DeepSeek蒸馏到GPT-OSS不会转移审查机制。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_zh": "Show HN: 将DeepSeek蒸馏到GPT-OSS不会转移审查机制。试试看",
-          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49113599",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T20:35:32.743000Z"
-        },
-        {
-          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4 Flash在涉华敏感问题上比对照组多出45分审查，但将其蒸馏到GPT-OSS-120B后，审查行为并未转移，金融推理得分83.61%，成本仅为Kimi K3的1/160。",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-30T18:13:06Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8296,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T18:13:06Z",
-      "latest_at": "2026-07-31T04:57:18.494000Z",
-      "primary_item": {
-        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "title_en": null,
-        "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
-        "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
-        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "结论若属实，私有化部署DeepSeek可少一层审查顾虑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -390,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9591,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,7 +255,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
+      }
+    },
+    {
+      "story_id": "story_934172c730ea",
+      "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
+          "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
+          "title_en": "Restricting npm bypass-2FA granular access tokens",
+          "title_original": "Restricting npm bypass-2FA granular access tokens",
+          "summary": null,
+          "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
+          "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
+          "title_en": "Restricting npm bypass-2FA granular access tokens",
+          "title_original": "Restricting npm bypass-2FA granular access tokens",
+          "summary": null,
+          "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9559,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
+      "primary_item": {
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "npm 对可绕过 2FA 的细粒度访问令牌实施限制 / Restricting npm bypass-2FA granular access tokens",
+        "title_zh": "npm 对可绕过 2FA 的细粒度访问令牌实施限制",
+        "title_en": "Restricting npm bypass-2FA granular access tokens",
+        "title_original": "Restricting npm bypass-2FA granular access tokens",
+        "summary": null,
+        "recommend_reason_zh": "npm granular access tokens若配置绕过2FA，将无法再执行账户、组织及包管理敏感操作，并预计2027年1月起失去直接发布权限，须改用交互式2FA或OIDC。",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "CI/CD 里用细粒度令牌绕过 2FA 的得改配置，检查你的自动化流程。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -475,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9591,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,7 +425,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
+      }
+    },
+    {
+      "story_id": "story_37da6cede904",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_en": null,
+          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.ctgt.ai"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_en": null,
+          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8061,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T04:57:18.494000Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_en": null,
+        "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+        "recommend_reason_zh": "DeepSeek V4 Flash在中国敏感问题上审查评分高45.45分，但将其蒸馏进GPT-OSS-120B后审查未转移，财务推理达83.61%，超Kimi K3，成本低160倍。",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "技术实验结论，对选型有参考但没到立刻上手的程度。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -560,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -596,7 +623,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -644,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -680,7 +707,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -728,15 +755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,92 +791,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
-      }
-    },
-    {
-      "story_id": "story_cd0c62bd1478",
-      "title": "GitHub Models 现已正式退役 / GitHub Models is now retired",
-      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已正式退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已正式退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Models 于2026年7月30日正式退役，其playground、model catalog、inference API及BYOK功能均停止服务，文章详解了替代方案Microsoft Foundry与GitHub Copilot。",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-          "title": "GitHub Models 现已正式退役 / GitHub Models is now retired",
-          "title_zh": "GitHub Models 现已正式退役",
-          "title_en": "GitHub Models is now retired",
-          "title_original": "GitHub Models is now retired",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Models 于2026年7月30日正式退役，其playground、model catalog、inference API及BYOK功能均停止服务，文章详解了替代方案Microsoft Foundry与GitHub Copilot。",
-          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T19:14:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T19:14:22Z",
-      "latest_at": "2026-07-30T19:14:22Z",
-      "primary_item": {
-        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
-        "title": "GitHub Models 现已正式退役 / GitHub Models is now retired",
-        "title_zh": "GitHub Models 现已正式退役",
-        "title_en": "GitHub Models is now retired",
-        "title_original": "GitHub Models is now retired",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Models 于2026年7月30日正式退役，其playground、model catalog、inference API及BYOK功能均停止服务，文章详解了替代方案Microsoft Foundry与GitHub Copilot。",
-        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "正在用它试模型的开发者抓紧迁移，没用过的基本不影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -897,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8609,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -933,7 +875,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -981,15 +923,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.8791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,7 +959,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1065,21 +1007,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T11:40:12Z",
       "latest_at": "2026-07-31T11:40:12Z",
@@ -1101,90 +1042,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
-      }
-    },
-    {
-      "story_id": "story_5695031e97d0",
-      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-      "url": "https://www.aibase.com/news/30047",
-      "primary_url": "https://www.aibase.com/news/30047",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_en": null,
-          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
-          "url": "https://www.aibase.com/news/30047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T09:59:50.996855Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "title_en": null,
-          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
-          "url": "https://www.aibase.com/news/30047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T09:59:50.996855Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:59:50.996855Z",
-      "latest_at": "2026-07-31T09:59:50.996855Z",
-      "primary_item": {
-        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
-        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-        "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-        "title_en": null,
-        "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
-        "url": "https://www.aibase.com/news/30047",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "还是传闻，API没正式开放前别调依赖，等发布再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1261,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7337,
+        "recency": 0.7128,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1297,7 +1155,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
+      }
+    },
+    {
+      "story_id": "story_5695031e97d0",
+      "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+      "url": "https://www.aibase.com/news/30047",
+      "primary_url": "https://www.aibase.com/news/30047",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_en": null,
+          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "summary": null,
+          "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T09:59:50.996855Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+          "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "title_en": null,
+          "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+          "summary": null,
+          "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
+          "url": "https://www.aibase.com/news/30047",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T09:59:50.996855Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8669,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T09:59:50.996855Z",
+      "latest_at": "2026-07-31T09:59:50.996855Z",
+      "primary_item": {
+        "id": "865ead062f6e78ac5bc67d5f8972eadab1335405",
+        "title": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "title_zh": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "title_en": null,
+        "title_original": "DeepSeek V4 正式版疑定档 8 月 3 日：硅基流动涨价露马脚，API 已能答对新题",
+        "summary": null,
+        "recommend_reason_zh": "DeepSeek V4官方版疑定档8月3日，Silicon Valley Flow宣布自该日起将缓存命中价从每百万tokens 0.1元升至1元，且API已能答对Claude Opus 4.5等新题，信号强烈。",
+        "url": "https://www.aibase.com/news/30047",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "还是传闻，API没正式开放前别调依赖，等发布再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1345,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.8812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,7 +1321,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1428,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8545,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1465,7 +1406,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1513,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,7 +1489,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1596,15 +1537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8426,
+        "recency": 0.8187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1631,7 +1572,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1679,15 +1620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,7 +1655,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     },
     {
@@ -1762,15 +1703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1797,7 +1738,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-31T18:08:39.083780Z"
+        "scored_at": "2026-07-31T20:08:58.647478Z"
       }
     }
   ]
