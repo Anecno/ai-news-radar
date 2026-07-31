@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:09:03.422262Z",
+  "generated_at": "2026-07-31T21:45:39.867396Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_f583085d8c7d",
-      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-      "url": "https://www.aibase.com/news/30040",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "激活参数少是卖点，但Agent战场靠什么赢？先晒个统一基准。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅新闻稿宣称上线，无论文代码或可复现评测，等开源跑分再定。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "正式版上线就能接，Agent 场景推理成本低，今天可试。"
-        }
-      }
-    },
-    {
       "story_id": "story_a8a5dd7a485b",
       "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
       "url": "https://www.aibase.com/news/30044",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "API公测已开放，Agent能力增强，今天就能上手测，适合接入现有流程。"
+        }
+      }
+    },
+    {
+      "story_id": "story_e921ef2eca88",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+      "url": "https://www.ithome.com/0/984/116.htm",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 40,
+          "review": "拿预览版当对比基线，正式版超越自己家老版本，这算哪门子新闻？"
+        },
+        "paper-police": {
+          "score": 28,
+          "review": "仅IT之家报道，无论文无代码，基准数字无法复现验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "API 公测可直连，Agent 场景换新模型提效果，今天就能试。"
         }
       }
     }
