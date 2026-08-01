@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:46:15.258226Z",
+  "generated_at": "2026-08-01T21:15:32.426193Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,14 @@
       }
     },
     {
-      "story_id": "story_31ed9d2f74da",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "story_id": "story_d40fa5aaf708",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals",
       "rank": 3,
       "reviews": {
-        "cynic": {
-          "score": 40,
-          "review": "弃用公告比发布还勤，模型没捂热就进博物馆了。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方弃用公告只有说法，无论文代码评测支撑，影响待观察。"
-        },
         "pragmatic": {
           "score": 75,
-          "review": "旧模型要退了，API 调用得提前迁到新版本，别等报错再改。"
+          "review": "小型评测套件可直接 clone 用，快速验证模型和提示词，省得自己搭。"
         }
       }
     }
