@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:50:22.659372Z",
+  "generated_at": "2026-08-01T09:42:50.069305Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_f583085d8c7d",
-      "title": "DeepSeek-V4-Flash正式版上线，130亿激活参数撬动Agent战场",
-      "url": "https://www.aibase.com/news/30040",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "激活参数少是卖点，但Agent战场靠什么赢？先晒个统一基准。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅新闻稿宣称上线，无论文代码或可复现评测，等开源跑分再定。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "正式版上线就能接，Agent 场景推理成本低，今天可试。"
-        }
-      }
-    },
-    {
       "story_id": "story_af28dcb2d4df",
       "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
       "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 30,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "权重已放，能直接跑推理，开源前三值得换上去试试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c38e05787678",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "开源可能属实，但“干翻工作室”的 demo 挑了几个镜头？"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅一条推文宣称开源，无代码仓库无评测，真实性待验证。"
+        },
+        "pragmatic": {
+          "score": 80,
+          "review": "开源即用，动画配音自动化直接可试，省外包钱。"
         }
       }
     }
