@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:15:32.426193Z",
+  "generated_at": "2026-08-01T22:13:53.951794Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_af28dcb2d4df",
-      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 30,
-          "review": "开源前三的榜单是谁排的？跑分和复现代码晒出来再喊。"
-        },
-        "paper-police": {
-          "score": 8,
-          "review": "仅一条推文称开源，无论文无代码链接无评测，无从验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "权重已放，能直接跑推理，开源前三值得换上去试试。"
-        }
-      }
-    },
-    {
       "story_id": "story_03b9f05044c9",
       "title": "Flint：面向人工智能时代的可视化语言",
       "url": "https://microsoft.github.io/flint-chart",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -57,14 +37,26 @@
       }
     },
     {
-      "story_id": "story_d40fa5aaf708",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "story_id": "story_e2eeec323e5b",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "rank": 2,
+      "reviews": {
+        "pragmatic": {
+          "score": 62,
+          "review": "做音乐生成或商用AI音频的注意，版权风险实锤了，合规审查要提前。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8adda9102be6",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
       "rank": 3,
       "reviews": {
         "pragmatic": {
-          "score": 75,
-          "review": "小型评测套件可直接 clone 用，快速验证模型和提示词，省得自己搭。"
+          "score": 55,
+          "review": "安全防护有新招，但没看到可复现的细节，暂不行动。"
         }
       }
     }
