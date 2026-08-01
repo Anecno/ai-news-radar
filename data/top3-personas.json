@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:31:35.351350Z",
+  "generated_at": "2026-08-01T17:33:57.220412Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_c38e05787678",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "开源可能属实，但“干翻工作室”的 demo 挑了几个镜头？"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅一条推文宣称开源，无代码仓库无评测，真实性待验证。"
-        },
-        "pragmatic": {
-          "score": 80,
-          "review": "开源即用，动画配音自动化直接可试，省外包钱。"
-        }
-      }
-    },
-    {
       "story_id": "story_03b9f05044c9",
       "title": "Flint：面向人工智能时代的可视化语言",
       "url": "https://microsoft.github.io/flint-chart",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 78,
           "review": "若已开源可直接试用，做 AI 数据可视化的能省不少模板代码。"
+        }
+      }
+    },
+    {
+      "story_id": "story_31ed9d2f74da",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 40,
+          "review": "弃用公告比发布还勤，模型没捂热就进博物馆了。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方弃用公告只有说法，无论文代码评测支撑，影响待观察。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "旧模型要退了，API 调用得提前迁到新版本，别等报错再改。"
         }
       }
     }
