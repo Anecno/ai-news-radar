@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T21:10:34.792814Z",
+  "generated_at": "2026-08-02T22:10:44.667639Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T21:10:34.792814Z",
-      "latest_at": "2026-08-02T21:10:34.792814Z",
+      "earliest_at": "2026-08-02T22:10:44.667639Z",
+      "latest_at": "2026-08-02T22:10:44.667639Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-02T21:12:54.054307Z"
+        "scored_at": "2026-08-02T22:13:07.240084Z"
       }
     },
     {
@@ -133,21 +133,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8607,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T10:47:27Z",
       "latest_at": "2026-08-02T10:47:27Z",
@@ -161,6 +160,81 @@
         "recommend_reason_zh": null,
         "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_053b3f462bd1",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T21:25:27Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -209,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8078,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -428,15 +502,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5811,
-      "importance": 0.5811,
-      "importance_score": 0.5811,
+      "score": 0.5791,
+      "importance": 0.5791,
+      "importance_score": 0.5791,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7793,
+        "recency": 0.7681,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -561,15 +635,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.9599,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,15 +739,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9702,
+        "recency": 0.9562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -696,40 +770,40 @@
       }
     },
     {
-      "story_id": "story_1de0c63082e4",
-      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "story_id": "story_28846135b250",
+      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://news.ycombinator.com/item?id=49147842",
+      "primary_url": "https://news.ycombinator.com/item?id=49147842",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": "Small side note, the first gemini-2.5-pro one totally reminded me of some sad faced meme or Pepe the frog from somewhere. Anyone know what I'm referring to, tried to find it.\nreply\ngemini-3.6-flash runs 2 and 3 responded best to the royal portrait context.\nreply\nalso my favorite SVG was def the google/gemini-3.6-flash edit: ok better now I think\nedit: ok better now I think\nreply\nThat looks like something from Machinarium or Robots :)\nreply\nreply\nreply\nreply\nreply\nreply\nAlso try a fantasy archer ",
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": "reply\nreply",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": "One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.\nOne prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month. An AI drawing benchmark.\nOne prompt, every model: Generate an SVG of a frog with\n  a Habsburg jaw. Each model gets three tries a month.\nAugust 2026 ·\n  14 models · 42 runs ·\n  42 produced an SVG\nanthropic/claude-opus-5\nAnthropic\nRun 1 of 3 · Aug 2 2026           · 64.0s          · ",
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": "MicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nMicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nMicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nMicroCodex is an ultra-lightweight coding agent that runs locally in your termin",
           "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
+          "url": "https://github.com/paoloanzn/microcodex",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
+          "published_at": "2026-08-02T20:11:35Z"
         }
       ],
       "source_count": 2,
@@ -739,32 +813,32 @@
       ],
       "items": [
         {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": "Small side note, the first gemini-2.5-pro one totally reminded me of some sad faced meme or Pepe the frog from somewhere. Anyone know what I'm referring to, tried to find it.\nreply\ngemini-3.6-flash runs 2 and 3 responded best to the royal portrait context.\nreply\nalso my favorite SVG was def the google/gemini-3.6-flash edit: ok better now I think\nedit: ok better now I think\nreply\nThat looks like something from Machinarium or Robots :)\nreply\nreply\nreply\nreply\nreply\nreply\nAlso try a fantasy archer ",
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": "reply\nreply",
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
+          "url": "https://news.ycombinator.com/item?id=49147842",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": "One prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month.\nOne prompt, every model: generate an SVG of a frog with a Habsburg jaw. Each model gets three tries a month. An AI drawing benchmark.\nOne prompt, every model: Generate an SVG of a frog with\n  a Habsburg jaw. Each model gets three tries a month.\nAugust 2026 ·\n  14 models · 42 runs ·\n  42 produced an SVG\nanthropic/claude-opus-5\nAnthropic\nRun 1 of 3 · Aug 2 2026           · 64.0s          · ",
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": "MicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nMicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nMicroCodex is an ultra-lightweight coding agent that runs in your terminal - paoloanzn/microcodex\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nMicroCodex is an ultra-lightweight coding agent that runs locally in your termin",
           "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
+          "url": "https://github.com/paoloanzn/microcodex",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
+          "published_at": "2026-08-02T20:11:35Z"
         }
       ],
       "item_count": 2,
@@ -784,17 +858,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
+      "earliest_at": "2026-08-02T20:11:35Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
       "primary_item": {
-        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
-        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "summary": "Small side note, the first gemini-2.5-pro one totally reminded me of some sad faced meme or Pepe the frog from somewhere. Anyone know what I'm referring to, tried to find it.\nreply\ngemini-3.6-flash runs 2 and 3 responded best to the royal portrait context.\nreply\nalso my favorite SVG was def the google/gemini-3.6-flash edit: ok better now I think\nedit: ok better now I think\nreply\nThat looks like something from Machinarium or Robots :)\nreply\nreply\nreply\nreply\nreply\nreply\nAlso try a fantasy archer ",
+        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+        "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "summary": "reply\nreply",
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147622",
+        "url": "https://news.ycombinator.com/item?id=49147842",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -873,15 +947,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8191,
+        "recency": 0.8073,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,15 +1051,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7243,
+        "recency": 0.7139,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1008,6 +1082,214 @@
       }
     },
     {
+      "story_id": "story_86c71e140188",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nWith that said, the article reads like it's been through an AI pass, and not as concise and direct as it could be.\nreply\nI keep hearing this lately. Also, that GPU compute has been re-purposed from crypto to AI. I had the impression that crypto was powered by ASICs for the last... many years. And that was why GPU mining (let alone CPU mining) was not profitable\nI had the impression that crypto was powered by ASICs for the last... many y",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nWith that said, the article reads like it's been through an AI pass, and not as concise and direct as it could be.\nreply\nI keep hearing this lately. Also, that GPU compute has been re-purposed from crypto to AI. I had the impression that crypto was powered by ASICs for the last... many years. And that was why GPU mining (let alone CPU mining) was not profitable\nI had the impression that crypto was powered by ASICs for the last... many y",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "primary_item": {
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "title_zh": "人工智能狂热：从郁金香到代币",
+        "title_en": "AI Mania: From Tulips to Tokens",
+        "title_original": "AI Mania: From Tulips to Tokens",
+        "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nWith that said, the article reads like it's been through an AI pass, and not as concise and direct as it could be.\nreply\nI keep hearing this lately. Also, that GPU compute has been re-purposed from crypto to AI. I had the impression that crypto was powered by ASICs for the last... many years. And that was why GPU mining (let alone CPU mining) was not profitable\nI had the impression that crypto was powered by ASICs for the last... many y",
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49148159",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1de0c63082e4",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
+        },
+        {
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.982,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-02T20:55:13.221000Z",
+      "primary_item": {
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_zh": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。”",
+        "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147622",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
       "story_id": "story_e4f117040b00",
       "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
       "url": "https://news.ycombinator.com/item?id=49147606",
@@ -1021,7 +1303,7 @@
           "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
           "title_en": "EU rules on AI models become enforceable. What's going to change?",
           "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": "I can answer that. A higher regulatory overhead that means less money for R&D and decreased profit margins for companies here in the EU. That's what's going to happen.\nreply\nRegulation doesn't hinder innovation, it's just that CEOs want that quick buck instead of being responsible and using regulation for their advantage.\nreply\nreply\nreply\nreply\nreply\nThe aviation industry must be one of the most regulated ones and it's entirely necessary to guarantee the safety of passengers and crew. You don't",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49147606",
           "source": "hackernews",
@@ -1035,7 +1317,7 @@
           "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
           "title_en": "EU rules on AI models become enforceable. What's going to change?",
           "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": "EU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and beyond. #EuropeNews\nEU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and beyond.\nEU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and b",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
           "source": "Hacker News",
@@ -1056,7 +1338,7 @@
           "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
           "title_en": "EU rules on AI models become enforceable. What's going to change?",
           "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": "I can answer that. A higher regulatory overhead that means less money for R&D and decreased profit margins for companies here in the EU. That's what's going to happen.\nreply\nRegulation doesn't hinder innovation, it's just that CEOs want that quick buck instead of being responsible and using regulation for their advantage.\nreply\nreply\nreply\nreply\nreply\nThe aviation industry must be one of the most regulated ones and it's entirely necessary to guarantee the safety of passengers and crew. You don't",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49147606",
           "source": "hackernews",
@@ -1070,7 +1352,7 @@
           "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
           "title_en": "EU rules on AI models become enforceable. What's going to change?",
           "title_original": "EU rules on AI models become enforceable. What's going to change?",
-          "summary": "EU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and beyond. #EuropeNews\nEU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and beyond.\nEU AI Act rules on AI models become enforceable today, making Brussels the world's top AI regulator. Euronews breaks down what this all means for Europe and b",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
           "source": "Hacker News",
@@ -1081,15 +1363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,7 +1386,7 @@
         "title_zh": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？",
         "title_en": "EU rules on AI models become enforceable. What's going to change?",
         "title_original": "EU rules on AI models become enforceable. What's going to change?",
-        "summary": "I can answer that. A higher regulatory overhead that means less money for R&D and decreased profit margins for companies here in the EU. That's what's going to happen.\nreply\nRegulation doesn't hinder innovation, it's just that CEOs want that quick buck instead of being responsible and using regulation for their advantage.\nreply\nreply\nreply\nreply\nreply\nThe aviation industry must be one of the most regulated ones and it's entirely necessary to guarantee the safety of passengers and crew. You don't",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49147606",
         "source": "hackernews",
@@ -1185,15 +1467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7793,
+        "recency": 0.7681,
         "story_heat": 0.25
       },
       "category": "watch",
