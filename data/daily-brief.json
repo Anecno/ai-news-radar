@@ -1,172 +1,8 @@
 {
-  "generated_at": "2026-08-03T17:21:30.256534Z",
+  "generated_at": "2026-08-03T19:59:03.423025Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_268138d2f7c5",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:17:32.541000Z"
-        },
-        {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:17:32.541000Z"
-        },
-        {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8522,
-      "importance": 0.8522,
-      "importance_score": 0.8522,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9864,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T11:15:48Z",
-      "latest_at": "2026-08-03T16:24:45.027000Z",
-      "primary_item": {
-        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_en": null,
-        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_cd21c6fddb56",
       "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
@@ -229,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:21:30.256534Z",
-      "latest_at": "2026-08-03T17:21:30.256534Z",
+      "earliest_at": "2026-08-03T19:59:03.423025Z",
+      "latest_at": "2026-08-03T19:59:03.423025Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
@@ -249,7 +85,248 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-03T17:24:10.178135Z"
+        "scored_at": "2026-08-03T20:02:05.580592Z"
+      }
+    },
+    {
+      "story_id": "story_268138d2f7c5",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T15:17:32.541000Z"
+        },
+        {
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
+          "title": "使用单个 4GB GPU 进行 AirLLM 70B 推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "使用单个 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49154228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-03T15:17:32.541000Z"
+        },
+        {
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": "AirLLM 70B inference with single 4GB GPU",
+          "title_original": "AirLLM 70B inference with single 4GB GPU",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-03T11:15:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9497,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T11:15:48Z",
+      "latest_at": "2026-08-03T16:24:45.027000Z",
+      "primary_item": {
+        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_en": null,
+        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9517,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -355,15 +432,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8011,
+        "recency": 0.7713,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -384,6 +461,112 @@
         "recommend_reason_zh": null,
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c812f9375d11",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": "The EU made AI icons that anyone can use.\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.\nThe EU made AI icons that anyone can use.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homepa",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": "The EU made AI icons that anyone can use.\nThe European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.\nThe EU made AI icons that anyone can use.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homepa",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+        "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "title_en": "Europe's AI labeling and transparency rules are now in effect",
+        "title_original": "Europe's AI labeling and transparency rules are now in effect",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -432,21 +615,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -508,21 +690,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T15:31:21Z",
       "latest_at": "2026-08-03T15:31:21Z",
@@ -584,21 +765,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T13:00:00Z",
       "latest_at": "2026-08-03T13:00:00Z",
@@ -660,15 +840,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7499,
+        "recency": 0.722,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -990,21 +1170,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -1066,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.9074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,21 +1320,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -1217,21 +1395,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -1246,81 +1423,6 @@
         "url": "https://www.aibase.com/news/30079",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_35bcd720e6a1",
-      "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-      "url": "https://blog.cloudflare.com/grpc-workers",
-      "primary_url": "https://blog.cloudflare.com/grpc-workers",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "title_zh": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-          "title_en": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "title_original": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "summary": "Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect（socket），可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable Objects 或 Containers，实现全双工通信。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-          "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "title_zh": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-          "title_en": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "title_original": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-          "summary": "Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect（socket），可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable Objects 或 Containers，实现全双工通信。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/grpc-workers",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.939,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T13:00:00Z",
-      "latest_at": "2026-08-03T13:00:00Z",
-      "primary_item": {
-        "id": "96bb94a94ca40bb94ec1ba858b15418405d536d0",
-        "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC / Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-        "title_zh": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-        "title_en": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-        "title_original": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-        "summary": "Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect（socket），可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable Objects 或 Containers，实现全双工通信。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/grpc-workers",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1368,21 +1470,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -1444,21 +1545,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
@@ -1548,15 +1648,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9125,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,196 +1676,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_1de0c63082e4",
-      "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T03:42:02.339000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": null,
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T03:42:02.339000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": null,
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5886,
-      "importance": 0.5886,
-      "importance_score": 0.5886,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.821,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T03:42:02.339000Z",
-      "primary_item": {
-        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-        "title": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_zh": "我的个人 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG”",
-        "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1813,21 +1723,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:44:25.200855Z",
       "latest_at": "2026-08-03T11:44:25.200855Z",
