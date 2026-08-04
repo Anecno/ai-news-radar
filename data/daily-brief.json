@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-04T19:56:57.766324Z",
+  "generated_at": "2026-08-04T21:36:21.066583Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0e23ce0343ea",
+      "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "OpenAI 模型的第三方网络安全评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nAugust 4, 2026\nIndependent testing plays an important role in hel",
+          "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
+          "title_zh": "OpenAI 模型的第三方网络安全评估",
+          "title_en": "Third-party cyber evaluations involving OpenAI models",
+          "title_original": "Third-party cyber evaluations involving OpenAI models",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nAugust 4, 2026\nIndependent testing plays an important role in hel",
+          "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.9631,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:00:00Z",
+      "latest_at": "2026-08-04T19:00:00Z",
+      "primary_item": {
+        "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
+        "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
+        "title_zh": "OpenAI 模型的第三方网络安全评估",
+        "title_en": "Third-party cyber evaluations involving OpenAI models",
+        "title_original": "Third-party cyber evaluations involving OpenAI models",
+        "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nOpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.\nAugust 4, 2026\nIndependent testing plays an important role in hel",
+        "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
+        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全评估报告，不影响日常开发，做合规的可以瞄一眼。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-04T21:52:06.592596Z"
+      }
+    },
     {
       "story_id": "story_48546ed95685",
       "title": "停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app",
@@ -17,7 +102,7 @@
           "title_zh": "停用 Copilot 计费预览应用",
           "title_en": "Retiring the Copilot Billing Preview app",
           "title_original": "Retiring the Copilot Billing Preview app",
-          "summary": "We’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings. The app helped…\nWe’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings.\nThe app helped you understand your bill during the move to usage-based billing. Your billing settings now give you a more complete view that t",
+          "summary": null,
           "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
           "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
           "source": "GitHub Changelog",
@@ -37,7 +122,7 @@
           "title_zh": "停用 Copilot 计费预览应用",
           "title_en": "Retiring the Copilot Billing Preview app",
           "title_original": "Retiring the Copilot Billing Preview app",
-          "summary": "We’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings. The app helped…\nWe’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings.\nThe app helped you understand your bill during the move to usage-based billing. Your billing settings now give you a more complete view that t",
+          "summary": null,
           "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
           "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
           "source": "GitHub Changelog",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9886,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +158,7 @@
         "title_zh": "停用 Copilot 计费预览应用",
         "title_en": "Retiring the Copilot Billing Preview app",
         "title_original": "Retiring the Copilot Billing Preview app",
-        "summary": "We’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings. The app helped…\nWe’ve retired the GitHub Copilot Billing Preview app, and it’s no longer available. You can review and manage your Copilot spend directly in your GitHub billing settings.\nThe app helped you understand your bill during the move to usage-based billing. Your billing settings now give you a more complete view that t",
+        "summary": null,
         "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
         "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
         "source": "GitHub Changelog",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -102,7 +187,7 @@
           "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
           "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
           "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "summary": "Learn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to simplify how you work—without writing a single line of code.\nWhether you are just starting out or are not in a technical role at all, you likely already have the skills you need to build your own tools. If you have ever thought “I’m not technical enough to build that,” this post is for you",
+          "summary": null,
           "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
           "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
           "source": "GitHub AI & ML",
@@ -122,7 +207,7 @@
           "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
           "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
           "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "summary": "Learn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to simplify how you work—without writing a single line of code.\nWhether you are just starting out or are not in a technical role at all, you likely already have the skills you need to build your own tools. If you have ever thought “I’m not technical enough to build that,” this post is for you",
+          "summary": null,
           "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
           "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
           "source": "GitHub AI & ML",
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.987,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +243,7 @@
         "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
         "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
         "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-        "summary": "Learn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to streamline how you work without writing a single line of code.\nLearn how to build tools to simplify how you work—without writing a single line of code.\nWhether you are just starting out or are not in a technical role at all, you likely already have the skills you need to build your own tools. If you have ever thought “I’m not technical enough to build that,” this post is for you",
+        "summary": null,
         "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
         "source": "GitHub AI & ML",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9173,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,122 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
-      }
-    },
-    {
-      "story_id": "story_579f66b7beb0",
-      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": "Apple is getting this wrong",
-          "title_original": "Apple is getting this wrong",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:00:00Z"
-        },
-        {
-          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
-          "title": "苹果在这件事上搞错了",
-          "title_zh": "苹果在这件事上搞错了",
-          "title_en": null,
-          "title_original": "苹果在这件事上搞错了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/apple-is-getting-this-wrong",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T07:20:54.985000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7284,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T22:00:00Z",
-      "latest_at": "2026-08-04T07:20:54.985000Z",
-      "primary_item": {
-        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
-        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
-        "title_zh": "苹果在这件事上搞错了",
-        "title_en": "Apple is getting this wrong",
-        "title_original": "Apple is getting this wrong",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/apple-is-getting-this-wrong",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "大厂互喷没代码可写，等有实际动作再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -418,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9045,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -561,15 +531,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8825,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -598,7 +568,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -615,7 +585,7 @@
           "title_zh": "大规模自定义代码扫描默认设置",
           "title_en": "Customize code scanning default setup at scale",
           "title_original": "Customize code scanning default setup at scale",
-          "summary": "You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for…\nYou can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for security vulnerabilities, whether that’s on one repository or across your whole organization. We recomm",
+          "summary": null,
           "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
           "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
@@ -635,7 +605,7 @@
           "title_zh": "大规模自定义代码扫描默认设置",
           "title_en": "Customize code scanning default setup at scale",
           "title_original": "Customize code scanning default setup at scale",
-          "summary": "You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for…\nYou can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for security vulnerabilities, whether that’s on one repository or across your whole organization. We recomm",
+          "summary": null,
           "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
           "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
           "source": "GitHub Changelog",
@@ -646,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.99,
+        "recency": 0.9666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,7 +641,7 @@
         "title_zh": "大规模自定义代码扫描默认设置",
         "title_en": "Customize code scanning default setup at scale",
         "title_original": "Customize code scanning default setup at scale",
-        "summary": "You can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for…\nYou can now apply your own configuration file to code scanning default setup, using the new github-codeql-config-file repository property. This gives you control over how CodeQL scans your code for security vulnerabilities, whether that’s on one repository or across your whole organization. We recomm",
+        "summary": null,
         "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
         "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
         "source": "GitHub Changelog",
@@ -683,176 +653,122 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
-      "story_id": "story_b832dd7cc4cf",
-      "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "story_id": "story_579f66b7beb0",
+      "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "primary_url": "https://openai.com/index/apple-is-getting-this-wrong",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-          "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
-          "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
-          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": "Apple is getting this wrong",
+          "title_original": "Apple is getting this wrong",
           "summary": null,
-          "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": null,
+          "title_original": "苹果在这件事上搞错了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-          "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
-          "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
-          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+          "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+          "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": "Apple is getting this wrong",
+          "title_original": "Apple is getting this wrong",
           "summary": null,
-          "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
+          "published_at": "2026-08-03T22:00:00Z"
+        },
+        {
+          "id": "a833a6eb0db2cced4af45800a3813f6fb7acdd2c",
+          "title": "苹果在这件事上搞错了",
+          "title_zh": "苹果在这件事上搞错了",
+          "title_en": null,
+          "title_original": "苹果在这件事上搞错了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/apple-is-getting-this-wrong",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-04T07:20:54.985000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7497,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.7111,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
+      "earliest_at": "2026-08-03T22:00:00Z",
+      "latest_at": "2026-08-04T07:20:54.985000Z",
       "primary_item": {
-        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
-        "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
-        "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
-        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
-        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+        "id": "ce0656b6b37df08856d608cf2a3be369847eee00",
+        "title": "苹果在这件事上搞错了 / Apple is getting this wrong",
+        "title_zh": "苹果在这件事上搞错了",
+        "title_en": "Apple is getting this wrong",
+        "title_original": "Apple is getting this wrong",
         "summary": null,
-        "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "教育场景新玩法，老师可试；但得确认功能已开放再上。",
+      "persona_score": 20,
+      "persona_review": "大厂互喷没代码可写，等有实际动作再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
-      }
-    },
-    {
-      "story_id": "story_b2c075d30098",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-          "title_en": "A unified API for AI model routing",
-          "title_original": "A unified API for AI model routing",
-          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-          "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
-          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T16:45:02.138000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9549,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T16:45:02.138000Z",
-      "latest_at": "2026-08-04T16:45:02.138000Z",
-      "primary_item": {
-        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "title_en": "A unified API for AI model routing",
-        "title_original": "A unified API for AI model routing",
-        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-        "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
-        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "统一路由免去多厂商对接，跑多模型的直接换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -929,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7982,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -966,7 +882,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
+      }
+    },
+    {
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "primary_url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+          "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+          "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+          "title_en": "A unified API for AI model routing",
+          "title_original": "A unified API for AI model routing",
+          "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+          "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
+          "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T16:45:02.138000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9323,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T16:45:02.138000Z",
+      "latest_at": "2026-08-04T16:45:02.138000Z",
+      "primary_item": {
+        "id": "88f7a6b44ec2956b56cca1c1ef06c438d6bbbc57",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+        "title_zh": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "title_en": "A unified API for AI model routing",
+        "title_original": "A unified API for AI model routing",
+        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+        "recommend_reason_zh": "Google Cloud API Gateway模型路由（Public Preview）让开发者免于自建开源代理，将OpenAI兼容请求动态路由到Gemini、Claude或OpenAI OSS-GPT，并提供速率限制与token跟踪，还能搭配Gemini Enterprise Agent Platform使用。",
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "统一路由免去多厂商对接，跑多模型的直接换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1014,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9434,
+        "recency": 0.9211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1051,7 +1051,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1099,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.9087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,7 +1135,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1183,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9888,
+        "recency": 0.9654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,7 +1219,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
+      }
+    },
+    {
+      "story_id": "story_b832dd7cc4cf",
+      "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "primary_url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+          "summary": null,
+          "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+          "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
+          "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
+          "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+          "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+          "summary": null,
+          "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.732,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
+      "primary_item": {
+        "id": "8717e8a7cc266b174cbe8ac774916e7cb9b3f30b",
+        "title": "使用 ChatGPT Work 和 Codex 学习与教学的新方式 / New ways to learn and teach with ChatGPT Work and Codex",
+        "title_zh": "使用 ChatGPT Work 和 Codex 学习与教学的新方式",
+        "title_en": "New ways to learn and teach with ChatGPT Work and Codex",
+        "title_original": "New ways to learn and teach with ChatGPT Work and Codex",
+        "summary": null,
+        "recommend_reason_zh": "本文介绍OpenAI为ChatGPT Work和Codex推出的三个新教育插件，分别面向K-12教师、大学教育者和学生，依托2024年推出的ChatGPT Edu与2025年免费开放的ChatGPT for Teachers，支持课程材料整合与agentic工作流，强调AI辅助而非替代学习。",
+        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "教育场景新玩法，老师可试；但得确认功能已开放再上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1267,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,7 +1388,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1351,15 +1436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1472,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1418,7 +1503,7 @@
           "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "title_en": null,
           "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "summary": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nFine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nFine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nThere was an error while loading. Please reload this page .\nThere was an error while loading. Please reload this page .\nFine-tune and post-train LLMs in one command. No S",
+          "summary": null,
           "recommend_reason_zh": "Soup 用层流技术把 8B 模型微调压进 4GB 显存，在 RTX 3050 Laptop 上跑 Llama-3.1-8B-Instruct 达 119.6 tok/s，峰值仅 3.32 GB。",
           "url": "https://github.com/MakazhanAlpamys/Soup",
           "source": "github.com",
@@ -1453,7 +1538,7 @@
           "title_zh": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
           "title_en": null,
           "title_original": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "summary": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nFine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nFine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. - MakazhanAlpamys/Soup\nThere was an error while loading. Please reload this page .\nThere was an error while loading. Please reload this page .\nFine-tune and post-train LLMs in one command. No S",
+          "summary": null,
           "recommend_reason_zh": "Soup 用层流技术把 8B 模型微调压进 4GB 显存，在 RTX 3050 Laptop 上跑 Llama-3.1-8B-Instruct 达 119.6 tok/s，峰值仅 3.32 GB。",
           "url": "https://github.com/MakazhanAlpamys/Soup",
           "source": "github.com",
@@ -1464,15 +1549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1501,92 +1586,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
-      }
-    },
-    {
-      "story_id": "story_cd21c6fddb56",
-      "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "瓦解诈骗犯罪行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-          "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
-          "title_zh": "瓦解诈骗犯罪行动",
-          "title_en": "Disrupting a Criminal Scam Operation",
-          "title_original": "Disrupting a Criminal Scam Operation",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:00:00Z",
-      "latest_at": "2026-08-04T00:00:00Z",
-      "primary_item": {
-        "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
-        "title": "瓦解诈骗犯罪行动 / Disrupting a Criminal Scam Operation",
-        "title_zh": "瓦解诈骗犯罪行动",
-        "title_en": "Disrupting a Criminal Scam Operation",
-        "title_original": "Disrupting a Criminal Scam Operation",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI披露瓦解了一个以柬埔寨Poipet为据点的诈骗网络，该网络利用ChatGPT创建虚假人设、翻译消息，同时实施投资、婚恋、赌博和冒充执法等骗局，还出现与人口贩运有关的迹象。",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "安全行动新闻，对开发者无直接工具价值，了解即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1634,15 +1634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1669,7 +1669,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1717,15 +1717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9709,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1752,7 +1752,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     },
     {
@@ -1800,15 +1800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8658,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1835,7 +1835,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-04T20:14:37.394809Z"
+        "scored_at": "2026-08-04T21:52:06.592596Z"
       }
     }
   ]
