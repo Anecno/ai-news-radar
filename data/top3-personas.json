@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:22:56.835411Z",
+  "generated_at": "2026-08-04T20:15:12.294054Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_07b0df6b2011",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "4GB跑8B不稀奇，稀奇的是敢晒出微调后的效果。"
+        },
+        "paper-police": {
+          "score": 68,
+          "review": "代码开源可复现，但缺公开benchmark和独立验证，需自行实测。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "低显存微调8B模型，个人开发者的福音，今天就能试试。"
+        }
+      }
+    },
+    {
       "story_id": "story_05bcbbcf4f82",
       "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 52,
@@ -40,7 +60,7 @@
       "story_id": "story_bcfdafe93ce8",
       "title": "用 LFM2.5-2.6B 随处部署本地 Agent / Deploy local agents everywhere with LFM2.5-2.6B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "2.6B 本地跑 Agent，隐私和推理成本都省了，今天就能动手试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_54e1a837c8df",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 86,
-          "review": "解耦共置都给了，草稿也开源，这波没水分可挤。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官网博客自述发布，无论文无代码无第三方验证，等开源和跑分再评。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源可用的投机解码新版本，自带草稿模型，跑LLM推理的可以直接试。"
         }
       }
     }
