@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:59:02.654516Z",
+  "generated_at": "2026-08-04T18:22:56.835411Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_9dc2cb12e04f",
-      "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "story_id": "story_bcfdafe93ce8",
+      "title": "用 LFM2.5-2.6B 随处部署本地 Agent / Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "降价80%？先晒原价和算力消耗，别拿虚高定价当诚意。"
+          "score": 72,
+          "review": "本地部署是真的，'随处'就夸大了，先跑个基准看看。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "只有X帖子宣称永久降价，无官方公告或第三方验证，证据不足。"
+          "score": 55,
+          "review": "官方博客给了模型和数字，但无论文，缺独立评测验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "API直接降价80%，跑大批量的今天就能换，省下的钱实实在在。"
+          "score": 88,
+          "review": "2.6B 本地跑 Agent，隐私和推理成本都省了，今天就能动手试。"
         }
       }
     },
     {
-      "story_id": "story_494ad8597a8c",
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重 / Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
+      "story_id": "story_54e1a837c8df",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型 / Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "权重开源是好事，但训练细节和评测基线呢？光有模型跑不出说服力。"
+          "score": 86,
+          "review": "解耦共置都给了，草稿也开源，这波没水分可挤。"
         },
         "paper-police": {
-          "score": 68,
-          "review": "权重开源可自测，缺论文和基准分，等第三方评测再说。"
+          "score": 25,
+          "review": "官网博客自述发布，无论文无代码无第三方验证，等开源和跑分再评。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "开源权重可下载，BF16和FP8直接部署，跑推理的今天就能换。"
+          "score": 88,
+          "review": "开源可用的投机解码新版本，自带草稿模型，跑LLM推理的可以直接试。"
         }
       }
     }
