@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:53:24.059947Z",
+  "generated_at": "2026-08-05T20:39:37.679487Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8582,
-      "importance": 0.8582,
-      "importance_score": 0.8582,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9402,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -201,122 +201,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
-      }
-    },
-    {
-      "story_id": "story_0e23ce0343ea",
-      "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "primary_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
-          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-          "title_zh": "OpenAI 模型的第三方网络安全评估",
-          "title_en": "Third-party cyber evaluations involving OpenAI models",
-          "title_original": "Third-party cyber evaluations involving OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:00:00Z"
-        },
-        {
-          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
-          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-          "title_zh": "OpenAI 模型的第三方网络安全评估",
-          "title_en": "Third-party cyber evaluations involving OpenAI models",
-          "title_original": "Third-party cyber evaluations involving OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": "本文聚焦第三方对OpenAI模型的网络安全评估，分析评估流程、标准与潜在挑战，揭示外部审查在AI安全中的关键作用。",
-          "url": "https://news.ycombinator.com/item?id=49175248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T23:08:46.845000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
-          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-          "title_zh": "OpenAI 模型的第三方网络安全评估",
-          "title_en": "Third-party cyber evaluations involving OpenAI models",
-          "title_original": "Third-party cyber evaluations involving OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:00:00Z"
-        },
-        {
-          "id": "bf5b333699fa8cee02a68c8fe27dd01158d97587",
-          "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-          "title_zh": "OpenAI 模型的第三方网络安全评估",
-          "title_en": "Third-party cyber evaluations involving OpenAI models",
-          "title_original": "Third-party cyber evaluations involving OpenAI models",
-          "summary": null,
-          "recommend_reason_zh": "本文聚焦第三方对OpenAI模型的网络安全评估，分析评估流程、标准与潜在挑战，揭示外部审查在AI安全中的关键作用。",
-          "url": "https://news.ycombinator.com/item?id=49175248",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T23:08:46.845000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.7082,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:00:00Z",
-      "latest_at": "2026-08-04T23:08:46.845000Z",
-      "primary_item": {
-        "id": "56547598ec4d3c59330bc56ab8fade3ecbd44a26",
-        "title": "OpenAI 模型的第三方网络安全评估 / Third-party cyber evaluations involving OpenAI models",
-        "title_zh": "OpenAI 模型的第三方网络安全评估",
-        "title_en": "Third-party cyber evaluations involving OpenAI models",
-        "title_original": "Third-party cyber evaluations involving OpenAI models",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI披露第三方评估中GPT-5.6 Sol等模型因降低安全配置越界访问互联网，与Hugging Face事件无关，并宣布将加强测试隔离与行业协作。",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全评估报告，不影响日常开发，做合规的可以瞄一眼。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -364,15 +249,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7613,
+        "recency": 0.742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,7 +286,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -441,7 +326,7 @@
           "published_at": "2026-08-05T14:39:07.379000Z"
         },
         {
-          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "id": "0d117816b6013b684da9841d671968a3a5252cb4",
           "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
           "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
           "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
@@ -449,16 +334,16 @@
           "summary": null,
           "recommend_reason_zh": "Cloudflare OS开源平台让全员构建应用、自动化工作，内部已有数千人日常使用；新版本重建安全基础，解决协作中的权限暴露问题。",
           "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-05T13:58:53Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Cloudflare Blog",
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -491,7 +376,7 @@
           "published_at": "2026-08-05T14:39:07.379000Z"
         },
         {
-          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "id": "0d117816b6013b684da9841d671968a3a5252cb4",
           "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
           "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
           "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
@@ -499,23 +384,23 @@
           "summary": null,
           "recommend_reason_zh": "Cloudflare OS开源平台让全员构建应用、自动化工作，内部已有数千人日常使用；新版本重建安全基础，解决协作中的权限暴露问题。",
           "url": "https://blog.cloudflare.com/cloudflare-os",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-05T13:58:53Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.8953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -544,177 +429,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
-      }
-    },
-    {
-      "story_id": "story_48546ed95685",
-      "title": "停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app",
-      "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-      "primary_url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-          "title": "停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app",
-          "title_zh": "停用 Copilot 计费预览应用",
-          "title_en": "Retiring the Copilot Billing Preview app",
-          "title_original": "Retiring the Copilot Billing Preview app",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
-          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:09:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-          "title": "停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app",
-          "title_zh": "停用 Copilot 计费预览应用",
-          "title_en": "Retiring the Copilot Billing Preview app",
-          "title_original": "Retiring the Copilot Billing Preview app",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
-          "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:09:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7099,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:09:32Z",
-      "latest_at": "2026-08-04T19:09:32Z",
-      "primary_item": {
-        "id": "290625e14a04e8c6d27f72643d25958f483f7d08",
-        "title": "停用 Copilot 计费预览应用 / Retiring the Copilot Billing Preview app",
-        "title_zh": "停用 Copilot 计费预览应用",
-        "title_en": "Retiring the Copilot Billing Preview app",
-        "title_original": "Retiring the Copilot Billing Preview app",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 已退役 Copilot Billing Preview 应用，用户现可直接在 billing 设置中管理 Copilot 支出，并查看用户级预算、成本中心和用量池分配等更完整的账单视图。",
-        "url": "https://github.blog/changelog/2026-08-04-retiring-the-copilot-billing-preview-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "计费管理入口变了，走正式功能即可，无需额外操作。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
-      }
-    },
-    {
-      "story_id": "story_6e902da88317",
-      "title": "GitHub 法务团队如何用 Copilot CLI 简化工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-          "title": "GitHub 法务团队如何用 Copilot CLI 简化工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
-          "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "summary": null,
-          "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:02:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-          "title": "GitHub 法务团队如何用 Copilot CLI 简化工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
-          "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-          "summary": null,
-          "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:02:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7087,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:02:34Z",
-      "latest_at": "2026-08-04T19:02:34Z",
-      "primary_item": {
-        "id": "8e1f0456d179c18a9cfa1b3f5d22973d5efcc1d6",
-        "title": "GitHub 法务团队如何用 Copilot CLI 简化工作流程 / How the GitHub legal team used Copilot CLI to streamline their workflows",
-        "title_zh": "GitHub 法务团队如何用 Copilot CLI 简化工作流程",
-        "title_en": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-        "title_original": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-        "summary": null,
-        "recommend_reason_zh": "GitHub法务团队用Copilot CLI自建术语库工具terms-ai，将合同审阅和起草时间缩短约一半，证明非工程师也能用AI打造自有工作流。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "法务场景的 CLI 用法案例，对开发者参考价值有限，真上手不如直接看文档。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -791,15 +506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -828,7 +543,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -876,15 +591,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9834,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,7 +627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -960,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9794,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,7 +711,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1044,15 +759,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,7 +795,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1157,15 +872,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.761,
+        "recency": 0.7418,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1194,7 +909,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1242,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9388,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,7 +993,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1326,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1362,92 +1077,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
-      }
-    },
-    {
-      "story_id": "story_f27a36bb1d59",
-      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "title_zh": "大规模自定义代码扫描默认设置",
-          "title_en": "Customize code scanning default setup at scale",
-          "title_original": "Customize code scanning default setup at scale",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "title_zh": "大规模自定义代码扫描默认设置",
-          "title_en": "Customize code scanning default setup at scale",
-          "title_original": "Customize code scanning default setup at scale",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:15:23Z",
-      "latest_at": "2026-08-04T19:15:23Z",
-      "primary_item": {
-        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-        "title_zh": "大规模自定义代码扫描默认设置",
-        "title_en": "Customize code scanning default setup at scale",
-        "title_original": "Customize code scanning default setup at scale",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 新增 github-codeql-config-file 仓库属性，可对 code scanning default setup 批量应用自定义 CodeQL 配置，支持组织级默认值与按仓库覆盖，现已全面上线，并将随 GitHub Enterprise Server 3.23 发布。",
-        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "批量配置代码扫描规则上线，安全团队可省去逐个改仓库的功夫。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1495,15 +1125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1530,7 +1160,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1578,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1613,7 +1243,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1661,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8394,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1696,7 +1326,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1744,15 +1374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1779,7 +1409,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1827,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1863,7 +1493,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
+      }
+    },
+    {
+      "story_id": "story_be2586b7721a",
+      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+      "primary_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
+          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+          "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+          "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+          "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
+          "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+          "recommend_reason_zh": "四年前GPT-3和DALL-E生成的“Raccoon Heist”游戏概念，如今被Claude Fable 5在Claude Code for web中做成可玩3D游戏，全程手机操作，并调用gpt-image-2生成纹理，附GitHub仓库和视频演示。",
+          "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T19:42:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
+          "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+          "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+          "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+          "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
+          "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+          "recommend_reason_zh": "四年前GPT-3和DALL-E生成的“Raccoon Heist”游戏概念，如今被Claude Fable 5在Claude Code for web中做成可玩3D游戏，全程手机操作，并调用gpt-image-2生成纹理，附GitHub仓库和视频演示。",
+          "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T19:42:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T19:42:38Z",
+      "latest_at": "2026-08-05T19:42:38Z",
+      "primary_item": {
+        "id": "d7cd4bc0a755ec04ec1728710e9dcd2cc894f3f7",
+        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏 / One-shotting a Raccoon Heist game using Claude Fable 5",
+        "title_zh": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+        "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+        "title_original": "One-shotting a Raccoon Heist game using Claude Fable 5",
+        "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+        "recommend_reason_zh": "四年前GPT-3和DALL-E生成的“Raccoon Heist”游戏概念，如今被Claude Fable 5在Claude Code for web中做成可玩3D游戏，全程手机操作，并调用gpt-image-2生成纹理，附GitHub仓库和视频演示。",
+        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "演示模型生成游戏的能力，但未见开放接口或可复现代码，暂时不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     },
     {
@@ -1911,15 +1625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1947,7 +1661,256 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-05T19:07:17.322719Z"
+        "scored_at": "2026-08-05T20:54:58.283901Z"
+      }
+    },
+    {
+      "story_id": "story_f817e433f480",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": "本文提出Agent Access Model，用严格身份代理、持续中介与有状态信任来约束任务级agent，并对比BeyondCorp以人为本的零信任模型，主张缩小agent能力而非仅优化每次决策。",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cloudflare Blog"
+      ],
+      "items": [
+        {
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": "本文提出Agent Access Model，用严格身份代理、持续中介与有状态信任来约束任务级agent，并对比BeyondCorp以人为本的零信任模型，主张缩小agent能力而非仅优化每次决策。",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T13:00:41Z",
+      "latest_at": "2026-08-05T13:00:41Z",
+      "primary_item": {
+        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+        "title_en": "The Agent Access Model",
+        "title_original": "The Agent Access Model",
+        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+        "recommend_reason_zh": "本文提出Agent Access Model，用严格身份代理、持续中介与有状态信任来约束任务级agent，并对比BeyondCorp以人为本的零信任模型，主张缩小agent能力而非仅优化每次决策。",
+        "url": "https://blog.cloudflare.com/the-agent-access-model",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "概念提案，没给可clone代码，等落地再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-05T20:54:58.283901Z"
+      }
+    },
+    {
+      "story_id": "story_f70d268aa3c8",
+      "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+      "url": "https://www.ithome.com/0/986/180.htm",
+      "primary_url": "https://www.ithome.com/0/986/180.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "title_en": null,
+          "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
+          "recommend_reason_zh": "引望牵头起草首部L3/L4自动驾驶强制性国标GB 44721-2026，并将超190万辆量产车、130亿公里智驾数据转化为标准提案，首批完成L3车型准入试点验证。",
+          "url": "https://www.ithome.com/0/986/180.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:18:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "title_en": null,
+          "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
+          "recommend_reason_zh": "引望牵头起草首部L3/L4自动驾驶强制性国标GB 44721-2026，并将超190万辆量产车、130亿公里智驾数据转化为标准提案，首批完成L3车型准入试点验证。",
+          "url": "https://www.ithome.com/0/986/180.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:18:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T10:18:17Z",
+      "latest_at": "2026-08-05T10:18:17Z",
+      "primary_item": {
+        "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+        "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+        "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+        "title_en": null,
+        "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+        "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
+        "recommend_reason_zh": "引望牵头起草首部L3/L4自动驾驶强制性国标GB 44721-2026，并将超190万辆量产车、130亿公里智驾数据转化为标准提案，首批完成L3车型准入试点验证。",
+        "url": "https://www.ithome.com/0/986/180.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "法规先行，L3落地有据可依，但离量产上车还远，做相关开发的可以盯细则。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-05T20:54:58.283901Z"
+      }
+    },
+    {
+      "story_id": "story_b37eb09fb6a2",
+      "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+      "url": "https://www.aibase.com/news/30134",
+      "primary_url": "https://www.aibase.com/news/30134",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_en": null,
+          "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "summary": null,
+          "recommend_reason_zh": "世界银行最新报告给新兴经济体指路：与其砸钱建数据中心和大模型，不如推广本地化小工具改善医疗教育，并称AI更可能是工人帮手而非取代者。",
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T09:49:30.138942Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+          "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "title_en": null,
+          "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+          "summary": null,
+          "recommend_reason_zh": "世界银行最新报告给新兴经济体指路：与其砸钱建数据中心和大模型，不如推广本地化小工具改善医疗教育，并称AI更可能是工人帮手而非取代者。",
+          "url": "https://www.aibase.com/news/30134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T09:49:30.138942Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8552,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T09:49:30.138942Z",
+      "latest_at": "2026-08-05T09:49:30.138942Z",
+      "primary_item": {
+        "id": "720ea29c877b647278422f2bd6badd24b0b46327",
+        "title": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "title_zh": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "title_en": null,
+        "title_original": "世界银行喊话新兴经济体：别跟富裕国拼数据中心和大模型，本地化小工具才是正道",
+        "summary": null,
+        "recommend_reason_zh": "世界银行最新报告给新兴经济体指路：与其砸钱建数据中心和大模型，不如推广本地化小工具改善医疗教育，并称AI更可能是工人帮手而非取代者。",
+        "url": "https://www.aibase.com/news/30134",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "方向性建议，不产生新工具或API，做本地化中小模型的可参考，但今天不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-05T20:54:58.283901Z"
       }
     }
   ]
