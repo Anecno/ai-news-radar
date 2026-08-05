@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:13:06.199660Z",
+  "generated_at": "2026-08-05T19:07:50.501132Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_62f2df441b10",
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud / Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "story_id": "story_20b80d150b2a",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "Pro后缀越来越廉价，基准测试和部署成本敢不敢一起晒？"
+          "score": 82,
+          "review": "功能都真，但推理轨迹和工具调用早该有了，别当大新闻。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "仅官方推特上线消息，无论文无代码无跑分，证据不足。"
+          "score": 50,
+          "review": "博客列了功能明细，但无代码或评测证据，待独立验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "新模型直接上线可试用，跑图像任务的今天就能去体验。"
+          "score": 78,
+          "review": "新功能直接能上手，服务端工具和推理轨迹对写 Agent 的今天就有用。"
         }
       }
     }
