@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:39:36.180112Z",
+  "generated_at": "2026-08-05T14:56:24.700068Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_bcfdafe93ce8",
-      "title": "用 LFM2.5-2.6B 随处部署本地 Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "本地部署是真的，'随处'就夸大了，先跑个基准看看。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "官方博客给了模型和数字，但无论文，缺独立评测验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "2.6B 本地跑 Agent，隐私和推理成本都省了，今天就能动手试。"
-        }
-      }
-    },
-    {
       "story_id": "story_788cae258ab4",
       "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
       "url": "https://www.aibase.com/news/30132",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 68,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "3B开源审核模型能单卡跑，过滤场景今天就能替换云端API。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3739c8d6bfe4",
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "“活人感”全凭自我感觉，敢不敢把前后对比稿贴出来？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅称开源但未见仓库地址和评测，无法验证，等代码和样本再议。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源可用，文字工作者直接上手，能减少AI腔调，今天就能试。"
         }
       }
     }
