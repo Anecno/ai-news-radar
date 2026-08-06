@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:42:47.287270Z",
+  "generated_at": "2026-08-06T00:24:39.343778Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_20b80d150b2a",
-      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "story_id": "story_ef28a1340614",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "功能都真，但推理轨迹和工具调用早该有了，别当大新闻。"
+          "score": 72,
+          "review": "开源参数可查，但'Super'与Robotaxi之间隔着一个真实世界，先上路测再说。"
         },
         "paper-police": {
-          "score": 50,
-          "review": "博客列了功能明细，但无代码或评测证据，待独立验证。"
+          "score": 25,
+          "review": "媒体通稿称开源但无代码无评测，缺实质证据难采信。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "新功能直接能上手，服务端工具和推理轨迹对写 Agent 的今天就有用。"
+          "score": 75,
+          "review": "开源 34B VLA 模型，做自动驾驶的能直接试，通用开发者先观望。"
         }
       }
     }

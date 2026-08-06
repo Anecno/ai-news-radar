@@ -1,84 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_dbadffdd21c6|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内部工具未开放，短期无直接影响，可关注后续接口。",
-      "title_hash": "01957885",
-      "scored_at": "2026-07-16T00:19:56.869886Z"
-    },
-    "story_85928d22c4fa|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "扫密钥更准了，CICD 里加个扫描步骤今天就能防泄漏。",
-      "title_hash": "959eb705",
-      "scored_at": "2026-07-15T23:23:35.696392Z"
-    },
-    "story_a297969d5314|pragmatic|0a5c5b24": {
-      "score": 95,
-      "review": "能直接clone仓库看源码了，想魔改或自部署的今天就能动手。",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:19:58.480583Z"
-    },
-    "story_d0f563033be1|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "提醒注意AI语音安全，无直接工具或方案可用。",
-      "title_hash": "74faa8fe",
-      "scored_at": "2026-07-16T00:20:01.155311Z"
-    },
-    "story_cb1391ebd37c|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "在Claude Code里直接调MCP连接器做应用，今天就能试。",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:04.835688Z"
-    },
-    "story_ddd1632f9351|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内部安全测试工具，暂无直接用途，等后续模型安全更新再说。",
-      "title_hash": "a42067ac",
-      "scored_at": "2026-07-16T00:20:07.210587Z"
-    },
-    "story_3340fcf57dbe|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "研究论文，揭示潜在对齐问题，暂不直接影响日常开发。",
-      "title_hash": "7e0c7c58",
-      "scored_at": "2026-07-16T00:20:09.585836Z"
-    },
-    "story_ce19941f8cdf|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "发布不等于可用，等API或开源再试。",
-      "title_hash": "eae7ce4b",
-      "scored_at": "2026-07-16T00:20:11.997344Z"
-    },
-    "story_60c0396d28c0|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源方案可 clone 试，SSH 同步省去手动传模型步骤。",
-      "title_hash": "c335b7cf",
-      "scored_at": "2026-07-16T00:20:14.854078Z"
-    },
-    "story_a297969d5314|cynic|f4237a62": {
-      "score": 35,
-      "review": "又是“开源”一勺？权重和训练数据藏哪了？",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:20:18.775986Z"
-    },
-    "story_a297969d5314|paper-police|966065bf": {
-      "score": 70,
-      "review": "代码已开源，但缺论文和独立评测，有待验证性能。",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:20:22.070651Z"
-    },
-    "story_cb1391ebd37c|cynic|f4237a62": {
-      "score": 55,
-      "review": "MCP连接器听起来很牛，但能连几个真有用的服务？",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:23.754930Z"
-    },
-    "story_cb1391ebd37c|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有官方推文声称功能，无论文无代码无评测，无法验证。",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:26.351956Z"
-    },
     "story_affed1a668e3|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "小版本更新，升级看 changelog 再决定是否值得更新。",
@@ -5028,6 +4950,30 @@
       "review": "开源工具可直接跑，做广告预算归因的团队能上手试。",
       "title_hash": "f8640b36",
       "scored_at": "2026-08-05T22:42:47.287119Z"
+    },
+    "story_671b284df7c7|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全传闻，没官方细节，短期不影响选型，先观望。",
+      "title_hash": "ed606dab",
+      "scored_at": "2026-08-06T00:24:27.341235Z"
+    },
+    "story_f35b1af635e4|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "安全事件提醒，检查你自己 agent 的沙箱和权限控制。",
+      "title_hash": "8e1a4b2e",
+      "scored_at": "2026-08-06T00:24:29.912961Z"
+    },
+    "story_ef28a1340614|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源参数可查，但'Super'与Robotaxi之间隔着一个真实世界，先上路测再说。",
+      "title_hash": "fe8d97e1",
+      "scored_at": "2026-08-06T00:24:34.171830Z"
+    },
+    "story_ef28a1340614|paper-police|966065bf": {
+      "score": 25,
+      "review": "媒体通稿称开源但无代码无评测，缺实质证据难采信。",
+      "title_hash": "fe8d97e1",
+      "scored_at": "2026-08-06T00:24:39.343720Z"
     }
   }
 }
