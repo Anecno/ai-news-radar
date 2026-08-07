@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_41dc3e242cb7|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "直接接入API监控Copilot用量，方便团队管理额度。",
-      "title_hash": "6585e6c8",
-      "scored_at": "2026-07-17T23:13:44.027439Z"
-    },
-    "story_39f96da3c40c|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "团队可查各仓库Copilot使用量，辅助成本分摊和采纳分析，今天就能开。",
-      "title_hash": "36528883",
-      "scored_at": "2026-07-17T23:13:46.059082Z"
-    },
-    "story_39f96da3c40c|cynic|f4237a62": {
-      "score": 75,
-      "review": "统计颗粒度更细了，管理者终于有数据证明谁在摸鱼。",
-      "title_hash": "36528883",
-      "scored_at": "2026-07-17T23:13:48.296113Z"
-    },
-    "story_39f96da3c40c|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方公告，无可复现评测，信源单一。",
-      "title_hash": "36528883",
-      "scored_at": "2026-07-17T23:13:50.534907Z"
-    },
     "story_d95ae44b75d8|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "新模型发布但未开放接口，等实测或开源后再评估价值。",
@@ -5040,6 +5016,18 @@
       "review": "量化 Copilot 投入产出的官方面板，汇报预算或续费决策时直接引用数据。",
       "title_hash": "c2897e35",
       "scored_at": "2026-08-07T23:06:39.702843Z"
+    },
+    "story_b477bfd27d42|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "模型没上线，短期别等，等安全评估完再说。",
+      "title_hash": "dd6adf34",
+      "scored_at": "2026-08-07T23:57:48.497661Z"
+    },
+    "story_1f7d8d6cb096|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "企业管理员今天就能装第三方App扩功能，团队协作有更多现成工具可选。",
+      "title_hash": "78656fd4",
+      "scored_at": "2026-08-07T23:57:50.518542Z"
     }
   }
 }
