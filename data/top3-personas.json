@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:39:21.719319Z",
+  "generated_at": "2026-08-07T06:04:24.716949Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_b72b947b1616",
-      "title": "ChatGPT 免费版史诗升级：GPT-5.6 Luna 无限使用，Plus/Pro 用户也有专属福利",
-      "url": "https://www.aibase.com/news/30180",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 5,
-          "review": "GPT-5.6还没影呢，先编个名字蹭热度，免费无限更是梦话。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅一家媒体转述，无官方公告链接或评测数据，无法验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "免费版就能用新模型，个人跑任务不用再氪金，先查限速再切。"
-        }
-      }
-    },
-    {
       "story_id": "story_355aa101c777",
       "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 86,
           "review": "免费用户能用 Luna 了，Sol 也优化了，直接去 ChatGPT 试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_67de54450aab",
+      "title": "Kimi K3 现已上线 GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "集成只是入口，模型好赖还得看评测，先别急着吹。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方公告确认上线，但无性能数据或复现，仅属产品集成声明。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "GitHub Copilot 直接可用 Kimi K3，写代码的今天就能切模型试试效果。"
         }
       }
     }
