@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:02:10.450306Z",
+  "generated_at": "2026-08-07T19:15:51.381974Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
           "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
           "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+          "summary": null,
           "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
           "url": "https://huggingface.co/blog/allenai/tutormoments",
           "source": "Hugging Face Blog",
@@ -37,7 +37,7 @@
           "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
           "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
           "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+          "summary": null,
           "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
           "url": "https://huggingface.co/blog/allenai/tutormoments",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8596,
-      "importance": 0.8596,
-      "importance_score": 0.8596,
+      "score": 0.8565,
+      "importance": 0.8565,
+      "importance_score": 0.8565,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9979,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
         "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
         "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nWhat makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf | 📊 Data: https://huggingface.co/datasets/allenai/tutormoments-preview | 💻 Code: https://github.com/allenai/tutormoments\nToday we're introducing a preview of TutorMoments , a framework to measure whether cutting-edge LLMs can balance one of the hardest",
+        "summary": null,
         "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
         "url": "https://huggingface.co/blog/allenai/tutormoments",
         "source": "Hugging Face Blog",
@@ -85,7 +85,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
+      }
+    },
+    {
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
+          "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
+          "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
+      "primary_item": {
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
+        "summary": "Since agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now…\nSince agent apps arrived on GitHub, teams have been able to run agents from partners like Claude and Codex directly in their GitHub workflows. The Copilot usage metrics API now reports that activity, broken out by individual agent. The usage metrics API does this in the enterprise, organization, enterprise-user, and orga",
+        "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "新增 agent 活动统计，做 Copilot 集成的今天就能接上，看用量更细。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9617,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
-      }
-    },
-    {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9588,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
-      "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "改动不大，Copilot 审查要手动加了，配置一下就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7707,
+        "recency": 0.7572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,30 +340,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
-      "story_id": "story_cba5eebd8637",
-      "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "密钥扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
-          "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
-          "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "source_count": 1,
@@ -372,31 +372,31 @@
       ],
       "items": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "密钥扫描覆盖范围更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
-          "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
-          "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9839,
+        "ai_relevance": 0.91,
+        "recency": 0.942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,27 +405,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
       "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
-        "title_zh": "密钥扫描覆盖范围更新",
-        "title_en": "Secret scanning coverage updates",
-        "title_original": "Secret scanning coverage updates",
-        "summary": "This release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts. Secret scanning partnership program Lovable Labs is…\nThis release expands secret scanning’s coverage with more secrets blocked by push protection, one new secret scanning partner, and richer metadata on alerts.\nLovable Labs is now a GitHub secret scanning partner. Secret scanning now automatically detects the following new secret type in yo",
-        "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub Code Quality 不再将 Copilot 添加为代码审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub Code Quality 不再将 Copilot 添加为代码审查者",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Code Quality自7月20日上线后不再自动创建规则集让Copilot审查PR，已关闭原规则集中三项设置，是否添加审查者由用户自己决定。",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "扫描范围扩大，仓库新增密钥类型会触发告警，建议立即查告警。",
+      "persona_score": 62,
+      "persona_review": "改动不大，Copilot 审查要手动加了，配置一下就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7256,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -642,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8777,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +679,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
+      }
+    },
+    {
+      "story_id": "story_07e970ae06be",
+      "title": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+          "recommend_reason_zh": "GitHub推出“Relates to”问题关系公开预览，可连接两个issue而不暗示阻塞或重复；多选字段正式全面可用，并带来多项改进。",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+          "recommend_reason_zh": "GitHub推出“Relates to”问题关系公开预览，可连接两个issue而不暗示阻塞或重复；多选字段正式全面可用，并带来多项改进。",
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9756,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:33:14Z",
+      "latest_at": "2026-08-07T17:33:14Z",
+      "primary_item": {
+        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+        "title": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_zh": "Relates to”问题关联现已全面可用，覆盖公开预览和多选字段。",
+        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "summary": "GitHub is making it easier to connect related work and manage multiple field values across issues and projects. Connect related issues The new “Relates to” issue relationship is available in…\nGitHub is making it easier to connect related work and manage multiple field values across issues and projects.\nThe new “Relates to” issue relationship is available in public preview. You can connect two issues without implying that one blocks, duplicates, contains, or closes the other.\nMulti-select fields ",
+        "recommend_reason_zh": "GitHub推出“Relates to”问题关系公开预览，可连接两个issue而不暗示阻塞或重复；多选字段正式全面可用，并带来多项改进。",
+        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "GitHub 官方功能落地，管理 issue 关联和多选筛选，日常开发可用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -727,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9974,
+        "recency": 0.9799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -811,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +932,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -895,15 +980,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -931,7 +1016,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -979,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,7 +1100,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1092,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7599,
+        "recency": 0.7466,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1129,7 +1214,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1177,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1298,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
+      }
+    },
+    {
+      "story_id": "story_cba5eebd8637",
+      "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "密钥扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "密钥扫描覆盖范围更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9666,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
+      "primary_item": {
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
+        "title_zh": "密钥扫描覆盖范围更新",
+        "title_en": "Secret scanning coverage updates",
+        "title_original": "Secret scanning coverage updates",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 更新 secret scanning 覆盖：新增合作伙伴 Lovable Labs，push protection 默认拦截更多密钥，告警元数据提供所有者、创建和过期日期，便于评估风险，值得开发者一读。",
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 78,
+      "persona_review": "扫描范围扩大，仓库新增密钥类型会触发告警，建议立即查告警。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1261,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.881,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,92 +1466,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
-      }
-    },
-    {
-      "story_id": "story_2395f91ba6f9",
-      "title": "在组织级别设置 pull request 限制 / Set pull request limits at the organization level",
-      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "primary_url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级别设置 pull request 限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级别设置 pull request 限制",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": null,
-          "recommend_reason_zh": "GitHub宣布组织级PR限制功能，管理员可集中设置无写权限用户同时打开的PR数量上限，达到上限后需关闭或合并已有PR才能再开，替代逐仓库单独配置。",
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级别设置 pull request 限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级别设置 pull request 限制",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": null,
-          "recommend_reason_zh": "GitHub宣布组织级PR限制功能，管理员可集中设置无写权限用户同时打开的PR数量上限，达到上限后需关闭或合并已有PR才能再开，替代逐仓库单独配置。",
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7682,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T23:46:17Z",
-      "latest_at": "2026-08-06T23:46:17Z",
-      "primary_item": {
-        "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-        "title": "在组织级别设置 pull request 限制 / Set pull request limits at the organization level",
-        "title_zh": "在组织级别设置 pull request 限制",
-        "title_en": "Set pull request limits at the organization level",
-        "title_original": "Set pull request limits at the organization level",
-        "summary": null,
-        "recommend_reason_zh": "GitHub宣布组织级PR限制功能，管理员可集中设置无写权限用户同时打开的PR数量上限，达到上限后需关闭或合并已有PR才能再开，替代逐仓库单独配置。",
-        "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "组织管理员可限制PR数量，管控CI资源好用，今天就能配。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1429,15 +1514,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1464,7 +1549,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1512,15 +1597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9466,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1547,7 +1632,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     },
     {
@@ -1595,15 +1680,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1630,90 +1715,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
-      }
-    },
-    {
-      "story_id": "story_3698283e20f1",
-      "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "primary_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "title_en": "Managed Deep Agents is now in public beta",
-          "title_original": "Managed Deep Agents is now in public beta",
-          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-          "recommend_reason_zh": "Managed Deep Agents 公开测试版上线，支持用 Python 或 TypeScript 编写代理，一条命令部署到 LangSmith 托管运行时，由 LangSmith 处理持久化、沙箱与部署，让团队专注业务逻辑而非底层基础设施。",
-          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "title_en": "Managed Deep Agents is now in public beta",
-          "title_original": "Managed Deep Agents is now in public beta",
-          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-          "recommend_reason_zh": "Managed Deep Agents 公开测试版上线，支持用 Python 或 TypeScript 编写代理，一条命令部署到 LangSmith 托管运行时，由 LangSmith 处理持久化、沙箱与部署，让团队专注业务逻辑而非底层基础设施。",
-          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9909,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:24:06Z",
-      "latest_at": "2026-08-07T17:24:06Z",
-      "primary_item": {
-        "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-        "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-        "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-        "title_en": "Managed Deep Agents is now in public beta",
-        "title_original": "Managed Deep Agents is now in public beta",
-        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-        "recommend_reason_zh": "Managed Deep Agents 公开测试版上线，支持用 Python 或 TypeScript 编写代理，一条命令部署到 LangSmith 托管运行时，由 LangSmith 处理持久化、沙箱与部署，让团队专注业务逻辑而非底层基础设施。",
-        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "托管版 Deep Agents 开测，想省事可试，但 beta 别上生产。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T18:17:05.225546Z"
+        "scored_at": "2026-08-07T19:32:26.635307Z"
       }
     }
   ]

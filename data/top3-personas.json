@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:17:22.416561Z",
+  "generated_at": "2026-08-07T19:32:38.894694Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_cba5eebd8637",
-      "title": "密钥扫描覆盖范围更新 / Secret scanning coverage updates",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 50,
-          "review": "覆盖范围扩大也单独发公告，这KPI压力是有多大？"
+          "score": 45,
+          "review": "加个数数指标就发 changelog，Copilot 的进步全靠仪表盘？"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方更新有据可查，但仅公告无独立验证，需看实际效果。"
+          "score": 45,
+          "review": "官方changelog给了细节，但无独立验证，需实际调用确认。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "扫描范围扩大，仓库新增密钥类型会触发告警，建议立即查告警。"
+          "score": 82,
+          "review": "新增 agent 活动统计，做 Copilot 集成的今天就能接上，看用量更细。"
         }
       }
     }
