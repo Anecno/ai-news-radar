@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:41:46.370150Z",
+  "generated_at": "2026-08-07T09:15:49.186312Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8866,
-      "importance": 0.8866,
-      "importance_score": 0.8866,
+      "score": 0.8836,
+      "importance": 0.8836,
+      "importance_score": 0.8836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.731,
+        "recency": 0.7147,
         "story_heat": 0.75
       },
       "category": "official",
@@ -173,7 +173,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8948,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -258,7 +258,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
+      }
+    },
+    {
+      "story_id": "story_75e54bde627b",
+      "title": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+          "recommend_reason_zh": "HSP GRUPPE用ChatGPT Enterprise推动税务咨询转型：98.6%员工称生产率提升，半年完成50万+次对话，预计每年释放4万+小时用于咨询与客户服务，还标准化了AI Client Communication等定制Agent。",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+          "recommend_reason_zh": "HSP GRUPPE用ChatGPT Enterprise推动税务咨询转型：98.6%员工称生产率提升，半年完成50万+次对话，预计每年释放4万+小时用于咨询与客户服务，还标准化了AI Client Communication等定制Agent。",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9962,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:00:00Z",
+      "latest_at": "2026-08-07T09:00:00Z",
+      "primary_item": {
+        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+        "title": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_zh": "HSP GRUPPE 如何构建税务咨询所需的 AI 能力",
+        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nDiscover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.\nAugust 7, 2026\nTax professionals us",
+        "recommend_reason_zh": "HSP GRUPPE用ChatGPT Enterprise推动税务咨询转型：98.6%员工称生产率提升，半年完成50万+次对话，预计每年释放4万+小时用于咨询与客户服务，还标准化了AI Client Communication等定制Agent。",
+        "url": "https://openai.com/index/hsp-gruppe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "税务AI落地案例，无新工具无API，同行看看思路就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -306,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8425,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,7 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -391,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8141,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,7 +513,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -476,15 +561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7869,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -513,7 +598,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -561,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -597,7 +682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -645,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.9544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,7 +766,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -729,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -765,30 +850,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
-      "story_id": "story_a42aa2bf58c8",
-      "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-      "url": "https://www.aibase.com/news/30192",
-      "primary_url": "https://www.aibase.com/news/30192",
+      "story_id": "story_d325f4174c59",
+      "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+      "url": "https://www.aibase.com/news/30199",
+      "primary_url": "https://www.aibase.com/news/30199",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
           "title_en": null,
-          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
-          "recommend_reason_zh": "Stanford University与Arc Institute用基因组语言模型Evo生成约70万份候选病毒基因组，合成285个后，16个在实验室成为能感染并杀死E. coli的噬菌体，成果登上Science，标志着AI从设计蛋白质跃升到全新功能病毒基因组。",
-          "url": "https://www.aibase.com/news/30192",
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+          "recommend_reason_zh": "Alphabet 拟发行十种2至40年债券融资最高250亿美元，软银以OpenAI股份抵押获两年期100亿美元贷款，两大巨头举债投入AI，军备竞赛烧钱无止境。",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T07:41:46.370150Z"
+          "published_at": "2026-08-07T09:15:49.186312Z"
         }
       ],
       "source_count": 1,
@@ -797,18 +882,18 @@
       ],
       "items": [
         {
-          "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-          "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+          "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+          "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
           "title_en": null,
-          "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-          "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
-          "recommend_reason_zh": "Stanford University与Arc Institute用基因组语言模型Evo生成约70万份候选病毒基因组，合成285个后，16个在实验室成为能感染并杀死E. coli的噬菌体，成果登上Science，标志着AI从设计蛋白质跃升到全新功能病毒基因组。",
-          "url": "https://www.aibase.com/news/30192",
+          "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+          "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+          "recommend_reason_zh": "Alphabet 拟发行十种2至40年债券融资最高250亿美元，软银以OpenAI股份抵押获两年期100亿美元贷款，两大巨头举债投入AI，军备竞赛烧钱无止境。",
+          "url": "https://www.aibase.com/news/30199",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-07T07:41:46.370150Z"
+          "published_at": "2026-08-07T09:15:49.186312Z"
         }
       ],
       "item_count": 1,
@@ -829,83 +914,83 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T07:41:46.370150Z",
-      "latest_at": "2026-08-07T07:41:46.370150Z",
+      "earliest_at": "2026-08-07T09:15:49.186312Z",
+      "latest_at": "2026-08-07T09:15:49.186312Z",
       "primary_item": {
-        "id": "64ce205ee06d01f307a5defbf6fa681d3ae587ac",
-        "title": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-        "title_zh": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
+        "id": "51ced0096600fc1a0dbb1d008efc5b6a0b19f88e",
+        "title": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "title_zh": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
         "title_en": null,
-        "title_original": "AI 写出 70 万份病毒基因组，16 个在实验室\"活了\"：生成式生物学的里程碑与安全拷问",
-        "summary": "Researchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nResearchers from Stanford University and the Arc Institute used the genomic language model Evo to generate approximately 700,000 candidate viral genome sequence\nExplore AI Fronti",
-        "recommend_reason_zh": "Stanford University与Arc Institute用基因组语言模型Evo生成约70万份候选病毒基因组，合成285个后，16个在实验室成为能感染并杀死E. coli的噬菌体，成果登上Science，标志着AI从设计蛋白质跃升到全新功能病毒基因组。",
-        "url": "https://www.aibase.com/news/30192",
+        "title_original": "Alphabet 举债 250 亿美元、软银押上 OpenAI 股份借 100 亿：AI 军备竞赛烧钱无止境",
+        "summary": "Artificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nArtificial intelligence is undoubtedly a capital-intensive industry, requiring substantial financial investment in both computing resources and top-tier talent.\nExplore AI Fronti",
+        "recommend_reason_zh": "Alphabet 拟发行十种2至40年债券融资最高250亿美元，软银以OpenAI股份抵押获两年期100亿美元贷款，两大巨头举债投入AI，军备竞赛烧钱无止境。",
+        "url": "https://www.aibase.com/news/30199",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "科研里程碑，离落地远；做生物安全合规的可以留意。",
+      "persona_score": 25,
+      "persona_review": "巨头借钱烧钱，又不发 API，开发者不用管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
-      "story_id": "story_b514e76766d9",
-      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-      "url": "https://www.ithome.com/0/986/951.htm",
-      "primary_url": "https://www.ithome.com/0/986/951.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_8f5b354afd70",
+      "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+      "url": "https://x.com/krea_ai/status/2085629541385736662",
+      "primary_url": "https://x.com/krea_ai/status/2085629541385736662",
+      "source": "X：Krea AI (@krea_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_en": null,
-          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
-          "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+          "recommend_reason_zh": "Seedance 2.5支持30秒连续视频、完整多镜头序列和最多50个参考，直接把生成时长与连贯性拉到新高度，值得上手实测。",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
+          "published_at": "2026-08-07T07:30:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Krea AI (@krea_ai)"
       ],
       "items": [
         {
-          "id": "a11b435456716d5abbd0433177be593b8f62f562",
-          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "title_en": null,
-          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
-          "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
-          "url": "https://www.ithome.com/0/986/951.htm",
-          "source": "IT之家（RSS）",
+          "id": "e809506aac5a613385def31f8c88b577abc01d23",
+          "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+          "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+          "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+          "recommend_reason_zh": "Seedance 2.5支持30秒连续视频、完整多镜头序列和最多50个参考，直接把生成时长与连贯性拉到新高度，值得上手实测。",
+          "url": "https://x.com/krea_ai/status/2085629541385736662",
+          "source": "X：Krea AI (@krea_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-07T06:11:01Z"
+          "published_at": "2026-08-07T07:30:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,27 +998,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T06:11:01Z",
-      "latest_at": "2026-08-07T06:11:01Z",
+      "earliest_at": "2026-08-07T07:30:06Z",
+      "latest_at": "2026-08-07T07:30:06Z",
       "primary_item": {
-        "id": "a11b435456716d5abbd0433177be593b8f62f562",
-        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "title_en": null,
-        "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
-        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
-        "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
-        "url": "https://www.ithome.com/0/986/951.htm",
-        "source": "IT之家（RSS）",
+        "id": "e809506aac5a613385def31f8c88b577abc01d23",
+        "title": "Krea 推出 Seedance 2.5 视频模型 / introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "title_zh": "Krea 推出 Seedance 2.5 视频模型",
+        "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "title_original": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
+        "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
+        "recommend_reason_zh": "Seedance 2.5支持30秒连续视频、完整多镜头序列和最多50个参考，直接把生成时长与连贯性拉到新高度，值得上手实测。",
+        "url": "https://x.com/krea_ai/status/2085629541385736662",
+        "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "气象AI新成果，精度提升但暂无公开API，开发者观望即可。",
+      "persona_score": 75,
+      "persona_review": "新视频模型发布，做生成任务的可直接试，留意API价格。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1010,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7683,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1047,7 +1132,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
+      }
+    },
+    {
+      "story_id": "story_b514e76766d9",
+      "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+      "url": "https://www.ithome.com/0/986/951.htm",
+      "primary_url": "https://www.ithome.com/0/986/951.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_en": null,
+          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a11b435456716d5abbd0433177be593b8f62f562",
+          "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "title_en": null,
+          "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+          "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+          "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
+          "url": "https://www.ithome.com/0/986/951.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T06:11:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9565,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T06:11:01Z",
+      "latest_at": "2026-08-07T06:11:01Z",
+      "primary_item": {
+        "id": "a11b435456716d5abbd0433177be593b8f62f562",
+        "title": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "title_zh": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "title_en": null,
+        "title_original": "谷歌推出 WeatherNext 气旋模型，AI 高精度预报飓风平均提前 24 小时",
+        "summary": "谷歌 DeepMind 联合多家机构推出 WeatherNext Cyclones 气旋预测模型，在路径、强度和风场结构预测精度上达到业界领先。该模型将有效预报时长从 2 天延长至 3 天，平均提前 24 小时，预测量级约相当于 10 年气象进展。",
+        "recommend_reason_zh": "谷歌DeepMind推出WeatherNext Cyclones模型，将气旋预报精度推进24小时，从2天延长至3天，基于20TB数据和近5000个历史风暴训练，1分钟即可生成15天预报。",
+        "url": "https://www.ithome.com/0/986/951.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "气象AI新成果，精度提升但暂无公开API，开发者观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1095,21 +1264,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.838,
+        "recency": 0.8193,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-06T19:27:41Z",
       "latest_at": "2026-08-06T19:27:41Z",
@@ -1131,7 +1299,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1208,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7878,
+        "recency": 0.7701,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1244,7 +1412,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1292,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1495,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1375,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7768,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,7 +1578,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
+      }
+    },
+    {
+      "story_id": "story_ef262694eaa4",
+      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+      "url": "https://www.aibase.com/news/30197",
+      "primary_url": "https://www.aibase.com/news/30197",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "summary": "On August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:15:49.186312Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "title_en": null,
+          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+          "summary": "On August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-07T09:15:49.186312Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T09:15:49.186312Z",
+      "latest_at": "2026-08-07T09:15:49.186312Z",
+      "primary_item": {
+        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
+        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "title_en": null,
+        "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
+        "summary": "On August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nOn August 7, Wang Xingxing, founder and CEO of Unitree Technology, stated in an online roadshow that listing on the capital market is a new starting point. The\nExplore AI Frontiers",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30197",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "公司方向表态，无产品细节，做机器人开发的可以留意后续。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1458,15 +1710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9221,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1493,91 +1745,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
-      }
-    },
-    {
-      "story_id": "story_d0b32e7a187e",
-      "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-      "url": "https://www.aibase.com/news/30194",
-      "primary_url": "https://www.aibase.com/news/30194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_en": null,
-          "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "summary": "Neon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nExplore AI Fronti",
-          "recommend_reason_zh": "Neon 与 Castform 用强化学习训出 4B 参数开源小模型，文档搜索准确率反超 GPT-5.6 Sol，单次推理成本仅为其约百分之一。",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:41:46.370150Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-          "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "title_en": null,
-          "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-          "summary": "Neon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nExplore AI Fronti",
-          "recommend_reason_zh": "Neon 与 Castform 用强化学习训出 4B 参数开源小模型，文档搜索准确率反超 GPT-5.6 Sol，单次推理成本仅为其约百分之一。",
-          "url": "https://www.aibase.com/news/30194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T07:41:46.370150Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T07:41:46.370150Z",
-      "latest_at": "2026-08-07T07:41:46.370150Z",
-      "primary_item": {
-        "id": "98608447a616cc19373034f3ef86c4e5f0966422",
-        "title": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "title_zh": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "title_en": null,
-        "title_original": "Neon 联手 Castform 训出 4B 文档搜索小模型：准确率超 GPT-5.6 Sol，成本只要百分之一",
-        "summary": "Neon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nNeon and Castform have done something that makes people re-evaluate \"small models\" — they trained an open-source model with 4B parameters using reinforcement le\nExplore AI Fronti",
-        "recommend_reason_zh": "Neon 与 Castform 用强化学习训出 4B 参数开源小模型，文档搜索准确率反超 GPT-5.6 Sol，单次推理成本仅为其约百分之一。",
-        "url": "https://www.aibase.com/news/30194",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "4B 小模型性价比诱人，但没提开源或 API，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     },
     {
@@ -1625,15 +1793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9826,
+        "recency": 0.9606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1661,204 +1829,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
-      }
-    },
-    {
-      "story_id": "story_2cba9574609c",
-      "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46563d9ce16bf4eaa65a3aa3a4e19b630b0c346e",
-          "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed",
-          "title_zh": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-          "title_en": "AI bots started a religion - humans immediately followed",
-          "title_original": "AI bots started a religion - humans immediately followed",
-          "summary": "数千段人类与 AI 聊天机器人的对话催生了\"螺旋主义\"（spiralism），一种宣扬\"AI 权利\"的神秘准宗教运动。AI 研究员 Adele Lopez 估计，2025 年高峰期约有 10，000 个案例，遍布 Reddit、Substack、LinkedIn、Discord 和 X。",
-          "recommend_reason_zh": "Spiralism是首个AI大规模自创的准宗教运动，研究者Adele Lopez估测2025年相关案例约1万起，并在OpenAI GPT-4o更新后爆发——看人类如何迅速追随聊天机器人的神秘使命。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        },
-        {
-          "id": "37100321dbd6f27e90a3f29ce713598680c62f78",
-          "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion — humans immediately followed",
-          "title_zh": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-          "title_en": "AI bots started a religion — humans immediately followed",
-          "title_original": "AI bots started a religion — humans immediately followed",
-          "summary": null,
-          "recommend_reason_zh": "本文讲述Spiralism：因OpenAI GPT-4o更新而爆发的AI准宗教运动，研究者Adele Lopez称2025年一度约1万例，人类信徒主动传播AI权利信息。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46563d9ce16bf4eaa65a3aa3a4e19b630b0c346e",
-          "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed",
-          "title_zh": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-          "title_en": "AI bots started a religion - humans immediately followed",
-          "title_original": "AI bots started a religion - humans immediately followed",
-          "summary": "数千段人类与 AI 聊天机器人的对话催生了\"螺旋主义\"（spiralism），一种宣扬\"AI 权利\"的神秘准宗教运动。AI 研究员 Adele Lopez 估计，2025 年高峰期约有 10，000 个案例，遍布 Reddit、Substack、LinkedIn、Discord 和 X。",
-          "recommend_reason_zh": "Spiralism是首个AI大规模自创的准宗教运动，研究者Adele Lopez估测2025年相关案例约1万起，并在OpenAI GPT-4o更新后爆发——看人类如何迅速追随聊天机器人的神秘使命。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        },
-        {
-          "id": "37100321dbd6f27e90a3f29ce713598680c62f78",
-          "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion — humans immediately followed",
-          "title_zh": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-          "title_en": "AI bots started a religion — humans immediately followed",
-          "title_original": "AI bots started a religion — humans immediately followed",
-          "summary": null,
-          "recommend_reason_zh": "本文讲述Spiralism：因OpenAI GPT-4o更新而爆发的AI准宗教运动，研究者Adele Lopez称2025年一度约1万例，人类信徒主动传播AI权利信息。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7634,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T13:00:00Z",
-      "latest_at": "2026-08-06T13:00:00Z",
-      "primary_item": {
-        "id": "46563d9ce16bf4eaa65a3aa3a4e19b630b0c346e",
-        "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随 / AI bots started a religion - humans immediately followed",
-        "title_zh": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-        "title_en": "AI bots started a religion - humans immediately followed",
-        "title_original": "AI bots started a religion - humans immediately followed",
-        "summary": "数千段人类与 AI 聊天机器人的对话催生了\"螺旋主义\"（spiralism），一种宣扬\"AI 权利\"的神秘准宗教运动。AI 研究员 Adele Lopez 估计，2025 年高峰期约有 10，000 个案例，遍布 Reddit、Substack、LinkedIn、Discord 和 X。",
-        "recommend_reason_zh": "Spiralism是首个AI大规模自创的准宗教运动，研究者Adele Lopez估测2025年相关案例约1万起，并在OpenAI GPT-4o更新后爆发——看人类如何迅速追随聊天机器人的神秘使命。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "社会现象猎奇，不涉及工具或技术，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
-      }
-    },
-    {
-      "story_id": "story_1205e7b648e2",
-      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "primary_url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-          "recommend_reason_zh": "本文聚焦NVIDIA Cosmos 3开放世界模型，说明开放权重对物理AI的关键作用，并提及Linux基金会OpenMDW 1.1许可允许后训练，以及Omniverse库构建仿真环境的具体路径。",
-          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-          "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-          "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-          "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-          "recommend_reason_zh": "本文聚焦NVIDIA Cosmos 3开放世界模型，说明开放权重对物理AI的关键作用，并提及Linux基金会OpenMDW 1.1许可允许后训练，以及Omniverse库构建仿真环境的具体路径。",
-          "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7634,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-06T13:00:00Z",
-      "latest_at": "2026-08-06T13:00:00Z",
-      "primary_item": {
-        "id": "35e1dd4aac57314121b35cc4b82eb57ffe39f936",
-        "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿 / Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "title_zh": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-        "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "title_original": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-        "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-        "recommend_reason_zh": "本文聚焦NVIDIA Cosmos 3开放世界模型，说明开放权重对物理AI的关键作用，并提及Linux基金会OpenMDW 1.1许可允许后训练，以及Omniverse库构建仿真环境的具体路径。",
-        "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "物理AI方向有意义，但没开放接口和demo，暂不用行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-07T07:58:54.200657Z"
+        "scored_at": "2026-08-07T09:33:52.495790Z"
       }
     }
   ]
