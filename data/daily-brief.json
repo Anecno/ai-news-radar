@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T19:45:06.765267Z",
+  "generated_at": "2026-08-08T20:48:14.919952Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8628,
-      "importance": 0.8628,
-      "importance_score": 0.8628,
+      "score": 0.8603,
+      "importance": 0.8603,
+      "importance_score": 0.8603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9289,
+        "recency": 0.9149,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7439,
+        "recency": 0.7327,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7209,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,91 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
-      }
-    },
-    {
-      "story_id": "story_2b97640ff5a6",
-      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "recommend_reason_zh": "Claude Code新功能：会话间可直接互发消息，无需重复解释，让Claude发送摘要给另一会话，对方可中途接手任务，且只传摘要、不传历史或文件。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "recommend_reason_zh": "Claude Code新功能：会话间可直接互发消息，无需重复解释，让Claude发送摘要给另一会话，对方可中途接手任务，且只传摘要、不传历史或文件。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T19:55:17Z",
-      "latest_at": "2026-08-07T19:55:17Z",
-      "primary_item": {
-        "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-        "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_zh": "Claude Code 会话间可互发消息",
-        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "recommend_reason_zh": "Claude Code新功能：会话间可直接互发消息，无需重复解释，让Claude发送摘要给另一会话，对方可中途接手任务，且只传摘要、不传历史或文件。",
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "会话互通免去重复解释上下文，多任务协作更顺手，值得一试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -474,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -510,7 +426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -558,15 +474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.9018,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -594,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -642,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7181,
+        "recency": 0.7073,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -727,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -810,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.849,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -894,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7269,
+        "recency": 0.716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -931,7 +847,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -979,15 +895,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7427,
+        "recency": 0.7315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +930,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -1119,15 +1035,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6379,
-      "importance": 0.6379,
-      "importance_score": 0.6379,
+      "score": 0.6354,
+      "importance": 0.6354,
+      "importance_score": 0.6354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9218,
+        "recency": 0.9079,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1154,7 +1070,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -1260,15 +1176,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9956,
+        "recency": 0.9806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,7 +1211,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -1401,15 +1317,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9766,
+        "recency": 0.9619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1436,7 +1352,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
+      }
+    },
+    {
+      "story_id": "story_56cf4cefef8c",
+      "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "primary_url": "https://news.ycombinator.com/item?id=49222824",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "recommend_reason_zh": "作者分享如何给其他Claude Code会话发消息，自嘲此法比Codex笨拙，但同时用本地HTTP端点播放青蛙声提醒任务完成，称大幅提升生活质量。",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:48:36.760000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "recommend_reason_zh": "这篇官方文档讲解Claude Code的Remote Control功能：让Claude列出并给同一台机器上的其他会话发消息，还能通过Remote Control回复其他机器或网页上的会话，实现跨设备协作。",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "recommend_reason_zh": "作者分享如何给其他Claude Code会话发消息，自嘲此法比Codex笨拙，但同时用本地HTTP端点播放青蛙声提醒任务完成，称大幅提升生活质量。",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:48:36.760000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "recommend_reason_zh": "这篇官方文档讲解Claude Code的Remote Control功能：让Claude列出并给同一台机器上的其他会话发消息，还能通过Remote Control回复其他机器或网页上的会话，实现跨设备协作。",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-08T20:48:36.760000Z",
+      "primary_item": {
+        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+        "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+        "title_zh": "给你的其他 Claude Code 会话发消息",
+        "title_en": "Message your other Claude Code sessions",
+        "title_original": "Message your other Claude Code sessions",
+        "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+        "recommend_reason_zh": "作者分享如何给其他Claude Code会话发消息，自嘲此法比Codex笨拙，但同时用本地HTTP端点播放青蛙声提醒任务完成，称大幅提升生活质量。",
+        "url": "https://news.ycombinator.com/item?id=49222824",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "跨会话协作有点用，但生态没成熟，急用不如直接开多个终端。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     },
     {
@@ -1513,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.905,
+        "recency": 0.8914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,119 +1576,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
-      }
-    },
-    {
-      "story_id": "story_0a07367e7420",
-      "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://news.ycombinator.com/item?id=49215786",
-      "primary_url": "https://news.ycombinator.com/item?id=49215786",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "手机在办公室丢失，Find My被MDM禁用，翻找30分钟无果后，Claude建议追踪蓝牙信号强度，并在一分钟内写出信号计，让人能边走边观察信号定位。",
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "手机在办公室丢失，Find My被MDM禁用，翻找30分钟无果后，Claude建议追踪蓝牙信号强度，并在一分钟内写出信号计，让人能边走边观察信号定位。",
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7465,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T20:25:04Z",
-      "latest_at": "2026-08-07T23:30:17.250000Z",
-      "primary_item": {
-        "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-        "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
-        "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "summary": null,
-        "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
-        "url": "https://news.ycombinator.com/item?id=49215786",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "找手机的小技巧，对开发工作没直接用处，扫一眼即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T19:50:35.992004Z"
+        "scored_at": "2026-08-08T20:54:44.029526Z"
       }
     }
   ]
