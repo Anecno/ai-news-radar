@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:53:09.143159Z",
+  "generated_at": "2026-08-08T19:06:00.648416Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "加个数数指标就发 changelog，Copilot 的进步全靠仪表盘？"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方changelog给了细节，但无独立验证，需实际调用确认。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "新增 agent 活动统计，做 Copilot 集成的今天就能接上，看用量更细。"
-        }
-      }
-    },
-    {
       "story_id": "story_06de520f313d",
       "title": "Copilot 代码审查工作量级别现已全面可用 / Copilot code review effort levels are generally available",
       "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -60,7 +40,7 @@
       "story_id": "story_1f7d8d6cb096",
       "title": "企业现在可以安装第三方GitHub Apps / Enterprises can now install third-party GitHub Apps",
       "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 78,
           "review": "企业管理员今天就能装第三方App扩功能，团队协作有更多现成工具可选。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2b97640ff5a6",
+      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 60,
+          "review": "会话互发消息听着新鲜，但跨会话上下文同步的坑怕是没提。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方推文宣称新功能，无文档无代码，待实测验证。"
+        },
+        "pragmatic": {
+          "score": 76,
+          "review": "会话互通免去重复解释上下文，多任务协作更顺手，值得一试。"
         }
       }
     }

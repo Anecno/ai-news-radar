@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T17:46:14.311102Z",
+  "generated_at": "2026-08-08T18:58:53.093521Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8677,
-      "importance": 0.8677,
-      "importance_score": 0.8677,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9393,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7655,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,92 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_564ca3d42291",
-      "title": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
-      "primary_url": "https://huggingface.co/blog/allenai/tutormoments",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
-          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": null,
-          "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-          "title": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
-          "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-          "summary": null,
-          "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
-          "url": "https://huggingface.co/blog/allenai/tutormoments",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T17:53:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T17:53:32Z",
-      "latest_at": "2026-08-07T17:53:32Z",
-      "primary_item": {
-        "id": "99d393e8e93ddbc7c75db81d11dde4db00583792",
-        "title": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？ / TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "title_zh": "TutorMoments：AI 导师知道何时该出手、何时该收手吗？",
-        "title_en": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "title_original": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-        "summary": null,
-        "recommend_reason_zh": "TutorMoments是Ai2推出的新框架，基于真实一对一数学辅导记录，评估大模型在教学中何时该帮助、何时该放手，结果发现模型普遍过度帮助，很少推动学生深入思考。",
-        "url": "https://huggingface.co/blog/allenai/tutormoments",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "教育AI数据集，做导师模型的能当语料，其他场景先围观。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -390,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7419,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -475,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7294,
+        "recency": 0.7168,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,7 +426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -559,15 +474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -595,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -643,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -727,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,7 +677,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -810,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.739,
+        "recency": 0.7262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -847,90 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_879e30ce457c",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-          "recommend_reason_zh": "腾讯开源HPC-Ops算子库，其Dynamic Attention与Fused MoE将Hy3模型TPOT降低48.8%，并已集成进SGLang主分支，为Hopper GPU上的生产级MoE推理带来实测优化。",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-          "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-          "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-          "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-          "recommend_reason_zh": "腾讯开源HPC-Ops算子库，其Dynamic Attention与Fused MoE将Hy3模型TPOT降低48.8%，并已集成进SGLang主分支，为Hopper GPU上的生产级MoE推理带来实测优化。",
-          "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:51:24.888000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:51:24.888000Z",
-      "latest_at": "2026-08-07T17:51:24.888000Z",
-      "primary_item": {
-        "id": "0052276302c8e454bcddbd473a258cc0a8cd7e50",
-        "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "title_zh": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-        "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "title_original": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-        "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-        "recommend_reason_zh": "腾讯开源HPC-Ops算子库，其Dynamic Attention与Fused MoE将Hy3模型TPOT降低48.8%，并已集成进SGLang主分支，为Hopper GPU上的生产级MoE推理带来实测优化。",
-        "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "开源算子公司生产验证过，搞推理性能的可直接试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -978,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,258 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
-      "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 用量指标 API 新增 agent 应用活动 / Copilot usage metrics API adds agent app activity",
-        "title_zh": "Copilot 用量指标 API 新增 agent 应用活动",
-        "title_en": "Copilot usage metrics API adds agent app activity",
-        "title_original": "Copilot usage metrics API adds agent app activity",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot usage metrics API新增第三方agent活动统计，按Claude、Codex等独立agent细分，新增totals_by_3rd_party_agent数组，支持企业及组织1天与28天报告，助团队对比各agent采用率。",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "新增 agent 活动统计，做 Copilot 集成的今天就能接上，看用量更细。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_f60b263d7545",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "primary_url": "https://blog.cloudflare.com/kitesurf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "recommend_reason_zh": "Kitesurf是Cloudflare专为AI代理打造的新浏览器，完全跑在Workers上，相比Chromium在截图和HTML提取等任务中CPU与内存消耗显著更低，目前可在Browser Run免费试用。",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-          "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "title_en": null,
-          "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-          "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-          "recommend_reason_zh": "Kitesurf是Cloudflare专为AI代理打造的新浏览器，完全跑在Workers上，相比Chromium在截图和HTML提取等任务中CPU与内存消耗显著更低，目前可在Browser Run免费试用。",
-          "url": "https://blog.cloudflare.com/kitesurf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T18:54:34.746000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7188,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T18:54:34.746000Z",
-      "latest_at": "2026-08-07T18:54:34.746000Z",
-      "primary_item": {
-        "id": "b24e38145d2e3cd83d342bdd8e6107ecb841fdea",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_zh": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_en": null,
-        "title_original": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "recommend_reason_zh": "Kitesurf是Cloudflare专为AI代理打造的新浏览器，完全跑在Workers上，相比Chromium在截图和HTML提取等任务中CPU与内存消耗显著更低，目前可在Browser Run免费试用。",
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "浏览器跑在V8隔离里，做爬虫和自动化可关注，等开放再试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_b477bfd27d42",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7642,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
-      "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_en": null,
-        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-        "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "模型没上线，短期别等，等安全评估完再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -1313,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.748,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1350,7 +931,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
+      }
+    },
+    {
+      "story_id": "story_b477bfd27d42",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "url": "https://www.ithome.com/0/987/221.htm",
+      "primary_url": "https://www.ithome.com/0/987/221.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_en": null,
+          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+          "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_en": null,
+          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+          "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T23:08:56Z",
+      "latest_at": "2026-08-07T23:08:56Z",
+      "primary_item": {
+        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "title_en": null,
+        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+        "recommend_reason_zh": "OpenAI因其模型Astra在网络安全领域达到“关键”风险级别而延缓发布，该模型是旗下首个获此评级的模型，且未参与针对Hugging Face的攻击，目前正强化安全管控。",
+        "url": "https://www.ithome.com/0/987/221.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "模型没上线，短期别等，等安全评估完再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -1455,15 +1119,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6427,
-      "importance": 0.6427,
-      "importance_score": 0.6427,
+      "score": 0.6398,
+      "importance": 0.6398,
+      "importance_score": 0.6398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9485,
+        "recency": 0.9321,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1490,326 +1154,31 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_ac99d2dd14d0",
-      "title": "规模化AI编码成本管理 / Managing AI Coding Costs at Scale",
-      "url": "https://news.ycombinator.com/item?id=49214468",
-      "primary_url": "https://news.ycombinator.com/item?id=49214468",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-          "title": "规模化AI编码成本管理 / Managing AI Coding Costs at Scale",
-          "title_zh": "规模化AI编码成本管理",
-          "title_en": "Managing AI Coding Costs at Scale",
-          "title_original": "Managing AI Coding Costs at Scale",
-          "summary": null,
-          "recommend_reason_zh": "作者日均花费80美元，用Fable 5和Sol XHigh做设计、Opus 5或Sol Med执行、Codex Computer Use完成QA，产出相当于3到4名2022年工程师，质量更高。",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T02:23:39.974000Z"
-        },
-        {
-          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
-          "title": "Databricks 将人工智能编码支出降低了 70%",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": null,
-          "title_original": "Databricks 将人工智能编码支出降低了 70%",
-          "summary": null,
-          "recommend_reason_zh": "Databricks 将人工智能编码支出降低70%，本文详解其借助AI编码工具优化研发成本的具体做法，展示实际成效与经验，值得科技从业者一读。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "www.databricks.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T21:02:43.201000Z"
-        },
-        {
-          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
-          "title": "Databricks 将 AI 编程支出削减了 70% / Databricks drove down AI coding spend 70%",
-          "title_zh": "Databricks 将 AI 编程支出削减了 70%",
-          "title_en": "Databricks drove down AI coding spend 70%",
-          "title_original": "Databricks drove down AI coding spend 70%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T20:01:53.116000Z"
-        },
-        {
-          "id": "221d639c224a929816d37b0801453bf9793c64c8",
-          "title": "Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": "Databricks drove down AI coding spend 70%",
-          "title_original": "Databricks drove down AI coding spend 70%",
-          "summary": null,
-          "recommend_reason_zh": "Databricks将AI编码支出降低70%是本文核心事实。文章聚焦AI编码工具的投入产出，解析支出减少的关键环节，为同类团队优化AI开发成本提供了具体参照。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:25:17Z"
-        },
-        {
-          "id": "ecab0b90573fc1c936977df0283b4dfdf43df765",
-          "title": "Databricks 将人工智能编码支出降低了 70% / Managing AI Coding Costs at Scale",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": "Managing AI Coding Costs at Scale",
-          "title_original": "Managing AI Coding Costs at Scale",
-          "summary": null,
-          "recommend_reason_zh": "本文标题Managing AI Coding Costs at Scale直指大规模AI编码成本管理，正文聚焦AI coding tools，探讨在规模化开发中如何控制AI工具支出，是理解AI编程成本问题的实用参考。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T18:25:17Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.databricks.com"
-      ],
-      "items": [
-        {
-          "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-          "title": "规模化AI编码成本管理 / Managing AI Coding Costs at Scale",
-          "title_zh": "规模化AI编码成本管理",
-          "title_en": "Managing AI Coding Costs at Scale",
-          "title_original": "Managing AI Coding Costs at Scale",
-          "summary": null,
-          "recommend_reason_zh": "作者日均花费80美元，用Fable 5和Sol XHigh做设计、Opus 5或Sol Med执行、Codex Computer Use完成QA，产出相当于3到4名2022年工程师，质量更高。",
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T02:23:39.974000Z"
-        },
-        {
-          "id": "7ddb2706d3107fd04c47e41e1637e29351e8e038",
-          "title": "Databricks 将人工智能编码支出降低了 70%",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": null,
-          "title_original": "Databricks 将人工智能编码支出降低了 70%",
-          "summary": null,
-          "recommend_reason_zh": "Databricks 将人工智能编码支出降低70%，本文详解其借助AI编码工具优化研发成本的具体做法，展示实际成效与经验，值得科技从业者一读。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "www.databricks.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-07T21:02:43.201000Z"
-        },
-        {
-          "id": "8afc8984e384de0b5f4712c0026cd90a0077807b",
-          "title": "Databricks 将 AI 编程支出削减了 70% / Databricks drove down AI coding spend 70%",
-          "title_zh": "Databricks 将 AI 编程支出削减了 70%",
-          "title_en": "Databricks drove down AI coding spend 70%",
-          "title_original": "Databricks drove down AI coding spend 70%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49214468",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T20:01:53.116000Z"
-        },
-        {
-          "id": "221d639c224a929816d37b0801453bf9793c64c8",
-          "title": "Databricks 将人工智能编码支出降低了 70% / Databricks drove down AI coding spend 70%",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": "Databricks drove down AI coding spend 70%",
-          "title_original": "Databricks drove down AI coding spend 70%",
-          "summary": null,
-          "recommend_reason_zh": "Databricks将AI编码支出降低70%是本文核心事实。文章聚焦AI编码工具的投入产出，解析支出减少的关键环节，为同类团队优化AI开发成本提供了具体参照。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:25:17Z"
-        },
-        {
-          "id": "ecab0b90573fc1c936977df0283b4dfdf43df765",
-          "title": "Databricks 将人工智能编码支出降低了 70% / Managing AI Coding Costs at Scale",
-          "title_zh": "Databricks 将人工智能编码支出降低了 70%",
-          "title_en": "Managing AI Coding Costs at Scale",
-          "title_original": "Managing AI Coding Costs at Scale",
-          "summary": null,
-          "recommend_reason_zh": "本文标题Managing AI Coding Costs at Scale直指大规模AI编码成本管理，正文聚焦AI coding tools，探讨在规模化开发中如何控制AI工具支出，是理解AI编程成本问题的实用参考。",
-          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-07T18:25:17Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.585,
-      "importance": 0.585,
-      "importance_score": 0.585,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8009,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T18:25:17Z",
-      "latest_at": "2026-08-08T02:23:39.974000Z",
-      "primary_item": {
-        "id": "fde07b592f5711381b8eff1d306f682acff1d8e9",
-        "title": "规模化AI编码成本管理 / Managing AI Coding Costs at Scale",
-        "title_zh": "规模化AI编码成本管理",
-        "title_en": "Managing AI Coding Costs at Scale",
-        "title_original": "Managing AI Coding Costs at Scale",
-        "summary": null,
-        "recommend_reason_zh": "作者日均花费80美元，用Fable 5和Sol XHigh做设计、Opus 5或Sol Med执行、Codex Computer Use完成QA，产出相当于3到4名2022年工程师，质量更高。",
-        "url": "https://news.ycombinator.com/item?id=49214468",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "讲的是规模化用AI写代码怎么控成本，涉及计费策略的团队可参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
-      }
-    },
-    {
-      "story_id": "story_619c631f8dd4",
-      "title": "OpenAI叫停新模型，据称因其过于强大 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI叫停新模型，据称因其过于强大 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_zh": "OpenAI叫停新模型，据称因其过于强大",
-          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI因在研模型Astra评估显示其智能体编码和网络安全能力“显著进展”，无法排除达到关键网络攻击阈值，宣布暂停其内部活动，并强调Astra与Hugging Face被黑事件无关。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 叫停新模型发布，据称是太过强大 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_zh": "OpenAI 叫停新模型发布，据称是太过强大",
-          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI因新模型Astra在评估中展现出“关键”级网络攻击能力而暂停其内部活动，并称该模型未参与此前Hugging Face遭入侵事件，同时已加强安全管控。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI叫停新模型，据称因其过于强大 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_zh": "OpenAI叫停新模型，据称因其过于强大",
-          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI因在研模型Astra评估显示其智能体编码和网络安全能力“显著进展”，无法排除达到关键网络攻击阈值，宣布暂停其内部活动，并强调Astra与Hugging Face被黑事件无关。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 叫停新模型发布，据称是太过强大 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_zh": "OpenAI 叫停新模型发布，据称是太过强大",
-          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI因新模型Astra在评估中展现出“关键”级网络攻击能力而暂停其内部活动，并称该模型未参与此前Hugging Face遭入侵事件，同时已加强安全管控。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5769,
-      "importance": 0.5769,
-      "importance_score": 0.5769,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7164,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T18:40:34Z",
-      "latest_at": "2026-08-07T18:40:34Z",
-      "primary_item": {
-        "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-        "title": "OpenAI叫停新模型，据称因其过于强大 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "title_zh": "OpenAI叫停新模型，据称因其过于强大",
-        "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI因在研模型Astra评估显示其智能体编码和网络安全能力“显著进展”，无法排除达到关键网络攻击阈值，宣布暂停其内部活动，并强调Astra与Hugging Face被黑事件无关。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方话术不必当真，没开放就是没得用，等真发 API 再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
       "story_id": "story_e9624a9c8fc0",
-      "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-      "url": "https://news.ycombinator.com/item?id=49221864",
-      "primary_url": "https://news.ycombinator.com/item?id=49221864",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "primary_url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "source": "social.treehouse.systems",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": null,
+          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "summary": "I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.\n\nEDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to deal with this shit. I'm just trying to get some useful job done. I'm not supposed to have to be dealing with this.\n\n#AI #NoAI #NoLLM\nI've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LL",
+          "recommend_reason_zh": "Gentoo Bugzilla 被管理员关闭，原因是不堪 LLM 爬虫用数千个不同 IPv4 地址无规律访问，导致系统不可用，他不愿再为这些爬虫提供数据。",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
         {
           "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
           "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
@@ -1826,8 +1195,8 @@
         },
         {
           "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
-          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
           "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
           "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
           "summary": null,
@@ -1837,6 +1206,245 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "social.treehouse.systems"
+      ],
+      "items": [
+        {
+          "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": null,
+          "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "summary": "I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.\n\nEDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to deal with this shit. I'm just trying to get some useful job done. I'm not supposed to have to be dealing with this.\n\n#AI #NoAI #NoLLM\nI've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LL",
+          "recommend_reason_zh": "Gentoo Bugzilla 被管理员关闭，原因是不堪 LLM 爬虫用数千个不同 IPv4 地址无规律访问，导致系统不可用，他不愿再为这些爬虫提供数据。",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "social.treehouse.systems",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-08T18:06:47.814000Z"
+        },
+        {
+          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
+          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
+          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
+          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": null,
+          "recommend_reason_zh": "Gentoo的Bugzilla因AI机器人爬虫流量过载而关闭，管理员称最大来源集中在东南亚，或与中国AI项目有关，并已用Cloudflare负载均衡器分流。",
+          "url": "https://news.ycombinator.com/item?id=49221864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T14:20:40.026000Z"
+        },
+        {
+          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
+          "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭 / Gentoo bugzilla closed due AI bot scraper overload",
+          "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
+          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "summary": null,
+          "recommend_reason_zh": "Gentoo因LLM爬虫用数千个不同IPv4地址无规律轰炸，被迫关闭Bugzilla。维护者自嘲并非管理员，没时间应付这种烂事。本文直击AI抓取对开源项目造成的现实困扰。",
+          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T13:55:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9875,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T13:55:42Z",
+      "latest_at": "2026-08-08T18:06:47.814000Z",
+      "primary_item": {
+        "id": "b74773160f098d9f3cdb09de4ee5afdca9006aae",
+        "title": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "title_zh": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "title_en": null,
+        "title_original": "Gentoo Bugzilla 因 AI 爬虫过载而关闭",
+        "summary": "I've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LLM scrapers that are using thousands of different IPv4 addresses, with no obvious patterns I can see.\n\nEDIT: I'm not looking for hints. I'm not a sysadmin, and I don't have time to deal with this shit. I'm just trying to get some useful job done. I'm not supposed to have to be dealing with this.\n\n#AI #NoAI #NoLLM\nI've taken #Gentoo Bugzilla down, because it was unusable anyway. No point in feeding the #LL",
+        "recommend_reason_zh": "Gentoo Bugzilla 被管理员关闭，原因是不堪 LLM 爬虫用数千个不同 IPv4 地址无规律访问，导致系统不可用，他不愿再为这些爬虫提供数据。",
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "source": "social.treehouse.systems",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "爬虫挤爆基础设施，给运维提了个醒：反爬策略该加就加。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-08T19:05:49.182842Z"
+      }
+    },
+    {
+      "story_id": "story_32ec53e91d06",
+      "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://news.ycombinator.com/item?id=49224294",
+      "primary_url": "https://news.ycombinator.com/item?id=49224294",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": "Of course, woe betide those with social phobias....\nreply\nI can see this being a problem in the US when it comes to \"accommodations\" in general. Students with an ADHD diagnosis can claim it causes just about any difficulty and get accommodations for it. The local (top ranked, but everyone's seen all the stories coming out of the Ivies...) college here gives students with ADHD double time on exams and has them take it in a special disabilities proctoring center where it's a struggle to get the st",
+          "recommend_reason_zh": "丹麦要求学生对书面作业进行口头答辩以应对AI作弊，正文还延伸讨论了美国ADHD学生考试便利可能被滥用的争议，以及作业与考试评价方式正在失效的现实。",
+          "url": "https://news.ycombinator.com/item?id=49224294",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T18:47:07.381000Z"
+        },
+        {
+          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:09:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": "Of course, woe betide those with social phobias....\nreply\nI can see this being a problem in the US when it comes to \"accommodations\" in general. Students with an ADHD diagnosis can claim it causes just about any difficulty and get accommodations for it. The local (top ranked, but everyone's seen all the stories coming out of the Ivies...) college here gives students with ADHD double time on exams and has them take it in a special disabilities proctoring center where it's a struggle to get the st",
+          "recommend_reason_zh": "丹麦要求学生对书面作业进行口头答辩以应对AI作弊，正文还延伸讨论了美国ADHD学生考试便利可能被滥用的争议，以及作业与考试评价方式正在失效的现实。",
+          "url": "https://news.ycombinator.com/item?id=49224294",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T18:47:07.381000Z"
+        },
+        {
+          "id": "20fcecdef2911569da9805225694720c760b2329",
+          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
+          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-08T18:09:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T18:09:31Z",
+      "latest_at": "2026-08-08T18:47:07.381000Z",
+      "primary_item": {
+        "id": "415c5d98e638ad6b96353f679325f05e221f3479",
+        "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
+        "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "summary": "Of course, woe betide those with social phobias....\nreply\nI can see this being a problem in the US when it comes to \"accommodations\" in general. Students with an ADHD diagnosis can claim it causes just about any difficulty and get accommodations for it. The local (top ranked, but everyone's seen all the stories coming out of the Ivies...) college here gives students with ADHD double time on exams and has them take it in a special disabilities proctoring center where it's a struggle to get the st",
+        "recommend_reason_zh": "丹麦要求学生对书面作业进行口头答辩以应对AI作弊，正文还延伸讨论了美国ADHD学生考试便利可能被滥用的争议，以及作业与考试评价方式正在失效的现实。",
+        "url": "https://news.ycombinator.com/item?id=49224294",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "跟写代码无关，只对教育从业者有参考。AI 作弊对策看看就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-08T19:05:49.182842Z"
+      }
+    },
+    {
+      "story_id": "story_b17925e931ce",
+      "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://news.ycombinator.com/item?id=49221089",
+      "primary_url": "https://news.ycombinator.com/item?id=49221089",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
+          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "summary": null,
+          "recommend_reason_zh": "本文重新审视LLM推理的CPU-GPU分工，指出在工具执行、代码沙箱与多智能体协作中，CPU正成为新瓶颈——即使20个agent并行，同时编译Rust时，总耗时取决于工具执行而非上游模型解码吞吐，还叠加VM/容器开销。",
+          "url": "https://news.ycombinator.com/item?id=49221089",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:50:28.307000Z"
+        },
+        {
+          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
+          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
+          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "summary": null,
+          "recommend_reason_zh": "本文解析agentic AI如何推动LLM推理从GPU独大转向CPU回归，引用Intel数据：CPU与GPU比例从训练负载的1:8变为agentic部署的1:1甚至4:1，并探讨工具调用与多步推理为何更适合CPU。",
+          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T12:16:03Z"
         }
       ],
       "source_count": 2,
@@ -1846,72 +1454,72 @@
       ],
       "items": [
         {
-          "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
+          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "summary": null,
-          "recommend_reason_zh": "Gentoo的Bugzilla因AI机器人爬虫流量过载而关闭，管理员称最大来源集中在东南亚，或与中国AI项目有关，并已用Cloudflare负载均衡器分流。",
-          "url": "https://news.ycombinator.com/item?id=49221864",
+          "recommend_reason_zh": "本文重新审视LLM推理的CPU-GPU分工，指出在工具执行、代码沙箱与多智能体协作中，CPU正成为新瓶颈——即使20个agent并行，同时编译Rust时，总耗时取决于工具执行而非上游模型解码吞吐，还叠加VM/容器开销。",
+          "url": "https://news.ycombinator.com/item?id=49221089",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-08T14:20:40.026000Z"
+          "published_at": "2026-08-08T12:50:28.307000Z"
         },
         {
-          "id": "00ad3b3517bd94cec6564ea0ddb1e73110d6908f",
-          "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-          "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
-          "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-          "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+          "id": "7d2bb6564e99b819c81d436b27c9624c6de731da",
+          "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
+          "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+          "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
           "summary": null,
-          "recommend_reason_zh": "Gentoo因LLM爬虫用数千个不同IPv4地址无规律轰炸，被迫关闭Bugzilla。维护者自嘲并非管理员，没时间应付这种烂事。本文直击AI抓取对开源项目造成的现实困扰。",
-          "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+          "recommend_reason_zh": "本文解析agentic AI如何推动LLM推理从GPU独大转向CPU回归，引用Intel数据：CPU与GPU比例从训练负载的1:8变为agentic部署的1:1甚至4:1，并探讨工具调用与多步推理为何更适合CPU。",
+          "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-08T13:55:42Z"
+          "published_at": "2026-08-08T12:16:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9517,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-08T13:55:42Z",
-      "latest_at": "2026-08-08T14:20:40.026000Z",
+      "earliest_at": "2026-08-08T12:16:03Z",
+      "latest_at": "2026-08-08T12:50:28.307000Z",
       "primary_item": {
-        "id": "b6057a741b5ba5e93fb02047dd209b3f0fa0ce3c",
-        "title": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭 / Gentoo bugzilla closed due AI bot scraper overload",
-        "title_zh": "Gentoo bugzilla 因 AI 爬虫机器人过载关闭",
-        "title_en": "Gentoo bugzilla closed due AI bot scraper overload",
-        "title_original": "Gentoo bugzilla closed due AI bot scraper overload",
+        "id": "25c6bd52edc337725dc395b866a1f220516a44ff",
+        "title": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工 / The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "title_zh": "CPU 回归：重新思考 LLM 推理中的 CPU-GPU 分工",
+        "title_en": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "title_original": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
         "summary": null,
-        "recommend_reason_zh": "Gentoo的Bugzilla因AI机器人爬虫流量过载而关闭，管理员称最大来源集中在东南亚，或与中国AI项目有关，并已用Cloudflare负载均衡器分流。",
-        "url": "https://news.ycombinator.com/item?id=49221864",
+        "recommend_reason_zh": "本文重新审视LLM推理的CPU-GPU分工，指出在工具执行、代码沙箱与多智能体协作中，CPU正成为新瓶颈——即使20个agent并行，同时编译Rust时，总耗时取决于工具执行而非上游模型解码吞吐，还叠加VM/容器开销。",
+        "url": "https://news.ycombinator.com/item?id=49221089",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "AI 爬虫挤爆基础设施，自建服务记得加反爬限流，别等被打挂。",
+      "persona_score": 55,
+      "persona_review": "思路有参考价值，但没现成代码，等具体方案落地再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     },
     {
@@ -1988,15 +1596,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4957,
-      "importance": 0.4957,
-      "importance_score": 0.4957,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7217,
+        "recency": 0.7091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2023,7 +1631,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-08T17:53:02.856008Z"
+        "scored_at": "2026-08-08T19:05:49.182842Z"
+      }
+    },
+    {
+      "story_id": "story_0a07367e7420",
+      "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://news.ycombinator.com/item?id=49215786",
+      "primary_url": "https://news.ycombinator.com/item?id=49215786",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
+          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
+          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "summary": null,
+          "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
+          "url": "https://news.ycombinator.com/item?id=49215786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T23:30:17.250000Z"
+        },
+        {
+          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
+          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
+          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "summary": null,
+          "recommend_reason_zh": "手机在办公室丢失，Find My被MDM禁用，翻找30分钟无果后，Claude建议追踪蓝牙信号强度，并在一分钟内写出信号计，让人能边走边观察信号定位。",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T20:25:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
+          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
+          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "summary": null,
+          "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
+          "url": "https://news.ycombinator.com/item?id=49215786",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-07T23:30:17.250000Z"
+        },
+        {
+          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
+          "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
+          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+          "summary": null,
+          "recommend_reason_zh": "手机在办公室丢失，Find My被MDM禁用，翻找30分钟无果后，Claude建议追踪蓝牙信号强度，并在一分钟内写出信号计，让人能边走边观察信号定位。",
+          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-07T20:25:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7548,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-07T20:25:04Z",
+      "latest_at": "2026-08-07T23:30:17.250000Z",
+      "primary_item": {
+        "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
+        "title": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "title_zh": "在办公室丢了手机。Claude 建议追踪蓝牙信号强度",
+        "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "summary": null,
+        "recommend_reason_zh": "Claude建议用蓝牙信号强度找办公室丢失的手机，文中提到hcitool rssi命令及dunstify弹窗，并担忧AI代码成意大利面，对比seL4内核的正式验证。",
+        "url": "https://news.ycombinator.com/item?id=49215786",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "找手机的小技巧，对开发工作没直接用处，扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-08T19:05:49.182842Z"
       }
     }
   ]
