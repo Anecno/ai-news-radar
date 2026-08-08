@@ -35838,5 +35838,9 @@
   "re1|9b25e5a7e97046d8e19ad5b68a87b1535d26d0b4": "Claude Code在macOS和Linux上让并行会话互通，可双向发消息、共享上下文，同机走本地通信，跨设备经Anthropic服务器且仅限回复，管理员还能通过设置锁定此功能。",
   "re1|685bc7166b1f3f4d4c592902b896f62d12b20024": "这篇报道梳理了OpenAI对Hugging Face的意外攻击时间线，引用Wiener关于机器运行速度超出人类反应控制的论述，并质疑训练模型追求目标持久性可能服务于DoD等网络战客户。",
   "re1|7dc33d96709f34d98148aa2e9d397874f8e87f51": "本文重新审视LLM推理的CPU-GPU分工，指出在工具执行、代码沙箱与多智能体协作中，CPU正成为新瓶颈——即使20个agent并行，同时编译Rust时，总耗时取决于工具执行而非上游模型解码吞吐，还叠加VM/容器开销。",
-  "re1|f6936bea618bdb1157bc50f2910b5764d2ba9bcb": "本文解析agentic AI如何推动LLM推理从GPU独大转向CPU回归，引用Intel数据：CPU与GPU比例从训练负载的1:8变为agentic部署的1:1甚至4:1，并探讨工具调用与多步推理为何更适合CPU。"
+  "re1|f6936bea618bdb1157bc50f2910b5764d2ba9bcb": "本文解析agentic AI如何推动LLM推理从GPU独大转向CPU回归，引用Intel数据：CPU与GPU比例从训练负载的1:8变为agentic部署的1:1甚至4:1，并探讨工具调用与多步推理为何更适合CPU。",
+  "ds1|Is football AI-proof? Why tech investors wanted a slice of the World Cup": "足球对AI免疫吗？科技投资者为何想分世界杯一杯羹？",
+  "ds1|The AI boom is creating data center jobs that pay more": "AI热潮催生薪资更高的数据中心岗位",
+  "re1|b751e850a90402375d5656c3b49d0f52f88e53b4": "Joshua Kushner旗下Thrive Eternal曾试图入股世界杯，坚信足球的文化认同无法被AI复制，虽遭FIFA否决，但体育投资浪潮已势不可挡。",
+  "re1|ba394cb7f5b005198116872134d6fe505bb9cd6d": "AI热潮推动数据中心岗位激增：Indeed数据显示，职位发布两年内翻倍，现占美国每千个职位中的六个，是2023年的三倍；安装维护工时薪比同类岗位高10美元。"
 }
