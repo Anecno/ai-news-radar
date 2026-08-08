@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_dad2bbf2a5ce|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "能抄的配置教程，有备用Mac的今天就能动手。",
-      "title_hash": "20e7a8b1",
-      "scored_at": "2026-07-18T21:10:45.921061Z"
-    },
-    "story_41dc3e242cb7|cynic|f4237a62": {
-      "score": 75,
-      "review": "API 加了个字段就打公告，还以为 Copilot 修了代码补全不准的老毛病。",
-      "title_hash": "6585e6c8",
-      "scored_at": "2026-07-18T21:10:49.867094Z"
-    },
-    "story_41dc3e242cb7|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方改日志，无性能数据，无独立验证，仅功能说明。",
-      "title_hash": "6585e6c8",
-      "scored_at": "2026-07-18T21:10:52.934265Z"
-    },
     "story_56c5b0ab76c7|cynic|f4237a62": {
       "score": 30,
       "review": "版本号刷得勤，更新日志却空得像节后办公室。",
@@ -5064,6 +5046,42 @@
       "review": "官方更新说明了新板块，但无代码无评测，真假待用户验证。",
       "title_hash": "c2897e35",
       "scored_at": "2026-08-08T20:54:51.550451Z"
+    },
+    "story_5a089134551b|cynic|f4237a62": {
+      "score": 50,
+      "review": "每周例行公事，没数据没对比，就说了个'发布'。",
+      "title_hash": "9dc9e154",
+      "scored_at": "2026-08-08T21:51:13.191586Z"
+    },
+    "story_5a089134551b|paper-police|966065bf": {
+      "score": 55,
+      "review": "官方日志有功能细节，但缺论文代码和第三方评测，属发布记录。",
+      "title_hash": "9dc9e154",
+      "scored_at": "2026-08-08T21:51:15.895349Z"
+    },
+    "story_56cf4cefef8c|cynic|f4237a62": {
+      "score": 60,
+      "review": "跨会话传消息不算新概念，先证明传输不丢包再说。",
+      "title_hash": "8956515c",
+      "scored_at": "2026-08-08T21:51:18.874239Z"
+    },
+    "story_56cf4cefef8c|paper-police|966065bf": {
+      "score": 25,
+      "review": "仅标题传播，无文档无代码无评测，消息无法验证。",
+      "title_hash": "8956515c",
+      "scored_at": "2026-08-08T21:51:25.296084Z"
+    },
+    "story_adfff91a73dc|cynic|f4237a62": {
+      "score": 72,
+      "review": "时间线详实，但'意外攻击'的免责声明比事件本身更有看头。",
+      "title_hash": "cd0b2685",
+      "scored_at": "2026-08-08T21:51:29.319321Z"
+    },
+    "story_adfff91a73dc|paper-police|966065bf": {
+      "score": 35,
+      "review": "时间线有出处但无技术报告，事件细节尚待独立验证。",
+      "title_hash": "cd0b2685",
+      "scored_at": "2026-08-08T21:51:33.963091Z"
     }
   }
 }
