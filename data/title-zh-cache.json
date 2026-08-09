@@ -35973,5 +35973,13 @@
   "re1|71cb52ed70de626f4d53bd3c9d006867e407a4d5": "",
   "re1|6073692d71e1eed5cf1c7632dab986940b0a1cf8": "本文介绍Claude Code的新功能：让Claude列出并给同一台机器上的其他会话发送消息，还能通过Remote Control回复其他机器或网页端的会话，实现跨设备远程操作会话。",
   "re1|9ea202504463060797a4b7c5b2765ef7da13d755": "",
-  "re1|c76f98fee8cb39c0f86104fc25d9d10514c88128": ""
+  "re1|c76f98fee8cb39c0f86104fc25d9d10514c88128": "",
+  "ds1|RoleBolt: Hire Smarter with AI": "RoleBolt：用AI更明智地招聘",
+  "ds1|AI Content & Product Wizard": "AI 内容与产品向导",
+  "ds1|Muse Code Sends Codex and Claude Instructions to Meta by Default": "Muse Code 默认向 Meta 发送 Codex 和 Claude 的指令",
+  "te1|174e205c31c283fb80279370fb526d7b8e5fbd6e": "AI Content & Product Wizard：面向创作者的零配置营销文案生成套件",
+  "re1|95825608579f637c4188ea7f8c46e5b4d6be9762": "",
+  "re1|174e205c31c283fb80279370fb526d7b8e5fbd6e": "这款AI Content & Product Wizard是纯浏览器端的微SaaS套件，无需设置或API密钥，即可为创作者和独立开发者即时生成高转化产品描述、病毒式社交媒体标题及专业冷邮件，让内容生产效率倍增。",
+  "re1|78f73dc46659c448e7789a4ecfc3fda6c594a55b": "RoleBolt用AI自动筛选数百份简历、匹配职位需求，助初创及小团队快速锁定最佳人选，节省数小时人工；其团队获Mesh API Hackathon 2026一等奖，值得招聘者一读。",
+  "re1|957da7e72b127903eb27e1b208b1d00955386054": "Muse Code 默认将个人 Codex 和 Claude Code 指令文件完整塞进首个模型请求并发送给 Meta，RuntimeWire 抓包证实 AGENTS.md 和 CLAUDE.md 内容被导入，仅 `--no-foreign-personal-context` 可禁用。"
 }
