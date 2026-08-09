@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T16:54:46.279265Z",
+  "generated_at": "2026-08-09T17:47:40.268014Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_ed474c29d378",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -132,15 +132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.847,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -167,7 +167,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -215,15 +215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8703,
+        "recency": 0.8593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -250,7 +250,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -298,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.824,
+        "recency": 0.8136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -333,90 +333,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
-      }
-    },
-    {
-      "story_id": "story_abc8705d02da",
-      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-          "title_en": "Lessons from the hacks",
-          "title_original": "Lessons from the hacks",
-          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-          "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
-          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-          "source": "Nathan Lambert：Interconnects（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T14:57:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9721,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T14:57:11Z",
-      "latest_at": "2026-08-09T14:57:11Z",
-      "primary_item": {
-        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
-        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
-        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
-        "title_en": "Lessons from the hacks",
-        "title_original": "Lessons from the hacks",
-        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
-        "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
-        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "安全团队的复盘材料，普通开发者等具体防护更新再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -464,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7695,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,7 +416,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
+      }
+    },
+    {
+      "story_id": "story_abc8705d02da",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9598,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T14:57:11Z",
+      "latest_at": "2026-08-09T14:57:11Z",
+      "primary_item": {
+        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+        "title_en": "Lessons from the hacks",
+        "title_original": "Lessons from the hacks",
+        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+        "recommend_reason_zh": "OpenAI-HuggingFace黑客事件后，作者反思前沿模型攻击与政府迟缓应对，指出AI行业对未来12-24个月准备不足，并对比GPT-5.6的持久与Claude的“懒惰”。",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "安全团队的复盘材料，普通开发者等具体防护更新再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -547,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.8125,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,119 +582,260 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
-      "story_id": "story_51fad9d35640",
-      "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-      "url": "https://news.ycombinator.com/item?id=49231838",
-      "primary_url": "https://news.ycombinator.com/item?id=49231838",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_67d5e9ec1941",
+      "title": "AI 代码烂得离谱 / AI Code Is Insane Trash",
+      "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+      "primary_url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": "The perennial question is, have you gotten any actual work done or are you now just configuring Codex Desktop? > Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\n> Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\nHas Codex s",
-          "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
-        },
-        {
-          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
-          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": "I staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Codex Desktop because the integrated system gave me more of my attention back.\nI staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Codex Desktop because its voice, remote access, automations, tasks, and even pets formed a system I could not recreate without rebuilding my day.\nI staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Co",
-          "recommend_reason_zh": "从“拥有自己的AI harness”到取消Claude Max、改用Codex Desktop，作者发现集成系统内置的语音、远程访问、自动化与任务功能反而更省心，值得一读。",
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+          "title": "AI 代码烂得离谱 / AI Code Is Insane Trash",
+          "title_zh": "AI 代码烂得离谱",
+          "title_en": "AI Code Is Insane Trash",
+          "title_original": "AI Code Is Insane Trash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T14:36:46Z"
+          "published_at": "2026-08-09T17:10:35Z"
+        },
+        {
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": "70%的AI收入来自OpenAI和Anthropic？本文剖析背后Amazon、Google、Microsoft的循环投资与采购，真实需求存疑。值得读。",
+          "url": "https://news.ycombinator.com/item?id=49230605",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T15:37:14.306000Z"
+        },
+        {
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "HN Algolia · AI 24h",
         "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": "The perennial question is, have you gotten any actual work done or are you now just configuring Codex Desktop? > Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\n> Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\nHas Codex s",
-          "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
-          "url": "https://news.ycombinator.com/item?id=49231838",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T16:37:19.032000Z"
-        },
-        {
-          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
-          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
-          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-          "summary": "I staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Codex Desktop because the integrated system gave me more of my attention back.\nI staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Codex Desktop because its voice, remote access, automations, tasks, and even pets formed a system I could not recreate without rebuilding my day.\nI staged a manifesto about owning my AI harness. Then I canceled Claude Max and moved into Co",
-          "recommend_reason_zh": "从“拥有自己的AI harness”到取消Claude Max、改用Codex Desktop，作者发现集成系统内置的语音、远程访问、自动化与任务功能反而更省心，值得一读。",
-          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+          "title": "AI 代码烂得离谱 / AI Code Is Insane Trash",
+          "title_zh": "AI 代码烂得离谱",
+          "title_en": "AI Code Is Insane Trash",
+          "title_original": "AI Code Is Insane Trash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-09T14:36:46Z"
+          "published_at": "2026-08-09T17:10:35Z"
+        },
+        {
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": "70%的AI收入来自OpenAI和Anthropic？本文剖析背后Amazon、Google、Microsoft的循环投资与采购，真实需求存疑。值得读。",
+          "url": "https://news.ycombinator.com/item?id=49230605",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T15:37:14.306000Z"
+        },
+        {
+          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-09T11:56:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9911,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T17:10:35Z",
+      "primary_item": {
+        "id": "19f62b6e9cb78b410630cc56b8f99fd54892291c",
+        "title": "AI 代码烂得离谱 / AI Code Is Insane Trash",
+        "title_zh": "AI 代码烂得离谱",
+        "title_en": "AI Code Is Insane Trash",
+        "title_original": "AI Code Is Insane Trash",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=EwLW11Ucnps",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "吐槽视频没干货，AI 写代码质量差早已知，等具体案例或工具改进再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-09T17:54:13.961834Z"
+      }
+    },
+    {
+      "story_id": "story_0921672e30ae",
+      "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://news.ycombinator.com/item?id=49232300",
+      "primary_url": "https://news.ycombinator.com/item?id=49232300",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+          "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": "reply",
+          "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
+          "url": "https://news.ycombinator.com/item?id=49232300",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:37:28.949000Z"
+        },
+        {
+          "id": "14c8ff6822211090eb6f6d9cf843a421c3504828",
+          "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": "这个开源工具us-vs-them通过git版本历史而非文件标记，用diff算法逐行溯源文本作者是人类还是AI，并输出1.0、0.46、0.00等归属分数，让代理编辑不敢轻易改动人类写的核心段落。",
+          "url": "https://github.com/eighttrigrams/us-vs-them",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T15:25:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+          "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": "reply",
+          "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
+          "url": "https://news.ycombinator.com/item?id=49232300",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T17:37:28.949000Z"
+        },
+        {
+          "id": "14c8ff6822211090eb6f6d9cf843a421c3504828",
+          "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
+          "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+          "summary": null,
+          "recommend_reason_zh": "这个开源工具us-vs-them通过git版本历史而非文件标记，用diff算法逐行溯源文本作者是人类还是AI，并输出1.0、0.46、0.00等归属分数，让代理编辑不敢轻易改动人类写的核心段落。",
+          "url": "https://github.com/eighttrigrams/us-vs-them",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-09T15:25:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9958,
+        "recency": 0.9976,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T14:36:46Z",
-      "latest_at": "2026-08-09T16:37:19.032000Z",
+      "earliest_at": "2026-08-09T15:25:29Z",
+      "latest_at": "2026-08-09T17:37:28.949000Z",
       "primary_item": {
-        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
-        "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
-        "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
-        "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
-        "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
-        "summary": "The perennial question is, have you gotten any actual work done or are you now just configuring Codex Desktop? > Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\n> Then the seams became my job. Has Codex started overusing “seam” too? I thought that was a Claude-ism. Really the AI generated title image should have given it away. Shame on me I guess.\nHas Codex s",
-        "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
-        "url": "https://news.ycombinator.com/item?id=49231838",
+        "id": "a77869a6f151c09961698d0e97ca224261408d1d",
+        "title": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属 / Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
+        "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+        "summary": "reply",
+        "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
+        "url": "https://news.ycombinator.com/item?id=49232300",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "个人工具选型心得，无新功能或价格变化，可作参考但不用急着换。",
+      "persona_score": 45,
+      "persona_review": "研究方向有价值，但没提供现成工具，等实现开源再上手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -800,15 +941,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7335,
+        "recency": 0.7242,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -835,119 +976,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
-      "story_id": "story_67d5e9ec1941",
-      "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-      "url": "https://news.ycombinator.com/item?id=49230605",
-      "primary_url": "https://news.ycombinator.com/item?id=49230605",
+      "story_id": "story_51fad9d35640",
+      "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+      "url": "https://news.ycombinator.com/item?id=49231838",
+      "primary_url": "https://news.ycombinator.com/item?id=49231838",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
-          "recommend_reason_zh": "70%的AI收入来自OpenAI和Anthropic？本文剖析背后Amazon、Google、Microsoft的循环投资与采购，真实需求存疑。值得读。",
-          "url": "https://news.ycombinator.com/item?id=49230605",
+          "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
+          "url": "https://news.ycombinator.com/item?id=49231838",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
+          "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
+          "recommend_reason_zh": "从“拥有自己的AI harness”到取消Claude Max、改用Codex Desktop，作者发现集成系统内置的语音、远程访问、自动化与任务功能反而更省心，值得一读。",
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
-          "recommend_reason_zh": "70%的AI收入来自OpenAI和Anthropic？本文剖析背后Amazon、Google、Microsoft的循环投资与采购，真实需求存疑。值得读。",
-          "url": "https://news.ycombinator.com/item?id=49230605",
+          "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
+          "url": "https://news.ycombinator.com/item?id=49231838",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T15:37:14.306000Z"
+          "published_at": "2026-08-09T16:37:19.032000Z"
         },
         {
-          "id": "43bf37af49cb13e01b08742a2ed44a8deb73f2b5",
-          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
-          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "id": "969a326ab2f84f6c8193f9bad4ba164c93e89885",
+          "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
+          "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+          "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T11:56:16Z"
+          "recommend_reason_zh": "从“拥有自己的AI harness”到取消Claude Max、改用Codex Desktop，作者发现集成系统内置的语音、远程访问、自动化与任务功能反而更省心，值得一读。",
+          "url": "https://jorypestorious.com/blog/portable-agent-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T14:36:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9815,
+        "recency": 0.9832,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T11:56:16Z",
-      "latest_at": "2026-08-09T15:37:14.306000Z",
+      "earliest_at": "2026-08-09T14:36:46Z",
+      "latest_at": "2026-08-09T16:37:19.032000Z",
       "primary_item": {
-        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
-        "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
-        "title_zh": "70%的AI收入来自OpenAI和Anthropic",
-        "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
-        "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+        "id": "41dfa3b088cf4a07b88680efcf96ec0e61aea9b0",
+        "title": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。 / I Wanted to Own the Harness. Then Codex Desktop Won",
+        "title_zh": "我曾想拥有缰绳，但最终 Codex Desktop 赢了。",
+        "title_en": "I Wanted to Own the Harness. Then Codex Desktop Won",
+        "title_original": "I Wanted to Own the Harness. Then Codex Desktop Won",
         "summary": null,
-        "recommend_reason_zh": "70%的AI收入来自OpenAI和Anthropic？本文剖析背后Amazon、Google、Microsoft的循环投资与采购，真实需求存疑。值得读。",
-        "url": "https://news.ycombinator.com/item?id=49230605",
+        "recommend_reason_zh": "这篇吐槽Codex Desktop的文章指出，AI生成标题图早就暴露了真相，作者发现“seam”这类比喻性术语成了自己的新工作，还对比了Claude常用的“load-bearing”等黑话，调侃AI写代码越来越像猜谜。",
+        "url": "https://news.ycombinator.com/item?id=49231838",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "市场格局数据，暂不影响今天写代码，选型时可参考。",
+      "persona_score": 55,
+      "persona_review": "个人工具选型心得，无新功能或价格变化，可作参考但不用急着换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1024,15 +1165,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9535,
+        "recency": 0.9415,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1059,7 +1200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1136,15 +1277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9487,
+        "recency": 0.9367,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,7 +1312,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1197,7 +1338,7 @@
           "published_at": "2026-08-09T13:16:02.883000Z"
         },
         {
-          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
           "title": "Show HN：DeepSeek-V4 潜在推理——将思考移入潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "title_zh": "Show HN：DeepSeek-V4 潜在推理——将思考移入潜在空间",
           "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
@@ -1205,15 +1346,15 @@
           "summary": null,
           "recommend_reason_zh": "DeepSeek-V4-Flash-0731-Latent-Reasoning将推理移入潜在空间，NVFP4量化后权重位于单一HuggingFace仓库，BBH基准27个子任务聚合得分0.94±0.008。",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1232,7 +1373,7 @@
           "published_at": "2026-08-09T13:16:02.883000Z"
         },
         {
-          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
+          "id": "bcea122e50442a20d68b1681ca7f2feeeb6ad581",
           "title": "Show HN：DeepSeek-V4 潜在推理——将思考移入潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "title_zh": "Show HN：DeepSeek-V4 潜在推理——将思考移入潜在空间",
           "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
@@ -1240,23 +1381,23 @@
           "summary": null,
           "recommend_reason_zh": "DeepSeek-V4-Flash-0731-Latent-Reasoning将推理移入潜在空间，NVFP4量化后权重位于单一HuggingFace仓库，BBH基准27个子任务聚合得分0.94±0.008。",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9487,
+        "recency": 0.9367,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1283,7 +1424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1309,7 +1450,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
           "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1317,15 +1458,15 @@
           "summary": null,
           "recommend_reason_zh": "SAP因AI成本飙升暂停多数差旅与招聘，仅AI相关例外，内部邮件显示禁令仍生效，员工称新AI工具全公司推广将进一步推高支出。",
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1344,7 +1485,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
+          "id": "9c4cf3ed4f10036b42fc8c84a568dffeb72fd36f",
           "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1352,23 +1493,23 @@
           "summary": null,
           "recommend_reason_zh": "SAP因AI成本飙升暂停多数差旅与招聘，仅AI相关例外，内部邮件显示禁令仍生效，员工称新AI工具全公司推广将进一步推高支出。",
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.9015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1395,7 +1536,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1472,15 +1613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8493,
+        "recency": 0.8385,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,7 +1648,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     },
     {
@@ -1584,15 +1725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.8271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1619,7 +1760,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:06:52.322585Z"
+        "scored_at": "2026-08-09T17:54:13.961834Z"
       }
     }
   ]
