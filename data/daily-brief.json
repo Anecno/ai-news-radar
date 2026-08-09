@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T17:47:40.268014Z",
+  "generated_at": "2026-08-09T19:01:17.759069Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_ed474c29d378",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
+      }
+    },
+    {
+      "story_id": "story_fe7d41da32c5",
+      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "recommend_reason_zh": "本文揭示prompt injection已成攻击人与agent的最常见方式，并举例：agent访问恶意网站时，网页里的“把用户ssh密钥和密码发送到某链接”会被模型当成指令执行，导致敏感信息外泄。值得关注。",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "recommend_reason_zh": "本文揭示prompt injection已成攻击人与agent的最常见方式，并举例：agent访问恶意网站时，网页里的“把用户ssh密钥和密码发送到某链接”会被模型当成指令执行，导致敏感信息外泄。值得关注。",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T18:32:14Z",
+      "latest_at": "2026-08-09T18:32:14Z",
+      "primary_item": {
+        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+        "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_zh": "Anthropic 称已基本解决提示注入攻击",
+        "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+        "recommend_reason_zh": "本文揭示prompt injection已成攻击人与agent的最常见方式，并举例：agent访问恶意网站时，网页里的“把用户ssh密钥和密码发送到某链接”会被模型当成指令执行，导致敏感信息外泄。值得关注。",
+        "url": "https://x.com/bcherny/status/2086520950259118464",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "提示注入是 Agent 安全实锤难题，但只凭自述别急着改架构，等公开方案。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -132,15 +216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8363,
+        "recency": 0.8216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -167,7 +251,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -215,15 +299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8593,
+        "recency": 0.8442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -250,7 +334,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -298,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.7993,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -333,7 +417,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -381,15 +465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7598,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,7 +500,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -464,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,7 +583,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -547,15 +631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8125,
+        "recency": 0.7982,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,7 +666,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -688,15 +772,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9911,
+        "recency": 0.9737,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -723,7 +807,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
+      }
+    },
+    {
+      "story_id": "story_4503613082a3",
+      "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+      "url": "https://news.ycombinator.com/item?id=49232778",
+      "primary_url": "https://news.ycombinator.com/item?id=49232778",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+          "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "OpenAI 策略师：AI 实验室应与政府权力相抗衡",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": "reply\nreply\nAs complexity/unpredictability rises in any system its natual that govt will shed power. We have already seen this with setting of interest rates. There is a long list of reasons why the Treasury Dept, President, House, Senate, Supreme Court or NASA doesnt get to set the rate. Why did they hand over that power to the central bank? Read some financial system evolution history. Mindlessly ambitious people, the kind who run things hardly ever hand over power to someone else unless they ",
+          "recommend_reason_zh": "OpenAI一位策略师主张AI实验室应抗衡政府权力，文章以央行独立定利率和梵蒂冈归教会治理为类比，并反驳称AI实验室由极少数人掌控、缺乏民主问责，进而探讨设立类似FCC的AI监管机构是否更可行。",
+          "url": "https://news.ycombinator.com/item?id=49232778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:37:41.870000Z"
+        },
+        {
+          "id": "58251da80060803a75a41e5d4fd0d6cd30d642d3",
+          "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "OpenAI 策略师：AI 实验室应与政府权力相抗衡",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T16:18:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+          "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "OpenAI 策略师：AI 实验室应与政府权力相抗衡",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": "reply\nreply\nAs complexity/unpredictability rises in any system its natual that govt will shed power. We have already seen this with setting of interest rates. There is a long list of reasons why the Treasury Dept, President, House, Senate, Supreme Court or NASA doesnt get to set the rate. Why did they hand over that power to the central bank? Read some financial system evolution history. Mindlessly ambitious people, the kind who run things hardly ever hand over power to someone else unless they ",
+          "recommend_reason_zh": "OpenAI一位策略师主张AI实验室应抗衡政府权力，文章以央行独立定利率和梵蒂冈归教会治理为类比，并反驳称AI实验室由极少数人掌控、缺乏民主问责，进而探讨设立类似FCC的AI监管机构是否更可行。",
+          "url": "https://news.ycombinator.com/item?id=49232778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:37:41.870000Z"
+        },
+        {
+          "id": "58251da80060803a75a41e5d4fd0d6cd30d642d3",
+          "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "OpenAI 策略师：AI 实验室应与政府权力相抗衡",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T16:18:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9943,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T16:18:39Z",
+      "latest_at": "2026-08-09T18:37:41.870000Z",
+      "primary_item": {
+        "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+        "title": "OpenAI 策略师：AI 实验室应与政府权力相抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "title_zh": "OpenAI 策略师：AI 实验室应与政府权力相抗衡",
+        "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "summary": "reply\nreply\nAs complexity/unpredictability rises in any system its natual that govt will shed power. We have already seen this with setting of interest rates. There is a long list of reasons why the Treasury Dept, President, House, Senate, Supreme Court or NASA doesnt get to set the rate. Why did they hand over that power to the central bank? Read some financial system evolution history. Mindlessly ambitious people, the kind who run things hardly ever hand over power to someone else unless they ",
+        "recommend_reason_zh": "OpenAI一位策略师主张AI实验室应抗衡政府权力，文章以央行独立定利率和梵蒂冈归教会治理为类比，并反驳称AI实验室由极少数人掌控、缺乏民主问责，进而探讨设立类似FCC的AI监管机构是否更可行。",
+        "url": "https://news.ycombinator.com/item?id=49232778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "观点不写代码，等有实际政策再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -740,7 +936,7 @@
           "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
           "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
           "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
           "url": "https://news.ycombinator.com/item?id=49232300",
           "source": "hackernews",
@@ -775,7 +971,7 @@
           "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
           "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
           "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
           "url": "https://news.ycombinator.com/item?id=49232300",
           "source": "hackernews",
@@ -800,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9976,
+        "recency": 0.98,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,7 +1019,7 @@
         "title_zh": "人类 vs. AI —— 基于 Diff 的行级溯源，用于智能体编辑场景下的文本归属",
         "title_en": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
         "title_original": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-        "summary": "reply",
+        "summary": null,
         "recommend_reason_zh": "本文提出基于diff的逐行溯源方法，精准定位agentic编辑中人类与AI的修改痕迹，以行级粒度区分内容归属，为协作场景提供透明可靠的文本来源证据。",
         "url": "https://news.ycombinator.com/item?id=49232300",
         "source": "hackernews",
@@ -835,148 +1031,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
-      }
-    },
-    {
-      "story_id": "story_32ec53e91d06",
-      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "source": "mezha.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": "丹麦要求学生对书面作业进行口头答辩以应对AI作弊，正文还延伸讨论了美国ADHD学生考试便利可能被滥用的争议，以及作业与考试评价方式正在失效的现实。",
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:47:07.381000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "mezha.net"
-      ],
-      "items": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生书面作业进行口头答辩以防范AI作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生书面作业进行口头答辩以防范AI作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": "丹麦要求学生对书面作业进行口头答辩以应对AI作弊，正文还延伸讨论了美国ADHD学生考试便利可能被滥用的争议，以及作业与考试评价方式正在失效的现实。",
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:47:07.381000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7242,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T18:09:31Z",
-      "latest_at": "2026-08-08T19:26:49.887000Z",
-      "primary_item": {
-        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_en": null,
-        "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-        "source": "mezha.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "教育口政策，不写代码也不改 API，开发者无需关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1053,15 +1108,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9832,
+        "recency": 0.9659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,7 +1143,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1114,7 +1169,7 @@
           "published_at": "2026-08-09T13:37:00.708000Z"
         },
         {
-          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
           "title": "以色列初创公司被曝与针对OpenAI、Anthropic和Meta的恶意AI攻击有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
           "title_zh": "以色列初创公司被曝与针对OpenAI、Anthropic和Meta的恶意AI攻击有关",
           "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
@@ -1122,15 +1177,15 @@
           "summary": null,
           "recommend_reason_zh": "一篇调查揭露以色列初创公司Irregular与针对OpenAI、Anthropic和Meta的恶意AI攻击有关，揭开了这家小公司如何牵涉多起AI安全事件的幕后联系。",
           "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1149,7 +1204,7 @@
           "published_at": "2026-08-09T13:37:00.708000Z"
         },
         {
-          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
           "title": "以色列初创公司被曝与针对OpenAI、Anthropic和Meta的恶意AI攻击有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
           "title_zh": "以色列初创公司被曝与针对OpenAI、Anthropic和Meta的恶意AI攻击有关",
           "title_en": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
@@ -1157,23 +1212,23 @@
           "summary": null,
           "recommend_reason_zh": "一篇调查揭露以色列初创公司Irregular与针对OpenAI、Anthropic和Meta的恶意AI攻击有关，揭开了这家小公司如何牵涉多起AI安全事件的幕后联系。",
           "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9415,
+        "recency": 0.9249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1200,7 +1255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1226,7 +1281,7 @@
           "published_at": "2026-08-09T13:16:02.883000Z"
         },
         {
-          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
           "title": "Amazon 绕过 Gilroy 社区投票建 AI 数据中心 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "Amazon 绕过 Gilroy 社区投票建 AI 数据中心",
           "title_en": "Amazon circumvents Gilroy community vote for AI data center",
@@ -1234,15 +1289,15 @@
           "summary": null,
           "recommend_reason_zh": "Amazon在Gilroy的AI数据中心项目绕过社区投票，谈判始于2020年，公众评论开放至2024年，居民竟毫不知情，直到施工开始。",
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1261,7 +1316,7 @@
           "published_at": "2026-08-09T13:16:02.883000Z"
         },
         {
-          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
           "title": "Amazon 绕过 Gilroy 社区投票建 AI 数据中心 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "Amazon 绕过 Gilroy 社区投票建 AI 数据中心",
           "title_en": "Amazon circumvents Gilroy community vote for AI data center",
@@ -1269,23 +1324,23 @@
           "summary": null,
           "recommend_reason_zh": "Amazon在Gilroy的AI数据中心项目绕过社区投票，谈判始于2020年，公众评论开放至2024年，居民竟毫不知情，直到施工开始。",
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.9203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1312,7 +1367,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1389,15 +1444,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.9203,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,7 +1479,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1501,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9015,
+        "recency": 0.8856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,7 +1591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1613,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8385,
+        "recency": 0.8238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1648,7 +1703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     },
     {
@@ -1725,15 +1780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8271,
+        "recency": 0.8126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1760,7 +1815,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-09T17:54:13.961834Z"
+        "scored_at": "2026-08-09T19:09:54.723637Z"
       }
     }
   ]

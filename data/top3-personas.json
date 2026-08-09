@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:54:19.799870Z",
+  "generated_at": "2026-08-09T19:10:02.913494Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_5da542bcba7e",
-      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "story_id": "story_fe7d41da32c5",
+      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "LoRA叠TF-IDF，常规操作非要凑齐五个关键词，这题我去年就看腻了。"
+          "score": 25,
+          "review": "单一推文里的“基本解决”和之前那些“彻底解决”一样，换个攻击思路就翻车。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有媒体标题，无论文无代码，方法细节无法验证，等于没证据。"
+          "score": 5,
+          "review": "一条推文声称解决提示注入，无论文无代码无复现，等于没说。"
         },
         "pragmatic": {
           "score": 62,
-          "review": "常见方法组合的教程，入门可看，老手不必花时间。"
+          "review": "提示注入是 Agent 安全实锤难题，但只凭自述别急着改架构，等公开方案。"
         }
       }
     }
