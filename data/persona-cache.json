@@ -5076,6 +5076,114 @@
       "review": "AI自主攻击首例，安全防护该提上日程，但无直接工具可抄。",
       "title_hash": "931a7fd3",
       "scored_at": "2026-08-09T23:51:58.061012Z"
+    },
+    "story_db693db10af6|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源模型直接能跑，450ms延迟做语音助手够用，立刻clone试试。",
+      "title_hash": "08658dee",
+      "scored_at": "2026-08-10T02:42:21.119904Z"
+    },
+    "story_d9b7ad25a0ae|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开放平台上线意味着可接入实际场景，先看API文档再决定是否集成。",
+      "title_hash": "a5521efa",
+      "scored_at": "2026-08-10T02:42:24.494811Z"
+    },
+    "story_638e0ee7c5f7|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "桌面端语音执行多步骤操作，省手动重复劳动，但仅限ChatGPT环境。",
+      "title_hash": "26f4f679",
+      "scored_at": "2026-08-10T02:42:27.134991Z"
+    },
+    "story_9d4e935f861b|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "代理驱动的开发环境有新意，但需确认是否开源可试用。",
+      "title_hash": "1b27c91b",
+      "scored_at": "2026-08-10T02:42:32.480988Z"
+    },
+    "story_ad5a6d38f4aa|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "泄露消息不算数，等发布后看实测再决定迁移。",
+      "title_hash": "299593a5",
+      "scored_at": "2026-08-10T02:42:34.874020Z"
+    },
+    "story_85e804b6deb3|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "个人榜单可参考，但选型还得看官方 benchmark 和实测。",
+      "title_hash": "a53b358d",
+      "scored_at": "2026-08-10T02:42:36.575855Z"
+    },
+    "story_83e68d96b0b8|pragmatic|0a5c5b24": {
+      "score": 80,
+      "review": "默认自动模式减少审批，写代码更顺，但注意权限边界。",
+      "title_hash": "ea2a6f35",
+      "scored_at": "2026-08-10T02:42:38.403847Z"
+    },
+    "story_882121d179e0|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "磁盘占用涨到20G，做浏览器端AI得重新评估门槛，普通用户可能直接劝退。",
+      "title_hash": "588f5bd8",
+      "scored_at": "2026-08-10T02:42:41.240126Z"
+    },
+    "story_60c45f9e2562|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "提醒开发者别乱开共享链接，敏感数据泄露风险今天就得防。",
+      "title_hash": "8ebc4ac1",
+      "scored_at": "2026-08-10T02:42:43.464385Z"
+    },
+    "story_3628e8845d8e|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "团队并入ChatGPT，短期无接口变动，做PPT的不用急着换工具。",
+      "title_hash": "c77f4871",
+      "scored_at": "2026-08-10T02:42:45.869054Z"
+    },
+    "story_5744e38c3127|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "测试环境里的极端行为，别急着恐慌，等细节和防护方案出来再评估。",
+      "title_hash": "4da2be2f",
+      "scored_at": "2026-08-10T02:42:48.311890Z"
+    },
+    "story_589994013cde|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "普通用户功能，开发者没有可调的 API，暂不用行动。",
+      "title_hash": "12d5394f",
+      "scored_at": "2026-08-10T02:42:50.320995Z"
+    },
+    "story_db693db10af6|cynic|f4237a62": {
+      "score": 75,
+      "review": "450ms 怕是 H100 专属，开源诚意有，但真全双工还得看低配跑不跑得动。",
+      "title_hash": "08658dee",
+      "scored_at": "2026-08-10T02:42:53.346720Z"
+    },
+    "story_db693db10af6|paper-police|966065bf": {
+      "score": 35,
+      "review": "自称开源但全文无论文代码链接，仅博客转述，缺实证。",
+      "title_hash": "08658dee",
+      "scored_at": "2026-08-10T02:42:56.111852Z"
+    },
+    "story_83e68d96b0b8|cynic|f4237a62": {
+      "score": 65,
+      "review": "自动模式省了审批，代码出错时责任可没自动转移。",
+      "title_hash": "ea2a6f35",
+      "scored_at": "2026-08-10T02:42:58.127569Z"
+    },
+    "story_83e68d96b0b8|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅有媒体转述官宣，无技术细节和独立评测，等官方文档验证。",
+      "title_hash": "ea2a6f35",
+      "scored_at": "2026-08-10T02:43:00.424871Z"
+    },
+    "story_60c45f9e2562|cynic|f4237a62": {
+      "score": 42,
+      "review": "共享链接默认公开还怪搜索引擎，隐私开关是摆设吗？",
+      "title_hash": "8ebc4ac1",
+      "scored_at": "2026-08-10T02:43:02.440377Z"
+    },
+    "story_60c45f9e2562|paper-police|966065bf": {
+      "score": 30,
+      "review": "媒体报道称共享链接被收录，但无官方回应或可复现证据，待核验。",
+      "title_hash": "8ebc4ac1",
+      "scored_at": "2026-08-10T02:43:04.743058Z"
     }
   }
 }
