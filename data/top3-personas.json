@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:49:34.188319Z",
+  "generated_at": "2026-08-10T09:05:57.558045Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_ae25210f3945",
+      "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
+      "url": "https://www.aibase.com/news/30220",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "开源是真，但'全双工'先拿出实测延迟和并发，别光发个权重包。"
+        },
+        "paper-police": {
+          "score": 18,
+          "review": "仅有新闻转述，无论文无代码无评测链接，开源真实性待验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源权重已放出，全双工语音可直接部署，做实时对话的今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_cca82cecf2ae",
       "title": "“自动模式”现已成为 Claude Code 的默认设置",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 68,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "默认自动模式省操作，但权限自动执行有风险，生产环境慎用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_36c8d8e68235",
-      "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "多模态插件听着新鲜，先跑通一个端到端 demo 再喊原生。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方推文只给口号，无论文无代码无评测，等开源再验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "智能体接多模态的现成插件，能省自己造轮子的功夫，值得上手试。"
         }
       }
     }
