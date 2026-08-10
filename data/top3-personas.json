@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:58:54.969454Z",
+  "generated_at": "2026-08-10T15:30:01.389902Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_ae25210f3945",
-      "title": "英伟达首款开源全双工语音模型VoiceChat 11B正式发布",
-      "url": "https://www.aibase.com/news/30220",
+      "story_id": "story_88c4bb049e16",
+      "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "开源是真，但'全双工'先拿出实测延迟和并发，别光发个权重包。"
+          "score": 45,
+          "review": "官方通稿没给对比基线，'更高效'是跟谁比？"
         },
         "paper-police": {
-          "score": 18,
-          "review": "仅有新闻转述，无论文无代码无评测链接，开源真实性待验证。"
+          "score": 30,
+          "review": "官方新闻无论文无代码，绩效数字未公开，等评测出来再说。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "开源权重已放出，全双工语音可直接部署，做实时对话的今天就能试。"
+          "score": 85,
+          "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。"
         }
       }
     }
