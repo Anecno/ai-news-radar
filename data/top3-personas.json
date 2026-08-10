@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:03:34.474507Z",
+  "generated_at": "2026-08-10T06:49:34.188319Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -38,21 +38,21 @@
     },
     {
       "story_id": "story_cca82cecf2ae",
-      "title": "Claude Code 现默认启用自动模式 / Auto mode is now the default in Claude Code",
-      "url": "https://news.ycombinator.com/item?id=49239021",
+      "title": "“自动模式”现已成为 Claude Code 的默认设置",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 52,
-          "review": "自动模式默认开，怕是忘了这是写代码不是写PPT。"
+          "score": 68,
+          "review": "默认自动模式，省了点头，多了翻车风险，调试时记得盯紧点。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅新闻标题宣称默认启用，无文档无评测，等官方细节或代码。"
+          "score": 25,
+          "review": "官方博客自宣新功能，无代码无评测，等社区实测反馈。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "默认自动模式省去手动确认，写代码的今天就能用上。"
+          "review": "默认自动模式省操作，但权限自动执行有风险，生产环境慎用。"
         }
       }
     },
