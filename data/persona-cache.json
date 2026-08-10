@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_23d7bae1d989|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "安全事件无具体方案，等官方补丁或新安全工具再动手。",
-      "title_hash": "1b260bbb",
-      "scored_at": "2026-07-20T13:23:29.236982Z"
-    },
-    "story_f7f39d4701ab|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "快速微调方案开源可复现，省时间跑实验，今天就能用。",
-      "title_hash": "c08cbc79",
-      "scored_at": "2026-07-20T13:23:31.602049Z"
-    },
-    "story_f7f39d4701ab|cynic|f4237a62": {
-      "score": 72,
-      "review": "6分钟跑了个马马虎虎的结果，也值得发榜？",
-      "title_hash": "c08cbc79",
-      "scored_at": "2026-07-20T13:23:35.073562Z"
-    },
-    "story_f7f39d4701ab|paper-police|966065bf": {
-      "score": 79,
-      "review": "GitHub有代码和benchmark结果，缺正式论文，可复现但需验证。",
-      "title_hash": "c08cbc79",
-      "scored_at": "2026-07-20T13:23:39.070520Z"
-    },
     "story_36e0334205c9|pragmatic|0a5c5b24": {
       "score": 95,
       "review": "模型已开源，机器人/边缘AI项目今天就能下载部署，实打实的工具箱。",
@@ -5118,6 +5094,18 @@
       "review": "只有合作博客，无评测细节和开源代码，性能存疑待验证。",
       "title_hash": "a11ef51f",
       "scored_at": "2026-08-10T12:15:02.498030Z"
+    },
+    "story_88c4bb049e16|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。",
+      "title_hash": "b20dacb9",
+      "scored_at": "2026-08-10T13:58:48.131565Z"
+    },
+    "story_d49cfe84ff4f|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "用该订阅的得提前找替代，不用则忽略。",
+      "title_hash": "efa487d5",
+      "scored_at": "2026-08-10T13:58:54.969181Z"
     }
   }
 }
