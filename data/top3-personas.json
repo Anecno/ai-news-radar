@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:43:04.743114Z",
+  "generated_at": "2026-08-10T05:03:34.474507Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_83e68d96b0b8",
-      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-      "url": "https://www.aibase.com/news/30203",
+      "story_id": "story_cca82cecf2ae",
+      "title": "Claude Code 现默认启用自动模式 / Auto mode is now the default in Claude Code",
+      "url": "https://news.ycombinator.com/item?id=49239021",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "自动模式省了审批，代码出错时责任可没自动转移。"
+          "score": 52,
+          "review": "自动模式默认开，怕是忘了这是写代码不是写PPT。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅有媒体转述官宣，无技术细节和独立评测，等官方文档验证。"
+          "review": "仅新闻标题宣称默认启用，无文档无评测，等官方细节或代码。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "默认自动模式减少审批，写代码更顺，但注意权限边界。"
+          "score": 88,
+          "review": "默认自动模式省去手动确认，写代码的今天就能用上。"
         }
       }
     },
     {
-      "story_id": "story_60c45f9e2562",
-      "title": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-      "url": "https://www.aibase.com/news/30200",
+      "story_id": "story_36c8d8e68235",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "共享链接默认公开还怪搜索引擎，隐私开关是摆设吗？"
+          "score": 62,
+          "review": "多模态插件听着新鲜，先跑通一个端到端 demo 再喊原生。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "媒体报道称共享链接被收录，但无官方回应或可复现证据，待核验。"
+          "score": 25,
+          "review": "官方推文只给口号，无论文无代码无评测，等开源再验证。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "提醒开发者别乱开共享链接，敏感数据泄露风险今天就得防。"
+          "score": 82,
+          "review": "智能体接多模态的现成插件，能省自己造轮子的功夫，值得上手试。"
         }
       }
     }
