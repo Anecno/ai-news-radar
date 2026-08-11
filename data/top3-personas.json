@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:11:02.555956Z",
+  "generated_at": "2026-08-11T14:02:12.100952Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_88c4bb049e16",
-      "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
+      "story_id": "story_f612b5d58d1d",
+      "title": "使用 GitHub Copilot SDK 进行 Java 开发 / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "官方通稿没给对比基线，'更高效'是跟谁比？"
+          "score": 72,
+          "review": "换个语言适配就叫新文章，Java 开发者终于被想起，但 SDK 还是那套。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方新闻无论文无代码，绩效数字未公开，等评测出来再说。"
+          "score": 55,
+          "review": "官方博客有细节和代码示例，但无独立验证，缺少可复现的完整示例。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。"
+          "score": 75,
+          "review": "官方 SDK 用法，Java 集成 Copilot 可直接上手。"
         }
       }
     }

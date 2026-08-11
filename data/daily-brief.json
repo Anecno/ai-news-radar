@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:57:14.813901Z",
+  "generated_at": "2026-08-11T13:43:26.358459Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8781,
-      "importance": 0.8781,
-      "importance_score": 0.8781,
+      "score": 0.8748,
+      "importance": 0.8748,
+      "importance_score": 0.8748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7283,
+        "recency": 0.7099,
         "story_heat": 0.75
       },
       "category": "official",
@@ -173,30 +173,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
-      "story_id": "story_b385166df3f8",
-      "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "story_id": "story_eddc237df9be",
+      "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_zh": "想到ACE？更少的Token就能搞定",
+          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nWhat we agree on Where we differ Why it matters Same lessons, different delivery Linked artifacts / references Method notes Reference tables ALTK-Evolve and ACE both let an agent learn from its own trajectories. The difference is what they do with what they learn — and that decides the token bill.\nGive an LLM agent a realistic multi-step task — split a bill, find a song, reconcile an order across nine simulat",
+          "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
+          "published_at": "2026-08-11T13:37:10Z"
         }
       ],
       "source_count": 1,
@@ -205,31 +205,31 @@
       ],
       "items": [
         {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+          "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_zh": "想到ACE？更少的Token就能搞定",
+          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nWhat we agree on Where we differ Why it matters Same lessons, different delivery Linked artifacts / references Method notes Reference tables ALTK-Evolve and ACE both let an agent learn from its own trajectories. The difference is what they do with what they learn — and that decides the token bill.\nGive an LLM agent a realistic multi-step task — split a bill, find a song, reconcile an order across nine simulat",
+          "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
+          "published_at": "2026-08-11T13:37:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7543,
+        "recency": 0.9985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,27 +238,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T16:25:36Z",
-      "latest_at": "2026-08-10T16:25:36Z",
+      "earliest_at": "2026-08-11T13:37:10Z",
+      "latest_at": "2026-08-11T13:37:10Z",
       "primary_item": {
-        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-        "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
+        "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
+        "title_zh": "想到ACE？更少的Token就能搞定",
+        "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
+        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nWhat we agree on Where we differ Why it matters Same lessons, different delivery Linked artifacts / references Method notes Reference tables ALTK-Evolve and ACE both let an agent learn from its own trajectories. The difference is what they do with what they learn — and that decides the token bill.\nGive an LLM agent a realistic multi-step task — split a bill, find a song, reconcile an order across nine simulat",
+        "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开放权重可自托管，低延迟多语言语音Agent直接上手。",
+      "persona_score": 52,
+      "persona_review": "研究向的token优化方案，等有可跑代码再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7885,
+        "recency": 0.7686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,7 +343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -391,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7331,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,7 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -476,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7336,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -513,179 +513,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
-      "story_id": "story_31e648a68ad9",
-      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_b385166df3f8",
+      "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "title_en": null,
-          "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
-          "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_en": null,
-          "title_original": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "summary": null,
-          "recommend_reason_zh": "tl;dv因Firestore安全规则缺失，暴露181,874段会议记录、84,312名用户数据，作者可凭ID闯入马来西亚教育部等实时会议，披露六个月后数据库仍未修复。",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "笔记应用中超过18.1万条AI会议录音被完全暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_zh": "笔记应用中超过18.1万条AI会议录音被完全暴露",
-          "title_en": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_original": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道指出，一款笔记应用因疏于保护，使超过181,000条AI会议录音在公网可被任意访问，用具体数字揭示AI转录服务背后的数据安全隐患。",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:45:37.063000Z"
-        },
-        {
-          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_en": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_original": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T12:26:05Z"
+          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T16:25:36Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "bobdahacker.com",
-        "hackernews"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "title_en": null,
-          "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-          "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
-          "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_en": null,
-          "title_original": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
+          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
           "summary": null,
-          "recommend_reason_zh": "tl;dv因Firestore安全规则缺失，暴露181,874段会议记录、84,312名用户数据，作者可凭ID闯入马来西亚教育部等实时会议，披露六个月后数据库仍未修复。",
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "bobdahacker.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-10T14:03:26.804000Z"
-        },
-        {
-          "id": "c99f9a3940811591e93287967b698602795b59c6",
-          "title": "笔记应用中超过18.1万条AI会议录音被完全暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_zh": "笔记应用中超过18.1万条AI会议录音被完全暴露",
-          "title_en": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_original": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道指出，一款笔记应用因疏于保护，使超过181,000条AI会议录音在公网可被任意访问，用具体数字揭示AI转录服务背后的数据安全隐患。",
-          "url": "https://news.ycombinator.com/item?id=49242739",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-10T13:45:37.063000Z"
-        },
-        {
-          "id": "8afc0f7a0b4b5c96efde6740ff5059df0d8dd58b",
-          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露 / Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-          "title_en": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "title_original": "Over 181,000 AI meeting recordings left wide open in note taking app",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://bobdahacker.com/blog/tldv-hack",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T12:26:05Z"
+          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
+          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T16:25:36Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7289,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7352,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T12:26:05Z",
-      "latest_at": "2026-08-10T14:03:26.804000Z",
+      "earliest_at": "2026-08-10T16:25:36Z",
+      "latest_at": "2026-08-10T16:25:36Z",
       "primary_item": {
-        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
-        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "title_en": null,
-        "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-        "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
-        "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
-        "url": "https://bobdahacker.com/blog/tldv-hack",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
+        "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
+        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+        "summary": null,
+        "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "若用tl;dv马上改密，否则警惕同类会议工具漏洞。",
+      "persona_score": 88,
+      "persona_review": "开放权重可自托管，低延迟多语言语音Agent直接上手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
+      }
+    },
+    {
+      "story_id": "story_f527ac6baab4",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+          "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+          "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
+          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T13:00:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9897,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T13:00:25Z",
+      "latest_at": "2026-08-11T13:00:25Z",
+      "primary_item": {
+        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
+        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+        "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+        "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+        "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
+        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "本地跑智能体有新选择，但需确认是否开源，能下载就值。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -733,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7606,
+        "recency": 0.7414,
         "story_heat": 0.0
       },
       "category": "official",
@@ -770,7 +767,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -818,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,7 +851,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -902,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.891,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +935,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -986,15 +983,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7285,
+        "recency": 0.7101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1023,7 +1020,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1071,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7495,
+        "recency": 0.7305,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1107,7 +1104,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1155,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,7 +1188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1239,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1272,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1323,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,7 +1356,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1407,21 +1404,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T05:44:38Z",
       "latest_at": "2026-08-11T05:44:38Z",
@@ -1443,7 +1439,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1491,15 +1487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1526,177 +1522,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
-      "story_id": "story_88c4bb049e16",
-      "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "primary_url": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2172d913ef6d",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "primary_url": "https://bobdahacker.com/blog/tldv-hack",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_zh": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作",
-          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "title_en": null,
+          "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+          "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
+        {
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "title_en": null,
+          "title_original": "笔记应用中逾18.1万段AI会议录音被公开暴露",
           "summary": null,
-          "recommend_reason_zh": "Model ML用GPT-5.6 Sol自动完成金融分析到PPT和Excel全流程，token消耗比Fable 5少21%，比Opus 5少36%，定制tearsheet从1小时缩至5分钟。",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
+          "recommend_reason_zh": "tl;dv因Firestore安全规则缺失，暴露181,874段会议记录、84,312名用户数据，作者可凭ID闯入马来西亚教育部等实时会议，披露六个月后数据库仍未修复。",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "bobdahacker.com"
       ],
       "items": [
         {
-          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-          "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_zh": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作",
-          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "summary": null,
-          "recommend_reason_zh": "Model ML用GPT-5.6 Sol自动完成金融分析到PPT和Excel全流程，token消耗比Fable 5少21%，比Opus 5少36%，定制tearsheet从1小时缩至5分钟。",
-          "url": "https://openai.com/index/model-ml",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T12:00:00Z",
-      "latest_at": "2026-08-10T12:00:00Z",
-      "primary_item": {
-        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
-        "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "title_zh": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作",
-        "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-        "summary": null,
-        "recommend_reason_zh": "Model ML用GPT-5.6 Sol自动完成金融分析到PPT和Excel全流程，token消耗比Fable 5少21%，比Opus 5少36%，定制tearsheet从1小时缩至5分钟。",
-        "url": "https://openai.com/index/model-ml",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
-      }
-    },
-    {
-      "story_id": "story_d49cfe84ff4f",
-      "title": "自定义线程订阅功能即将弃用 / Custom thread subscriptions are being deprecated",
-      "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
+          "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+          "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "title_en": null,
+          "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+          "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+          "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:03:26.804000Z"
+        },
         {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅功能即将弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅功能即将弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
+          "id": "4e5eb3a75e0ad5a54e603202b055e6bb59c42606",
+          "title": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "title_zh": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+          "title_en": null,
+          "title_original": "笔记应用中逾18.1万段AI会议录音被公开暴露",
           "summary": null,
-          "recommend_reason_zh": "GitHub将弃用自定义线程订阅，彻底移除线程级通知设置中的Customize选项，仅保留Subscribed和Not subscribed，现有自定义订阅全部转为Subscribed，并接收该线程所有事件通知。",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
+          "recommend_reason_zh": "tl;dv因Firestore安全规则缺失，暴露181,874段会议记录、84,312名用户数据，作者可凭ID闯入马来西亚教育部等实时会议，披露六个月后数据库仍未修复。",
+          "url": "https://bobdahacker.com/blog/tldv-hack",
+          "source": "bobdahacker.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-10T14:03:26.804000Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-          "title": "自定义线程订阅功能即将弃用 / Custom thread subscriptions are being deprecated",
-          "title_zh": "自定义线程订阅功能即将弃用",
-          "title_en": "Custom thread subscriptions are being deprecated",
-          "title_original": "Custom thread subscriptions are being deprecated",
-          "summary": null,
-          "recommend_reason_zh": "GitHub将弃用自定义线程订阅，彻底移除线程级通知设置中的Customize选项，仅保留Subscribed和Not subscribed，现有自定义订阅全部转为Subscribed，并接收该线程所有事件通知。",
-          "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T12:45:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7154,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7105,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-10T12:45:49Z",
-      "latest_at": "2026-08-10T12:45:49Z",
+      "earliest_at": "2026-08-10T14:03:26.804000Z",
+      "latest_at": "2026-08-10T14:03:26.804000Z",
       "primary_item": {
-        "id": "4f8602a27b65d6d706ed3d8773f5a546141f259a",
-        "title": "自定义线程订阅功能即将弃用 / Custom thread subscriptions are being deprecated",
-        "title_zh": "自定义线程订阅功能即将弃用",
-        "title_en": "Custom thread subscriptions are being deprecated",
-        "title_original": "Custom thread subscriptions are being deprecated",
-        "summary": null,
-        "recommend_reason_zh": "GitHub将弃用自定义线程订阅，彻底移除线程级通知设置中的Customize选项，仅保留Subscribed和Not subscribed，现有自定义订阅全部转为Subscribed，并接收该线程所有事件通知。",
-        "url": "https://github.blog/changelog/2026-08-10-custom-thread-subscriptions-are-being-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "7f5793dff6154f8b6bee4fdc7600a28a95bd1761",
+        "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "title_zh": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "title_en": null,
+        "title_original": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+        "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+        "recommend_reason_zh": "tl;dv因缺失Firestore安全规则，暴露181,874段会议记录，涉及84,312用户、35,003域名，可实时闯入通话，半年未修复。",
+        "url": "https://bobdahacker.com/blog/tldv-hack",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "用该订阅的得提前找替代，不用则忽略。",
+      "persona_review": "自查是否在用该类工具，尽快轮换凭证并检查暴露记录。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1744,15 +1683,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9615,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1780,7 +1719,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     },
     {
@@ -1828,15 +1767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1863,7 +1802,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T12:10:59.153150Z"
+        "scored_at": "2026-08-11T14:02:05.314251Z"
       }
     }
   ]
