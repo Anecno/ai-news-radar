@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_2651940ec628|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "安全事件敲警钟，模型部署前务必做渗透测试，别裸奔。",
-      "title_hash": "de5731ed",
-      "scored_at": "2026-07-21T20:41:41.058966Z"
-    },
-    "story_6378719f54d2|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "概述文章，了解方向可以，没有可操作的代码或工具，今天用不上。",
-      "title_hash": "94bbb08d",
-      "scored_at": "2026-07-21T20:41:43.789928Z"
-    },
-    "story_69716a6666ea|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "安全调查中，暂时无新工具或变更，留意后续影响即可。",
-      "title_hash": "37b61815",
-      "scored_at": "2026-07-21T20:41:46.085617Z"
-    },
-    "story_3de84c262e2d|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "广告变现是商业决策，开发者暂时不用操心。",
-      "title_hash": "d163a64b",
-      "scored_at": "2026-07-21T20:41:49.423473Z"
-    },
     "story_cc9fa5ceb91c|pragmatic|0a5c5b24": {
       "score": 92,
       "review": "新模型直接可用，赶紧测测和旧版的差异，优化成本或效果。",
@@ -5100,6 +5076,48 @@
       "review": "官方公告但无技术细节和评测，仅称可用，缺论文和独立验证。",
       "title_hash": "79ec979e",
       "scored_at": "2026-08-11T19:35:28.795420Z"
+    },
+    "story_d21fb74b185b|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "JetBrains 用户可本地接 Ollama，内存功能提升多文件上下文，今天能试。",
+      "title_hash": "d27d4f9c",
+      "scored_at": "2026-08-11T21:23:51.404302Z"
+    },
+    "story_8bee042859df|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "多角色视频生成已上线，做短片可直接上手试。",
+      "title_hash": "ae02c697",
+      "scored_at": "2026-08-11T21:23:53.378405Z"
+    },
+    "story_8a4c14a3381a|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "用户规模反映生态成熟度，选型可参考，但今天没有可上手的动作。",
+      "title_hash": "c5592b0b",
+      "scored_at": "2026-08-11T21:23:55.520239Z"
+    },
+    "story_f4f6d73ecb41|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "自托管企业用户可提前测试新特性，生产环境建议等正式版。",
+      "title_hash": "8187d19a",
+      "scored_at": "2026-08-11T21:23:58.211097Z"
+    },
+    "story_3e367c2a90f0|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "省了手动迁移规则集的功夫，仓库多的团队今天就能少踩坑。",
+      "title_hash": "4236958d",
+      "scored_at": "2026-08-11T21:23:59.833504Z"
+    },
+    "story_8bee042859df|cynic|f4237a62": {
+      "score": 45,
+      "review": "五十个角色参考听着唬人，渲染时长和实际效果敢晒出来吗？",
+      "title_hash": "ae02c697",
+      "scored_at": "2026-08-11T21:24:03.908965Z"
+    },
+    "story_8bee042859df|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方推文宣称，无论文代码评测，等独立验证。",
+      "title_hash": "ae02c697",
+      "scored_at": "2026-08-11T21:24:06.532360Z"
     }
   }
 }
