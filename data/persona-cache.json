@@ -7,59 +7,11 @@
       "title_hash": "ec833abc",
       "scored_at": "2026-07-21T18:46:14.330692Z"
     },
-    "story_d35a8a618528|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接升级 Copilot 即可用，写代码时体验新模型，今天就能试。",
-      "title_hash": "7bcb5333",
-      "scored_at": "2026-07-21T16:47:47.758716Z"
-    },
     "story_d10c338d6b64|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "GitHub Copilot 新扩展，实时协作交互，今天就能试。",
       "title_hash": "d1a06565",
       "scored_at": "2026-07-21T18:46:19.751358Z"
-    },
-    "story_e74cb4c95fab|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "基于 JAX 的 agent 后训练库，跑 RLHF 的可以立刻上高吞吐 pipeline。",
-      "title_hash": "414dcfdc",
-      "scored_at": "2026-07-21T16:47:53.401896Z"
-    },
-    "story_8ded8db8bacc|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "研究阶段，没有现成工具，等开源或集成到框架再用。",
-      "title_hash": "49325c20",
-      "scored_at": "2026-07-21T16:47:59.614838Z"
-    },
-    "story_0ed4c81ba7c0|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "政治威胁未落地，暂时不影响实际开发。",
-      "title_hash": "19275a1a",
-      "scored_at": "2026-07-21T16:48:02.388877Z"
-    },
-    "story_691430c220b8|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "录屏教Claude干活，自动化场景今天就能试，效果待实测。",
-      "title_hash": "412878a8",
-      "scored_at": "2026-07-21T16:48:06.351823Z"
-    },
-    "story_07219f11703f|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "知道数据比例但无法分辨真伪，对过滤论文和日常开发没帮助。",
-      "title_hash": "0679d603",
-      "scored_at": "2026-07-21T16:48:08.966634Z"
-    },
-    "story_d35a8a618528|cynic|f4237a62": {
-      "score": 72,
-      "review": "集成一个Flash模型就发官宣，Copilot靠这个翻不了身。",
-      "title_hash": "7bcb5333",
-      "scored_at": "2026-07-21T16:48:12.745372Z"
-    },
-    "story_d35a8a618528|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方公告，缺乏论文代码和评测数据，无法验证性能。",
-      "title_hash": "7bcb5333",
-      "scored_at": "2026-07-21T16:48:15.562566Z"
     },
     "story_92edc8b58a7a|pragmatic|0a5c5b24": {
       "score": 50,
@@ -5136,6 +5088,54 @@
       "review": "只说开源没给仓库和评测链接，无法验证模型真假。",
       "title_hash": "78ec6d7c",
       "scored_at": "2026-08-11T15:37:07.123745Z"
+    },
+    "story_5d259fa5549c|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "研究演示，暂无API和部署包，临床方向可留意，动手派先观望。",
+      "title_hash": "d9543310",
+      "scored_at": "2026-08-11T17:28:33.618666Z"
+    },
+    "story_2bcee1a44f59|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "广告测试不影响API，但免费版体验要变，留意后续官方细则。",
+      "title_hash": "621aeb90",
+      "scored_at": "2026-08-11T17:28:35.663701Z"
+    },
+    "story_2b5700449511|pragmatic|0a5c5b24": {
+      "score": 87,
+      "review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。",
+      "title_hash": "b6cfd1ac",
+      "scored_at": "2026-08-11T17:28:46.427941Z"
+    },
+    "story_fbc94e6886a3|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "预测帖不写代码，等真出现失控再操心。",
+      "title_hash": "8cdd7cdd",
+      "scored_at": "2026-08-11T17:28:47.732273Z"
+    },
+    "story_2b5700449511|cynic|f4237a62": {
+      "score": 45,
+      "review": "又给老工具贴AI标签，迁移加速了没基准数据，先跑个TPC-H再说。",
+      "title_hash": "b6cfd1ac",
+      "scored_at": "2026-08-11T17:28:49.838970Z"
+    },
+    "story_2b5700449511|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客有细节但无独立验证，等实际迁移数据再定论。",
+      "title_hash": "b6cfd1ac",
+      "scored_at": "2026-08-11T17:28:51.593362Z"
+    },
+    "story_2b0f68d1ef21|cynic|f4237a62": {
+      "score": 70,
+      "review": "Day-0支持是常规操作，先跑个真实负载看加速比再说。",
+      "title_hash": "9a452965",
+      "scored_at": "2026-08-11T17:28:54.697994Z"
+    },
+    "story_2b0f68d1ef21|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅博客宣称支持，无代码或评测链接，Day-0 说法缺实证。",
+      "title_hash": "9a452965",
+      "scored_at": "2026-08-11T17:28:57.600186Z"
     }
   }
 }

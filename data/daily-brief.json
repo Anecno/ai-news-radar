@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T16:12:55.416118Z",
+  "generated_at": "2026-08-11T17:13:09.865424Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8534,
-      "importance": 0.8534,
-      "importance_score": 0.8534,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9632,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
+      }
+    },
+    {
+      "story_id": "story_5d259fa5549c",
+      "title": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。",
+          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nAnil Palepu\nResearch Lead\nAug 11, 2026\nWhen you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort. Today, Google Research and Google DeepMin",
+          "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+          "title": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_zh": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。",
+          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+          "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nAnil Palepu\nResearch Lead\nAug 11, 2026\nWhen you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort. Today, Google Research and Google DeepMin",
+          "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T17:00:00Z",
+      "latest_at": "2026-08-11T17:00:00Z",
+      "primary_item": {
+        "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
+        "title": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "title_zh": "AMIE，我们的研究医疗AI系统，在一项首创性研究中展示了实时临床视频咨询能力。",
+        "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nGoogle introduces AMIE for real-time clinical video consultations in simulated settings.\nAnil Palepu\nResearch Lead\nAug 11, 2026\nWhen you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort. Today, Google Research and Google DeepMin",
+        "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "研究演示，暂无API和部署包，临床方向可留意，动手派先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-11T17:28:31.707606Z"
+      }
+    },
+    {
+      "story_id": "story_2bcee1a44f59",
+      "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+          "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
+          "title_zh": "在ChatGPT中测试广告",
+          "title_en": "Testing ads in ChatGPT",
+          "title_original": "Testing ads in ChatGPT",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nAugust 11, 2026\nAds that support free access and don’",
+          "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+          "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
+          "title_zh": "在ChatGPT中测试广告",
+          "title_en": "Testing ads in ChatGPT",
+          "title_original": "Testing ads in ChatGPT",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nAugust 11, 2026\nAds that support free access and don’",
+          "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.901,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T10:00:00Z",
+      "latest_at": "2026-08-11T10:00:00Z",
+      "primary_item": {
+        "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
+        "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
+        "title_zh": "在ChatGPT中测试广告",
+        "title_en": "Testing ads in ChatGPT",
+        "title_original": "Testing ads in ChatGPT",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nOpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.\nAugust 11, 2026\nAds that support free access and don’",
+        "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "广告测试不影响API，但免费版体验要变，留意后续官方细则。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -133,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9783,
+        "recency": 0.9642,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -218,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7415,
+        "recency": 0.7308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,177 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
-      }
-    },
-    {
-      "story_id": "story_4efc9ada130f",
-      "title": "构建AI原生财务职能教会我的事 / What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "primary_url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建AI原生财务职能教会我的事 / What building an AI-native finance function taught me",
-          "title_zh": "构建AI原生财务职能教会我的事",
-          "title_en": "What building an AI-native finance function taught me",
-          "title_original": "What building an AI-native finance function taught me",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sarah Friar分享建设AI原生财务部门的五条经验，涵盖零日结账、持续预测及财务黑客松中开发IR-GPT等实践，强调用自动化取代手工活并衡量AI回报。",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-          "title": "构建AI原生财务职能教会我的事 / What building an AI-native finance function taught me",
-          "title_zh": "构建AI原生财务职能教会我的事",
-          "title_en": "What building an AI-native finance function taught me",
-          "title_original": "What building an AI-native finance function taught me",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sarah Friar分享建设AI原生财务部门的五条经验，涵盖零日结账、持续预测及财务黑客松中开发IR-GPT等实践，强调用自动化取代手工活并衡量AI回报。",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7152,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T17:00:00Z",
-      "latest_at": "2026-08-10T17:00:00Z",
-      "primary_item": {
-        "id": "c2a19441382dddabccade1f3a43bf687166ea0a8",
-        "title": "构建AI原生财务职能教会我的事 / What building an AI-native finance function taught me",
-        "title_zh": "构建AI原生财务职能教会我的事",
-        "title_en": "What building an AI-native finance function taught me",
-        "title_original": "What building an AI-native finance function taught me",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI CFO Sarah Friar分享建设AI原生财务部门的五条经验，涵盖零日结账、持续预测及财务黑客松中开发IR-GPT等实践，强调用自动化取代手工活并衡量AI回报。",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "内部流程经验分享，无API无工具，围观即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
-      }
-    },
-    {
-      "story_id": "story_b385166df3f8",
-      "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-          "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-          "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-          "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T16:25:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T16:25:36Z",
-      "latest_at": "2026-08-10T16:25:36Z",
-      "primary_item": {
-        "id": "b679bae1256ee7d97ed12a455537d6c1830bebf4",
-        "title": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_zh": "利用NVIDIA Magpie TTS构建低延迟多语言语音Agent：开放权重与完全部署控制",
-        "title_en": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "title_original": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA Magpie TTS以364M开放权重支持12种语言，新增阿拉伯语、韩语和巴西葡萄牙语，并优化印地语与日语的代码切换，帮你自建低延迟多语言语音Agent。",
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开放权重可自托管，低延迟多语言语音Agent直接上手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9812,
+        "recency": 0.9671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9547,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -593,7 +593,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,7 +677,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
+      }
+    },
+    {
+      "story_id": "story_2b5700449511",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T16:00:00Z",
+      "latest_at": "2026-08-11T16:00:00Z",
+      "primary_item": {
+        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+        "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+        "source": "Google Cloud：Databases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 87,
+      "persona_review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -725,15 +809,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -761,7 +845,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -809,21 +893,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T09:20:00Z",
       "latest_at": "2026-08-11T09:20:00Z",
@@ -845,7 +928,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -893,21 +976,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T09:14:07.647014Z",
       "latest_at": "2026-08-11T09:14:07.647014Z",
@@ -929,7 +1011,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -977,15 +1059,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.768,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1012,7 +1094,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1060,15 +1142,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1095,7 +1177,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1143,15 +1225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,7 +1260,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1226,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,7 +1343,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
+      }
+    },
+    {
+      "story_id": "story_fbc94e6886a3",
+      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "primary_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+          "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+          "recommend_reason_zh": "Ryan Greenblatt与主持人辩论递归自我改进，预测2031年自动化AI研发：若成真，AGI一年内或跃升相当于GPT-3到Mythos的六年进度，催生数十亿超级智能。",
+          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:31:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+          "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+          "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+          "recommend_reason_zh": "Ryan Greenblatt与主持人辩论递归自我改进，预测2031年自动化AI研发：若成真，AGI一年内或跃升相当于GPT-3到Mythos的六年进度，催生数十亿超级智能。",
+          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:31:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T16:31:23Z",
+      "latest_at": "2026-08-11T16:31:23Z",
+      "primary_item": {
+        "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
+        "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+        "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+        "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+        "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+        "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+        "recommend_reason_zh": "Ryan Greenblatt与主持人辩论递归自我改进，预测2031年自动化AI研发：若成真，AGI一年内或跃升相当于GPT-3到Mythos的六年进度，催生数十亿超级智能。",
+        "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "预测帖不写代码，等真出现失控再操心。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1309,15 +1474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1393,15 +1558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,7 +1594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     },
     {
@@ -1477,21 +1642,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-11T09:14:07.647014Z",
       "latest_at": "2026-08-11T09:14:07.647014Z",
@@ -1513,174 +1677,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
-      }
-    },
-    {
-      "story_id": "story_e5745a33fcfd",
-      "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-      "url": "https://www.aibase.com/news/30250",
-      "primary_url": "https://www.aibase.com/news/30250",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa09708344fb1c94b133f49b04d63664d59d2ab8",
-          "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "title_zh": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "title_en": null,
-          "title_original": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "summary": null,
-          "recommend_reason_zh": "Meta 开源 30B 稠密多模态模型 Muse Glimmer，采用 Apache 2.0 协议，4-bit 量化后体积低于 20GB，可在 24GB VRAM 的消费级硬件上运行，并通过 DFlash 技术在 RTX 5090 上实现数倍加速。",
-          "url": "https://www.aibase.com/news/30250",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:14:07.647014Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aa09708344fb1c94b133f49b04d63664d59d2ab8",
-          "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "title_zh": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "title_en": null,
-          "title_original": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-          "summary": null,
-          "recommend_reason_zh": "Meta 开源 30B 稠密多模态模型 Muse Glimmer，采用 Apache 2.0 协议，4-bit 量化后体积低于 20GB，可在 24GB VRAM 的消费级硬件上运行，并通过 DFlash 技术在 RTX 5090 上实现数倍加速。",
-          "url": "https://www.aibase.com/news/30250",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:14:07.647014Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9041,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T09:14:07.647014Z",
-      "latest_at": "2026-08-11T09:14:07.647014Z",
-      "primary_item": {
-        "id": "aa09708344fb1c94b133f49b04d63664d59d2ab8",
-        "title": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-        "title_zh": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-        "title_en": null,
-        "title_original": "扎克伯格押注本地智能：Meta 重磅开源 30B 稠密模型 Muse Glimmer",
-        "summary": null,
-        "recommend_reason_zh": "Meta 开源 30B 稠密多模态模型 Muse Glimmer，采用 Apache 2.0 协议，4-bit 量化后体积低于 20GB，可在 24GB VRAM 的消费级硬件上运行，并通过 DFlash 技术在 RTX 5090 上实现数倍加速。",
-        "url": "https://www.aibase.com/news/30250",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "30B 开源模型可本地部署，推理党今天就能 clone 跑起来。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
-      }
-    },
-    {
-      "story_id": "story_4ea5136decec",
-      "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-      "url": "https://www.aibase.com/news/30247",
-      "primary_url": "https://www.aibase.com/news/30247",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "title_en": null,
-          "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic宣布为Claude新增隐形水印，从8月2日发布的版本起支持识别AI生成文本，覆盖全球且符合欧盟AI法案，并计划向第三方提供检测工具。",
-          "url": "https://www.aibase.com/news/30247",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T07:37:47.614022Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-          "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "title_en": null,
-          "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic宣布为Claude新增隐形水印，从8月2日发布的版本起支持识别AI生成文本，覆盖全球且符合欧盟AI法案，并计划向第三方提供检测工具。",
-          "url": "https://www.aibase.com/news/30247",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T07:37:47.614022Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8834,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T07:37:47.614022Z",
-      "latest_at": "2026-08-11T07:37:47.614022Z",
-      "primary_item": {
-        "id": "3335d03ee543d1afd73c5f2e259c0b43303279fb",
-        "title": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-        "title_zh": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-        "title_en": null,
-        "title_original": "Anthropic为Claude生成文本加入隐形水印，提升AI内容溯源能力",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic宣布为Claude新增隐形水印，从8月2日发布的版本起支持识别AI生成文本，覆盖全球且符合欧盟AI法案，并计划向第三方提供检测工具。",
-        "url": "https://www.aibase.com/news/30247",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "对溯源合规有帮助，但API用户感知不强，先确认是否影响现有生成结果。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-11T16:27:31.290583Z"
+        "scored_at": "2026-08-11T17:28:31.707606Z"
       }
     }
   ]
