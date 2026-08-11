@@ -1,90 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7e78ee445fab|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "新模型今天可用，Flash-Lite适合低成本场景，建议直接测试迁移。",
-      "title_hash": "ec833abc",
-      "scored_at": "2026-07-21T18:46:14.330692Z"
-    },
-    "story_d10c338d6b64|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "GitHub Copilot 新扩展，实时协作交互，今天就能试。",
-      "title_hash": "d1a06565",
-      "scored_at": "2026-07-21T18:46:19.751358Z"
-    },
-    "story_92edc8b58a7a|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "计划未释放细节，等具体定价和API变化再评估。",
-      "title_hash": "e4aa8889",
-      "scored_at": "2026-07-21T18:46:17.372772Z"
-    },
-    "story_ea40d0a9c401|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "新版本可能带修复或新功能，升级前看变更日志决定是否合你现在用的流程。",
-      "title_hash": "1bb501db",
-      "scored_at": "2026-07-21T18:46:22.743167Z"
-    },
-    "story_d0672bf611f1|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "新模型来了但没Pro，等开放文档看是否有用，不急着换。",
-      "title_hash": "7609bd39",
-      "scored_at": "2026-07-21T18:46:26.130828Z"
-    },
-    "story_822ad89458dc|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "个人经验分享，无实际产出，等验证后再看。",
-      "title_hash": "c525da90",
-      "scored_at": "2026-07-21T18:46:28.185630Z"
-    },
-    "story_2544921ec88b|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "观点文章，没有新工具或API，不用行动。",
-      "title_hash": "cf4b82a0",
-      "scored_at": "2026-07-21T18:46:31.924757Z"
-    },
-    "story_8c99214fadf5|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "安全实践可参考，但无新工具或可直接复用的方案。",
-      "title_hash": "e5196d88",
-      "scored_at": "2026-07-21T18:46:34.277926Z"
-    },
-    "story_267db5340567|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "纯研究发布，无开放接口或工具，对今天的工作没影响。",
-      "title_hash": "018eeffe",
-      "scored_at": "2026-07-21T18:46:36.479449Z"
-    },
-    "story_ba4bdebbcba6|pragmatic|0a5c5b24": {
-      "score": 58,
-      "review": "Outlook用户今天就能装，但功能有限，不是开发刚需。",
-      "title_hash": "bd755f35",
-      "scored_at": "2026-07-21T18:46:38.813633Z"
-    },
-    "story_7e78ee445fab|cynic|f4237a62": {
-      "score": 50,
-      "review": "版本号跳得快，但参数和跑分一个没给，先发PPT定义创新。",
-      "title_hash": "ec833abc",
-      "scored_at": "2026-07-21T18:46:41.953859Z"
-    },
-    "story_7e78ee445fab|paper-police|966065bf": {
-      "score": 55,
-      "review": "官方博客给了模型细节和数字，但无开源代码与论文，待验证。",
-      "title_hash": "ec833abc",
-      "scored_at": "2026-07-21T18:46:46.592735Z"
-    },
-    "story_d10c338d6b64|cynic|f4237a62": {
-      "score": 72,
-      "review": "实时协作概念挺好，但得看能跑多复杂场景，别成了玩具。",
-      "title_hash": "d1a06565",
-      "scored_at": "2026-07-21T18:46:48.938560Z"
-    },
-    "story_d10c338d6b64|paper-police|966065bf": {
-      "score": 20,
-      "review": "功能更新无评测数据，仅官方博客，缺独立验证。",
-      "title_hash": "d1a06565",
-      "scored_at": "2026-07-21T18:46:51.498776Z"
-    },
     "story_2651940ec628|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "安全事件敲警钟，模型部署前务必做渗透测试，别裸奔。",
@@ -5154,6 +5070,36 @@
       "review": "用户量大说明生态稳了，但今天没有新接口可薅，先观望。",
       "title_hash": "e49c8ebd",
       "scored_at": "2026-08-11T18:25:58.523415Z"
+    },
+    "story_c246dedc40ae|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "Copilot 集成新模型，写代码可立即切换体验，效率党直接上手。",
+      "title_hash": "79ec979e",
+      "scored_at": "2026-08-11T19:35:18.804384Z"
+    },
+    "story_7799176b7000|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "桌面端能导入其他 Agent 的项目数据，迁移工作流今天就能试。",
+      "title_hash": "d2010f42",
+      "scored_at": "2026-08-11T19:35:20.632559Z"
+    },
+    "story_cdfccbf00748|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "想审计 Copilot 请求或做安全拦截的，这篇实操经验可直接抄。",
+      "title_hash": "6b3830e1",
+      "scored_at": "2026-08-11T19:35:23.070258Z"
+    },
+    "story_c246dedc40ae|cynic|f4237a62": {
+      "score": 65,
+      "review": "换了个模型名就发 changelog，性能对比和实际体验呢？",
+      "title_hash": "79ec979e",
+      "scored_at": "2026-08-11T19:35:26.069825Z"
+    },
+    "story_c246dedc40ae|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方公告但无技术细节和评测，仅称可用，缺论文和独立验证。",
+      "title_hash": "79ec979e",
+      "scored_at": "2026-08-11T19:35:28.795420Z"
     }
   }
 }
