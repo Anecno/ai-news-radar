@@ -7,30 +7,6 @@
       "title_hash": "f698c9b2",
       "scored_at": "2026-07-21T12:06:17.341416Z"
     },
-    "story_660ae8f26457|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "训练成本高是厂商的事，等降价或开源出来再说。",
-      "title_hash": "10ecb688",
-      "scored_at": "2026-07-21T09:46:34.093525Z"
-    },
-    "story_311641596bf6|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "非付费用户可能排队，建议评估API依赖或考虑付费方案。",
-      "title_hash": "62f484e7",
-      "scored_at": "2026-07-21T09:46:37.303333Z"
-    },
-    "story_798a640da06c|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "安全功能更新，家长端多份提醒，对开发调参基本无影响。",
-      "title_hash": "e923358d",
-      "scored_at": "2026-07-21T09:46:39.835499Z"
-    },
-    "story_a8c8cd122439|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "做AI视频的分发注意合规，今天不用改代码但得看细则。",
-      "title_hash": "2834c6d2",
-      "scored_at": "2026-07-21T09:46:41.889998Z"
-    },
     "story_dca03783a107|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "开源机器人数据记录工具，做机器人操作的开发者今天就能用上。",
@@ -5142,6 +5118,24 @@
       "review": "数学研究离工程落地远，开发者不用行动。",
       "title_hash": "fc8dd95b",
       "scored_at": "2026-08-11T09:30:32.513884Z"
+    },
+    "story_2ce1fd385677|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源可 clone，1.3B 参数直接跑真实任务，低资源场景今天就能试。",
+      "title_hash": "d6b505bb",
+      "scored_at": "2026-08-11T10:29:44.402759Z"
+    },
+    "story_2ce1fd385677|cynic|f4237a62": {
+      "score": 48,
+      "review": "1.3B激活参数听着省，怎么不报总参数？开源链接和基准呢？",
+      "title_hash": "d6b505bb",
+      "scored_at": "2026-08-11T10:29:49.423383Z"
+    },
+    "story_2ce1fd385677|paper-police|966065bf": {
+      "score": 25,
+      "review": "只看到公众号宣称开源，无代码无benchmark，无法验证。",
+      "title_hash": "d6b505bb",
+      "scored_at": "2026-08-11T10:29:52.956870Z"
     }
   }
 }
