@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T02:43:49.872943Z",
+  "generated_at": "2026-08-11T04:50:22.045428Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_88c4bb049e16",
-      "title": "Model ML 借助 GPT-5.6 Sol 更高效地完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "官方通稿没给对比基线，'更高效'是跟谁比？"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方新闻无论文无代码，绩效数字未公开，等评测出来再说。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。"
-        }
-      }
-    },
-    {
       "story_id": "story_f612b5d58d1d",
       "title": "使用 GitHub Copilot SDK 进行 Java 开发 / Using the GitHub Copilot SDK for Java",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 75,
           "review": "官方 SDK 用法，Java 集成 Copilot 可直接上手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_fca31970616e",
+      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 66,
+          "review": "省了每次点击，可要是 AI 跑偏了，责任是不是也默认自动？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有官方推特自述，无代码无文档，自动模式原理无法验证。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "默认自动模式少点确认，但留意自动操作的风险边界。"
         }
       }
     }
