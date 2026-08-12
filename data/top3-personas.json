@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:48:43.720633Z",
+  "generated_at": "2026-08-12T21:22:18.749207Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_094f6572bd5f",
+      "title": "Agent Plugins 1.0 现已登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 50,
+          "review": "从预览版换个1.0名号，没给任何基准数据，先跑起来再说。"
+        },
+        "paper-police": {
+          "score": 28,
+          "review": "官方公告无评测无代码，功能细节待第三方验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "插件生态落开发环境，今天就能配置用上。"
+        }
+      }
+    },
+    {
       "story_id": "story_3479a70ad230",
       "title": "LFM2.5-VL-3B：为边缘端带来更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "3B小模型开源可跑边缘端，视觉任务今天就能试，省部署成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_208a14008235",
-      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
-      "url": "https://x.com/OpenRouter/status/2087509478480765218",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 68,
-          "review": "开源是真，但'首个'纯粹是自家实验室自封，性能数据呢？"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅推文称开源上线，无代码仓库无评测，待实际跑分验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "Meta 开放权重模型已在 OpenRouter 上线，直接调 API 就能体验，跑任务的可以立刻试。"
         }
       }
     }
