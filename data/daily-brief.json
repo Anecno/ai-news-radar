@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:59:18.354212Z",
+  "generated_at": "2026-08-12T13:47:52.610298Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9131,
+        "recency": 0.8895,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
+      }
+    },
+    {
+      "story_id": "story_c27a5b0e8673",
+      "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "primary_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从辅助到执行：企业如何让AI真正干活",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
+          "recommend_reason_zh": "OpenAI新研究显示，企业AI正从问答转向执行：6月Codex占企业客户输出token的64%，前沿公司人均输出token达典型公司8.3倍，揭示agentic AI落地差异。",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+          "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
+          "title_zh": "从辅助到执行：企业如何让AI真正干活",
+          "title_en": "From assistance to execution: How enterprises put AI to work",
+          "title_original": "From assistance to execution: How enterprises put AI to work",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
+          "recommend_reason_zh": "OpenAI新研究显示，企业AI正从问答转向执行：6月Codex占企业客户输出token的64%，前沿公司人均输出token达典型公司8.3倍，揭示agentic AI落地差异。",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8935,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T06:00:00Z",
+      "latest_at": "2026-08-12T06:00:00Z",
+      "primary_item": {
+        "id": "760b01fd6fce24599e5011d7b6fc5d0faa66258d",
+        "title": "从辅助到执行：企业如何让AI真正干活 / From assistance to execution: How enterprises put AI to work",
+        "title_zh": "从辅助到执行：企业如何让AI真正干活",
+        "title_en": "From assistance to execution: How enterprises put AI to work",
+        "title_original": "From assistance to execution: How enterprises put AI to work",
+        "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nOpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.\nAugust 12, 2026\nTwo new reports show how AI adoption is spr",
+        "recommend_reason_zh": "OpenAI新研究显示，企业AI正从问答转向执行：6月Codex占企业客户输出token的64%，前沿公司人均输出token达典型公司8.3倍，揭示agentic AI落地差异。",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "讲的是落地方法论，没新品没接口，做方案时可参考，但今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -249,15 +334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7602,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "official",
@@ -287,7 +372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -335,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7969,
+        "recency": 0.7763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,92 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
-      }
-    },
-    {
-      "story_id": "story_eddc237df9be",
-      "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_zh": "想到ACE？更少的Token就能搞定",
-          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-          "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_zh": "想到ACE？更少的Token就能搞定",
-          "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T13:37:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.724,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:37:10Z",
-      "latest_at": "2026-08-11T13:37:10Z",
-      "primary_item": {
-        "id": "8e9955ab6df244cfd9efefe5c5327a0a0c049557",
-        "title": "想到ACE？更少的Token就能搞定 / Thinking of ACE? We Can Do It with Fewer Tokens",
-        "title_zh": "想到ACE？更少的Token就能搞定",
-        "title_en": "Thinking of ACE? We Can Do It with Fewer Tokens",
-        "title_original": "Thinking of ACE? We Can Do It with Fewer Tokens",
-        "summary": null,
-        "recommend_reason_zh": "IBM Research对比ACE与ALTK-Evolve两种agent记忆方法：都拒绝压缩经验，但ACE每步注入完整playbook，而ALTK-Evolve用支持计数按需检索，最终token消耗差异显著。",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "研究向的token优化方案，等有可跑代码再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -621,15 +621,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7568,
+        "recency": 0.7372,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -658,7 +658,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -706,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7738,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -743,7 +743,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -791,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,7 +827,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
+      }
+    },
+    {
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "primary_url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": "Meta Superintelligence Labs发布首个开放权重模型Muse Glimmer，已在OpenRouter上线。该30B稠密文本图像模型采用Apache 2.0许可，定位可靠本地agent，MCP Atlas得分75.5，SWE-Bench Pro得分51.2。",
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+          "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+          "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+          "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+          "recommend_reason_zh": "Meta Superintelligence Labs发布首个开放权重模型Muse Glimmer，已在OpenRouter上线。该30B稠密文本图像模型采用Apache 2.0许可，定位可靠本地agent，MCP Atlas得分75.5，SWE-Bench Pro得分51.2。",
+          "url": "https://x.com/OpenRouter/status/2087509478480765218",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T12:00:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9744,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T12:00:18Z",
+      "latest_at": "2026-08-12T12:00:18Z",
+      "primary_item": {
+        "id": "70eab17d09da8c59da57f9d9c3e922bcdc8b41b4",
+        "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_zh": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
+        "title_en": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "title_original": "The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+        "summary": "Meta AI 超级智能实验室的首个开放权重模型 Muse Glimmer 已在 OpenRouter 上线！\n\n这是一款 30B 密集文本+图像模型，采用 Apache 2.0 许可证，旨在成为可靠的本地智能体，MCP Atlas 得分 75.5，SWE-Bench Pro 得分 51.2。\n\nhttps://openrouter.ai/meta/muse-glimmer-30b",
+        "recommend_reason_zh": "Meta Superintelligence Labs发布首个开放权重模型Muse Glimmer，已在OpenRouter上线。该30B稠密文本图像模型采用Apache 2.0许可，定位可靠本地agent，MCP Atlas得分75.5，SWE-Bench Pro得分51.2。",
+        "url": "https://x.com/OpenRouter/status/2087509478480765218",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "Meta 开放权重模型已在 OpenRouter 上线，直接调 API 就能体验，跑任务的可以立刻试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -875,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,7 +995,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -959,15 +1043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7751,
+        "recency": 0.7551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -995,7 +1079,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1043,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7903,
+        "recency": 0.77,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,7 +1163,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1127,21 +1211,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9276,
+        "recency": 0.9036,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T06:46:51Z",
       "latest_at": "2026-08-12T06:46:51Z",
@@ -1163,7 +1246,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1211,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7673,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1246,7 +1329,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1294,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7989,
+        "recency": 0.7783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1331,7 +1414,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1379,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,91 +1497,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
-      }
-    },
-    {
-      "story_id": "story_a04023a0a935",
-      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-      "url": "https://www.aibase.com/news/30287",
-      "primary_url": "https://www.aibase.com/news/30287",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_en": null,
-          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "summary": null,
-          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T10:20:15.663331Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "title_en": null,
-          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-          "summary": null,
-          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
-          "url": "https://www.aibase.com/news/30287",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T10:20:15.663331Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9764,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T10:20:15.663331Z",
-      "latest_at": "2026-08-12T10:20:15.663331Z",
-      "primary_item": {
-        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
-        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "title_en": null,
-        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
-        "summary": null,
-        "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
-        "url": "https://www.aibase.com/news/30287",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "财报不写代码，等具体模型或API开放再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1546,15 +1545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1581,90 +1580,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
-      "story_id": "story_f527ac6baab4",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_a04023a0a935",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-          "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-          "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-          "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-          "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-          "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:00:25Z"
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": null,
+          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7176,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-11T13:00:25Z",
-      "latest_at": "2026-08-11T13:00:25Z",
+      "earliest_at": "2026-08-12T10:20:15.663331Z",
+      "latest_at": "2026-08-12T10:20:15.663331Z",
       "primary_item": {
-        "id": "ce8df83c0bd43a234eae61fd9eee1400bf85850f",
-        "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "title_zh": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-        "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "title_original": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-        "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-        "recommend_reason_zh": "NVIDIA八月庆祝本地AI开源生态，发布Nemotron 3.5 Lightning开源30B MoE模型，token生成快4倍、完成时间快30%，并联合vLLM、Ollama等优化本地部署。",
-        "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_en": null,
+        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "summary": null,
+        "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "本地跑智能体有新选择，但需确认是否开源，能下载就值。",
+      "persona_score": 25,
+      "persona_review": "财报不写代码，等具体模型或API开放再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1712,15 +1712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7265,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1747,90 +1747,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
-      }
-    },
-    {
-      "story_id": "story_2b5700449511",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "source": "Google Cloud：Databases（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Cloud：Databases（RSS）"
-      ],
-      "items": [
-        {
-          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
-          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-          "source": "Google Cloud：Databases（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7493,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:00:00Z",
-      "latest_at": "2026-08-11T16:00:00Z",
-      "primary_item": {
-        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
-        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-        "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
-        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-        "source": "Google Cloud：Databases（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 87,
-      "persona_review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     },
     {
@@ -1878,15 +1795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7832,
+        "recency": 0.763,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1915,7 +1832,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T12:18:46.693507Z"
+        "scored_at": "2026-08-12T14:05:02.828593Z"
+      }
+    },
+    {
+      "story_id": "story_06cb8c904cd7",
+      "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+      "url": "https://www.aibase.com/news/30288",
+      "primary_url": "https://www.aibase.com/news/30288",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
+          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "title_en": null,
+          "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "summary": null,
+          "recommend_reason_zh": "马斯克对 SpaceX 员工演讲称，未来五年公司 99% 价值来自 AI，并预测今年 9 月 AI 收入将超过火箭、飞船与 Starlink 之和。",
+          "url": "https://www.aibase.com/news/30288",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
+          "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "title_en": null,
+          "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+          "summary": null,
+          "recommend_reason_zh": "马斯克对 SpaceX 员工演讲称，未来五年公司 99% 价值来自 AI，并预测今年 9 月 AI 收入将超过火箭、飞船与 Starlink 之和。",
+          "url": "https://www.aibase.com/news/30288",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T10:20:15.663331Z",
+      "latest_at": "2026-08-12T10:20:15.663331Z",
+      "primary_item": {
+        "id": "22da68017c2d73dccb1ee203edcaa0877f672377",
+        "title": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+        "title_zh": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+        "title_en": null,
+        "title_original": "马斯克语出惊人：SpaceX 五年后 99% 的价值来自 AI，火箭反而成了副业",
+        "summary": null,
+        "recommend_reason_zh": "马斯克对 SpaceX 员工演讲称，未来五年公司 99% 价值来自 AI，并预测今年 9 月 AI 收入将超过火箭、飞船与 Starlink 之和。",
+        "url": "https://www.aibase.com/news/30288",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "又是愿景宣言，没有产品出来前对开发者零影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T14:05:02.828593Z"
       }
     }
   ]

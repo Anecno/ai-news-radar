@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T12:18:46.693716Z",
+  "generated_at": "2026-08-12T14:05:16.713356Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_2b5700449511",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "又给老工具贴AI标签，迁移加速了没基准数据，先跑个TPC-H再说。"
+          "score": 68,
+          "review": "开源是真，但'首个'纯粹是自家实验室自封，性能数据呢？"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无独立验证，等实际迁移数据再定论。"
+          "score": 25,
+          "review": "仅推文称开源上线，无代码仓库无评测，待实际跑分验证。"
         },
         "pragmatic": {
-          "score": 87,
-          "review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。"
+          "score": 88,
+          "review": "Meta 开放权重模型已在 OpenRouter 上线，直接调 API 就能体验，跑任务的可以立刻试。"
         }
       }
     }
