@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T00:10:16.131864Z",
+  "generated_at": "2026-08-12T02:57:35.747869Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_2ce1fd385677",
-      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "story_id": "story_2b5700449511",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 48,
-          "review": "1.3B激活参数听着省，怎么不报总参数？开源链接和基准呢？"
+          "score": 45,
+          "review": "又给老工具贴AI标签，迁移加速了没基准数据，先跑个TPC-H再说。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只看到公众号宣称开源，无代码无benchmark，无法验证。"
+          "score": 45,
+          "review": "官方博客有细节但无独立验证，等实际迁移数据再定论。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "开源可 clone，1.3B 参数直接跑真实任务，低资源场景今天就能试。"
+          "score": 87,
+          "review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。"
         }
       }
     }
