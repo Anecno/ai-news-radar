@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:11:02.958691Z",
+  "generated_at": "2026-08-12T17:13:21.103505Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8604,
-      "importance": 0.8604,
-      "importance_score": 0.8604,
+      "score": 0.8579,
+      "importance": 0.8579,
+      "importance_score": 0.8579,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9692,
+        "recency": 0.9547,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9694,
+        "recency": 0.955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
+      }
+    },
+    {
+      "story_id": "story_c2d4ddb5d531",
+      "title": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "primary_url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_zh": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
+          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
+          "recommend_reason_zh": "Ai2发布OlmoEarth embeddings，用户可从OlmoEarth Studio按需导出int8格式的embedding向量，用于相似性搜索、变化检测等任务；基于季节性Sentinel-2影像的1.1M样本展示了15个聚类结构。",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+          "title": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_zh": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
+          "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
+          "recommend_reason_zh": "Ai2发布OlmoEarth embeddings，用户可从OlmoEarth Studio按需导出int8格式的embedding向量，用于相似性搜索、变化检测等任务；基于季节性Sentinel-2影像的1.1M样本展示了15个聚类结构。",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T16:14:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.986,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T16:14:36Z",
+      "latest_at": "2026-08-12T16:14:36Z",
+      "primary_item": {
+        "id": "c040381a7f8f8b0de575ea54affbbfc6e27eda2d",
+        "title": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "title_zh": "推出 OlmoEarth embeddings：从 OlmoEarth Studio 导出自定义嵌入，用于下游分析",
+        "title_en": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "title_original": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nComputing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape Change detection: Spotting what shifted Unsupervised exploration: Seeing what the model sees From export to insight Going further: fine-tuning Limitations 📄 Tech Report: https://allenai.org/papers/olmoearth | 📊 Documentation: https://docs.olmoearth.allenai.org/embedd",
+        "recommend_reason_zh": "Ai2发布OlmoEarth embeddings，用户可从OlmoEarth Studio按需导出int8格式的embedding向量，用于相似性搜索、变化检测等任务；基于季节性Sentinel-2影像的1.1M样本展示了15个聚类结构。",
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "搞遥感数据下游任务的可以直接用，导出嵌入省不少事。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -305,15 +390,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 0.8466,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -342,7 +427,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -390,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8632,
+        "recency": 0.8504,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,122 +512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
-      }
-    },
-    {
-      "story_id": "story_5d259fa5549c",
-      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "summary": null,
-          "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T17:00:00Z"
-        },
-        {
-          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_original": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-          "recommend_reason_zh": "Google研究推出AMIE，基于Gemini与Project Astra，在模拟随机研究中首次实现专家级实时视频临床咨询，患者演员更偏好视频而非文字聊天。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "summary": null,
-          "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T17:00:00Z"
-        },
-        {
-          "id": "ed80cc76f03944ad704e39a7ee20e3275fa1411c",
-          "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-          "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "title_original": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-          "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-          "recommend_reason_zh": "Google研究推出AMIE，基于Gemini与Project Astra，在模拟随机研究中首次实现专家级实时视频临床咨询，患者演员更偏好视频而非文字聊天。",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7155,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T17:00:00Z",
-      "latest_at": "2026-08-11T17:00:00Z",
-      "primary_item": {
-        "id": "75b03ab3d29079ef7777ecfe34d715fd124b0e6f",
-        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "title_zh": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-        "title_en": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "title_original": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "summary": null,
-        "recommend_reason_zh": "Google联合DeepMind推出研究医疗AI系统AMIE，基于Gemini与Project Astra多智能体架构，首次实现实时临床视频问诊，随机研究中医生评估其病史采集、诊断准确性优于文本问诊。",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "研究演示还没开放，做医疗AI的可以观察后续是否出API或论文。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -590,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.75,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -675,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7283,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,7 +682,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
+      }
+    },
+    {
+      "story_id": "story_dc9722a7a353",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "primary_url": "https://www.ithome.com/0/989/001.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "title_zh": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "title_en": null,
+          "title_original": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
+          "recommend_reason_zh": "阿里首次开源Qwen-Max级Qwen3.8-2.4T-A95B权重：总参数2.4T、激活95B，原生256K上下文，可扩展至101万Token；与Opus 4.8等对比互有高低，在PaperBench、IFBench基准测试中取得较高成绩。",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+          "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "title_zh": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "title_en": null,
+          "title_original": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+          "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
+          "recommend_reason_zh": "阿里首次开源Qwen-Max级Qwen3.8-2.4T-A95B权重：总参数2.4T、激活95B，原生256K上下文，可扩展至101万Token；与Opus 4.8等对比互有高低，在PaperBench、IFBench基准测试中取得较高成绩。",
+          "url": "https://www.ithome.com/0/989/001.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:10:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T16:10:01Z",
+      "latest_at": "2026-08-12T16:10:01Z",
+      "primary_item": {
+        "id": "6ac7ca081eff008390b2045aa33b5cf28a8d2efc",
+        "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "title_zh": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "title_en": null,
+        "title_original": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+        "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
+        "recommend_reason_zh": "阿里首次开源Qwen-Max级Qwen3.8-2.4T-A95B权重：总参数2.4T、激活95B，原生256K上下文，可扩展至101万Token；与Opus 4.8等对比互有高低，在PaperBench、IFBench基准测试中取得较高成绩。",
+        "url": "https://www.ithome.com/0/989/001.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "权重已开放，2.4T MoE 能跑，长上下文需求今天就能上手试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -760,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7354,
+        "recency": 0.7244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -796,7 +850,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -844,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9414,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,7 +934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -928,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,7 +1018,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1012,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7295,
+        "recency": 0.7187,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1048,7 +1102,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
+      }
+    },
+    {
+      "story_id": "story_d8350f7d8fde",
+      "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "primary_url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "recommend_reason_zh": "从零打造的推理模型MAI-Thinking-1上线Microsoft Foundry，这是团队首个自研推理模型，正文虽短但点明核心进展，值得关注其后续技术细节。",
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:00:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+          "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+          "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+          "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+          "recommend_reason_zh": "从零打造的推理模型MAI-Thinking-1上线Microsoft Foundry，这是团队首个自研推理模型，正文虽短但点明核心进展，值得关注其后续技术细节。",
+          "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T16:00:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T16:00:59Z",
+      "latest_at": "2026-08-12T16:00:59Z",
+      "primary_item": {
+        "id": "1040d8dba308ac1dd323841a048cd390f23de6bb",
+        "title": "微软首发自研推理模型MAI-Thinking-1 / Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "title_zh": "微软首发自研推理模型MAI-Thinking-1",
+        "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "title_original": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+        "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+        "recommend_reason_zh": "从零打造的推理模型MAI-Thinking-1上线Microsoft Foundry，这是团队首个自研推理模型，正文虽短但点明核心进展，值得关注其后续技术细节。",
+        "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 80,
+      "persona_review": "首个自研推理模型已上 Foundry，先跑个测试再谈替换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1096,15 +1233,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7439,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,90 +1268,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
-      }
-    },
-    {
-      "story_id": "story_47e0b6570ca0",
-      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-      "url": "https://www.ithome.com/0/988/766.htm",
-      "primary_url": "https://www.ithome.com/0/988/766.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_en": null,
-          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-          "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "title_en": null,
-          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-          "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
-          "url": "https://www.ithome.com/0/988/766.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T06:46:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.873,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T06:46:51Z",
-      "latest_at": "2026-08-12T06:46:51Z",
-      "primary_item": {
-        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
-        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "title_en": null,
-        "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-        "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-        "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
-        "url": "https://www.ithome.com/0/988/766.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "视频生成快到离谱，ComfyUI 原生集成，今天就能跑工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1262,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7222,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1351,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1345,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7519,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1382,90 +1436,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
-      }
-    },
-    {
-      "story_id": "story_d2ab71462f26",
-      "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-      "url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "primary_url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-          "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
-          "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2087222656819241292",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-          "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
-          "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-          "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2087222656819241292",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T17:00:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T17:00:34Z",
-      "latest_at": "2026-08-11T17:00:34Z",
-      "primary_item": {
-        "id": "6b3d2c7aa4ce095c39f5bef0e3bd8a8b80dfb7a4",
-        "title": "Gemini月活破10亿，成谷歌增长最快产品 / 1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-        "title_zh": "Gemini月活破10亿，成谷歌增长最快产品",
-        "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-        "title_original": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-        "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sundarpichai/status/2087222656819241292",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "用户量大说明生态稳了，但今天没有新接口可薅，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1513,15 +1484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9554,
+        "recency": 0.9411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,7 +1519,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1596,15 +1567,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1631,7 +1602,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
@@ -1679,15 +1650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 0.9054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1715,120 +1686,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     },
     {
-      "story_id": "story_4aeed2d5acdd",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "primary_url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_47e0b6570ca0",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "primary_url": "https://www.ithome.com/0/988/766.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
           "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-          "recommend_reason_zh": "在 macOS 虚拟机上，Cua 的兼容层让 llama.cpp 解锁新版 Metal 内核，M1 Ultra 上 TinyLlama 1.1B 提示处理提速 11.08 倍，生成提速 16.36 倍，并附完整复现方法。",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+          "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "summary": null,
-          "recommend_reason_zh": "在 Apple Silicon 的 macOS 虚拟机中，借助 Llama.cpp 的兼容层，TinyLlama 1.1B 推理提速最高达 16.36 倍，Gemma 4 12B 与 Muse Glimmer 30B 也分别获得 14.54 倍和 8.87 倍的生成加速。",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+          "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+          "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
           "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-          "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-          "recommend_reason_zh": "在 macOS 虚拟机上，Cua 的兼容层让 llama.cpp 解锁新版 Metal 内核，M1 Ultra 上 TinyLlama 1.1B 提示处理提速 11.08 倍，生成提速 16.36 倍，并附完整复现方法。",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+          "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+          "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
+          "url": "https://www.ithome.com/0/988/766.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T16:41:17.281000Z"
-        },
-        {
-          "id": "4b2102e403d9dec5881249532877b86614b3ef6f",
-          "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "title_en": null,
-          "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11–16 倍的 LLM 推理加速",
-          "summary": null,
-          "recommend_reason_zh": "在 Apple Silicon 的 macOS 虚拟机中，借助 Llama.cpp 的兼容层，TinyLlama 1.1B 推理提速最高达 16.36 倍，Gemma 4 12B 与 Muse Glimmer 30B 也分别获得 14.54 倍和 8.87 倍的生成加速。",
-          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T16:41:17.281000Z"
+          "published_at": "2026-08-12T06:46:51Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7123,
-        "story_heat": 0.25
+        "recency": 0.86,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-11T16:41:17.281000Z",
-      "latest_at": "2026-08-11T16:41:17.281000Z",
+      "earliest_at": "2026-08-12T06:46:51Z",
+      "latest_at": "2026-08-12T06:46:51Z",
       "primary_item": {
-        "id": "36fd102d8ae2dbc2c3574f27cb5aad651b1af213",
-        "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "title_zh": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+        "id": "533681e8a43ff685799fe6f21dfee45795c99acb",
+        "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "title_zh": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
         "title_en": null,
-        "title_original": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-        "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-        "recommend_reason_zh": "在 macOS 虚拟机上，Cua 的兼容层让 llama.cpp 解锁新版 Metal 内核，M1 Ultra 上 TinyLlama 1.1B 提示处理提速 11.08 倍，生成提速 16.36 倍，并附完整复现方法。",
-        "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "title_original": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+        "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+        "recommend_reason_zh": "LTX昨日正式发布LTX-2.5模型，原生集成ComfyUI，在2张GB200配置下生成10秒720P视频仅需6.8秒，每秒成本0.09美元，ARR低于1000万美元的组织可免费使用。",
+        "url": "https://www.ithome.com/0/988/766.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "方案可直接抄，跑本地大模型提速明显，但要折腾 GPU 直通配置。",
+      "persona_score": 80,
+      "persona_review": "视频生成快到离谱，ComfyUI 原生集成，今天就能跑工作流。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T16:31:33.490880Z"
+        "scored_at": "2026-08-12T17:34:20.419896Z"
       }
     }
   ]
