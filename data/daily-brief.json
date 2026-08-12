@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:39:39.214680Z",
+  "generated_at": "2026-08-12T10:20:15.663331Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.958,
+        "recency": 0.9351,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -249,15 +249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7976,
+        "recency": 0.7785,
         "story_heat": 0.25
       },
       "category": "official",
@@ -287,7 +287,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -335,15 +335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8361,
+        "recency": 0.8161,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,7 +372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -420,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7596,
+        "recency": 0.7414,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,92 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
-      }
-    },
-    {
-      "story_id": "story_2bcee1a44f59",
-      "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "primary_url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-          "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
-          "title_zh": "在ChatGPT中测试广告",
-          "title_en": "Testing ads in ChatGPT",
-          "title_original": "Testing ads in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-          "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
-          "title_zh": "在ChatGPT中测试广告",
-          "title_en": "Testing ads in ChatGPT",
-          "title_original": "Testing ads in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
-          "url": "https://openai.com/index/testing-ads-in-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7209,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T10:00:00Z",
-      "latest_at": "2026-08-11T10:00:00Z",
-      "primary_item": {
-        "id": "bff09776f6a4a485c64618ff02980e25de8a0ea6",
-        "title": "在ChatGPT中测试广告 / Testing ads in ChatGPT",
-        "title_zh": "在ChatGPT中测试广告",
-        "title_en": "Testing ads in ChatGPT",
-        "title_original": "Testing ads in ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI在ChatGPT测试广告，美国率先试点，后扩至英国、墨西哥等五国，承诺广告不影响回答独立性，且Plus、Pro等付费层无广告。",
-        "url": "https://openai.com/index/testing-ads-in-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "广告测试不影响API，但免费版体验要变，留意后续官方细则。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -706,15 +621,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.794,
+        "recency": 0.775,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -743,7 +658,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -791,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8119,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,7 +743,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -876,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8198,
+        "recency": 0.8002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -912,115 +827,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
-      "story_id": "story_761a27a82638",
-      "title": "Daybreak 模型现已登陆 AWS / Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "primary_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "541271c740829eb3d8c31048162316b10ac424bf",
-          "title": "Daybreak 模型现已登陆 AWS / Daybreak models are now available on AWS",
-          "title_zh": "Daybreak 模型现已登陆 AWS",
-          "title_en": "Daybreak models are now available on AWS",
-          "title_original": "Daybreak models are now available on AWS",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AWS合作，将Daybreak Red和Blue两款前沿网络模型接入Amazon Bedrock，支持漏洞研究、检测工程与事件响应，企业可在现有AWS环境中经bedrock-mantle端点调用。",
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "541271c740829eb3d8c31048162316b10ac424bf",
-          "title": "Daybreak 模型现已登陆 AWS / Daybreak models are now available on AWS",
-          "title_zh": "Daybreak 模型现已登陆 AWS",
-          "title_en": "Daybreak models are now available on AWS",
-          "title_original": "Daybreak models are now available on AWS",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AWS合作，将Daybreak Red和Blue两款前沿网络模型接入Amazon Bedrock，支持漏洞研究、检测工程与事件响应，企业可在现有AWS环境中经bedrock-mantle端点调用。",
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7209,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T10:00:00Z",
-      "latest_at": "2026-08-11T10:00:00Z",
-      "primary_item": {
-        "id": "541271c740829eb3d8c31048162316b10ac424bf",
-        "title": "Daybreak 模型现已登陆 AWS / Daybreak models are now available on AWS",
-        "title_zh": "Daybreak 模型现已登陆 AWS",
-        "title_en": "Daybreak models are now available on AWS",
-        "title_original": "Daybreak models are now available on AWS",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与AWS合作，将Daybreak Red和Blue两款前沿网络模型接入Amazon Bedrock，支持漏洞研究、检测工程与事件响应，企业可在现有AWS环境中经bedrock-mantle端点调用。",
-        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "AWS 用户可直接调用，省去自建部署，适合现有云工作流团队。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
-      }
-    },
-    {
-      "story_id": "story_17d6705d1084",
-      "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-      "url": "https://www.aibase.com/news/30276",
-      "primary_url": "https://www.aibase.com/news/30276",
+      "story_id": "story_ad70cc461272",
+      "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+      "url": "https://www.aibase.com/news/30289",
+      "primary_url": "https://www.aibase.com/news/30289",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": "Beijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek注册Harness团队公众号，首次为该业务线设立官方沟通渠道；5月组建Cui Tianyi领导的专职团队，开放研究员、工程师、产品经理三岗，预示着通用Agent产品发布在即。",
-          "url": "https://www.aibase.com/news/30276",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:39:39.214680Z"
+          "published_at": "2026-08-12T10:20:15.663331Z"
         }
       ],
       "source_count": 1,
@@ -1029,18 +859,18 @@
       ],
       "items": [
         {
-          "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-          "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+          "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+          "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
           "title_en": null,
-          "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-          "summary": "Beijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek注册Harness团队公众号，首次为该业务线设立官方沟通渠道；5月组建Cui Tianyi领导的专职团队，开放研究员、工程师、产品经理三岗，预示着通用Agent产品发布在即。",
-          "url": "https://www.aibase.com/news/30276",
+          "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+          "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30289",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-12T08:39:39.214680Z"
+          "published_at": "2026-08-12T10:20:15.663331Z"
         }
       ],
       "item_count": 1,
@@ -1061,27 +891,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T08:39:39.214680Z",
-      "latest_at": "2026-08-12T08:39:39.214680Z",
+      "earliest_at": "2026-08-12T10:20:15.663331Z",
+      "latest_at": "2026-08-12T10:20:15.663331Z",
       "primary_item": {
-        "id": "19885d82860a200a6c11b27212173a78ac3ba013",
-        "title": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "title_zh": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
+        "id": "3bb1e69138c01d99d96b6dcbfd088337c02df5bc",
+        "title": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "title_zh": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
         "title_en": null,
-        "title_original": "DeepSeek单独注册Harness团队官方公众号 通用Agent产品发布在即",
-        "summary": "Beijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nBeijing DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. has recently registered the official WeChat public account \"DeepSeek Harness Team\",\nExplore AI Fronti",
-        "recommend_reason_zh": "DeepSeek注册Harness团队公众号，首次为该业务线设立官方沟通渠道；5月组建Cui Tianyi领导的专职团队，开放研究员、工程师、产品经理三岗，预示着通用Agent产品发布在即。",
-        "url": "https://www.aibase.com/news/30276",
+        "title_original": "腾讯AI全线推进:Hy4近期发布，WorkBuddy持续领跑，小微扩大灰测",
+        "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter financial results, with AI serving as the core theme throughout the quarter: from completi\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30289",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "产品未落地，注册公众号只是预热，等发布再评估。",
+      "persona_score": 55,
+      "persona_review": "三个产品信息密度低，无接口细节，观望即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1129,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8132,
+        "recency": 0.7938,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1165,7 +995,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1213,15 +1043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,7 +1079,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1297,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9732,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,7 +1163,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1381,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 0.7858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1417,7 +1247,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1465,15 +1295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8382,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1502,7 +1332,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1550,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7977,
+        "recency": 0.7786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1585,7 +1415,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
+      }
+    },
+    {
+      "story_id": "story_a04023a0a935",
+      "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+      "url": "https://www.aibase.com/news/30287",
+      "primary_url": "https://www.aibase.com/news/30287",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nExplore AI Fronti",
+          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+          "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "title_en": null,
+          "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+          "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nExplore AI Fronti",
+          "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+          "url": "https://www.aibase.com/news/30287",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-12T10:20:15.663331Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T10:20:15.663331Z",
+      "latest_at": "2026-08-12T10:20:15.663331Z",
+      "primary_item": {
+        "id": "9efd09627cdd7e8c01b96003850d75afecfb9958",
+        "title": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_zh": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "title_en": null,
+        "title_original": "腾讯发布二季报:模型、AI产品双线突破，继续加码AI投入",
+        "summary": "On August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nOn August 12, Tencent Holdings (00700.HK) released its second-quarter report: Hy3 of the Hunyuan series completed a rapid iteration from preview to the official\nExplore AI Fronti",
+        "recommend_reason_zh": "腾讯二季报：Hunyuan Hy3上线一周调用量达上代68倍，更大参数Hy4将发布；WorkBuddy六月PC端访问超2000万，微信助手Xiaowei测试中，游戏收入增11%。",
+        "url": "https://www.aibase.com/news/30287",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "财报不写代码，等具体模型或API开放再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1633,15 +1547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8841,
+        "recency": 0.863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1668,91 +1582,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
-      }
-    },
-    {
-      "story_id": "story_a9f021589299",
-      "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-      "url": "https://www.aibase.com/news/30278",
-      "primary_url": "https://www.aibase.com/news/30278",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-          "recommend_reason_zh": "Gemma4系列发布后全球下载量突破3亿，这一里程碑在Google I/O Shanghai公布；该模型主打高级推理与agentic workflows，开发者 adoption 速度惊人。",
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:39:39.214680Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-          "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "title_en": null,
-          "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-          "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-          "recommend_reason_zh": "Gemma4系列发布后全球下载量突破3亿，这一里程碑在Google I/O Shanghai公布；该模型主打高级推理与agentic workflows，开发者 adoption 速度惊人。",
-          "url": "https://www.aibase.com/news/30278",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:39:39.214680Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T08:39:39.214680Z",
-      "latest_at": "2026-08-12T08:39:39.214680Z",
-      "primary_item": {
-        "id": "dba2b0527fb9ce380fe2841d23a5c668b28d0e87",
-        "title": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_zh": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "title_en": null,
-        "title_original": "Google Gemma 4全球下载量狂飙突破3亿，AI新纪元已经全面爆发！",
-        "summary": "According to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nAccording to the latest news, the global downloads of Google Gemma4 series models have officially exceeded 300 million. This milestone was announced during Goog\nExplore AI Fronti",
-        "recommend_reason_zh": "Gemma4系列发布后全球下载量突破3亿，这一里程碑在Google I/O Shanghai公布；该模型主打高级推理与agentic workflows，开发者 adoption 速度惊人。",
-        "url": "https://www.aibase.com/news/30278",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "下载量是生态背书，不代表你有新东西可用，不用为此改选型。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1800,15 +1630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7319,
+      "importance": 0.7319,
+      "importance_score": 0.7319,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7529,
+        "recency": 0.7349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1835,7 +1665,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     },
     {
@@ -1883,15 +1713,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7623,
+        "recency": 0.744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1918,7 +1748,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-12T09:01:13.320232Z"
+        "scored_at": "2026-08-12T10:39:22.452119Z"
+      }
+    },
+    {
+      "story_id": "story_2b5700449511",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "primary_url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+          "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+          "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+          "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+          "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+          "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7674,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T16:00:00Z",
+      "latest_at": "2026-08-11T16:00:00Z",
+      "primary_item": {
+        "id": "db6f1ef40af01b8b8dba0ed032a5cd4df9c74394",
+        "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移 / Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_zh": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+        "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "title_original": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+        "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+        "recommend_reason_zh": "Gemini in Database Migration Service自动将Oracle或SQL Server的存储过程转为PostgreSQL PL/pgSQL，解决数百个存储过程迁移耗时数月的瓶颈，并在控制台并排展示原代码与转换结果供实时校验。",
+        "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+        "source": "Google Cloud：Databases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 87,
+      "persona_review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T10:39:22.452119Z"
+      }
+    },
+    {
+      "story_id": "story_fc6202e68e51",
+      "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_en": null,
+          "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:15:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+          "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "title_en": null,
+          "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+          "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T14:15:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7482,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-11T14:15:07Z",
+      "latest_at": "2026-08-11T14:15:07Z",
+      "primary_item": {
+        "id": "e0037c6da88c5465caeb47927f1f7f298ffc49a9",
+        "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "title_zh": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "title_en": null,
+        "title_original": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+        "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "跨会话传消息能减少重复上下文，长期多步任务可参考，但需实测适配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-12T10:39:22.452119Z"
       }
     }
   ]
