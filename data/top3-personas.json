@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:25:23.534811Z",
+  "generated_at": "2026-08-12T19:48:43.720633Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_c246dedc40ae",
-      "title": "GitHub Copilot 现已支持 MAI-Code-1.1-Flash / MAI-Code-1.1-Flash available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "换了个模型名就发 changelog，性能对比和实际体验呢？"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方公告但无技术细节和评测，仅称可用，缺论文和独立验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "Copilot 集成新模型，写代码可立即切换体验，效率党直接上手。"
-        }
-      }
-    },
-    {
       "story_id": "story_3479a70ad230",
       "title": "LFM2.5-VL-3B：为边缘端带来更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "3B小模型开源可跑边缘端，视觉任务今天就能试，省部署成本。"
+        }
+      }
+    },
+    {
+      "story_id": "story_208a14008235",
+      "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter / The first open-weights model from @AIatMeta Superintelligence Labs， Muse Glimmer is live on OpenRout…",
+      "url": "https://x.com/OpenRouter/status/2087509478480765218",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 68,
+          "review": "开源是真，但'首个'纯粹是自家实验室自封，性能数据呢？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅推文称开源上线，无代码仓库无评测，待实际跑分验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "Meta 开放权重模型已在 OpenRouter 上线，直接调 API 就能体验，跑任务的可以立刻试。"
         }
       }
     }
