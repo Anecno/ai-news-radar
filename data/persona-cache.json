@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_b7a2b487977e|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接集成到Diffusers，可立即使用4位量化加速扩散模型，省显存提速度。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:44:56.303281Z"
-    },
-    "story_1022d965cfc1|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "API多一个模型选项，集成前先确认开放时间和定价。",
-      "title_hash": "b662576c",
-      "scored_at": "2026-07-23T09:44:58.642562Z"
-    },
-    "story_b7a2b487977e|cynic|f4237a62": {
-      "score": 75,
-      "review": "4位量化省显存，但画质缩水多少？官方没提，等用户自己试。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:45:02.223614Z"
-    },
-    "story_b7a2b487977e|paper-police|966065bf": {
-      "score": 70,
-      "review": "代码在Diffusers开源，但缺独立论文与benchmark复现。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:45:09.898130Z"
-    },
     "story_389dbf0b1f6b|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "端侧部署示范，但未开放API，开发者暂时用不上，等SDK。",
@@ -5178,6 +5154,42 @@
       "review": "升级公告无评测数据，未见模型细节与代码，等第三方验证。",
       "title_hash": "3b376214",
       "scored_at": "2026-08-13T09:09:26.997124Z"
+    },
+    "story_cab5ba4e8224|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源 TTS 可直接 clone 跑推理，做语音合成的今天就能上手试。",
+      "title_hash": "b26c93b5",
+      "scored_at": "2026-08-13T10:46:42.542041Z"
+    },
+    "story_9fd2d6d4a7de|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "直接换，便宜六成性能不输，跑量任务立省成本。",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:46:44.625078Z"
+    },
+    "story_fe80c6938485|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "小版本更新，功能局限在其产品内，非通用工具，看看就好。",
+      "title_hash": "bf2e7271",
+      "scored_at": "2026-08-13T10:46:48.054593Z"
+    },
+    "story_f803e81923df|pragmatic|0a5c5b24": {
+      "score": 48,
+      "review": "模型延期影响排期，但没给你可用的东西，观望即可。",
+      "title_hash": "b6789663",
+      "scored_at": "2026-08-13T10:46:50.136637Z"
+    },
+    "story_9fd2d6d4a7de|cynic|f4237a62": {
+      "score": 22,
+      "review": "性价比榜谁排的？智能指数敢晒测试集吗？便宜一半先发货再说。",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:46:52.353077Z"
+    },
+    "story_9fd2d6d4a7de|paper-police|966065bf": {
+      "score": 8,
+      "review": "只有媒体宣称，无论文无代码无评测报告，性价比榜是谁排的？",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:46:54.054835Z"
     }
   }
 }
