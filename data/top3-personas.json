@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:00:24.666894Z",
+  "generated_at": "2026-08-13T09:09:26.997182Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_3479a70ad230",
-      "title": "LFM2.5-VL-3B：为边缘端带来更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "story_id": "story_2ee15bae6450",
+      "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+      "url": "https://www.aibase.com/news/30316",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "3B模型谈'更好'，先把对比基准和功耗数据晒出来。"
+          "score": 35,
+          "review": "全系升级却只字不提性能数据，Pro版本是加了个字母就完事？"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了模型细节和评测数字，但未见开源代码与第三方验证，复现存疑。"
+          "score": 25,
+          "review": "升级公告无评测数据，未见模型细节与代码，等第三方验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "3B小模型开源可跑边缘端，视觉任务今天就能试，省部署成本。"
+          "score": 90,
+          "review": "编码助手直接换新模型，今天就能上手试，效率提升看得见。"
         }
       }
     }
