@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_4f34c54c72e5|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "健康功能已上线，可体验，但合规风险高，对开发影响一般。",
-      "title_hash": "40ddd557",
-      "scored_at": "2026-07-23T18:46:13.516925Z"
-    },
-    "story_b17e627022e6|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "关注API定价，若低于竞品，直接替换可降本。",
-      "title_hash": "192981fe",
-      "scored_at": "2026-07-23T18:46:16.533953Z"
-    },
-    "story_79c2ff005240|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "安全漏洞得跟进补丁，检查自己的Agent是否受影响。",
-      "title_hash": "d28d31bf",
-      "scored_at": "2026-07-23T18:46:18.891041Z"
-    },
-    "story_79be99194271|pragmatic|0a5c5b24": {
-      "score": 10,
-      "review": "公关新闻，对写代码没有用。",
-      "title_hash": "f8cbf2e0",
-      "scored_at": "2026-07-23T18:46:20.774107Z"
-    },
-    "story_b17e627022e6|cynic|f4237a62": {
-      "score": 30,
-      "review": "成本低多少？基线选的是自家旧模型还是别人巅峰？等第三方跑分。",
-      "title_hash": "192981fe",
-      "scored_at": "2026-07-23T18:46:23.596743Z"
-    },
-    "story_b17e627022e6|paper-police|966065bf": {
-      "score": 8,
-      "review": "CEO发帖无论文无代码无评测，成本效率无从验证。",
-      "title_hash": "192981fe",
-      "scored_at": "2026-07-23T18:46:25.390038Z"
-    },
     "story_11ed83f3e906|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "手机端直接修 Actions，省了开电脑，有 Copilot 的团队今天就能试。",
@@ -5232,6 +5196,24 @@
       "review": "官方博客宣称性能，无论文无代码无第三方评测，缺铁证。",
       "title_hash": "79e11ae9",
       "scored_at": "2026-08-13T18:25:18.146898Z"
+    },
+    "story_3fd84efeedff|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "官方降本指南，做Agent的今天就能照着调参省成本。",
+      "title_hash": "28a4c631",
+      "scored_at": "2026-08-13T19:39:52.528942Z"
+    },
+    "story_4b3de57e13b8|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "官方更新日志，先看有没有破坏性变更，再决定升不升。",
+      "title_hash": "e7551546",
+      "scored_at": "2026-08-13T19:40:09.836792Z"
+    },
+    "story_e73e55e5b18e|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "云智能体启动快3倍，跑CI或批量任务能省时间，值得升级。",
+      "title_hash": "3879796d",
+      "scored_at": "2026-08-13T19:40:12.269119Z"
     }
   }
 }
