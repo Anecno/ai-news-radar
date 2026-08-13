@@ -1,18 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_389dbf0b1f6b|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "端侧部署示范，但未开放API，开发者暂时用不上，等SDK。",
-      "title_hash": "8a3eeab0",
-      "scored_at": "2026-07-23T12:10:19.105866Z"
-    },
-    "story_395bc92ba522|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "观点虽好，今天没代码可写，等模型出来再看。",
-      "title_hash": "e599ad76",
-      "scored_at": "2026-07-23T12:10:21.300592Z"
-    },
     "story_2d16f31e4c0e|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "官司看戏就好，没代码可抄，没工具能用。",
@@ -5190,6 +5178,24 @@
       "review": "只有媒体宣称，无论文无代码无评测报告，性价比榜是谁排的？",
       "title_hash": "f6ffb3b6",
       "scored_at": "2026-08-13T10:46:54.054835Z"
+    },
+    "story_804890f5e6d9|pragmatic|0a5c5b24": {
+      "score": 92,
+      "review": "新模型已上线，Agent任务今天就能升级调用，先测兼容性再切流量。",
+      "title_hash": "6813aabb",
+      "scored_at": "2026-08-13T12:19:26.501128Z"
+    },
+    "story_804890f5e6d9|cynic|f4237a62": {
+      "score": 60,
+      "review": "“大幅增强”有多大幅？给个可复现的基准，别只发更新日志。",
+      "title_hash": "6813aabb",
+      "scored_at": "2026-08-13T12:19:30.885665Z"
+    },
+    "story_804890f5e6d9|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方更新日志称 Agent 增强，无论文无代码无跑分，待实测验证。",
+      "title_hash": "6813aabb",
+      "scored_at": "2026-08-13T12:19:35.662279Z"
     }
   }
 }
