@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:20:28.435531Z",
+  "generated_at": "2026-08-14T17:28:24.784746Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_230b99496aae",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "跑分领先是真的，但'最强'这词在自家测试里当然是第一，第三方见了再说。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称性能，无论文无代码无第三方评测，缺铁证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "新模型已上线，编程和智能体场景直接试用，API 可接入。"
-        }
-      }
-    },
-    {
       "story_id": "story_a55195371b1b",
       "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
       "url": "https://www.aibase.com/news/30358",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 42,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "新模型已上线，百万上下文+缓存低价，长文本任务可直接上手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5634b0a754f6",
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "280B敢叫轻量，先把推理成本压下来再谈长程智能。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方号宣称开源280B模型，但无代码无论文无评测链接，无法核实。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源就能拉下来试，长程智能体和多模态推理的基准可以自己跑一遍。"
         }
       }
     }
