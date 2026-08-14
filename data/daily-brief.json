@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:57:30.812287Z",
+  "generated_at": "2026-08-14T20:45:53.602849Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9485,
+        "recency": 0.9375,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
+      }
+    },
+    {
+      "story_id": "story_b8125cc46db3",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "Claude 文本水印的工作原理 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印的工作原理",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": "For some reason I had assumed testing this would be more sophisticated than just checking the thumbs up/down stats and user \"vibes\"\nreply\nreply\nRetest on benchmarks whether it accomplishes tasks with the same success rates. Prose is only one thing. Messing with the randomness may make the problem solving capabilities weaker. Probably it doesn't but this is the answer to what else I would want them to do.\nMessing with the randomness may make the problem solving capabilities weaker. Probably it do",
+          "recommend_reason_zh": "这篇解读Claude文本水印原理：用密钥和前置词替换随机数源来标记输出，不改变任务成功率，并讨论EU法规对检测的支持及用户对误报率的担忧。",
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:46:13.974000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
+          "title": "Claude 文本水印的工作原理 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印的工作原理",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": "For some reason I had assumed testing this would be more sophisticated than just checking the thumbs up/down stats and user \"vibes\"\nreply\nreply\nRetest on benchmarks whether it accomplishes tasks with the same success rates. Prose is only one thing. Messing with the randomness may make the problem solving capabilities weaker. Probably it doesn't but this is the answer to what else I would want them to do.\nMessing with the randomness may make the problem solving capabilities weaker. Probably it do",
+          "recommend_reason_zh": "这篇解读Claude文本水印原理：用密钥和前置词替换随机数源来标记输出，不改变任务成功率，并讨论EU法规对检测的支持及用户对误报率的担忧。",
+          "url": "https://news.ycombinator.com/item?id=49303350",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T20:46:13.974000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": null,
+          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9802,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T20:46:13.974000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+        "title_zh": "Claude 文本水印机制如何运作",
+        "title_en": "How Claude's text watermark works",
+        "title_original": "How Claude's text watermark works",
+        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "水印机制原理说明，暂无 API 可调用，写检测工具的人可先读。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -162,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7496,
+        "recency": 0.7409,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -248,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9444,
+        "recency": 0.9335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,121 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
-      }
-    },
-    {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\nFuture Claude models will generate te",
-          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermark works",
-          "title_original": "How Claude's text watermark works",
-          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
-        },
-        {
-          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "title_zh": "Claude 文本水印机制如何运作",
-          "title_en": "How Claude's text watermarking works",
-          "title_original": "How Claude's text watermarking works",
-          "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\nFuture Claude models will generate te",
-          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-14T19:15:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9917,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T19:22:48.546000Z",
-      "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-        "title_zh": "Claude 文本水印机制如何运作",
-        "title_en": "How Claude's text watermark works",
-        "title_original": "How Claude's text watermark works",
-        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-        "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "水印机制原理说明，暂无 API 可调用，写检测工具的人可先读。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -447,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7858,
+        "recency": 0.7767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,7 +513,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -532,15 +561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8841,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -616,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9236,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,7 +681,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -700,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +765,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -813,15 +842,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.8811,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -850,7 +879,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -898,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9315,
+        "recency": 0.9207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -934,7 +963,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -982,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,7 +1046,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1065,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,7 +1129,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1148,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8118,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1183,7 +1212,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1260,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7225,
+        "recency": 0.7141,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1296,7 +1325,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1344,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1408,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1427,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1462,7 +1491,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1510,15 +1539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,7 +1574,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1576,7 +1605,7 @@
           "title_zh": "Google 将允许用户从 AI 内容中移除可见水印",
           "title_en": "Google will now allow users to remove visible watermarks from AI content",
           "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": "The invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nGoogle VP Josh Woodward just announced that users will be able to remove visible watermarks from AI-generated images and videos. A toggle will soon be available for the Nano Banana, Omni and Lyria models, which all use the familiar sparkle icon to denote AI. It's also coming to Gemini and the video editor Flow in the future.\nThis kind of defeats the whole po",
+          "summary": null,
           "recommend_reason_zh": "Google宣布允许用户移除AI图片和视频上的可见水印，Nano Banana、Omni和Lyria模型将提供切换开关，但不可见SynthID与C2PA元数据仍保留；欧盟等地因法律要求仍强制显示。",
           "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
           "source": "Engadget",
@@ -1611,7 +1640,7 @@
           "title_zh": "Google 将允许用户从 AI 内容中移除可见水印",
           "title_en": "Google will now allow users to remove visible watermarks from AI content",
           "title_original": "Google will now allow users to remove visible watermarks from AI content",
-          "summary": "The invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nGoogle VP Josh Woodward just announced that users will be able to remove visible watermarks from AI-generated images and videos. A toggle will soon be available for the Nano Banana, Omni and Lyria models, which all use the familiar sparkle icon to denote AI. It's also coming to Gemini and the video editor Flow in the future.\nThis kind of defeats the whole po",
+          "summary": null,
           "recommend_reason_zh": "Google宣布允许用户移除AI图片和视频上的可见水印，Nano Banana、Omni和Lyria模型将提供切换开关，但不可见SynthID与C2PA元数据仍保留；欧盟等地因法律要求仍强制显示。",
           "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
           "source": "Engadget",
@@ -1622,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.6373,
+      "importance": 0.6373,
+      "importance_score": 0.6373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9476,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,7 +1686,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1705,15 +1734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1740,7 +1769,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     },
     {
@@ -1816,15 +1845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6196,
-      "importance": 0.6196,
-      "importance_score": 0.6196,
+      "score": 0.6176,
+      "importance": 0.6176,
+      "importance_score": 0.6176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9535,
+        "recency": 0.9424,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1851,7 +1880,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T20:07:15.603686Z"
+        "scored_at": "2026-08-14T20:55:44.258019Z"
       }
     }
   ]
