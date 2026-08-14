@@ -7,24 +7,6 @@
       "title_hash": "e3ccd10b",
       "scored_at": "2026-07-26T00:17:55.076778Z"
     },
-    "story_59b2266d0512|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "设计师可更新体验，美学提升有望减少调参时间。",
-      "title_hash": "e435e290",
-      "scored_at": "2026-07-24T23:21:04.048760Z"
-    },
-    "story_5105aa91a912|cynic|f4237a62": {
-      "score": 78,
-      "review": "给API套个保温杯，省下的电费够买杯咖啡吗？",
-      "title_hash": "7d18defe",
-      "scored_at": "2026-07-24T23:21:10.047942Z"
-    },
-    "story_5105aa91a912|paper-police|966065bf": {
-      "score": 45,
-      "review": "代码开源可复现，但无论文和benchmark，需用户验证效果。",
-      "title_hash": "7d18defe",
-      "scored_at": "2026-07-24T23:21:15.707553Z"
-    },
     "story_db9570cdaf10|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "新模型已上线API，立刻可测效果，选型时关注价格和延迟变化。",
@@ -5220,6 +5202,12 @@
       "review": "水印移除是平台策略调整，对开发者日常没直接影响，不用管。",
       "title_hash": "67a7758f",
       "scored_at": "2026-08-14T20:07:20.238500Z"
+    },
+    "story_e27bfcf013b4|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "多回调 URI 和 token 刷新，做 OAuth 集成的今天就能改配置。",
+      "title_hash": "4e93393a",
+      "scored_at": "2026-08-14T23:46:11.170337Z"
     }
   }
 }
