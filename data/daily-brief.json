@@ -1,123 +1,8 @@
 {
-  "generated_at": "2026-08-14T10:16:57.254156Z",
+  "generated_at": "2026-08-14T11:11:26.327321Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_3fd84efeedff",
-      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp上以1.33美元获得84.04%分数，接近GPT-5.5的84.36%但成本从33.27美元大降；启用新API后，Sol在ARC-AGI-3从13.3%跃升至38.3%，输出token减少6倍。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "recommend_reason_zh": "本文聚焦GPT-5.6如何降低智能体成本：Luna在BrowseComp上以1.33美元达到84.04%，接近GPT-5.5花33.27美元的成绩；Sol启用retained reasoning后，ARC-AGI-3得分从13.3%跃升至38.3%，输出token减少约6倍。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder’s guide to GPT‑5.6",
-          "title_original": "The builder’s guide to GPT‑5.6",
-          "summary": null,
-          "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp上以1.33美元获得84.04%分数，接近GPT-5.5的84.36%但成本从33.27美元大降；启用新API后，Sol在ARC-AGI-3从13.3%跃升至38.3%，输出token减少6倍。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T11:00:00Z"
-        },
-        {
-          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
-          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
-          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-          "title_en": "The builder's guide to GPT-5.6",
-          "title_original": "The builder's guide to GPT-5.6",
-          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-          "recommend_reason_zh": "本文聚焦GPT-5.6如何降低智能体成本：Luna在BrowseComp上以1.33美元达到84.04%，接近GPT-5.5花33.27美元的成绩；Sol启用retained reasoning后，ARC-AGI-3得分从13.3%跃升至38.3%，输出token减少约6倍。",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7145,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T11:00:00Z",
-      "latest_at": "2026-08-13T11:00:00Z",
-      "primary_item": {
-        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
-        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-        "title_en": "The builder’s guide to GPT‑5.6",
-        "title_original": "The builder’s guide to GPT‑5.6",
-        "summary": null,
-        "recommend_reason_zh": "GPT-5.6 Luna在BrowseComp上以1.33美元获得84.04%分数，接近GPT-5.5的84.36%但成本从33.27美元大降；启用新API后，Sol在ARC-AGI-3从13.3%跃升至38.3%，输出token减少6倍。",
-        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "官方降本指南，做Agent的今天就能照着调参省成本。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
-      }
-    },
     {
       "story_id": "story_7243b3d66c55",
       "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -163,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7822,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -248,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7463,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -333,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7799,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -418,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7763,
+        "recency": 0.7662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -503,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8047,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -540,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -557,7 +442,7 @@
           "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
           "title_en": null,
           "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-          "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "广东首推“Token Loan”，中国银行广州分行面向海珠区中小算力企业，按合同金额与Token消耗定额度，已试点放款累计2800万元。",
           "url": "https://www.aibase.com/news/30365",
           "source": "AIbase",
@@ -577,7 +462,7 @@
           "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
           "title_en": null,
           "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-          "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "广东首推“Token Loan”，中国银行广州分行面向海珠区中小算力企业，按合同金额与Token消耗定额度，已试点放款累计2800万元。",
           "url": "https://www.aibase.com/news/30365",
           "source": "AIbase",
@@ -588,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,7 +497,7 @@
         "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
         "title_en": null,
         "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
-        "summary": "On August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nOn August 14, Guangdong Province's first specialized financial product for the token economy, \"Token Loan,\" was launched in Haizhu District, Guangzhou, aiming t\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "广东首推“Token Loan”，中国银行广州分行面向海珠区中小算力企业，按合同金额与Token消耗定额度，已试点放款累计2800万元。",
         "url": "https://www.aibase.com/news/30365",
         "source": "AIbase",
@@ -624,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -672,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -708,7 +593,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -756,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8025,
+        "recency": 0.792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -793,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -870,15 +755,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.82,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -906,7 +791,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -954,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7173,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -989,7 +874,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1006,7 +891,7 @@
           "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "title_en": null,
           "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "微软将Copilot语音模式的黄色小怪Mico撤下，转岗至Learn Live学习平台，距其去年10月推出不到一年。报道回顾了微软弃用Clippy、Cortana等AI形象的历史，并引用Mustafa Suleiman提到的身份感初衷，值得一读。",
           "url": "https://www.aibase.com/news/30364",
           "source": "AIbase",
@@ -1026,7 +911,7 @@
           "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
           "title_en": null,
           "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-          "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "微软将Copilot语音模式的黄色小怪Mico撤下，转岗至Learn Live学习平台，距其去年10月推出不到一年。报道回顾了微软弃用Clippy、Cortana等AI形象的历史，并引用Mustafa Suleiman提到的身份感初衷，值得一读。",
           "url": "https://www.aibase.com/news/30364",
           "source": "AIbase",
@@ -1037,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1061,7 +946,7 @@
         "title_zh": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
         "title_en": null,
         "title_original": "微软又弃一 AI 形象：Copilot 黄色小怪 Mico 退场，转岗学习平台",
-        "summary": "Microsoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nMicrosoft announced that Mico, the yellow blob that makes expressions in Copilot's voice mode, will no longer appear in the chat interface. According to a Micro\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "微软将Copilot语音模式的黄色小怪Mico撤下，转岗至Learn Live学习平台，距其去年10月推出不到一年。报道回顾了微软弃用Clippy、Cortana等AI形象的历史，并引用Mustafa Suleiman提到的身份感初衷，值得一读。",
         "url": "https://www.aibase.com/news/30364",
         "source": "AIbase",
@@ -1073,7 +958,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1121,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1041,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1204,15 +1089,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9256,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,90 +1124,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
-      }
-    },
-    {
-      "story_id": "story_9d903e6ade1a",
-      "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123e827449941c9038e9125e572debf591dab2d8",
-          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_en": null,
-          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "123e827449941c9038e9125e572debf591dab2d8",
-          "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "title_en": null,
-          "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-          "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9133,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T04:00:00Z",
-      "latest_at": "2026-08-14T04:00:00Z",
-      "primary_item": {
-        "id": "123e827449941c9038e9125e572debf591dab2d8",
-        "title": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "title_zh": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "title_en": null,
-        "title_original": "蚂蚁百灵与 ASystem 团队打通单机 Agentic RL 后训练闭环",
-        "summary": "蚂蚁百灵与 ASystem 团队合作，用 Ling-3.0-tiny 和 AReno 在 DGX Spark 上跑通单机 Agentic RL 后训练闭环。以井字棋为最小验证任务，用 GSPO 算法训练 400 步后，rollout/rewards_mean 从约 -0.5 升至 0.4，response_len 降至约 850 tokens，工具调用与动作选择趋于稳定。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487525&idx=1&sn=b9def9117e34b45fce50ab76eeed726c",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "单机跑RL后训练是方向，但没开源没demo，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1370,15 +1172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,7 +1208,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1454,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1292,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1538,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1574,7 +1376,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1622,15 +1424,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1460,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
+      }
+    },
+    {
+      "story_id": "story_df3cadd6dc23",
+      "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+          "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
+          "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
+          "title_en": "Apple trained its own AI model for China with help from Alibaba",
+          "title_original": "Apple trained its own AI model for China with help from Alibaba",
+          "summary": null,
+          "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T09:21:17Z"
+        },
+        {
+          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
+          "title": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_zh": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型",
+          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "summary": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country. The LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China. Rollout of its AI features in China is expected in the coming months.\nReuters ",
+          "recommend_reason_zh": "据Reuters报道，Apple未用第三方模型，而是与Alibaba合作为中国训练自有LLM，成为首个获中国政府批准提供自有AI模型的外国公司，且弃用Qwen转用自研，Apple Intelligence数月内推出。",
+          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T09:46:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Mac Rumors",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+          "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
+          "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
+          "title_en": "Apple trained its own AI model for China with help from Alibaba",
+          "title_original": "Apple trained its own AI model for China with help from Alibaba",
+          "summary": null,
+          "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T09:21:17Z"
+        },
+        {
+          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
+          "title": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_zh": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型",
+          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
+          "summary": "Reuters reports that Apple has trained its own large language model for the China market, rather than relying on a third-party model to power its Apple Intelligence features in the country. The LLM has been developed with the help of Alibaba, according to the report's sources. The development marks a break from Apple's previous strategy of relying on domestic models to bring generative AI to its devices sold in China. Rollout of its AI features in China is expected in the coming months.\nReuters ",
+          "recommend_reason_zh": "据Reuters报道，Apple未用第三方模型，而是与Alibaba合作为中国训练自有LLM，成为首个获中国政府批准提供自有AI模型的外国公司，且弃用Qwen转用自研，Apple Intelligence数月内推出。",
+          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T09:46:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6108,
+      "importance": 0.6108,
+      "importance_score": 0.6108,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9738,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T09:21:17Z",
+      "latest_at": "2026-08-14T09:46:29Z",
+      "primary_item": {
+        "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
+        "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
+        "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
+        "title_en": "Apple trained its own AI model for China with help from Alibaba",
+        "title_original": "Apple trained its own AI model for China with help from Alibaba",
+        "summary": null,
+        "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "苹果中国区AI策略变动，开发者暂无直接可用的接口，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     },
     {
@@ -1706,15 +1620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1742,7 +1656,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T10:35:17.552443Z"
+        "scored_at": "2026-08-14T11:27:02.988678Z"
+      }
+    },
+    {
+      "story_id": "story_2be09835e8e6",
+      "title": "“AI在家”第一部分：一盒废料",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "primary_url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "source": "jdagostino.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "935e588ecf15106f528d77366a10119a18b3277c",
+          "title": "“AI在家”第一部分：一盒废料",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": null,
+          "title_original": "“AI在家”第一部分：一盒废料",
+          "summary": null,
+          "recommend_reason_zh": "作者用AMD V620显卡和Intel Core i9 10900X等电子废料，自制家用AI数据中心。详述32GB显存无风扇的云游戏残卡如何搭配2017年X299老主板，挑战不依赖云端。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "jdagostino.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T03:48:12.621000Z"
+        },
+        {
+          "id": "b0a43f13d41a0f924975dd8aee988b49ff9c3853",
+          "title": "家里的AI第1部分：一盒零碎 / AI At Home Part 1: A Box Of Scraps",
+          "title_zh": "家里的AI第1部分：一盒零碎",
+          "title_en": "AI At Home Part 1: A Box Of Scraps",
+          "title_original": "AI At Home Part 1: A Box Of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨本地AI推理的困境，指出其依赖不断更新的模型且训练数据易过时，还生动描述了12V小风扇噪音远超预期的真实体验。",
+          "url": "https://news.ycombinator.com/item?id=49288293",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-13T18:09:23.233000Z"
+        },
+        {
+          "id": "9b0f928093399392e73df4edd25a10c455cb8d4b",
+          "title": "“AI在家”第一部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": "AI At Home Part 1: A Box Of Scraps",
+          "title_original": "AI At Home Part 1: A Box Of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "作者从eBay淘电子垃圾组装家用AI服务器，用了云游戏失败的AMD V620显卡（32GB VRAM、没风扇）和Intel Core i9 10900X这颗被称二十年来最差的处理器，看怎么省钱。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:22:05Z"
+        },
+        {
+          "id": "5a4ecc9cf3eb687adc19a47b67b2f51898789e59",
+          "title": "“AI在家”第一部分：一盒废料 / We Have AI at Home Chapter 1: A Box of Scraps",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "title_original": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "作者用AMD V620显卡（32GB显存）和Intel Core i9 10900X等废件，自建家用AI数据中心，详细展示了如何从eBay淘来这些垃圾硬件并组装起来。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T16:22:05Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "jdagostino.github.io"
+      ],
+      "items": [
+        {
+          "id": "935e588ecf15106f528d77366a10119a18b3277c",
+          "title": "“AI在家”第一部分：一盒废料",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": null,
+          "title_original": "“AI在家”第一部分：一盒废料",
+          "summary": null,
+          "recommend_reason_zh": "作者用AMD V620显卡和Intel Core i9 10900X等电子废料，自制家用AI数据中心。详述32GB显存无风扇的云游戏残卡如何搭配2017年X299老主板，挑战不依赖云端。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "jdagostino.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T03:48:12.621000Z"
+        },
+        {
+          "id": "b0a43f13d41a0f924975dd8aee988b49ff9c3853",
+          "title": "家里的AI第1部分：一盒零碎 / AI At Home Part 1: A Box Of Scraps",
+          "title_zh": "家里的AI第1部分：一盒零碎",
+          "title_en": "AI At Home Part 1: A Box Of Scraps",
+          "title_original": "AI At Home Part 1: A Box Of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨本地AI推理的困境，指出其依赖不断更新的模型且训练数据易过时，还生动描述了12V小风扇噪音远超预期的真实体验。",
+          "url": "https://news.ycombinator.com/item?id=49288293",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-13T18:09:23.233000Z"
+        },
+        {
+          "id": "9b0f928093399392e73df4edd25a10c455cb8d4b",
+          "title": "“AI在家”第一部分：一盒废料 / AI At Home Part 1: A Box Of Scraps",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": "AI At Home Part 1: A Box Of Scraps",
+          "title_original": "AI At Home Part 1: A Box Of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "作者从eBay淘电子垃圾组装家用AI服务器，用了云游戏失败的AMD V620显卡（32GB VRAM、没风扇）和Intel Core i9 10900X这颗被称二十年来最差的处理器，看怎么省钱。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:22:05Z"
+        },
+        {
+          "id": "5a4ecc9cf3eb687adc19a47b67b2f51898789e59",
+          "title": "“AI在家”第一部分：一盒废料 / We Have AI at Home Chapter 1: A Box of Scraps",
+          "title_zh": "“AI在家”第一部分：一盒废料",
+          "title_en": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "title_original": "We Have AI at Home Chapter 1: A Box of Scraps",
+          "summary": null,
+          "recommend_reason_zh": "作者用AMD V620显卡（32GB显存）和Intel Core i9 10900X等废件，自建家用AI数据中心，详细展示了如何从eBay淘来这些垃圾硬件并组装起来。",
+          "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T16:22:05Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5776,
+      "importance": 0.5776,
+      "importance_score": 0.5776,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8988,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-13T16:22:05Z",
+      "latest_at": "2026-08-14T03:48:12.621000Z",
+      "primary_item": {
+        "id": "935e588ecf15106f528d77366a10119a18b3277c",
+        "title": "“AI在家”第一部分：一盒废料",
+        "title_zh": "“AI在家”第一部分：一盒废料",
+        "title_en": null,
+        "title_original": "“AI在家”第一部分：一盒废料",
+        "summary": null,
+        "recommend_reason_zh": "作者用AMD V620显卡和Intel Core i9 10900X等电子废料，自制家用AI数据中心。详述32GB显存无风扇的云游戏残卡如何搭配2017年X299老主板，挑战不依赖云端。",
+        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "source": "jdagostino.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "这是篇叙事文章，不是工具发布，动手党没必要现在看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T11:27:02.988678Z"
       }
     }
   ]
