@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-08-14T15:07:34.625293Z",
+  "generated_at": "2026-08-14T16:06:19.720816Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7243b3d66c55",
-      "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face Blog",
+      "story_id": "story_203ecf6e9943",
+      "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "summary": null,
-          "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+          "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+          "title_zh": "如何借助 Agent 应用将软件交付工作流接入 GitHub",
+          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+          "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
+          "recommend_reason_zh": "本文演示如何用四个GitHub Agent Apps在PR内完成Amplitude数据分析、Endor Labs依赖检查、LaunchDarkly功能开关和PagerDuty部署状态确认，全程无需离开GitHub。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-14T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-          "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
-          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "summary": null,
-          "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
-          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "source": "Hugging Face Blog",
+          "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+          "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+          "title_zh": "如何借助 Agent 应用将软件交付工作流接入 GitHub",
+          "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+          "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+          "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
+          "recommend_reason_zh": "本文演示如何用四个GitHub Agent Apps在PR内完成Amplitude数据分析、Endor Labs依赖检查、LaunchDarkly功能开关和PagerDuty部署状态确认，全程无需离开GitHub。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-13T17:16:04Z"
+          "published_at": "2026-08-14T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7293,
+        "ai_relevance": 0.87,
+        "recency": 0.9985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,27 +65,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-13T17:16:04Z",
-      "latest_at": "2026-08-13T17:16:04Z",
+      "earliest_at": "2026-08-14T16:00:00Z",
+      "latest_at": "2026-08-14T16:00:00Z",
       "primary_item": {
-        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
-        "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
-        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-        "summary": null,
-        "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "id": "b1a201456e76369f9a92aecd439f6395eb2e2c52",
+        "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+        "title_zh": "如何借助 Agent 应用将软件交付工作流接入 GitHub",
+        "title_en": "How to bring your software delivery workflow into GitHub with agent apps",
+        "title_original": "How to bring your software delivery workflow into GitHub with agent apps",
+        "summary": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nSee how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub.\nHow many tabs do you have open alongside your pull request?\nImagine picking up a new issue in your produ",
+        "recommend_reason_zh": "本文演示如何用四个GitHub Agent Apps在PR内完成Amplitude数据分析、Endor Labs依赖检查、LaunchDarkly功能开关和PagerDuty部署状态确认，全程无需离开GitHub。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "官方教程可直接照着做，把交付流程接到 GitHub，但先确认场景是否匹配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T16:20:13.057233Z"
+      }
+    },
+    {
+      "story_id": "story_0276dc6b6132",
+      "title": "Open Models 现状：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "Open Models 现状：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "title_zh": "Open Models 现状：2026 年夏季观察",
+          "title_en": "State of Open Models: Summer 2026 Observations",
+          "title_original": "State of Open Models: Summer 2026 Observations",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
+          "recommend_reason_zh": "HF模型仓库增至296万，1.5%仓库占99.2%下载；中国实验室最大模型达2.78T参数，美国多数月份低于130B；AMD与NVIDIA各发200+模型。",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+          "title": "Open Models 现状：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+          "title_zh": "Open Models 现状：2026 年夏季观察",
+          "title_en": "State of Open Models: Summer 2026 Observations",
+          "title_original": "State of Open Models: Summer 2026 Observations",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
+          "recommend_reason_zh": "HF模型仓库增至296万，1.5%仓库占99.2%下载；中国实验室最大模型达2.78T参数，美国多数月份低于130B；AMD与NVIDIA各发200+模型。",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7925,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T00:00:00Z",
+      "latest_at": "2026-08-14T00:00:00Z",
+      "primary_item": {
+        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
+        "title": "Open Models 现状：2026 年夏季观察 / State of Open Models: Summer 2026 Observations",
+        "title_zh": "Open Models 现状：2026 年夏季观察",
+        "title_en": "State of Open Models: Summer 2026 Observations",
+        "title_original": "State of Open Models: Summer 2026 Observations",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\n2. Attention ≠ Adoption 3. Open weights shift where value accumulates 4. Qwen has become the community's base model 5. Small models remain the practical layer 6. Agents are the new user Looking forward Notes on method In the AI world, time feels compressed. A few months after our spr",
+        "recommend_reason_zh": "HF模型仓库增至296万，1.5%仓库占99.2%下载；中国实验室最大模型达2.78T参数，美国多数月份低于130B；AMD与NVIDIA各发200+模型。",
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 84,
-      "persona_review": "机器人数据闭环三件套打通，搞具身智能的可以直接用这套管线记录训练部署。",
+      "persona_score": 55,
+      "persona_review": "开源模型格局盘点，选型前扫一眼有参考，但无新东西可上手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7273,
+        "recency": 0.717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7972,
+      "importance": 0.7972,
+      "importance_score": 0.7972,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7503,
+        "recency": 0.7398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -303,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7239,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +425,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
+      }
+    },
+    {
+      "story_id": "story_7243b3d66c55",
+      "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7191,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
+      "primary_item": {
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_zh": "通过Strands Agents、LeRobot和Hugging Face Storage Buckets，在一个地方完成记录、训练和部署。",
+        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "summary": null,
+        "recommend_reason_zh": "本文展示Amazon的Strands Robots如何用LeRobot和Hugging Face Storage Buckets实现数据闭环：录制存桶、Xet去重、从Hub流式训练、改一个参数部署回硬件。LeRobot格式已被90,000数据集和模型、8,000发布者使用。",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 84,
+      "persona_review": "机器人数据闭环三件套打通，搞具身智能的可以直接用这套管线记录训练部署。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -388,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -441,7 +611,7 @@
           "title_zh": "OpenAI和Anthropic陷入价格战，中国AI竞争对手势头正劲",
           "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
           "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
+          "summary": null,
           "recommend_reason_zh": "OpenAI与Anthropic发起价格战：GPT-5.6 Luna价格大降80%，Claude Opus 5以Fable 5半价推出，应对Moonshot、DeepSeek等中国对手，使美国实验室模型价格自7月中旬以来下跌近25%。DoorDash和Airbnb已转用中国模型。",
           "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
           "source": "Ars Technica：AI（RSS）",
@@ -461,7 +631,7 @@
           "title_zh": "OpenAI和Anthropic陷入价格战，中国AI竞争对手势头正劲",
           "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
           "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-          "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
+          "summary": null,
           "recommend_reason_zh": "OpenAI与Anthropic发起价格战：GPT-5.6 Luna价格大降80%，Claude Opus 5以Fable 5半价推出，应对Moonshot、DeepSeek等中国对手，使美国实验室模型价格自7月中旬以来下跌近25%。DoorDash和Airbnb已转用中国模型。",
           "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
           "source": "Ars Technica：AI（RSS）",
@@ -472,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9903,
+        "recency": 0.9764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +666,7 @@
         "title_zh": "OpenAI和Anthropic陷入价格战，中国AI竞争对手势头正劲",
         "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nUS groups release cheaper models after new challenges to their trillion-dollar ambitions.\nLeading US AI labs such as OpenAI and Anthropic are releasing cheaper models as they fight to retain cost-conscious customers who are switch",
+        "summary": null,
         "recommend_reason_zh": "OpenAI与Anthropic发起价格战：GPT-5.6 Luna价格大降80%，Claude Opus 5以Fable 5半价推出，应对Moonshot、DeepSeek等中国对手，使美国实验室模型价格自7月中旬以来下跌近25%。DoorDash和Airbnb已转用中国模型。",
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
         "source": "Ars Technica：AI（RSS）",
@@ -508,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -556,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9705,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -592,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -640,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7483,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "official",
@@ -677,7 +847,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
+      }
+    },
+    {
+      "story_id": "story_a5a9de1a4652",
+      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_zh": "通义千问开源 Qwen3.8 系列模型",
+          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+          "recommend_reason_zh": "Qwen3.8-27B开放权重的细节来了：27B参数原生多模态模型，综合强于Qwen3.7-Plus，编程办公表现突出，原生上下文262K可扩展至1M。",
+          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T15:02:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_zh": "通义千问开源 Qwen3.8 系列模型",
+          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+          "recommend_reason_zh": "Qwen3.8-27B开放权重的细节来了：27B参数原生多模态模型，综合强于Qwen3.7-Plus，编程办公表现突出，原生上下文262K可扩展至1M。",
+          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T15:02:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T15:02:48Z",
+      "latest_at": "2026-08-14T15:02:48Z",
+      "primary_item": {
+        "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
+        "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "title_zh": "通义千问开源 Qwen3.8 系列模型",
+        "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+        "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+        "recommend_reason_zh": "Qwen3.8-27B开放权重的细节来了：27B参数原生多模态模型，综合强于Qwen3.7-Plus，编程办公表现突出，原生上下文262K可扩展至1M。",
+        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "新模型开源，能直接下载跑，值得动手试试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -725,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -761,7 +1015,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
+      }
+    },
+    {
+      "story_id": "story_c0648d9766a4",
+      "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": "Cursor is now a part of SpaceX",
+          "title_original": "Cursor is now a part of SpaceX",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor 被 SpaceX 收购正式完成，始于4月的流程落幕。借助全球最大 GPU 集群，Cursor 计划以更低成本训练更强模型，并发布 Grok 4.6 展示初步成果。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+          "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": "Cursor is now a part of SpaceX",
+          "title_original": "Cursor is now a part of SpaceX",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor 被 SpaceX 收购正式完成，始于4月的流程落幕。借助全球最大 GPU 集群，Cursor 计划以更低成本训练更强模型，并发布 Grok 4.6 展示初步成果。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9424,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T12:00:00Z",
+      "latest_at": "2026-08-14T12:00:00Z",
+      "primary_item": {
+        "id": "37be0084d39109564aa95e679db99447f43ba6a3",
+        "title": "Cursor 正式被 SpaceX 收购 / Cursor is now a part of SpaceX",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_en": "Cursor is now a part of SpaceX",
+        "title_original": "Cursor is now a part of SpaceX",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "recommend_reason_zh": "Cursor 被 SpaceX 收购正式完成，始于4月的流程落幕。借助全球最大 GPU 集群，Cursor 计划以更低成本训练更强模型，并发布 Grok 4.6 展示初步成果。",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "收购不写代码，等看Cursor后续路线再动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -809,15 +1146,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8704,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -844,7 +1181,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -921,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7747,
+        "recency": 0.7638,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -957,7 +1294,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -1005,15 +1342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -1089,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,90 +1461,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
-      }
-    },
-    {
-      "story_id": "story_02bf18388430",
-      "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文 / This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-      "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0aca2f674534e6707c67ae0bd04daee5490a0d7a",
-          "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文 / This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "title_zh": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-          "title_en": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "title_original": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
-          "recommend_reason_zh": "DeepSeek V4 Pro正式发布，DeepSeek-V4-Pro-0813已上线SiliconFlow并获Day-0支持，拥有1M上下文，提供低/高/最大三档推理，强化编码、工具调用和智能体工作流。",
-          "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:55:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "0aca2f674534e6707c67ae0bd04daee5490a0d7a",
-          "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文 / This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "title_zh": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-          "title_en": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "title_original": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-          "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
-          "recommend_reason_zh": "DeepSeek V4 Pro正式发布，DeepSeek-V4-Pro-0813已上线SiliconFlow并获Day-0支持，拥有1M上下文，提供低/高/最大三档推理，强化编码、工具调用和智能体工作流。",
-          "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T04:55:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T04:55:56Z",
-      "latest_at": "2026-08-14T04:55:56Z",
-      "primary_item": {
-        "id": "0aca2f674534e6707c67ae0bd04daee5490a0d7a",
-        "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文 / This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-        "title_zh": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-        "title_en": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-        "title_original": "This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-        "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
-        "recommend_reason_zh": "DeepSeek V4 Pro正式发布，DeepSeek-V4-Pro-0813已上线SiliconFlow并获Day-0支持，拥有1M上下文，提供低/高/最大三档推理，强化编码、工具调用和智能体工作流。",
-        "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "硅基流动已上线，1M上下文直接调API，长文本任务今天就能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -1255,21 +1509,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T08:37:45.150379Z",
       "latest_at": "2026-08-14T08:37:45.150379Z",
@@ -1291,7 +1544,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -1339,21 +1592,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T08:37:45.150379Z",
       "latest_at": "2026-08-14T08:37:45.150379Z",
@@ -1375,7 +1627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     },
     {
@@ -1423,21 +1675,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T08:37:45.150379Z",
       "latest_at": "2026-08-14T08:37:45.150379Z",
@@ -1459,287 +1710,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
-      }
-    },
-    {
-      "story_id": "story_71eae7f8ef8d",
-      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-      "url": "https://www.aibase.com/news/30357",
-      "primary_url": "https://www.aibase.com/news/30357",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T08:37:45.150379Z",
-      "latest_at": "2026-08-14T08:37:45.150379Z",
-      "primary_item": {
-        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_en": null,
-        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "summary": null,
-        "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-        "url": "https://www.aibase.com/news/30357",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "研究进展而已，没给能直接用的东西，等开源或方案落地再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
-      }
-    },
-    {
-      "story_id": "story_df3cadd6dc23",
-      "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
-          "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
-          "title_en": "Apple trained its own AI model for China with help from Alibaba",
-          "title_original": "Apple trained its own AI model for China with help from Alibaba",
-          "summary": null,
-          "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "title_zh": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型",
-          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
-          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
-          "summary": null,
-          "recommend_reason_zh": "据Reuters报道，Apple未用第三方模型，而是与Alibaba合作为中国训练自有LLM，成为首个获中国政府批准提供自有AI模型的外国公司，且弃用Qwen转用自研，Apple Intelligence数月内推出。",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Mac Rumors",
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
-          "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
-          "title_en": "Apple trained its own AI model for China with help from Alibaba",
-          "title_original": "Apple trained its own AI model for China with help from Alibaba",
-          "summary": null,
-          "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "title_zh": "苹果在阿里巴巴帮助下为中国市场训练自家AI模型",
-          "title_en": "Apple Trained Own AI model for China Market With Help From Alibaba",
-          "title_original": "Apple Trained Own AI model for China Market With Help From Alibaba",
-          "summary": null,
-          "recommend_reason_zh": "据Reuters报道，Apple未用第三方模型，而是与Alibaba合作为中国训练自有LLM，成为首个获中国政府批准提供自有AI模型的外国公司，且弃用Qwen转用自研，Apple Intelligence数月内推出。",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6011,
-      "importance": 0.6011,
-      "importance_score": 0.6011,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.92,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T09:21:17Z",
-      "latest_at": "2026-08-14T09:46:29Z",
-      "primary_item": {
-        "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-        "title": "Apple在Alibaba帮助下为中国训练自有AI模型 / Apple trained its own AI model for China with help from Alibaba",
-        "title_zh": "Apple在Alibaba帮助下为中国训练自有AI模型",
-        "title_en": "Apple trained its own AI model for China with help from Alibaba",
-        "title_original": "Apple trained its own AI model for China with help from Alibaba",
-        "summary": null,
-        "recommend_reason_zh": "Apple与Alibaba合作训练面向中国市场的定制大语言模型，放弃此前借用本土模型的策略，为其在中国推出的on-device生成式AI服务铺路。若属实，Apple将成为首个获准在华提供专有AI模型的美国公司。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "苹果中国区AI策略变动，开发者暂无直接可用的接口，观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
-      }
-    },
-    {
-      "story_id": "story_8d30d003a2da",
-      "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-      "url": "https://www.aibase.com/news/30355",
-      "primary_url": "https://www.aibase.com/news/30355",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
-          "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "title_en": null,
-          "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "summary": null,
-          "recommend_reason_zh": "金山办公灵犀专业版于8月14日集成DeepSeek-V4-Pro正式版，原生支持百万token上下文、单次最高输出38.4万token，可调用文档表格等工具完成复杂办公任务。",
-          "url": "https://www.aibase.com/news/30355",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
-          "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "title_en": null,
-          "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-          "summary": null,
-          "recommend_reason_zh": "金山办公灵犀专业版于8月14日集成DeepSeek-V4-Pro正式版，原生支持百万token上下文、单次最高输出38.4万token，可调用文档表格等工具完成复杂办公任务。",
-          "url": "https://www.aibase.com/news/30355",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9104,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T08:37:45.150379Z",
-      "latest_at": "2026-08-14T08:37:45.150379Z",
-      "primary_item": {
-        "id": "824a1fbb1544e879aebe6e9f9eb2b554b93b252c",
-        "title": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-        "title_zh": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-        "title_en": null,
-        "title_original": "百万上下文解锁复杂办公!金山办公灵犀全量上线 DeepSeek-V4正式版双模型",
-        "summary": null,
-        "recommend_reason_zh": "金山办公灵犀专业版于8月14日集成DeepSeek-V4-Pro正式版，原生支持百万token上下文、单次最高输出38.4万token，可调用文档表格等工具完成复杂办公任务。",
-        "url": "https://www.aibase.com/news/30355",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "办公场景直接能用，百万上下文处理长文档是刚需，可以上手试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T15:22:15.237372Z"
+        "scored_at": "2026-08-14T16:20:13.057233Z"
       }
     }
   ]
