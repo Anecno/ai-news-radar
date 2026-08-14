@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:14:34.526490Z",
+  "generated_at": "2026-08-14T19:57:30.812287Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9583,
+        "recency": 0.9485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7574,
+        "recency": 0.7496,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9542,
+        "recency": 0.9444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
+      }
+    },
+    {
+      "story_id": "story_b8125cc46db3",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\nFuture Claude models will generate te",
+          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermark works",
+          "title_original": "How Claude's text watermark works",
+          "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+          "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T19:22:48.546000Z"
+        },
+        {
+          "id": "c59e078fa3b68cf4bd99df2a40a0052431c8b14c",
+          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
+          "title_zh": "Claude 文本水印机制如何运作",
+          "title_en": "How Claude's text watermarking works",
+          "title_original": "How Claude's text watermarking works",
+          "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the text, and we, along with several other major AI providers, are implementing this change to comply with the EU AI Act.  In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.\nFuture Claude models will generate te",
+          "recommend_reason_zh": "本文详解Claude未来模型将通过文本水印标记AI生成内容，利用低风险词汇选择的随机模式实现检测，并说明该机制不改变输出质量，目的是配合欧盟AI法案要求。",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-14T19:15:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9917,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T19:15:51Z",
+      "latest_at": "2026-08-14T19:22:48.546000Z",
+      "primary_item": {
+        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
+        "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+        "title_zh": "Claude 文本水印机制如何运作",
+        "title_en": "How Claude's text watermark works",
+        "title_original": "How Claude's text watermark works",
+        "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+        "recommend_reason_zh": "本文详解Claude文本水印原理：利用生成低风险词汇时的随机选择嵌入不可见模式，凭密钥即可检测，并说明是为遵守EU AI Act而推行。",
+        "url": "https://www.anthropic.com/news/claude-text-watermark",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "水印机制原理说明，暂无 API 可调用，写检测工具的人可先读。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -333,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.794,
+        "recency": 0.7858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +484,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -418,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -454,7 +568,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -502,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -538,7 +652,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -586,15 +700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9145,
+        "recency": 0.9051,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -622,7 +736,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -699,15 +813,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8914,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -736,7 +850,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -784,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.9315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -868,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -903,7 +1017,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -951,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,7 +1100,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1034,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8202,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1069,7 +1183,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1146,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.73,
+        "recency": 0.7225,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1182,7 +1296,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1230,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +1379,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1313,15 +1427,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1462,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1396,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1431,7 +1545,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
+      }
+    },
+    {
+      "story_id": "story_18cc8e6fbb9e",
+      "title": "谷歌现已允许用户从其AI生成内容中移除可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现已允许用户从其AI生成内容中移除可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现已允许用户从其AI生成内容中移除可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+          "summary": null,
+          "recommend_reason_zh": "Google新政策允许用户移除AI生成内容的可见水印，但关闭该设置不会影响识别AI生成文件的不可见基准。",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:13:40Z"
+        },
+        {
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "Google 将允许用户从 AI 内容中移除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "Google 将允许用户从 AI 内容中移除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
+          "summary": "The invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nGoogle VP Josh Woodward just announced that users will be able to remove visible watermarks from AI-generated images and videos. A toggle will soon be available for the Nano Banana, Omni and Lyria models, which all use the familiar sparkle icon to denote AI. It's also coming to Gemini and the video editor Flow in the future.\nThis kind of defeats the whole po",
+          "recommend_reason_zh": "Google宣布允许用户移除AI图片和视频上的可见水印，Nano Banana、Omni和Lyria模型将提供切换开关，但不可见SynthID与C2PA元数据仍保留；欧盟等地因法律要求仍强制显示。",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:04:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+          "title": "谷歌现已允许用户从其AI生成内容中移除可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+          "title_zh": "谷歌现已允许用户从其AI生成内容中移除可见水印",
+          "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+          "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+          "summary": null,
+          "recommend_reason_zh": "Google新政策允许用户移除AI生成内容的可见水印，但关闭该设置不会影响识别AI生成文件的不可见基准。",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-14T16:13:40Z"
+        },
+        {
+          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
+          "title": "Google 将允许用户从 AI 内容中移除可见水印 / Google will now allow users to remove visible watermarks from AI content",
+          "title_zh": "Google 将允许用户从 AI 内容中移除可见水印",
+          "title_en": "Google will now allow users to remove visible watermarks from AI content",
+          "title_original": "Google will now allow users to remove visible watermarks from AI content",
+          "summary": "The invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nThe invisible SynthID will remain.\nGoogle VP Josh Woodward just announced that users will be able to remove visible watermarks from AI-generated images and videos. A toggle will soon be available for the Nano Banana, Omni and Lyria models, which all use the familiar sparkle icon to denote AI. It's also coming to Gemini and the video editor Flow in the future.\nThis kind of defeats the whole po",
+          "recommend_reason_zh": "Google宣布允许用户移除AI图片和视频上的可见水印，Nano Banana、Omni和Lyria模型将提供切换开关，但不可见SynthID与C2PA元数据仍保留；欧盟等地因法律要求仍强制显示。",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T19:04:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6393,
+      "importance": 0.6393,
+      "importance_score": 0.6393,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9476,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T16:13:40Z",
+      "latest_at": "2026-08-14T19:04:42Z",
+      "primary_item": {
+        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
+        "title": "谷歌现已允许用户从其AI生成内容中移除可见水印 / Google will now allow users to remove visible watermark from its AI generations",
+        "title_zh": "谷歌现已允许用户从其AI生成内容中移除可见水印",
+        "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+        "title_original": "Google will now allow users to remove visible watermark from its AI generations",
+        "summary": null,
+        "recommend_reason_zh": "Google新政策允许用户移除AI生成内容的可见水印，但关闭该设置不会影响识别AI生成文件的不可见基准。",
+        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 48,
+      "persona_review": "水印移除是平台策略调整，对开发者日常没直接影响，不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1479,15 +1705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8579,
+        "recency": 0.8491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1514,7 +1740,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     },
     {
@@ -1590,15 +1816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6214,
-      "importance": 0.6214,
-      "importance_score": 0.6214,
+      "score": 0.6196,
+      "importance": 0.6196,
+      "importance_score": 0.6196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9634,
+        "recency": 0.9535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1625,231 +1851,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
-      }
-    },
-    {
-      "story_id": "story_71eae7f8ef8d",
-      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-      "url": "https://www.aibase.com/news/30357",
-      "primary_url": "https://www.aibase.com/news/30357",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:37:45.150379Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T08:37:45.150379Z",
-      "latest_at": "2026-08-14T08:37:45.150379Z",
-      "primary_item": {
-        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_en": null,
-        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "summary": null,
-        "recommend_reason_zh": "百灵团队联合AReno在DGX Spark单机环境跑通Agentic RL闭环，用Tic-Tac-Toe验证对Ling-3.0-tiny模型（7.9B总参数、1.3B激活参数）的后训练，告别本地模型“虚胖”。",
-        "url": "https://www.aibase.com/news/30357",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "研究进展而已，没给能直接用的东西，等开源或方案落地再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
-      }
-    },
-    {
-      "story_id": "story_02ec0b642bd2",
-      "title": "当天才失灵：人工智能实验室的智力傲慢",
-      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-      "source": "weightythoughts.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-          "summary": null,
-          "recommend_reason_zh": "文章以Leopold Aschenbrenner旗下二百亿美元对冲基金Situational Awareness爆仓为例，对照Long-Term Capital Management的溃败，批判AI实验室的智力傲慢，说明专家并不等于通才。",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
-        },
-        {
-          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
-          "title": "天才失灵：AI实验室的智识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "天才失灵：AI实验室的智识傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": "这篇《When Genius Fails》直指AI Labs的智力傲慢，剖析顶尖团队如何因过度自信而忽视技术局限，最终让“天才”成为系统性失误的温床，值得从业者对照自查。",
-          "url": "https://news.ycombinator.com/item?id=49299282",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T15:07:54.703000Z"
-        },
-        {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": "Leopold Aschenbrenner的Situational Awareness基金200亿美元爆仓，暴露AI实验室的智识傲慢；文章还对照1998年Long-Term Capital Management的诺奖得主溃败和120万韩国账户遭追缴，警示天才跨界必败。",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "weightythoughts.com"
-      ],
-      "items": [
-        {
-          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-          "title": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": null,
-          "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-          "summary": null,
-          "recommend_reason_zh": "文章以Leopold Aschenbrenner旗下二百亿美元对冲基金Situational Awareness爆仓为例，对照Long-Term Capital Management的溃败，批判AI实验室的智力傲慢，说明专家并不等于通才。",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "weightythoughts.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T16:10:19.001000Z"
-        },
-        {
-          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
-          "title": "天才失灵：AI实验室的智识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "天才失灵：AI实验室的智识傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": "这篇《When Genius Fails》直指AI Labs的智力傲慢，剖析顶尖团队如何因过度自信而忽视技术局限，最终让“天才”成为系统性失误的温床，值得从业者对照自查。",
-          "url": "https://news.ycombinator.com/item?id=49299282",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T15:07:54.703000Z"
-        },
-        {
-          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
-          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-          "title_en": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "title_original": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-          "summary": null,
-          "recommend_reason_zh": "Leopold Aschenbrenner的Situational Awareness基金200亿美元爆仓，暴露AI实验室的智识傲慢；文章还对照1998年Long-Term Capital Management的诺奖得主溃败和120万韩国账户遭追缴，警示天才跨界必败。",
-          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T14:34:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9566,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T14:34:49Z",
-      "latest_at": "2026-08-14T16:10:19.001000Z",
-      "primary_item": {
-        "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
-        "title": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_zh": "当天才失灵：人工智能实验室的智力傲慢",
-        "title_en": null,
-        "title_original": "当天才失灵：人工智能实验室的智力傲慢",
-        "summary": null,
-        "recommend_reason_zh": "文章以Leopold Aschenbrenner旗下二百亿美元对冲基金Situational Awareness爆仓为例，对照Long-Term Capital Management的溃败，批判AI实验室的智力傲慢，说明专家并不等于通才。",
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "source": "weightythoughts.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "评论文章不产出代码，看标题就知道没上手价值。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-14T19:23:26.217227Z"
+        "scored_at": "2026-08-14T20:07:15.603686Z"
       }
     }
   ]
