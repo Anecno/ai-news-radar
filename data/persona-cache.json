@@ -1,53 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_fdc1a7916c66|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "Copilot 用户今天就能选 Opus 5，编码质量可能有提升，直接换模型试试。",
-      "title_hash": "51c4ac22",
-      "scored_at": "2026-07-24T18:01:31.261437Z"
-    },
-    "story_884b6719295f|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "新模型API已开放，立刻可调用，性能提升直接用于生产。",
-      "title_hash": "99cb1b1b",
-      "scored_at": "2026-07-24T18:01:35.249708Z"
-    },
-    "story_5105aa91a912|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "想省Claude API费？直接上这个工具，避免重复付费，今天就能用。",
-      "title_hash": "7d18defe",
-      "scored_at": "2026-07-24T18:01:37.669677Z"
-    },
     "story_7d231e7bb6a8|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "模型未发布，规则无实操价值。等模型上线再看。",
       "title_hash": "e3ccd10b",
       "scored_at": "2026-07-26T00:17:55.076778Z"
-    },
-    "story_fdc1a7916c66|cynic|f4237a62": {
-      "score": 65,
-      "review": "官方更新，但不过是多一个模型选项，离改变工作流还早。",
-      "title_hash": "51c4ac22",
-      "scored_at": "2026-07-24T18:01:43.563709Z"
-    },
-    "story_fdc1a7916c66|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅官方宣布可用，无性能数据或代码，无法验证。",
-      "title_hash": "51c4ac22",
-      "scored_at": "2026-07-24T18:01:47.973597Z"
-    },
-    "story_884b6719295f|cynic|f4237a62": {
-      "score": 72,
-      "review": "又一代新模型，基准测试估计又只挑赢的比，输的绝口不提。",
-      "title_hash": "99cb1b1b",
-      "scored_at": "2026-07-24T18:01:51.587262Z"
-    },
-    "story_884b6719295f|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方博客宣称性能，缺论文、代码和第三方评测，目前只能算说法。",
-      "title_hash": "99cb1b1b",
-      "scored_at": "2026-07-24T18:01:55.280789Z"
     },
     "story_2efffce5d7af|pragmatic|0a5c5b24": {
       "score": 25,
@@ -5220,6 +5178,36 @@
       "review": "官方号宣称开源280B模型，但无代码无论文无评测链接，无法核实。",
       "title_hash": "c427e273",
       "scored_at": "2026-08-14T17:28:24.784691Z"
+    },
+    "story_3ded9ed73b65|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Copilot 里直接换模型，写代码的今天就能试。",
+      "title_hash": "b28fa372",
+      "scored_at": "2026-08-14T18:21:02.896628Z"
+    },
+    "story_3ac0651d574b|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "官方每周例行更新，具体功能未提，翻 changelog 看有没有影响你流程的改动。",
+      "title_hash": "34454a8f",
+      "scored_at": "2026-08-14T18:21:05.318060Z"
+    },
+    "story_298c63614044|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "做内容生成的可关水印了，但非核心功能，不影响选型。",
+      "title_hash": "e0283d51",
+      "scored_at": "2026-08-14T18:21:08.046699Z"
+    },
+    "story_3ded9ed73b65|cynic|f4237a62": {
+      "score": 75,
+      "review": "Copilot换个模型不算突破，跑稳了再喊不迟。",
+      "title_hash": "b28fa372",
+      "scored_at": "2026-08-14T18:21:09.680751Z"
+    },
+    "story_3ded9ed73b65|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方公告可用，无性能数据无评测，第三方未验证。",
+      "title_hash": "b28fa372",
+      "scored_at": "2026-08-14T18:21:15.766463Z"
     }
   }
 }

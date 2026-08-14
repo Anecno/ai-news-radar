@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:28:24.784746Z",
+  "generated_at": "2026-08-14T18:21:15.766519Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_5634b0a754f6",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "story_id": "story_3ded9ed73b65",
+      "title": "Grok 4.6现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "280B敢叫轻量，先把推理成本压下来再谈长程智能。"
+          "score": 75,
+          "review": "Copilot换个模型不算突破，跑稳了再喊不迟。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方号宣称开源280B模型，但无代码无论文无评测链接，无法核实。"
+          "score": 30,
+          "review": "官方公告可用，无性能数据无评测，第三方未验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "开源就能拉下来试，长程智能体和多模态推理的基准可以自己跑一遍。"
+          "review": "Copilot 里直接换模型，写代码的今天就能试。"
         }
       }
     }
