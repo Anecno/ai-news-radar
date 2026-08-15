@@ -42,6 +42,12 @@ npx skills add LearnPrompt/ai-news-radar -s ai-radar -g
 
 ---
 
+## 姊妹站 · 一条流水线
+
+雷达管跟踪，上下游各有一站。先去 [**AI MAP** 热点图谱](https://aimap.carlwow.com) 一张图看最近 7 天谁在升温（每 12 小时刷新），锁定目标后回雷达深挖信源；看到想上手的热点，去 [**GoodCase** 用例库](https://goodcase.carlwow.com) 直接查现成案例和 Prompt。发现 → 跟踪 → 使用，三站一条路。
+
+---
+
 ## 这是什么
 
 AI News Radar是一个自动更新的24小时AI更新雷达。它不只是把AI新闻抓回来，会先判断信息源质量，把同一个事件合并成故事线，再用三种口味的 persona 替你打分点评，最后用伯乐精选、AI标签、源健康和AI占比帮你判断：

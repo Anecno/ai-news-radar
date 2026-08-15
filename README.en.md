@@ -42,6 +42,12 @@ The three lanes are one road: let your agent read the brief → read the site yo
 
 ---
 
+## Sister sites · one pipeline
+
+The radar does the tracking; there is a station on each side. Start at [**AI MAP**](https://aimap.carlwow.com), a knowledge graph of who has been heating up over the last 7 days (refreshed every 12 hours), then come back here to dig into the sources. When a trend makes you want to build, [**GoodCase**](https://goodcase.carlwow.com) has ready-to-copy viral cases and prompts. Discover → track → use, one road.
+
+---
+
 ## What is this?
 
 AI News Radar is an auto-updating 24h radar for AI updates. It does more than fetch AI news. It judges source quality first, merges the same event into a story timeline, has three personas score and review the picks, then uses Scout picks, AI labels, source health, and AI ratio to help you decide:
