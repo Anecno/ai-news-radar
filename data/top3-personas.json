@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:44:55.825413Z",
+  "generated_at": "2026-08-15T16:52:22.476496Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_3ded9ed73b65",
-      "title": "Grok 4.6现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "Copilot换个模型不算突破，跑稳了再喊不迟。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方公告可用，无性能数据无评测，第三方未验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "Copilot 里直接换模型，写代码的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_e27bfcf013b4",
       "title": "OAuth 应用的多个重定向 URI 与 token 刷新 / Multiple redirect URIs and token refresh for OAuth apps",
       "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_203ecf6e9943",
-      "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "story_id": "story_d572412cd374",
+      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "232 倍提升的前提写清楚了吗？怕是只挑了最慢的基线。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有博客自述，无代码无基准，232倍无从验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "自动研究优化内核的实战案例，方法可借鉴，效果看场景。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b004ea508d1a",
+      "title": "Show HN：ThoughtDAG —— 可编辑的LLM对话上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://news.ycombinator.com/item?id=49307700",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "指南看着挺全，但跑通流程的演示环境都配好了吗？"
+          "score": 25,
+          "review": "没demo没截图，图谱只存在于标题里，先做个能用的再说。"
         },
         "paper-police": {
-          "score": 48,
-          "review": "官方教程有具体步骤，但无独立验证，实操后才能确认效果。"
+          "score": 18,
+          "review": "仅HN标题无代码无演示，可编辑图谱如何实现无从验证。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "官方教程可直接照着做，把交付流程接到 GitHub，但先确认场景是否匹配。"
+          "score": 72,
+          "review": "图谱式上下文编辑，适合调试复杂对话，能跑就用。"
         }
       }
     }

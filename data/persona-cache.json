@@ -5240,10 +5240,10 @@
       "scored_at": "2026-08-15T14:50:44.043735Z"
     },
     "story_353de4c443a8|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "BDD框架新版本，有具体改动才能评估，先看更新日志再决定是否升级。",
-      "title_hash": "b05c8592",
-      "scored_at": "2026-08-15T14:50:48.274477Z"
+      "score": 62,
+      "review": "BDD 库发新版，在用 Yadda 的可以看升级点，非该栈不必动。",
+      "title_hash": "97e5aabf",
+      "scored_at": "2026-08-15T16:51:59.420271Z"
     },
     "story_203ecf6e9943|cynic|f4237a62": {
       "score": 68,
@@ -5256,6 +5256,48 @@
       "review": "官方教程有具体步骤，但无独立验证，实操后才能确认效果。",
       "title_hash": "36553b2d",
       "scored_at": "2026-08-15T15:44:55.825356Z"
+    },
+    "story_f64b1a3994c2|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "属于AI跨学科预警，不写代码，搞生物安全的才需要盯。",
+      "title_hash": "fc1ac756",
+      "scored_at": "2026-08-15T16:51:55.598925Z"
+    },
+    "story_7fbd0e2e70a1|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "泛泛讨论现状，没有新工具或数据，等具体落地再看。",
+      "title_hash": "bbc20630",
+      "scored_at": "2026-08-15T16:51:57.070535Z"
+    },
+    "story_b235d2a8da13|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "验证 LLM 写的 GPU 代码有实用价值，但没开源就先观望，跑通再入。",
+      "title_hash": "c4df3648",
+      "scored_at": "2026-08-15T16:52:01.765686Z"
+    },
+    "story_d572412cd374|cynic|f4237a62": {
+      "score": 62,
+      "review": "232 倍提升的前提写清楚了吗？怕是只挑了最慢的基线。",
+      "title_hash": "fc779cf7",
+      "scored_at": "2026-08-15T16:52:03.854734Z"
+    },
+    "story_d572412cd374|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有博客自述，无代码无基准，232倍无从验证。",
+      "title_hash": "fc779cf7",
+      "scored_at": "2026-08-15T16:52:06.108017Z"
+    },
+    "story_b004ea508d1a|cynic|f4237a62": {
+      "score": 25,
+      "review": "没demo没截图，图谱只存在于标题里，先做个能用的再说。",
+      "title_hash": "dc65c56e",
+      "scored_at": "2026-08-15T16:52:20.206823Z"
+    },
+    "story_b004ea508d1a|paper-police|966065bf": {
+      "score": 18,
+      "review": "仅HN标题无代码无演示，可编辑图谱如何实现无从验证。",
+      "title_hash": "dc65c56e",
+      "scored_at": "2026-08-15T16:52:22.476441Z"
     }
   }
 }
