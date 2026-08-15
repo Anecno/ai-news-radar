@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:50:48.274662Z",
+  "generated_at": "2026-08-15T15:44:55.825413Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_cec2fecb0919",
-      "title": "Qwen 3.8 27B发布FP8量化权重，性能接近原版",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "省显存是真的，精度损失也是真的，别把'接近'当'一样'。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "权重已开源但无第三方评测，性能声称待独立验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源FP8权重可直接用，显存省一半性能不掉，部署党今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_e27bfcf013b4",
       "title": "OAuth 应用的多个重定向 URI 与 token 刷新 / Multiple redirect URIs and token refresh for OAuth apps",
       "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "多回调 URI 和 token 刷新，做 OAuth 集成的今天就能改配置。"
+        }
+      }
+    },
+    {
+      "story_id": "story_203ecf6e9943",
+      "title": "如何借助 Agent 应用将软件交付工作流接入 GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 68,
+          "review": "指南看着挺全，但跑通流程的演示环境都配好了吗？"
+        },
+        "paper-police": {
+          "score": 48,
+          "review": "官方教程有具体步骤，但无独立验证，实操后才能确认效果。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "官方教程可直接照着做，把交付流程接到 GitHub，但先确认场景是否匹配。"
         }
       }
     }
