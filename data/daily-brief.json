@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T17:35:34.496867Z",
+  "generated_at": "2026-08-15T18:47:36.214986Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7615,
+        "recency": 0.7485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7256,
+        "recency": 0.7131,
         "story_heat": 0.5
       },
       "category": "official",
@@ -228,7 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -311,7 +311,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -328,7 +328,7 @@
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": null,
           "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "summary": "Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nWorking with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nallen@bargi :~/notes$ cat working-with-ai.md\nWorking with AI is less predictable than traditional software. That makes context, clarity, and feedback more valuable.\nAllen Bargi 15 August 2026 2 min read\nFor m",
+          "summary": null,
           "recommend_reason_zh": "AI工作比传统软件更难预测，作者Allen Bargi认为应像领导团队而非写代码，强调共享上下文、清晰意图和反馈，比单纯写提示词更重要。",
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
           "source": "allen.bargi.org",
@@ -378,7 +378,7 @@
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": null,
           "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-          "summary": "Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nWorking with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nallen@bargi :~/notes$ cat working-with-ai.md\nWorking with AI is less predictable than traditional software. That makes context, clarity, and feedback more valuable.\nAllen Bargi 15 August 2026 2 min read\nFor m",
+          "summary": null,
           "recommend_reason_zh": "AI工作比传统软件更难预测，作者Allen Bargi认为应像领导团队而非写代码，强调共享上下文、清晰意图和反馈，比单纯写提示词更重要。",
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
           "source": "allen.bargi.org",
@@ -417,15 +417,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.5653,
+      "importance": 0.5653,
+      "importance_score": 0.5653,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 0.9693,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -440,7 +440,7 @@
         "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
         "title_en": null,
         "title_original": "从事人工智能工作，与其说是编程，不如说是领导工作",
-        "summary": "Working with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nWorking with AI is less predictable than traditional software. That makes leadership skills such as context, clarity, and feedback more valuable.\nallen@bargi :~/notes$ cat working-with-ai.md\nWorking with AI is less predictable than traditional software. That makes context, clarity, and feedback more valuable.\nAllen Bargi 15 August 2026 2 min read\nFor m",
+        "summary": null,
         "recommend_reason_zh": "AI工作比传统软件更难预测，作者Allen Bargi认为应像领导团队而非写代码，强调共享上下文、清晰意图和反馈，比单纯写提示词更重要。",
         "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
         "source": "allen.bargi.org",
@@ -452,7 +452,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -558,15 +558,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.949,
+        "recency": 0.9327,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -593,7 +593,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
+      }
+    },
+    {
+      "story_id": "story_e676b61085b8",
+      "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在思考上胜过数学家，而是在记忆上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": "reply\nhttps://en.wikipedia.org/wiki/J._Robert_Oppenheimer#:~:text=...\nreply\nPeople go whole lives without being able to make it pan out.\nreply\nTheres going to be this field day of low-hanging fruit that ML can round up, but after that I suspect it will be in fits and starts as a “connection maker” rather than some proof producer.\nreply\nreply\nreply\nYour timelines are a bit unambitious. There's nobody expecting to make significant progress with a week of work.\nreply\nreply\nreply\nThe age of humans c",
+          "recommend_reason_zh": "文章借Terry Tao之口指出，证明不是贡献，共享理解才是；并回顾四色定理先例，探讨AI在数学中只是“连接器”而非证明者。",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:47:56.887000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在思考上胜过数学家，而是在记忆上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "recommend_reason_zh": "AI解决数学难题的关键可能不是更强推理，而是近乎无限的符号工作记忆；它能在上下文窗口存下全部方程与中间步骤，突破了人类心算三位数乘法时的工作记忆限制。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在思考上胜过数学家，而是在记忆上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": "reply\nhttps://en.wikipedia.org/wiki/J._Robert_Oppenheimer#:~:text=...\nreply\nPeople go whole lives without being able to make it pan out.\nreply\nTheres going to be this field day of low-hanging fruit that ML can round up, but after that I suspect it will be in fits and starts as a “connection maker” rather than some proof producer.\nreply\nreply\nreply\nYour timelines are a bit unambitious. There's nobody expecting to make significant progress with a week of work.\nreply\nreply\nreply\nThe age of humans c",
+          "recommend_reason_zh": "文章借Terry Tao之口指出，证明不是贡献，共享理解才是；并回顾四色定理先例，探讨AI在数学中只是“连接器”而非证明者。",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:47:56.887000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在思考上胜过数学家，而是在记忆上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "recommend_reason_zh": "AI解决数学难题的关键可能不是更强推理，而是近乎无限的符号工作记忆；它能在上下文窗口存下全部方程与中间步骤，突破了人类心算三位数乘法时的工作记忆限制。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T18:47:56.887000Z",
+      "primary_item": {
+        "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+        "title": "AI并非在思考上胜过数学家，而是在记忆上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_zh": "AI并非在思考上胜过数学家，而是在记忆上胜过他们",
+        "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "summary": "reply\nhttps://en.wikipedia.org/wiki/J._Robert_Oppenheimer#:~:text=...\nreply\nPeople go whole lives without being able to make it pan out.\nreply\nTheres going to be this field day of low-hanging fruit that ML can round up, but after that I suspect it will be in fits and starts as a “connection maker” rather than some proof producer.\nreply\nreply\nreply\nYour timelines are a bit unambitious. There's nobody expecting to make significant progress with a week of work.\nreply\nreply\nreply\nThe age of humans c",
+        "recommend_reason_zh": "文章借Terry Tao之口指出，证明不是贡献，共享理解才是；并回顾四色定理先例，探讨AI在数学中只是“连接器”而非证明者。",
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "观点讨论不改变工具选型，深度研究可作背景参考。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -619,7 +731,7 @@
           "published_at": "2026-08-15T16:42:18.456000Z"
         },
         {
-          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
           "title": "AI现在能设计功能性病毒了，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "title_zh": "AI现在能设计功能性病毒了，我们该担心吗？",
           "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
@@ -627,15 +739,15 @@
           "summary": null,
           "recommend_reason_zh": "Stanford University团队用Evo 2基因语言模型从头设计出16个功能性噬菌体，发表于Science，是AI首次生成的完整功能基因组；它们能感染耐药大肠杆菌，也引发生物安全担忧。",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -654,7 +766,7 @@
           "published_at": "2026-08-15T16:42:18.456000Z"
         },
         {
-          "id": "ec044aa1f37fa1f4a7eb4edd58c21c37d836e4a3",
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
           "title": "AI现在能设计功能性病毒了，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "title_zh": "AI现在能设计功能性病毒了，我们该担心吗？",
           "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
@@ -662,23 +774,23 @@
           "summary": null,
           "recommend_reason_zh": "Stanford University团队用Evo 2基因语言模型从头设计出16个功能性噬菌体，发表于Science，是AI首次生成的完整功能基因组；它们能感染耐药大肠杆菌，也引发生物安全担忧。",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9873,
+        "recency": 0.9703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,119 +817,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
-      }
-    },
-    {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:18.456000Z"
-        },
-        {
-          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:18.456000Z"
-        },
-        {
-          "id": "06598c31e6ef82c5c5359fadef65d1dd415a2f4a",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9873,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:42:18.456000Z",
-      "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-        "title_zh": "软件开发中的人工智能现状",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-        "url": "https://news.ycombinator.com/item?id=49310755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "泛泛讨论现状，没有新工具或数据，等具体落地再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -894,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8065,
+        "recency": 0.7927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -929,7 +929,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:42:18.456000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:42:18.456000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9703,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:42:18.456000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+        "title_zh": "软件开发中的人工智能现状",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "泛泛讨论现状，没有新工具或数据，等具体落地再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1006,15 +1118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,7 +1153,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1118,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9586,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,7 +1265,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1230,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9459,
+        "recency": 0.9296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1342,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9309,
+        "recency": 0.9149,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,7 +1489,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1454,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8879,
+        "recency": 0.8726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,7 +1601,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1566,15 +1678,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8579,
+        "recency": 0.8431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,7 +1713,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1678,15 +1790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7715,
+        "recency": 0.7582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1713,7 +1825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     },
     {
@@ -1790,15 +1902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7403,
+        "recency": 0.7276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,7 +1937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T17:45:28.718419Z"
+        "scored_at": "2026-08-15T18:57:06.621829Z"
       }
     }
   ]
