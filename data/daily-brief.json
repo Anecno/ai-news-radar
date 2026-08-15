@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T19:34:35.798125Z",
+  "generated_at": "2026-08-15T20:39:14.065227Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.74,
+        "recency": 0.7286,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
+      }
+    },
+    {
+      "story_id": "story_fe87bc97dd0a",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "此次 SpaceX 正式收购 Cursor，始于4月的流程完成。Cursor 将使用全球最大 GPU 集群，周三发布的 Grok 4.6 初步展示成果，旨在以更低成本提供更强模型，并从代码补全走向构建 AI 队友。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": "Cursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。这标志着始于 4 月的收购流程正式完成。当时，我们宣布与 SpaceXAI 建立合作，以加速模型训练。\n自 Cursor 创办以来，更优秀的模型不断拓展人们能够构建的边界。Cursor 已从补全接下来的几行代码，发展到 构建 AI 队友 ，让你可以将实际工作交给它们。\n与 SpaceX 携手，我们将把这一雄心推进得更远。我们将可使用全球最大的 GPU 集群，获得构建更强大且运行成本更低的模型所需的算力。\n这意味着我们能以更低的成本为客户提供能力更强的模型。我们于 周三发布的 Grok 4.6 ，初步展示了我们如今能够共同打造的成果。SpaceX 正在构建所需的计算能力，将智能扩展到远超当今水平的规模。Cursor 将成为让这种智能发挥实用价值的场所之一。\n对我们而言，这开启了远比最初更广阔的前景，同时也让我们继续从事熟悉的工作。我们依然希望帮助怀揣宏大创意的人们少花时间编写代码，多花时间解决更具挑战性的问题",
+          "recommend_reason_zh": "Cursor 被 SpaceX 正式收购，4 月启动的流程已完成；借助全球最大 GPU 集群，Cursor 将降低模型成本，并发布了 Grok 4.6 展示成果。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "此次 SpaceX 正式收购 Cursor，始于4月的流程完成。Cursor 将使用全球最大 GPU 集群，周三发布的 Grok 4.6 初步展示成果，旨在以更低成本提供更强模型，并从代码补全走向构建 AI 队友。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": "Cursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。这标志着始于 4 月的收购流程正式完成。当时，我们宣布与 SpaceXAI 建立合作，以加速模型训练。\n自 Cursor 创办以来，更优秀的模型不断拓展人们能够构建的边界。Cursor 已从补全接下来的几行代码，发展到 构建 AI 队友 ，让你可以将实际工作交给它们。\n与 SpaceX 携手，我们将把这一雄心推进得更远。我们将可使用全球最大的 GPU 集群，获得构建更强大且运行成本更低的模型所需的算力。\n这意味着我们能以更低的成本为客户提供能力更强的模型。我们于 周三发布的 Grok 4.6 ，初步展示了我们如今能够共同打造的成果。SpaceX 正在构建所需的计算能力，将智能扩展到远超当今水平的规模。Cursor 将成为让这种智能发挥实用价值的场所之一。\n对我们而言，这开启了远比最初更广阔的前景，同时也让我们继续从事熟悉的工作。我们依然希望帮助怀揣宏大创意的人们少花时间编写代码，多花时间解决更具挑战性的问题",
+          "recommend_reason_zh": "Cursor 被 SpaceX 正式收购，4 月启动的流程已完成；借助全球最大 GPU 集群，Cursor 将降低模型成本，并发布了 Grok 4.6 展示成果。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
+      "primary_item": {
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_en": null,
+        "title_original": "Cursor 正式被 SpaceX 收购",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "recommend_reason_zh": "此次 SpaceX 正式收购 Cursor，始于4月的流程完成。Cursor 将使用全球最大 GPU 集群，周三发布的 Grok 4.6 初步展示成果，旨在以更低成本提供更强模型，并从代码补全走向构建 AI 队友。",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "收购案不改变现有 API 和定价，动手写代码的不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -133,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8837,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -168,7 +282,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -185,7 +299,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": null,
           "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "本文指出AI解数学题的优势不在推理更强，而在拥有近乎无限的符号工作记忆，能同时容纳整个题目、数百中间方程与废弃思路，突破人类工作记忆的生物学极限。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "davidepiffer.com",
@@ -235,7 +349,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": null,
           "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "本文指出AI解数学题的优势不在推理更强，而在拥有近乎无限的符号工作记忆，能同时容纳整个题目、数百中间方程与废弃思路，突破人类工作记忆的生物学极限。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "davidepiffer.com",
@@ -274,15 +388,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.996,
+        "recency": 0.9806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -297,7 +411,7 @@
         "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
         "title_en": null,
         "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+        "summary": null,
         "recommend_reason_zh": "本文指出AI解数学题的优势不在推理更强，而在拥有近乎无限的符号工作记忆，能同时容纳整个题目、数百中间方程与废弃思路，突破人类工作记忆的生物学极限。",
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "source": "davidepiffer.com",
@@ -309,7 +423,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -415,15 +529,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5633,
-      "importance": 0.5633,
-      "importance_score": 0.5633,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9584,
+        "recency": 0.9436,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,7 +564,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -556,15 +670,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9222,
+        "recency": 0.908,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -591,7 +705,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
+      }
+    },
+    {
+      "story_id": "story_737248ef9162",
+      "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI药物发现到底进展如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+          "recommend_reason_zh": "通过Veradermics的MINX与VDPHL01案例，揭示AI药物发现实际进展：AI参与缓释口服配方优化，该领域已吸引数亿至十亿美元投资，但效果仍需长期验证。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI药物发现到底进展如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI药物发现到底进展如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+          "recommend_reason_zh": "通过Veradermics的MINX与VDPHL01案例，揭示AI药物发现实际进展：AI参与缓释口服配方优化，该领域已吸引数亿至十亿美元投资，但效果仍需长期验证。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI药物发现到底进展如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9929,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:09:30.973000Z",
+      "primary_item": {
+        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+        "title": "那么，AI药物发现到底进展如何？ / So How Is AI Drug Discovery Doing, Really?",
+        "title_zh": "那么，AI药物发现到底进展如何？",
+        "title_en": "So How Is AI Drug Discovery Doing, Really?",
+        "title_original": "So How Is AI Drug Discovery Doing, Really?",
+        "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+        "recommend_reason_zh": "通过Veradermics的MINX与VDPHL01案例，揭示AI药物发现实际进展：AI参与缓释口服配方优化，该领域已吸引数亿至十亿美元投资，但效果仍需长期验证。",
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "行业中期进展，不写代码的话不用急着跟进，等具体管线结果。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -668,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,119 +929,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
-      }
-    },
-    {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:18.456000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:42:18.456000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9594,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:42:18.456000Z",
-      "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-        "title_zh": "软件开发中的人工智能现状",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
-        "url": "https://news.ycombinator.com/item?id=49310755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "泛泛讨论现状，没有新工具或数据，等具体落地再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -892,15 +1006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7838,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,7 +1041,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:42:18.456000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:42:18.456000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "在这篇《The AI Situation in Software Development》中，Srikanth C 指出给 AI 写 3000 字、4 页的详细规格并不现实，并认为实施时间虽消失，但设计系统与以文字编码的时间反而增加。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9446,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:42:18.456000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+        "title_zh": "软件开发中的人工智能现状",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "recommend_reason_zh": "这篇报道以作者使用Claude进行多线程加速的实例切入，展示AI主动用后台预计算替代等待，并引其“用Java比英语更易表达”的感叹，预判手写代码将不再是主流。",
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "泛泛讨论现状，没有新工具或数据，等具体落地再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1004,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9316,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,7 +1265,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1116,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9316,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1228,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9192,
+        "recency": 0.905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,7 +1489,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1340,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.8907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,7 +1601,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1452,15 +1678,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8628,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1487,7 +1713,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1564,15 +1790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8336,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,7 +1825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     },
     {
@@ -1676,15 +1902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7497,
+        "recency": 0.7381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1711,7 +1937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-15T19:46:19.177481Z"
+        "scored_at": "2026-08-15T20:49:26.111543Z"
       }
     }
   ]
