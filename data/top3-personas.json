@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:49:29.125760Z",
+  "generated_at": "2026-08-15T21:44:59.312874Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -58,21 +58,21 @@
     },
     {
       "story_id": "story_b004ea508d1a",
-      "title": "Show HN：ThoughtDAG —— 可编辑的LLM对话上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://news.ycombinator.com/item?id=49307700",
+      "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+      "url": "https://chenxiachan.github.io/thoughtdag",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "没demo没截图，图谱只存在于标题里，先做个能用的再说。"
+          "score": 55,
+          "review": "概念有点意思，但只有个demo页，没看到实际效果对比。"
         },
         "paper-police": {
-          "score": 18,
-          "review": "仅HN标题无代码无演示，可编辑图谱如何实现无从验证。"
+          "score": 15,
+          "review": "只有项目页和HN讨论，无论文无代码无评测，无法验证效果。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "图谱式上下文编辑，适合调试复杂对话，能跑就用。"
+          "score": 70,
+          "review": "可编辑上下文图思路实用，想折腾LLM对话管理的可以试，但生态未验证。"
         }
       }
     }

@@ -7,24 +7,6 @@
       "title_hash": "e3ccd10b",
       "scored_at": "2026-07-26T00:17:55.076778Z"
     },
-    "story_f8a62f174fa0|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "观点文章无新工具，开发路线无需调整。",
-      "title_hash": "a6200b60",
-      "scored_at": "2026-07-25T21:12:11.224802Z"
-    },
-    "story_f8a62f174fa0|cynic|f4237a62": {
-      "score": 30,
-      "review": "Kubernetes 时刻？先看看有没有K8s的生态和工具链再吹。",
-      "title_hash": "a6200b60",
-      "scored_at": "2026-07-25T21:12:16.977809Z"
-    },
-    "story_f8a62f174fa0|paper-police|966065bf": {
-      "score": 5,
-      "review": "纯观点类比，无论文无代码无数据，查无实据。",
-      "title_hash": "a6200b60",
-      "scored_at": "2026-07-25T21:12:20.246614Z"
-    },
     "story_2fe9abb9e4dd|pragmatic|0a5c5b24": {
       "score": 30,
       "review": "宏观评论，不写代码就别管。",
@@ -5072,10 +5054,10 @@
       "scored_at": "2026-08-15T04:55:27.980675Z"
     },
     "story_b004ea508d1a|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "图谱式上下文编辑，适合调试复杂对话，能跑就用。",
-      "title_hash": "dc65c56e",
-      "scored_at": "2026-08-15T07:15:30.117876Z"
+      "score": 70,
+      "review": "可编辑上下文图思路实用，想折腾LLM对话管理的可以试，但生态未验证。",
+      "title_hash": "22875aae",
+      "scored_at": "2026-08-15T21:44:46.669041Z"
     },
     "story_f83e47ee3c75|pragmatic|0a5c5b24": {
       "score": 45,
@@ -5240,16 +5222,16 @@
       "scored_at": "2026-08-15T16:52:06.108017Z"
     },
     "story_b004ea508d1a|cynic|f4237a62": {
-      "score": 25,
-      "review": "没demo没截图，图谱只存在于标题里，先做个能用的再说。",
-      "title_hash": "dc65c56e",
-      "scored_at": "2026-08-15T16:52:20.206823Z"
+      "score": 55,
+      "review": "概念有点意思，但只有个demo页，没看到实际效果对比。",
+      "title_hash": "22875aae",
+      "scored_at": "2026-08-15T21:44:58.054922Z"
     },
     "story_b004ea508d1a|paper-police|966065bf": {
-      "score": 18,
-      "review": "仅HN标题无代码无演示，可编辑图谱如何实现无从验证。",
-      "title_hash": "dc65c56e",
-      "scored_at": "2026-08-15T16:52:22.476441Z"
+      "score": 15,
+      "review": "只有项目页和HN讨论，无论文无代码无评测，无法验证效果。",
+      "title_hash": "22875aae",
+      "scored_at": "2026-08-15T21:44:59.312800Z"
     },
     "story_e676b61085b8|pragmatic|0a5c5b24": {
       "score": 45,
@@ -5264,10 +5246,22 @@
       "scored_at": "2026-08-15T20:49:27.320949Z"
     },
     "story_737248ef9162|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "行业中期进展，不写代码的话不用急着跟进，等具体管线结果。",
-      "title_hash": "a5127c39",
-      "scored_at": "2026-08-15T20:49:29.125565Z"
+      "score": 45,
+      "review": "行业综述，无新模型或工具，做药物研发的可扫一眼。",
+      "title_hash": "4d7d94bb",
+      "scored_at": "2026-08-15T21:44:44.613580Z"
+    },
+    "story_6a65f744a5e9|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "批评性文章，未涉及具体工具变化，暂不影响选型。",
+      "title_hash": "0d53b07e",
+      "scored_at": "2026-08-15T21:44:50.014406Z"
+    },
+    "story_79edf3446ec2|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "宏观评论，不写代码，等具体产品再关注。",
+      "title_hash": "e9de78fb",
+      "scored_at": "2026-08-15T21:44:55.274266Z"
     }
   }
 }
