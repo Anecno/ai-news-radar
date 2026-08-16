@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:53:48.073972Z",
+  "generated_at": "2026-08-16T14:46:30.879267Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_dfcb40835c8c",
-      "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
+      "story_id": "story_ad56c119c312",
+      "title": "Claude更新核心系统提示 覆盖网页及iOS/Android应用",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "给 38 美元的屏写 HUD，这是把省钱和折腾都玩明白了。"
+          "score": 65,
+          "review": "系统提示更新是常态，但行为改变才是关键，别拿文档凑数。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有标题没有代码和实测数据，无法验证HUD功能与成本。"
+          "score": 45,
+          "review": "官方文档更新有细节，但无代码无第三方验证，待复现确认。"
         },
         "pragmatic": {
           "score": 65,
-          "review": "低成本 DIY 监控 Claude 用量，动手党可照着抄，非刚需但实用。"
+          "review": "系统提示变了可能影响应用行为，先跑测试再上线。"
         }
       }
     }
