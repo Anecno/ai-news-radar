@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:48:44.006918Z",
+  "generated_at": "2026-08-16T11:45:32.686663Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_d572412cd374",
-      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-      "url": "https://sankalp.bearblog.dev/autoresearch",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "232 倍提升的前提写清楚了吗？怕是只挑了最慢的基线。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "只有博客自述，无代码无基准，232倍无从验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "自动研究优化内核的实战案例，方法可借鉴，效果看场景。"
-        }
-      }
-    },
-    {
       "story_id": "story_3415e330fba4",
       "title": "AI辅助将25万行老旧天气模拟代码移植至GPU / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
       "url": "https://news.ycombinator.com/item?id=49314967",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -60,7 +40,7 @@
       "story_id": "story_e5da5f0992d1",
       "title": "ProofRun——面向 AI 编程代理的本地验证凭证 / ProofRun – a local verification receipt for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=49316605",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 60,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 68,
           "review": "本地验证凭证可补强 CI 信任链，先看文档再决定接不接。"
+        }
+      }
+    },
+    {
+      "story_id": "story_dfcb40835c8c",
+      "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "给 38 美元的屏写 HUD，这是把省钱和折腾都玩明白了。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有标题没有代码和实测数据，无法验证HUD功能与成本。"
+        },
+        "pragmatic": {
+          "score": 65,
+          "review": "低成本 DIY 监控 Claude 用量，动手党可照着抄，非刚需但实用。"
         }
       }
     }
