@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T21:34:12.710700Z",
+  "generated_at": "2026-08-16T22:37:02.690837Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7676,
+        "recency": 0.7561,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -197,7 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9422,
+        "recency": 0.928,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -338,44 +338,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
-      "story_id": "story_a23b56bee6e9",
-      "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://news.ycombinator.com/item?id=49323381",
-      "primary_url": "https://news.ycombinator.com/item?id=49323381",
+      "story_id": "story_1e07c512b23d",
+      "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://news.ycombinator.com/item?id=49323620",
+      "primary_url": "https://news.ycombinator.com/item?id=49323620",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": "reply\nhttps://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nI haven't seen much evidence that model routing is being widely used yet. I think it's still more of an experimental mechanism right now.\nreply\nreply\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider of ",
-          "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
-          "url": "https://news.ycombinator.com/item?id=49323381",
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_zh": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元",
+          "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_original": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "summary": "reply\nreply\nreply\nreply\nreply\nChiba has cheaper electricity and a more capable grid for the industrial type usage levels they need to drive.\nreply\nreply\nAPI prices are paid by companies getting tens of millions of dollars of value. In normal life money is the key constraint; buy this don't buy that etc.  - whereas in VC funded companies the constraint is time. If you as a founder get funding and don't spend it fast enough you put yourself at serious risk of being replaced. When enough of the wor",
+          "recommend_reason_zh": "Anthropic IPO估值押注2028年达1900-2000亿美元收入，其毛利率现仅40%-60%，目标77%，且75%-85%收入来自企业客户，API每token收入达消费端3-5倍。",
+          "url": "https://news.ycombinator.com/item?id=49323620",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T21:14:49.799000Z"
+          "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_zh": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元",
+          "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_original": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
+          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "source_count": 2,
@@ -385,72 +385,184 @@
       ],
       "items": [
         {
-          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "summary": "reply\nhttps://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nI haven't seen much evidence that model routing is being widely used yet. I think it's still more of an experimental mechanism right now.\nreply\nreply\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider of ",
-          "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
-          "url": "https://news.ycombinator.com/item?id=49323381",
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_zh": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元",
+          "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_original": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "summary": "reply\nreply\nreply\nreply\nreply\nChiba has cheaper electricity and a more capable grid for the industrial type usage levels they need to drive.\nreply\nreply\nAPI prices are paid by companies getting tens of millions of dollars of value. In normal life money is the key constraint; buy this don't buy that etc.  - whereas in VC funded companies the constraint is time. If you as a founder get funding and don't spend it fast enough you put yourself at serious risk of being replaced. When enough of the wor",
+          "recommend_reason_zh": "Anthropic IPO估值押注2028年达1900-2000亿美元收入，其毛利率现仅40%-60%，目标77%，且75%-85%收入来自企业客户，API每token收入达消费端3-5倍。",
+          "url": "https://news.ycombinator.com/item?id=49323620",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T21:14:49.799000Z"
+          "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
-          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
-          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_zh": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元",
+          "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "title_original": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T20:31:16Z"
+          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9947,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T20:31:16Z",
-      "latest_at": "2026-08-16T21:14:49.799000Z",
+      "earliest_at": "2026-08-16T21:00:25Z",
+      "latest_at": "2026-08-16T22:15:06.163000Z",
       "primary_item": {
-        "id": "346161818116422bcfb29c8e94075ad65d0274b2",
-        "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
-        "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "summary": "reply\nhttps://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nI haven't seen much evidence that model routing is being widely used yet. I think it's still more of an experimental mechanism right now.\nreply\nreply\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider of ",
-        "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
-        "url": "https://news.ycombinator.com/item?id=49323381",
+        "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+        "title": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "title_zh": "Anthropic IPO估值取决于2028年收入预测：1900-2000亿美元",
+        "title_en": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "title_original": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "summary": "reply\nreply\nreply\nreply\nreply\nChiba has cheaper electricity and a more capable grid for the industrial type usage levels they need to drive.\nreply\nreply\nAPI prices are paid by companies getting tens of millions of dollars of value. In normal life money is the key constraint; buy this don't buy that etc.  - whereas in VC funded companies the constraint is time. If you as a founder get funding and don't spend it fast enough you put yourself at serious risk of being replaced. When enough of the wor",
+        "recommend_reason_zh": "Anthropic IPO估值押注2028年达1900-2000亿美元收入，其毛利率现仅40%-60%，目标77%，且75%-85%收入来自企业客户，API每token收入达消费端3-5倍。",
+        "url": "https://news.ycombinator.com/item?id=49323620",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "OpenRouter 短期不变，等价格或接入方式变动再动项目。",
+      "persona_score": 25,
+      "persona_review": "估值预测不写代码，等真有产品再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
+      }
+    },
+    {
+      "story_id": "story_6ea5c9d0c11e",
+      "title": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f87ec54de342fd6f1595037476aaf413449cdbfe",
+          "title": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title_zh": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎",
+          "title_en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title_original": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "summary": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.\nIt’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anyth",
+          "recommend_reason_zh": "Anthropic宣布为Claude生成文本添加隐写式水印，通过改变词选择留下概率指纹，作者批评此举牺牲清晰度与语义，违背其“不改变质量”的承诺。",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:53:43Z"
+        },
+        {
+          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
+          "title": "★ Anthropic在Claude中的“水印”文本篡改是对写作的亵渎 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title_zh": "★ Anthropic在Claude中的“水印”文本篡改是对写作的亵渎",
+          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "summary": null,
+          "recommend_reason_zh": "本文批评Anthropic在Claude中采用隐写术嵌入文本水印，牺牲词语选择的自然性，违背其“不改变意义、质量、可读性”的承诺，John Gruber直言这是对写作的亵渎。",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T19:26:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Daring Fireball",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "f87ec54de342fd6f1595037476aaf413449cdbfe",
+          "title": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title_zh": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎",
+          "title_en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "title_original": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "summary": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.\nIt’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anyth",
+          "recommend_reason_zh": "Anthropic宣布为Claude生成文本添加隐写式水印，通过改变词选择留下概率指纹，作者批评此举牺牲清晰度与语义，违背其“不改变质量”的承诺。",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:53:43Z"
+        },
+        {
+          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
+          "title": "★ Anthropic在Claude中的“水印”文本篡改是对写作的亵渎 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title_zh": "★ Anthropic在Claude中的“水印”文本篡改是对写作的亵渎",
+          "title_en": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "title_original": "★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "summary": null,
+          "recommend_reason_zh": "本文批评Anthropic在Claude中采用隐写术嵌入文本水印，牺牲词语选择的自然性，违背其“不改变意义、质量、可读性”的承诺，John Gruber直言这是对写作的亵渎。",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T19:26:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9896,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T19:26:33Z",
+      "latest_at": "2026-08-16T21:53:43Z",
+      "primary_item": {
+        "id": "f87ec54de342fd6f1595037476aaf413449cdbfe",
+        "title": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "title_zh": "Anthropic在Claude中加入的“水印”文本篡改是对写作的亵渎",
+        "title_en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "title_original": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "summary": "It’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anything other than *my* needs should factor into the generation of text *for me* is patently offensive.\nIt’s unacceptable for a tool to sacrifice an iota of clarity, coherence, meaning, quality, etc. for the purpose of embedding hidden clues within the text to suggest its provenance. The idea that anyth",
+        "recommend_reason_zh": "Anthropic宣布为Claude生成文本添加隐写式水印，通过改变词选择留下概率指纹，作者批评此举牺牲清晰度与语义，违背其“不改变质量”的承诺。",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "水印争议属观点讨论，不改变使用方式，开发者不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -556,15 +668,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8425,
+        "recency": 0.8298,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -591,7 +703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -617,7 +729,7 @@
           "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
           "title": "Claude更新核心系统提示词，覆盖网页与iOS/Android应用",
           "title_zh": "Claude更新核心系统提示词，覆盖网页与iOS/Android应用",
           "title_en": "Claude: System Prompts",
@@ -625,15 +737,15 @@
           "summary": null,
           "recommend_reason_zh": "本文详解Claude在web与移动端的系统提示词更新机制：每轮对话注入当前日期，引导模型用Markdown输出代码，但API不受影响；并说明自Claude 4.6起各模型ID为固定快照。",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "platform.claude.com"
       ],
       "items": [
@@ -652,7 +764,7 @@
           "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
           "title": "Claude更新核心系统提示词，覆盖网页与iOS/Android应用",
           "title_zh": "Claude更新核心系统提示词，覆盖网页与iOS/Android应用",
           "title_en": "Claude: System Prompts",
@@ -660,23 +772,23 @@
           "summary": null,
           "recommend_reason_zh": "本文详解Claude在web与移动端的系统提示词更新机制：每轮对话注入当前日期，引导模型用Markdown输出代码，但API不受影响；并说明自Claude 4.6起各模型ID为固定快照。",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.903,
+        "recency": 0.8895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,118 +815,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
-      "story_id": "story_219081828aa3",
-      "title": "Anthropic 详解 Claude 新水印的工作原理 / Anthropic shares more details about how Claude's new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "story_id": "story_96d24a4f2679",
+      "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://news.ycombinator.com/item?id=49323686",
+      "primary_url": "https://news.ycombinator.com/item?id=49323686",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 详解 Claude 新水印的工作原理 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 新水印的工作原理",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic详解Claude新水印机制，回应水印如何实际运作、能否通过编辑隐藏以及对代码的影响，披露更多技术细节。",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_zh": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额",
+          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "summary": "If Nvidia sells hardware for $100B with 75% cross margin, and provides $50 billion in backstop for that same hardware, it would be still be nicely profitable deal ($25B) if the backstop capacity would be a total write-off recovering $0.  Reselling that capacity in some large discount below already low backstop price would increase the profits. It's all those pension funds, sovereign wealth  funds and Softbank getting into that $500 billion deal that will be hurt.\nIt's all those pension funds, so",
+          "recommend_reason_zh": "Nvidia大幅削减对OpenAI基础设施融资的担保额，文章用$100B硬件、75%毛利率、$50B背书的假设测算，指出Softbank及养老基金等可能成为$500B交易中的受损方。",
+          "url": "https://news.ycombinator.com/item?id=49323686",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享 Claude 新水印的工作原理 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享 Claude 新水印的工作原理",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "id": "66192e399f7ec43fd18731703906a2938362c087",
+          "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_zh": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额",
+          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
           "summary": null,
-          "recommend_reason_zh": "Anthropic公开了Claude新水印技术的细节，回答它究竟如何工作、能否通过编辑被隐藏，以及这一机制对代码输出会产生什么影响。",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T21:07:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-          "title": "Anthropic 详解 Claude 新水印的工作原理 / Anthropic shares more details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 新水印的工作原理",
-          "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic详解Claude新水印机制，回应水印如何实际运作、能否通过编辑隐藏以及对代码的影响，披露更多技术细节。",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T10:03:27Z"
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_zh": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额",
+          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "summary": "If Nvidia sells hardware for $100B with 75% cross margin, and provides $50 billion in backstop for that same hardware, it would be still be nicely profitable deal ($25B) if the backstop capacity would be a total write-off recovering $0.  Reselling that capacity in some large discount below already low backstop price would increase the profits. It's all those pension funds, sovereign wealth  funds and Softbank getting into that $500 billion deal that will be hurt.\nIt's all those pension funds, so",
+          "recommend_reason_zh": "Nvidia大幅削减对OpenAI基础设施融资的担保额，文章用$100B硬件、75%毛利率、$50B背书的假设测算，指出Softbank及养老基金等可能成为$500B交易中的受损方。",
+          "url": "https://news.ycombinator.com/item?id=49323686",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:15:06.163000Z"
         },
         {
-          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
-          "title": "Anthropic 分享 Claude 新水印的工作原理 / Anthropic shares details about how Claude's new watermarks will work",
-          "title_zh": "Anthropic 分享 Claude 新水印的工作原理",
-          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
-          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "id": "66192e399f7ec43fd18731703906a2938362c087",
+          "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_zh": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额",
+          "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
           "summary": null,
-          "recommend_reason_zh": "Anthropic公开了Claude新水印技术的细节，回答它究竟如何工作、能否通过编辑被隐藏，以及这一机制对代码输出会产生什么影响。",
-          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-15T22:07:08Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T21:07:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8468,
+        "recency": 0.9947,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T22:07:08Z",
-      "latest_at": "2026-08-16T10:03:27Z",
+      "earliest_at": "2026-08-16T21:07:10Z",
+      "latest_at": "2026-08-16T22:15:06.163000Z",
       "primary_item": {
-        "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
-        "title": "Anthropic 详解 Claude 新水印的工作原理 / Anthropic shares more details about how Claude's new watermarks will work",
-        "title_zh": "Anthropic 详解 Claude 新水印的工作原理",
-        "title_en": "Anthropic shares more details about how Claude's new watermarks will work",
-        "title_original": "Anthropic shares more details about how Claude's new watermarks will work",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic详解Claude新水印机制，回应水印如何实际运作、能否通过编辑隐藏以及对代码的影响，披露更多技术细节。",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+        "title": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "title_zh": "Nvidia大幅减少其可能为OpenAI基础设施融资提供的担保金额",
+        "title_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "title_original": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "summary": "If Nvidia sells hardware for $100B with 75% cross margin, and provides $50 billion in backstop for that same hardware, it would be still be nicely profitable deal ($25B) if the backstop capacity would be a total write-off recovering $0.  Reselling that capacity in some large discount below already low backstop price would increase the profits. It's all those pension funds, sovereign wealth  funds and Softbank getting into that $500 billion deal that will be hurt.\nIt's all those pension funds, so",
+        "recommend_reason_zh": "Nvidia大幅削减对OpenAI基础设施融资的担保额，文章用$100B硬件、75%毛利率、$50B背书的假设测算，指出Softbank及养老基金等可能成为$500B交易中的受损方。",
+        "url": "https://news.ycombinator.com/item?id=49323686",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "水印原理对普通开发者无直接影响，做内容审核的可以瞄一眼。",
+      "persona_score": 22,
+      "persona_review": "融资担保数字变动不写代码，等有实质产品再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
+      }
+    },
+    {
+      "story_id": "story_a23b56bee6e9",
+      "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://news.ycombinator.com/item?id=49323381",
+      "primary_url": "https://news.ycombinator.com/item?id=49323381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9804,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T20:31:16Z",
+      "latest_at": "2026-08-16T21:14:49.799000Z",
+      "primary_item": {
+        "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+        "title": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_zh": "Stripe 敲定超 70 亿美元协议，收购 AI 公司 OpenRouter",
+        "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "summary": null,
+        "recommend_reason_zh": "Stripe以超70亿美元收购AI公司OpenRouter，这家公司的核心价值是统一API与集中计费，开发者无需改代码即可切换模型，值得阅读。",
+        "url": "https://news.ycombinator.com/item?id=49323381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "OpenRouter 短期不变，等价格或接入方式变动再动项目。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -891,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8986,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,7 +1151,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -952,7 +1177,7 @@
           "published_at": "2026-08-16T15:12:34.771000Z"
         },
         {
-          "id": "8850383390b70c74f8faa664aa93000ad2553f63",
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
           "title": "Show HN：一个所有用户共享记忆的公共AI / Show HN: A public AI whose memory is shared across all users",
           "title_zh": "Show HN：一个所有用户共享记忆的公共AI",
           "title_en": "Show HN: A public AI whose memory is shared across all users",
@@ -960,15 +1185,15 @@
           "summary": null,
           "recommend_reason_zh": "Wild Static推出共享单一记忆的公共AI，记忆池对所有用户开放且永不重置，你的每次互动都会改变他人体验——大胆实验还是自毁，取决于所有人。",
           "url": "https://wildstatic.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T13:21:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -987,7 +1212,7 @@
           "published_at": "2026-08-16T15:12:34.771000Z"
         },
         {
-          "id": "8850383390b70c74f8faa664aa93000ad2553f63",
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
           "title": "Show HN：一个所有用户共享记忆的公共AI / Show HN: A public AI whose memory is shared across all users",
           "title_zh": "Show HN：一个所有用户共享记忆的公共AI",
           "title_en": "Show HN: A public AI whose memory is shared across all users",
@@ -995,23 +1220,23 @@
           "summary": null,
           "recommend_reason_zh": "Wild Static推出共享单一记忆的公共AI，记忆池对所有用户开放且永不重置，你的每次互动都会改变他人体验——大胆实验还是自毁，取决于所有人。",
           "url": "https://wildstatic.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T13:21:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8986,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1038,7 +1263,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -1115,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8991,
+        "recency": 0.8856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,7 +1375,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -1227,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.5069,
+      "importance": 0.5069,
+      "importance_score": 0.5069,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7959,
+        "recency": 0.7839,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,7 +1487,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -1339,15 +1564,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,7 +1599,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     },
     {
@@ -1451,15 +1676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
+      "score": 0.5018,
+      "importance": 0.5018,
+      "importance_score": 0.5018,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,119 +1711,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
-      }
-    },
-    {
-      "story_id": "story_dfcb40835c8c",
-      "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
-      "primary_url": "https://news.ycombinator.com/item?id=49314594",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_zh": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD",
-          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T23:10:01.607000Z"
-        },
-        {
-          "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
-          "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_zh": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD",
-          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": null,
-          "recommend_reason_zh": "这个项目把38美元的Thermalright Trofeo Vision LCD变成Claude使用量的实时HUD，展示会话/每周限额、token消耗和假设API成本，从macOS通过USB以2fps持续传输。",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_zh": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD",
-          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T23:10:01.607000Z"
-        },
-        {
-          "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
-          "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_zh": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD",
-          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": null,
-          "recommend_reason_zh": "这个项目把38美元的Thermalright Trofeo Vision LCD变成Claude使用量的实时HUD，展示会话/每周限额、token消耗和假设API成本，从macOS通过USB以2fps持续传输。",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7236,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T23:10:01.607000Z",
-      "primary_item": {
-        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-        "title": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "title_zh": "Show HN：38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 用量 HUD",
-        "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "低成本 DIY 监控 Claude 用量，动手党可照着抄，非刚需但实用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T21:39:41.533693Z"
+        "scored_at": "2026-08-16T22:46:18.256162Z"
       }
     }
   ]
