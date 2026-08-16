@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:42:46.950533Z",
+  "generated_at": "2026-08-16T17:33:55.871578Z",
   "window_hours": 24,
   "total_items": 18,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9248,
+        "recency": 0.9135,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -197,7 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -274,15 +274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7425,
+        "recency": 0.7335,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -310,7 +310,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -415,15 +415,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6502,
-      "importance": 0.6502,
-      "importance_score": 0.6502,
+      "score": 0.6486,
+      "importance": 0.6486,
+      "importance_score": 0.6486,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7306,
+        "recency": 0.7217,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -451,7 +451,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -614,15 +614,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.588,
-      "importance": 0.588,
-      "importance_score": 0.588,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8177,
+        "recency": 0.8077,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -649,7 +649,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -736,7 +736,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
           "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "AI并非推理更强，而是拥有近乎无限的外部符号工作记忆，能同时保留整个问题陈述和数百个中间方程，突破了人类工作记忆的生物学限制。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "Hacker News · 24h最热",
@@ -829,7 +829,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
           "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "AI并非推理更强，而是拥有近乎无限的外部符号工作记忆，能同时保留整个问题陈述和数百个中间方程，突破了人类工作记忆的生物学限制。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "Hacker News · 24h最热",
@@ -840,15 +840,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5785,
-      "importance": 0.5785,
-      "importance_score": 0.5785,
+      "score": 0.5768,
+      "importance": 0.5768,
+      "importance_score": 0.5768,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.765,
+        "recency": 0.7557,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -875,7 +875,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
+      }
+    },
+    {
+      "story_id": "story_02084b7684a5",
+      "title": "AI信用转售：经纪人收购初创未用额度再卖出",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "vectoral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "AI信用转售：经纪人收购初创未用额度再卖出",
+          "title_zh": "AI信用转售：经纪人收购初创未用额度再卖出",
+          "title_en": null,
+          "title_original": "人工智能信用转售经济",
+          "summary": "A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount ",
+          "recommend_reason_zh": "这篇报道揭秘AI信用转售经济：中间商从初创公司收购闲置的Anthropic等token信用再转售，日供应额可达10万美元，还出现了AI Credits、CheapCredits等平台及Telegram灰色渠道，并分析40%折扣为何不现实。",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        },
+        {
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
+          "title_zh": "AI积分转售经济疑似套现，linux.do成主要交易平台",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
+          "summary": null,
+          "recommend_reason_zh": "本文聚焦AI信用转售经济：在linux.do论坛上，有人倒卖免费试用额度、无限聊天中继（如ChatGPT）和泄露的公司凭证，将创业公司信用洗成美元。",
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
+          "title_zh": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
+          "summary": null,
+          "recommend_reason_zh": "本文调查AI积分转售经济：记者联系token brokers，发现卖家每天供应10万美元Anthropic额度，盘点AI Credits、AICreditMart、CheapCredits等平台与Telegram灰市，并质疑40%折扣难实现。",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T14:44:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "vectoral.com"
+      ],
+      "items": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "AI信用转售：经纪人收购初创未用额度再卖出",
+          "title_zh": "AI信用转售：经纪人收购初创未用额度再卖出",
+          "title_en": null,
+          "title_original": "人工智能信用转售经济",
+          "summary": "A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount ",
+          "recommend_reason_zh": "这篇报道揭秘AI信用转售经济：中间商从初创公司收购闲置的Anthropic等token信用再转售，日供应额可达10万美元，还出现了AI Credits、CheapCredits等平台及Telegram灰色渠道，并分析40%折扣为何不现实。",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        },
+        {
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
+          "title_zh": "AI积分转售经济疑似套现，linux.do成主要交易平台",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
+          "summary": null,
+          "recommend_reason_zh": "本文聚焦AI信用转售经济：在linux.do论坛上，有人倒卖免费试用额度、无限聊天中继（如ChatGPT）和泄露的公司凭证，将创业公司信用洗成美元。",
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
+          "title_zh": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
+          "title_en": "The AI Credit Resale Economy",
+          "title_original": "The AI Credit Resale Economy",
+          "summary": null,
+          "recommend_reason_zh": "本文调查AI积分转售经济：记者联系token brokers，发现卖家每天供应10万美元Anthropic额度，盘点AI Credits、AICreditMart、CheapCredits等平台与Telegram灰市，并质疑40%折扣难实现。",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T14:44:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9983,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T14:44:55Z",
+      "latest_at": "2026-08-16T17:26:39.701000Z",
+      "primary_item": {
+        "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+        "title": "AI信用转售：经纪人收购初创未用额度再卖出",
+        "title_zh": "AI信用转售：经纪人收购初创未用额度再卖出",
+        "title_en": null,
+        "title_original": "人工智能信用转售经济",
+        "summary": "A look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount routers, and the message boards where off-market inference changes hands\nA look at the brokers buying unused AI credits from startups and reselling them — the marketplaces, the bulk-discount ",
+        "recommend_reason_zh": "这篇报道揭秘AI信用转售经济：中间商从初创公司收购闲置的Anthropic等token信用再转售，日供应额可达10万美元，还出现了AI Credits、CheapCredits等平台及Telegram灰色渠道，并分析40%折扣为何不现实。",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "source": "vectoral.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "中间商倒卖API额度，省钱可留意但流动性差，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -981,15 +1122,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8926,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1016,7 +1157,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1093,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,119 +1269,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
-      }
-    },
-    {
-      "story_id": "story_02084b7684a5",
-      "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-      "url": "https://news.ycombinator.com/item?id=49320611",
-      "primary_url": "https://news.ycombinator.com/item?id=49320611",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-          "title_zh": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": "本文聚焦AI信用转售经济：在linux.do论坛上，有人倒卖免费试用额度、无限聊天中继（如ChatGPT）和泄露的公司凭证，将创业公司信用洗成美元。",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
-          "title_zh": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": "本文调查AI积分转售经济：记者联系token brokers，发现卖家每天供应10万美元Anthropic额度，盘点AI Credits、AICreditMart、CheapCredits等平台与Telegram灰市，并质疑40%折扣难实现。",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-          "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-          "title_zh": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": "本文聚焦AI信用转售经济：在linux.do论坛上，有人倒卖免费试用额度、无限聊天中继（如ChatGPT）和泄露的公司凭证，将创业公司信用洗成美元。",
-          "url": "https://news.ycombinator.com/item?id=49320611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
-          "title": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
-          "title_zh": "AI积分转售经济：经纪人收购初创公司闲置额度转卖",
-          "title_en": "The AI Credit Resale Economy",
-          "title_original": "The AI Credit Resale Economy",
-          "summary": null,
-          "recommend_reason_zh": "本文调查AI积分转售经济：记者联系token brokers，发现卖家每天供应10万美元Anthropic额度，盘点AI Credits、AICreditMart、CheapCredits等平台与Telegram灰市，并质疑40%折扣难实现。",
-          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T14:44:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9785,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T14:44:55Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
-      "primary_item": {
-        "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
-        "title": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-        "title_zh": "AI积分转售经济疑似套现，linux.do成主要交易平台",
-        "title_en": "The AI Credit Resale Economy",
-        "title_original": "The AI Credit Resale Economy",
-        "summary": null,
-        "recommend_reason_zh": "本文聚焦AI信用转售经济：在linux.do论坛上，有人倒卖免费试用额度、无限聊天中继（如ChatGPT）和泄露的公司凭证，将创业公司信用洗成美元。",
-        "url": "https://news.ycombinator.com/item?id=49320611",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "灰产套现话题，与日常开发无关，不必关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1317,15 +1346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9785,
+        "recency": 0.9666,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,7 +1381,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1429,15 +1458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9785,
+        "recency": 0.9666,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,7 +1493,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1495,7 +1524,7 @@
           "title_zh": "摒弃“感觉”的 AI 编程",
           "title_en": "AI Coding Without the Vibes",
           "title_original": "AI Coding Without the Vibes",
-          "summary": "This question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).\nThis question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).\nWe spend a lot of effort these days trying to figure out how to stop students cheating with AI. It’s necessary, but it’s not the most satisfying part of the",
+          "summary": null,
           "recommend_reason_zh": "这篇文章从“该告诉学生如何用AI”出发，主张把工作分成“执行”与“检查”两阶段：AI尚不能同时做好两者，完全依赖Claude最高档烧token，可能最终让代码库沦为不可维护的混乱。",
           "url": "https://peterbloem.nl/blog/craft-coding",
           "source": "Hacker News · 24h最热",
@@ -1530,7 +1559,7 @@
           "title_zh": "摒弃“感觉”的 AI 编程",
           "title_en": "AI Coding Without the Vibes",
           "title_original": "AI Coding Without the Vibes",
-          "summary": "This question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).\nThis question---what we should tell students to do with AI---is a good trigger to think about what we ourselves should be doing (which is what this essay is really about).\nWe spend a lot of effort these days trying to figure out how to stop students cheating with AI. It’s necessary, but it’s not the most satisfying part of the",
+          "summary": null,
           "recommend_reason_zh": "这篇文章从“该告诉学生如何用AI”出发，主张把工作分成“执行”与“检查”两阶段：AI尚不能同时做好两者，完全依赖Claude最高档烧token，可能最终让代码库沦为不可维护的混乱。",
           "url": "https://peterbloem.nl/blog/craft-coding",
           "source": "Hacker News · 24h最热",
@@ -1541,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9645,
+        "recency": 0.9527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1576,7 +1605,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1653,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5176,
+      "importance": 0.5176,
+      "importance_score": 0.5176,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8537,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1688,7 +1717,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1765,15 +1794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.823,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1800,7 +1829,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1877,15 +1906,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5139,
-      "importance": 0.5139,
-      "importance_score": 0.5139,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.823,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1912,7 +1941,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -1989,15 +2018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7762,
+        "recency": 0.7667,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2024,7 +2053,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -2101,15 +2130,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.7448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2136,7 +2165,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     },
     {
@@ -2213,15 +2242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.7448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2248,7 +2277,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-16T16:48:51.219436Z"
+        "scored_at": "2026-08-16T17:42:00.711539Z"
       }
     }
   ]
