@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_2d4e47d50fc6|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "模型已开源可下载，安全场景可直接替换测试。",
-      "title_hash": "1aea189f",
-      "scored_at": "2026-07-27T18:53:42.313552Z"
-    },
-    "story_ebe3ddd20f67|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "金融Agent设计教程，有代码和MCP连接器，做相关开发的可以直接抄方案。",
-      "title_hash": "114ead3d",
-      "scored_at": "2026-07-27T18:53:37.153312Z"
-    },
-    "story_6a580af5bd08|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "SGLang和Miles当天支持K3模型，有大规模部署需求的团队可以直接用。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:53:39.878905Z"
-    },
-    "story_eb7b6b649c03|pragmatic|0a5c5b24": {
-      "score": 10,
-      "review": "纯嘴炮预测，没代码没工具，跟开发无关。",
-      "title_hash": "bc9ba99a",
-      "scored_at": "2026-07-27T18:53:43.942824Z"
-    },
-    "story_6a580af5bd08|cynic|f4237a62": {
-      "score": 85,
-      "review": "3万亿参数开源诚意足，但推理成本可不是闹着玩的。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:53:49.245065Z"
-    },
-    "story_6a580af5bd08|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅博客宣称支持，无论文代码或独立验证。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:53:54.801570Z"
-    },
     "story_fdb39a7d1547|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "减少工具切换，今天就能在IDE里体验全流程。建议开启试用看是否适配你的项目。",
@@ -5288,10 +5252,10 @@
       "scored_at": "2026-08-17T14:55:19.872525Z"
     },
     "story_4c94bc9d56c4|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "行业动向，跟今天写代码无关，知道就好。",
-      "title_hash": "38776e16",
-      "scored_at": "2026-08-17T15:50:13.697689Z"
+      "score": 45,
+      "review": "AI训练数据来源的伦理争议，从业者需关注版权风险，但暂无直接可操作影响。",
+      "title_hash": "5738e771",
+      "scored_at": "2026-08-17T19:11:51.230665Z"
     },
     "story_e8417ef9f36f|pragmatic|0a5c5b24": {
       "score": 78,
@@ -5310,6 +5274,24 @@
       "review": "官方博客讲概念，无论文无代码无跑分，效率提升缺证据。",
       "title_hash": "8c440672",
       "scored_at": "2026-08-17T16:59:13.686361Z"
+    },
+    "story_92ad1be47cb2|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "想躲开系统自带 AI 的可以照抄，覆盖主流平台，今天就能动手。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:11:53.270242Z"
+    },
+    "story_92ad1be47cb2|cynic|f4237a62": {
+      "score": 62,
+      "review": "这类指南不少，真能一键关干净的有几个？还是先教教怎么别被自动更新装回来。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:11:55.482637Z"
+    },
+    "story_92ad1be47cb2|paper-police|966065bf": {
+      "score": 45,
+      "review": "操作指南有细节但无官方验证，复用性和时效性待考。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:11:58.825868Z"
     }
   }
 }
