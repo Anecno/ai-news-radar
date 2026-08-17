@@ -39066,5 +39066,22 @@
   "re1|de273c80ca2a053d27d3f437317eca6cc546f4c3": "本文以Red queen hypothesis为新框架，阐释自我改进AI如何通过该假说实现持续进步，提供了AI研究的一种演化视角。",
   "re1|8ff90020d6b36bdcc3e36813e4c2d29ece724020": "",
   "re1|b6908b4951b43ce0a68ac04b3a2b2b9b960744cd": "John Gruber指出Anthropic宣称Claude水印“imperceptible且不改变意义与可读性”，实际却用选词隐写篡改语义，违背自己承诺。",
-  "re1|fc57d3bd8eee72f78ead777eda8f14fec1e5b6f0": "剑桥团队与NVIDIA、Flower Labs合作提出Red Queen Gödel Machine，让AI智能体与评估器共同进化，突破固定测试的天花板，在论文写作与奥数证明任务中使接受率提升至1.78×–1.86倍，评分准确率提高9%。"
+  "re1|fc57d3bd8eee72f78ead777eda8f14fec1e5b6f0": "剑桥团队与NVIDIA、Flower Labs合作提出Red Queen Gödel Machine，让AI智能体与评估器共同进化，突破固定测试的天花板，在论文写作与奥数证明任务中使接受率提升至1.78×–1.86倍，评分准确率提高9%。",
+  "ds1|Anthropic Criticized For Adding Watermarks to Text that Claude Generates - or Processes": "Anthropic因给Claude生成或处理的文本添加水印而遭到批评",
+  "ds1|Anthropic CEO says the way for AI to win over the public is to cure cancer": "Anthropic CEO：AI要赢得公众信任，就得治愈癌症",
+  "re1|01a20b431098569360f1d6c918f09288736524f1": "OpenAI工程师Tibo宣布，Codex中的GPT-5.6 Sol已将百万Token上下文窗口从API key扩展到ChatGPT账号，Plus、Pro订阅用户可手动开启近105万Token，适合大型代码库重构。",
+  "re1|4205f23509a11735f559c71969c007324b694939": "OpenAI CEO Sam Altman公开表示大学读两年就够，称在Stanford两年已学到创业所需核心知识，多留两年收益甚微；但他仍肯定校园社交价值，质疑传统四年制在技术时代的性价比。",
+  "re1|84c911266e5255c99d0bcc88af70dcdcbad1c011": "本文详述SpaceX以600亿美元完成年度最大并购，将AI编程助手Cursor收归麾下；借助世界最大GPU集群，Cursor将获得空前算力，加速模型训练，并催生更低成本、更强性能的下一代AI模型。",
+  "re1|ae7f57d17e7ea7b007e542652d6692a713b5314d": "在第32届全国大豆研究生产研讨会上，安徽农业大学王晓波团队发布“丰菽”2.0，整合基因组、蛋白质组、转录组及育种记录，通过多模型协同分析减少单一模型偏差，助力智能育种。",
+  "re1|1fec60431b4063cbc465c9a924664b45b73c0796": "Stripe以逾70亿美元收购AI基础设施初创公司OpenRouter，后者拥有800万用户、超400个AI模型，B轮估值13亿美元。这笔交易如何改变AI模型分发格局，值得一读。",
+  "re1|e8ca461a3162784aa8a536b2e3360482939567eb": "Codex更新后，工程师Tibo宣布GPT-5.6Sol的百万Token上下文全面开放，ChatGPT Plus和Pro用户可手动配置约105万Token的上下文窗口，解决大型项目维护和长会话痛点。",
+  "re1|3a66fa0247acd6d639618bd6274a126256f0aa83": "贾跃亭8月17日宣布FF机器人业务拟独立上市，摆脱历史包袱与汽车债务，目标年底出货2000台，并拓展加州、德州、纽约及美东，同时用NVIDIA技术栈训练GR00T，让SONIC系统从仿真走向实机控制。",
+  "re1|5fd407d0dc1fc0992daf8685e19ef654bd0e8b7f": "DeepSeek API将于8月17日起实行峰谷定价：闲时价格仅为高峰一半，高峰时段为每天9-12点、14-18点；V4Flash每百万tokens输入低至0.1元，V4Pro输出最高27元，较初始定价最高涨11倍。",
+  "re1|eff844966d06434dcab4467e683c0de465580502": "女子以“Jane Doe No. 4”身份加入诉讼，指控继父用Grok将她11岁童年照篡改成超7000张露骨图，警方搜查后继父自杀，揭露AI工具滥用风险。",
+  "re1|9baeb06be99872dc8365dc376f176c7d74a8fdef": "甲骨文AI战略聚焦可量化成效，智能体进数据库，OCI多云连接AWS、GCP免出向流量费，AIBS方法论要求项目必须进生产环境并产生收入或成本改善。",
+  "re1|1a245d496a43f896b7531074b2033af7f23d28eb": "Dropbox 通过 MCP 与内部知识系统 Dash 将安全设计产物直接接入代码审查流程，解决安全要求从设计到实现脱节的问题，让威胁模型在评审中主动可见。",
+  "re1|e4ac47b4dec6080aa2e00ae14b6684b75c810b8a": "Netflix详述用Triton管理模型、vLLM执行推理的内部LLM服务平台，并固定兼容版本防部署失败，还解决了约束解码时状态同步的挑战。",
+  "re1|1c78975aa6e516853e46ebb334a25e53fc83c590": "Anthropic因给Claude生成或处理的文本添加隐形水印而遭批评：水印靠微妙改变AI用词实现人眼不可察的聚合模式，但移除几乎零成本——用Google Translate或Grammarly即可。",
+  "re1|f40bc350553f5bf3e6d1f996b91bc6f6f7d08ad7": "",
+  "re1|3a0e543af8fb1cec176f7535c278bcfefe552821": "Anthropic CEO Dario Amodei承认AI行业过度承诺，称治愈癌症才是赢回信任之道；文章引用Pew数据指约半数美国人因AI更担忧，并提到Demis Hassabis与Yann LeCun对风险警告和闭源策略的批评。"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T02:07:10.158633Z",
+  "generated_at": "2026-08-17T03:22:06.062595Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_49a27a8cb3e7",
+      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+      "url": "https://www.aibase.com/news/30389",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 25,
+          "review": "GPT-5.6这版本号怕不是自己编的，百万上下文拿官方文档验验再说。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "仅新闻标题宣称放开，无论文代码评测，无法验证真伪。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "百万上下文直接可用，长文档处理今天就能上，无需额外申请。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5014b5e051ff",
+      "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
+      "url": "https://www.aibase.com/news/30387",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "百万上下文刚开放就敢叫终极形态，等用户跑完真实项目再吹不迟。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "新闻通稿宣称性能，无论文无代码无评测，等实测再说。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "Codex 百万上下文开放，长项目重构可直接上手，白嫖窗口别错过。"
+        }
+      }
+    },
+    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 80,
           "review": "模型能用了但默认参数爱绕弯，部署时记得调低推理强度省 token。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c1a732f09d1c",
-      "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
-      "url": "https://www.aibase.com/news/30368",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 48,
-          "review": "峰谷定价学公交涨价，性能没翻倍倒先学会翻倍收钱了。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅媒体转述，无官方公告链接，峰谷定价细节无法核实。"
-        },
-        "pragmatic": {
-          "score": 76,
-          "review": "高峰期成本翻倍，批量任务得错峰跑；V4-Pro转正可商用，值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_75793499e459",
-      "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
-      "url": "https://www.aibase.com/news/30375",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "插件级改动叫'重大'，底层模型没动，宣传文案倒是先升级了。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有媒体报道，无官方文档或演示，功能真假待验。"
-        },
-        "pragmatic": {
-          "score": 75,
-          "review": "办公党省事，直接改云盘文件不用来回导，今儿就能试。"
         }
       }
     }
