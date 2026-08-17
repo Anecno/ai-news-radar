@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:42:12.009833Z",
+  "generated_at": "2026-08-17T20:44:26.314462Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8622,
-      "importance": 0.8622,
-      "importance_score": 0.8622,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9719,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -230,7 +230,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+        "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 80,
+      "persona_review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -307,15 +392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8146,
+        "recency": 0.8025,
         "story_heat": 0.25
       },
       "category": "official",
@@ -345,7 +430,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -393,15 +478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9479,
+        "recency": 0.9338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,7 +515,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -478,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8445,
+        "recency": 0.832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,7 +600,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -650,15 +735,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.9608,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -687,7 +772,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -735,15 +820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8087,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,7 +857,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -820,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9023,
+        "recency": 0.8888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +941,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -904,15 +989,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,7 +1025,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -988,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7885,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1025,7 +1110,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1073,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,7 +1194,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1157,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,7 +1277,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1240,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7311,
+        "recency": 0.7202,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1360,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1323,15 +1408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,7 +1443,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1406,15 +1491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1441,7 +1526,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1489,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1524,7 +1609,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1555,7 +1640,7 @@
           "title_zh": "以卖书起家的Amazon正在销毁珍稀文本以训练AI",
           "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": "reply\nreply\nThis is the legal loophole that they know or hope allows them to do what they need to do, and the benefit of doing it outweighs the modicum of outrage this title will generate.\nreply\nreply\nreply\nreply\nreply\nreply\n\"They're allowed to be a hypocrite\" doesn't mean they aren't a hypocrite.\nreply\nreply\nYes, this is a result of copyright laws. The other commenters are wrong/uninformed. If it was up to the companies training LLMs, they wouldn't destroy the books: It's a waste of company res",
+          "summary": null,
           "recommend_reason_zh": "Amazon因美国版权法要求，扫描后必须销毁实体书，为训练AI正大量毁掉稀有文本；这篇报道揭示了法律漏洞与科技巨头在版权合规中的争议选择。",
           "url": "https://news.ycombinator.com/item?id=49335216",
           "source": "hackernews",
@@ -1590,7 +1675,7 @@
           "title_zh": "以卖书起家的Amazon正在销毁珍稀文本以训练AI",
           "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": "reply\nreply\nThis is the legal loophole that they know or hope allows them to do what they need to do, and the benefit of doing it outweighs the modicum of outrage this title will generate.\nreply\nreply\nreply\nreply\nreply\nreply\n\"They're allowed to be a hypocrite\" doesn't mean they aren't a hypocrite.\nreply\nreply\nYes, this is a result of copyright laws. The other commenters are wrong/uninformed. If it was up to the companies training LLMs, they wouldn't destroy the books: It's a waste of company res",
+          "summary": null,
           "recommend_reason_zh": "Amazon因美国版权法要求，扫描后必须销毁实体书，为训练AI正大量毁掉稀有文本；这篇报道揭示了法律漏洞与科技巨头在版权合规中的争议选择。",
           "url": "https://news.ycombinator.com/item?id=49335216",
           "source": "hackernews",
@@ -1601,15 +1686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.641,
-      "importance": 0.641,
-      "importance_score": 0.641,
+      "score": 0.6384,
+      "importance": 0.6384,
+      "importance_score": 0.6384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9568,
+        "recency": 0.9426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,7 +1721,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1684,15 +1769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1719,7 +1804,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1795,15 +1880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6191,
-      "importance": 0.6191,
-      "importance_score": 0.6191,
+      "score": 0.6167,
+      "importance": 0.6167,
+      "importance_score": 0.6167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8813,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1830,7 +1915,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     },
     {
@@ -1993,15 +2078,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.6132,
+      "importance": 0.6132,
+      "importance_score": 0.6132,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9723,
+        "recency": 0.9578,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -2028,90 +2113,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
-      }
-    },
-    {
-      "story_id": "story_d11d05f89a66",
-      "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-      "url": "https://www.aibase.com/news/30401",
-      "primary_url": "https://www.aibase.com/news/30401",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": "康涅狄格州自辩原告在法庭文件中藏下肉眼难辨的白色小字，向AI系统发出“提示注入”以影响判决。法官Walter Spade Jr.称这是美国司法系统首例，虽未奏效，但暴露审案风险。",
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.669947Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d736d87029511dac5e26a44965814f519559f722",
-          "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "title_en": null,
-          "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-          "summary": null,
-          "recommend_reason_zh": "康涅狄格州自辩原告在法庭文件中藏下肉眼难辨的白色小字，向AI系统发出“提示注入”以影响判决。法官Walter Spade Jr.称这是美国司法系统首例，虽未奏效，但暴露审案风险。",
-          "url": "https://www.aibase.com/news/30401",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:25.669947Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8571,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T09:01:25.669947Z",
-      "latest_at": "2026-08-17T09:01:25.669947Z",
-      "primary_item": {
-        "id": "d736d87029511dac5e26a44965814f519559f722",
-        "title": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_zh": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "title_en": null,
-        "title_original": "美国原告在诉状暗藏 AI 提示词：法官警告\"提示注入\"正侵入法庭",
-        "summary": null,
-        "recommend_reason_zh": "康涅狄格州自辩原告在法庭文件中藏下肉眼难辨的白色小字，向AI系统发出“提示注入”以影响判决。法官Walter Spade Jr.称这是美国司法系统首例，虽未奏效，但暴露审案风险。",
-        "url": "https://www.aibase.com/news/30401",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "提示词注入不是新坑，法庭闹剧对写代码的没直接影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T19:53:30.322680Z"
+        "scored_at": "2026-08-17T20:54:56.732399Z"
       }
     }
   ]

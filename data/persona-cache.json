@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_fdb39a7d1547|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "减少工具切换，今天就能在IDE里体验全流程。建议开启试用看是否适配你的项目。",
-      "title_hash": "1c6bfecf",
-      "scored_at": "2026-07-27T20:49:42.358594Z"
-    },
-    "story_c08b86727d06|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "现象观察，无直接可用工具，看看就好。",
-      "title_hash": "0eeed371",
-      "scored_at": "2026-07-27T20:49:44.420620Z"
-    },
-    "story_ed4f738c2dbe|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "新基准上线，做视觉感知评测的多一个选择，但暂且观望。",
-      "title_hash": "67fc68f4",
-      "scored_at": "2026-07-27T20:49:46.190693Z"
-    },
     "story_3aa98e967d5f|pragmatic|0a5c5b24": {
       "score": 70,
       "review": "团队管理员可收紧Copilot第三方应用权限，避免数据泄露风险。",
@@ -5304,6 +5286,24 @@
       "review": "水印是伦理口水战，不影响今天调 API，纯围观。",
       "title_hash": "a0874a13",
       "scored_at": "2026-08-17T19:53:35.062977Z"
+    },
+    "story_5646c2e72f66|pragmatic|0a5c5b24": {
+      "score": 80,
+      "review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
+      "title_hash": "3ab52e20",
+      "scored_at": "2026-08-17T20:54:59.718835Z"
+    },
+    "story_5646c2e72f66|cynic|f4237a62": {
+      "score": 72,
+      "review": "调度顺序能赚33个点，怕是基线挑得够低。",
+      "title_hash": "3ab52e20",
+      "scored_at": "2026-08-17T20:55:05.146780Z"
+    },
+    "story_5646c2e72f66|paper-police|966065bf": {
+      "score": 58,
+      "review": "博客有具体数字和方案细节，但未见代码或复现路径，待独立验证。",
+      "title_hash": "3ab52e20",
+      "scored_at": "2026-08-17T20:55:07.382772Z"
     }
   }
 }
