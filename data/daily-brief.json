@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:41:31.124792Z",
+  "generated_at": "2026-08-17T23:36:35.260347Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
           "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
           "title_en": null,
           "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": "Aug 17, 2026 · Changelog\nCursor 现在可以托管你的代码。\nOrigin 自即日起在所有付费方案中逐步推出早期 Beta 版。我们首先提供专为智能体规模化而打造的核心功能：代码仓库、PR、代码浏览和 GitHub 同步。智能体原生功能即将推出。\n新的 代码库 选项卡用于管理 Origin 代码仓库。\n点击 +新建 以创建新的代码仓库并为其命名。随后，页面会显示如何安装 CLI，以及克隆代码仓库或推送本地项目所需的命令。推送后，您的代码便会托管在 Origin 上。\n创建第一个代码仓库时，需要为代码库命名。该名称将成为每个代码仓库 URL 的一部分：cursor.com/codebase/ acme-corp 。\n您的 GitHub 代码仓库可以与 Cursor 托管的代码仓库并存。将 GitHub 连接到 Cursor，选择您的组织后，即可看到可同步的代码仓库。选择一个代码仓库，Cursor 就会将其拉取进来。您可以决定同步哪些内容，也可以随时断开代码仓库连接。任何对已同步代码仓库拥有读取或写入权限的人员，也可以在 Cursor 中查看该代码仓库。\n已同步的",
+          "summary": null,
           "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
           "url": "https://cursor.com/changelog/origin-code-hosting",
           "source": "cursor.com",
@@ -96,7 +96,7 @@
           "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
           "title_en": null,
           "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": "Aug 17, 2026 · Changelog\nCursor 现在可以托管你的代码。\nOrigin 自即日起在所有付费方案中逐步推出早期 Beta 版。我们首先提供专为智能体规模化而打造的核心功能：代码仓库、PR、代码浏览和 GitHub 同步。智能体原生功能即将推出。\n新的 代码库 选项卡用于管理 Origin 代码仓库。\n点击 +新建 以创建新的代码仓库并为其命名。随后，页面会显示如何安装 CLI，以及克隆代码仓库或推送本地项目所需的命令。推送后，您的代码便会托管在 Origin 上。\n创建第一个代码仓库时，需要为代码库命名。该名称将成为每个代码仓库 URL 的一部分：cursor.com/codebase/ acme-corp 。\n您的 GitHub 代码仓库可以与 Cursor 托管的代码仓库并存。将 GitHub 连接到 Cursor，选择您的组织后，即可看到可同步的代码仓库。选择一个代码仓库，Cursor 就会将其拉取进来。您可以决定同步哪些内容，也可以随时断开代码仓库连接。任何对已同步代码仓库拥有读取或写入权限的人员，也可以在 Cursor 中查看该代码仓库。\n已同步的",
+          "summary": null,
           "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
           "url": "https://cursor.com/changelog/origin-code-hosting",
           "source": "cursor.com",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8684,
-      "importance": 0.8684,
-      "importance_score": 0.8684,
+      "score": 0.8661,
+      "importance": 0.8661,
+      "importance_score": 0.8661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9803,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8526,
-      "importance": 0.8526,
-      "importance_score": 0.8526,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9587,
+        "recency": 0.9461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -334,15 +334,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7802,
+        "recency": 0.7699,
         "story_heat": 0.25
       },
       "category": "official",
@@ -372,7 +372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -420,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9079,
+        "recency": 0.8959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,7 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -650,15 +650,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8547,
-      "importance": 0.8547,
-      "importance_score": 0.8547,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9449,
+        "recency": 0.9325,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -687,7 +687,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -735,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8088,
+        "recency": 0.7982,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,7 +772,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
+      }
+    },
+    {
+      "story_id": "story_654c10ffc24b",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "primary_url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+          "recommend_reason_zh": "Google ADK用加密签名、gVisor沙箱和语义网关三层机制落实零信任，要求每个写操作验证签名，并开源了基于Gemini的客服退货代理，演示如何防范提示注入与数据库篡改。",
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:22:25.902000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+          "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+          "recommend_reason_zh": "Google ADK用加密签名、gVisor沙箱和语义网关三层机制落实零信任，要求每个写操作验证签名，并开源了基于Gemini的客服退货代理，演示如何防范提示注入与数据库篡改。",
+          "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:22:25.902000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T23:22:25.902000Z",
+      "latest_at": "2026-08-17T23:22:25.902000Z",
+      "primary_item": {
+        "id": "707f5eb71c2096b7bea1f9c983ab98b9b4433d29",
+        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+        "title_zh": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+        "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+        "title_original": "Build zero-trust AI agents with Google's Agent Development Kit",
+        "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+        "recommend_reason_zh": "Google ADK用加密签名、gVisor沙箱和语义网关三层机制落实零信任，要求每个写操作验证签名，并开源了基于Gemini的客服退货代理，演示如何防范提示注入与数据库篡改。",
+        "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 68,
+      "persona_review": "Agent安全加固的官方实践指南，做企业级应用可参考。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -820,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7745,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,7 +941,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -992,15 +1076,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9341,
+        "recency": 0.9218,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1029,7 +1113,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1077,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8528,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,7 +1197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1161,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,7 +1280,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1244,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7552,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1281,7 +1365,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1329,15 +1413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1364,7 +1448,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1412,15 +1496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8423,
+        "recency": 0.8312,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1447,7 +1531,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1495,15 +1579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1530,7 +1614,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1578,15 +1662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1613,7 +1697,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1661,15 +1745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1696,7 +1780,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1773,15 +1857,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6337,
-      "importance": 0.6337,
-      "importance_score": 0.6337,
+      "score": 0.6315,
+      "importance": 0.6315,
+      "importance_score": 0.6315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9164,
+        "recency": 0.9043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1808,7 +1892,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1885,15 +1969,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6292,
-      "importance": 0.6292,
-      "importance_score": 0.6292,
+      "score": 0.6271,
+      "importance": 0.6271,
+      "importance_score": 0.6271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8912,
+        "recency": 0.8795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1920,7 +2004,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     },
     {
@@ -1968,15 +2052,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8209,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2003,118 +2087,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
-      }
-    },
-    {
-      "story_id": "story_af54f92163bc",
-      "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 详解 Claude 隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic详解如何用概率模式为Claude文本添加隐形水印：采用Google DeepMind开源的SynthID-Text，利用词语概率模式留下可检测痕迹，以符合欧盟AI法案，且不增加成本。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-          "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T10:57:13Z"
-        },
-        {
-          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
-          "title": "Anthropic 详解 Claude 隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_zh": "Anthropic 详解 Claude 隐形文本水印的工作原理",
-          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic详解如何用概率模式为Claude文本添加隐形水印：采用Google DeepMind开源的SynthID-Text，利用词语概率模式留下可检测痕迹，以符合欧盟AI法案，且不增加成本。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T10:57:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6124,
-      "importance": 0.6124,
-      "importance_score": 0.6124,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.8441,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T10:57:13Z",
-      "latest_at": "2026-08-17T10:57:13Z",
-      "primary_item": {
-        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
-        "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
-        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "水印机制说明，除非做 AI 内容检测，否则短期用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T22:51:07.857600Z"
+        "scored_at": "2026-08-17T23:46:10.317672Z"
       }
     }
   ]
