@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:40:17.964400Z",
+  "generated_at": "2026-08-17T02:07:10.158633Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_e5da5f0992d1",
-      "title": "ProofRun——面向 AI 编程代理的本地验证凭证 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
+      "story_id": "story_c1a732f09d1c",
+      "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+      "url": "https://www.aibase.com/news/30368",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "本地验证凭证听着新鲜，但没看到怎么防作弊，先跑几个任务看看。"
+          "score": 48,
+          "review": "峰谷定价学公交涨价，性能没翻倍倒先学会翻倍收钱了。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "仅 HN 帖子无论文无代码，验证凭证可行性未证，空谈概念。"
+          "score": 10,
+          "review": "仅媒体转述，无官方公告链接，峰谷定价细节无法核实。"
         },
         "pragmatic": {
-          "score": 68,
-          "review": "本地验证凭证可补强 CI 信任链，先看文档再决定接不接。"
+          "score": 76,
+          "review": "高峰期成本翻倍，批量任务得错峰跑；V4-Pro转正可商用，值得试。"
         }
       }
     },
     {
-      "story_id": "story_ad56c119c312",
-      "title": "Claude更新核心系统提示 覆盖网页及iOS/Android应用",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "story_id": "story_75793499e459",
+      "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+      "url": "https://www.aibase.com/news/30375",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "系统提示更新是常态，但行为改变才是关键，别拿文档凑数。"
+          "score": 45,
+          "review": "插件级改动叫'重大'，底层模型没动，宣传文案倒是先升级了。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方文档更新有细节，但无代码无第三方验证，待复现确认。"
+          "score": 20,
+          "review": "只有媒体报道，无官方文档或演示，功能真假待验。"
         },
         "pragmatic": {
-          "score": 65,
-          "review": "系统提示变了可能影响应用行为，先跑测试再上线。"
+          "score": 75,
+          "review": "办公党省事，直接改云盘文件不用来回导，今儿就能试。"
         }
       }
     }
