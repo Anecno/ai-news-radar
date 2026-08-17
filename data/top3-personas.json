@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:53:50.529524Z",
+  "generated_at": "2026-08-17T22:51:14.769797Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_13ad5c9c5494",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "替代 GitHub 先解决生态和信任问题，光靠编辑器光环不够。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方公告有了但无代码无评测，等第三方验证再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "多一个代码托管选择，想摆脱 GitHub 的可以试试，迁移成本不高。"
+        }
+      }
+    },
+    {
       "story_id": "story_5646c2e72f66",
       "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_e8417ef9f36f",
       "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 78,
           "review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_92ad1be47cb2",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "这类指南不少，真能一键关干净的有几个？还是先教教怎么别被自动更新装回来。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "操作指南有细节但无官方验证，复用性和时效性待考。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "想躲开系统自带 AI 的可以照抄，覆盖主流平台，今天就能动手。"
         }
       }
     }

@@ -1,8 +1,465 @@
 {
-  "generated_at": "2026-08-17T21:41:51.504989Z",
+  "generated_at": "2026-08-17T22:41:31.124792Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_13ad5c9c5494",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "summary": "Aug 17, 2026 · Changelog\nCursor 现在可以托管你的代码。\nOrigin 自即日起在所有付费方案中逐步推出早期 Beta 版。我们首先提供专为智能体规模化而打造的核心功能：代码仓库、PR、代码浏览和 GitHub 同步。智能体原生功能即将推出。\n新的 代码库 选项卡用于管理 Origin 代码仓库。\n点击 +新建 以创建新的代码仓库并为其命名。随后，页面会显示如何安装 CLI，以及克隆代码仓库或推送本地项目所需的命令。推送后，您的代码便会托管在 Origin 上。\n创建第一个代码仓库时，需要为代码库命名。该名称将成为每个代码仓库 URL 的一部分：cursor.com/codebase/ acme-corp 。\n您的 GitHub 代码仓库可以与 Cursor 托管的代码仓库并存。将 GitHub 连接到 Cursor，选择您的组织后，即可看到可同步的代码仓库。选择一个代码仓库，Cursor 就会将其拉取进来。您可以决定同步哪些内容，也可以随时断开代码仓库连接。任何对已同步代码仓库拥有读取或写入权限的人员，也可以在 Cursor 中查看该代码仓库。\n已同步的",
+          "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "431f3a483f7a160512b15bf12fc1baab56d904bd",
+          "title": "Cursor 发布 Origin，对标 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 发布 Origin，对标 GitHub 的替代方案",
+          "title_en": "Cursor launches Origin, GitHub alternative",
+          "title_original": "Cursor launches Origin, GitHub alternative",
+          "summary": null,
+          "recommend_reason_zh": "本文热议Cursor推出的GitHub替代品Origin，既指出其100% CPU占用和仅限付费beta的现状，也探讨AI agent可能误推代码至新供应商的风险，及xAI上传repo引发的信任危机。",
+          "url": "https://news.ycombinator.com/item?id=49334209",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T21:42:14.971000Z"
+        },
+        {
+          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": "Cursor launches Origin, GitHub alternative",
+          "title_original": "Cursor launches Origin, GitHub alternative",
+          "summary": null,
+          "recommend_reason_zh": "Cursor推出Origin，付费Beta支持GitHub PR双向同步与代码浏览，URL含codebase名，集成Vercel、Depot、Buildkite。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:02:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+          "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "title_en": null,
+          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
+          "summary": "Aug 17, 2026 · Changelog\nCursor 现在可以托管你的代码。\nOrigin 自即日起在所有付费方案中逐步推出早期 Beta 版。我们首先提供专为智能体规模化而打造的核心功能：代码仓库、PR、代码浏览和 GitHub 同步。智能体原生功能即将推出。\n新的 代码库 选项卡用于管理 Origin 代码仓库。\n点击 +新建 以创建新的代码仓库并为其命名。随后，页面会显示如何安装 CLI，以及克隆代码仓库或推送本地项目所需的命令。推送后，您的代码便会托管在 Origin 上。\n创建第一个代码仓库时，需要为代码库命名。该名称将成为每个代码仓库 URL 的一部分：cursor.com/codebase/ acme-corp 。\n您的 GitHub 代码仓库可以与 Cursor 托管的代码仓库并存。将 GitHub 连接到 Cursor，选择您的组织后，即可看到可同步的代码仓库。选择一个代码仓库，Cursor 就会将其拉取进来。您可以决定同步哪些内容，也可以随时断开代码仓库连接。任何对已同步代码仓库拥有读取或写入权限的人员，也可以在 Cursor 中查看该代码仓库。\n已同步的",
+          "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T22:14:00.748000Z"
+        },
+        {
+          "id": "431f3a483f7a160512b15bf12fc1baab56d904bd",
+          "title": "Cursor 发布 Origin，对标 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 发布 Origin，对标 GitHub 的替代方案",
+          "title_en": "Cursor launches Origin, GitHub alternative",
+          "title_original": "Cursor launches Origin, GitHub alternative",
+          "summary": null,
+          "recommend_reason_zh": "本文热议Cursor推出的GitHub替代品Origin，既指出其100% CPU占用和仅限付费beta的现状，也探讨AI agent可能误推代码至新供应商的风险，及xAI上传repo引发的信任危机。",
+          "url": "https://news.ycombinator.com/item?id=49334209",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T21:42:14.971000Z"
+        },
+        {
+          "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
+          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title_en": "Cursor launches Origin, GitHub alternative",
+          "title_original": "Cursor launches Origin, GitHub alternative",
+          "summary": null,
+          "recommend_reason_zh": "Cursor推出Origin，付费Beta支持GitHub PR双向同步与代码浏览，URL含codebase名，集成Vercel、Depot、Buildkite。",
+          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:02:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8684,
+      "importance": 0.8684,
+      "importance_score": 0.8684,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9934,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T17:02:44Z",
+      "latest_at": "2026-08-17T22:14:00.748000Z",
+      "primary_item": {
+        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
+        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "title_en": null,
+        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+        "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "多一个代码托管选择，想摆脱 GitHub 的可以试试，迁移成本不高。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T22:51:07.857600Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9587,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": null,
+        "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 80,
+      "persona_review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T22:51:07.857600Z"
+      }
+    },
+    {
+      "story_id": "story_b3a579450c1c",
+      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "primary_url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender’s Window",
+          "title_original": "The Defender’s Window",
+          "summary": null,
+          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:30:00Z"
+        },
+        {
+          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
+          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
+          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+          "title_en": "The Defender's Window",
+          "title_original": "The Defender's Window",
+          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
+          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
+          "url": "https://openai.com/index/the-defenders-window",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T05:30:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7802,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:30:00Z",
+      "latest_at": "2026-08-17T05:30:00Z",
+      "primary_item": {
+        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
+        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
+        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
+        "title_en": "The Defender’s Window",
+        "title_original": "The Defender’s Window",
+        "summary": null,
+        "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
+        "url": "https://openai.com/index/the-defenders-window",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "概念性官宣，没给出可用的防御工具或接口，等实际产品再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T22:51:07.857600Z"
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+          "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
+          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9079,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T16:00:00Z",
+      "latest_at": "2026-08-17T16:00:00Z",
+      "primary_item": {
+        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
+        "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
+        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 78,
+      "persona_review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T22:51:07.857600Z"
+      }
+    },
     {
       "story_id": "story_4c94bc9d56c4",
       "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
@@ -193,15 +650,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8571,
-      "importance": 0.8571,
-      "importance_score": 0.8571,
+      "score": 0.8547,
+      "importance": 0.8547,
+      "importance_score": 0.8547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9449,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -230,292 +687,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
-      }
-    },
-    {
-      "story_id": "story_5646c2e72f66",
-      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
-          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
-          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9726,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
-      "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "summary": null,
-        "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7914,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": null,
-        "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "概念性官宣，没给出可用的防御工具或接口，等实际产品再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
-      }
-    },
-    {
-      "story_id": "story_e8417ef9f36f",
-      "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.921,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T16:00:00Z",
-      "latest_at": "2026-08-17T16:00:00Z",
-      "primary_item": {
-        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-        "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_zh": "画布如何让智能体工作流变得可视、可控且经济高效",
-        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot的canvases让agent工作流不再淹没在聊天记录中，通过Java Modernization Studio等实践，把代理任务变成可视、可审、可验收的共享面板。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -563,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8205,
+        "recency": 0.8088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,7 +772,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
+      }
+    },
+    {
+      "story_id": "story_07b36a6c9f2c",
+      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+          "title_en": "OpenAI joins PORTS-Pike project",
+          "title_original": "OpenAI joins PORTS-Pike project",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+          "title_en": "OpenAI joins PORTS-Pike project",
+          "title_original": "OpenAI joins PORTS-Pike project",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T05:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7745,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:00:00Z",
+      "latest_at": "2026-08-17T05:00:00Z",
+      "primary_item": {
+        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
+        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
+        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
+        "title_en": "OpenAI joins PORTS-Pike project",
+        "title_original": "OpenAI joins PORTS-Pike project",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "合作声明没有可用的API或工具，等具体动作再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -735,15 +992,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.9341,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -772,92 +1029,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
-      }
-    },
-    {
-      "story_id": "story_07b36a6c9f2c",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7857,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-        "title_en": "OpenAI joins PORTS-Pike project",
-        "title_original": "OpenAI joins PORTS-Pike project",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "合作声明没有可用的API或工具，等具体动作再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -905,15 +1077,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8766,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -941,7 +1113,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -989,21 +1161,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-17T12:40:19Z",
       "latest_at": "2026-08-17T12:40:19Z",
@@ -1025,7 +1196,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1073,15 +1244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7661,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1110,7 +1281,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1158,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8747,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,7 +1364,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1241,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8545,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,7 +1447,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1324,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.8321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,7 +1530,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1407,15 +1578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.8321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1442,7 +1613,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1490,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1525,7 +1696,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1602,15 +1773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6361,
-      "importance": 0.6361,
-      "importance_score": 0.6361,
+      "score": 0.6337,
+      "importance": 0.6337,
+      "importance_score": 0.6337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9296,
+        "recency": 0.9164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,7 +1808,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1668,7 +1839,7 @@
           "title_zh": "Apple AirTag 揭露亚马逊为训练 AI 销毁稀有书籍",
           "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
           "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nAmazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nAmazon buys printed books in bulk, scans them for AI training data, and destroys them in the process. That's what an investigation by 404 Media found after placing an AirTag inside a shipment of rare books and tracking it across the country.\nThe shipment ended up at an Amaz",
+          "summary": null,
           "recommend_reason_zh": "404 Media用Apple AirTag追踪，发现Amazon拉斯维加斯VGT3团队为训练Nova模型切书脊扫描珍本书并销毁原书；书商担忧AI公司按ISBN系统性扫描，Anthropic的Project Panama也类似。",
           "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
           "source": "Hacker News · 24h最热",
@@ -1703,7 +1874,7 @@
           "title_zh": "Apple AirTag 揭露亚马逊为训练 AI 销毁稀有书籍",
           "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
           "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nAmazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nAmazon buys printed books in bulk, scans them for AI training data, and destroys them in the process. That's what an investigation by 404 Media found after placing an AirTag inside a shipment of rare books and tracking it across the country.\nThe shipment ended up at an Amaz",
+          "summary": null,
           "recommend_reason_zh": "404 Media用Apple AirTag追踪，发现Amazon拉斯维加斯VGT3团队为训练Nova模型切书脊扫描珍本书并销毁原书；书商担忧AI公司按ISBN系统性扫描，Anthropic的Project Panama也类似。",
           "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
           "source": "Hacker News · 24h最热",
@@ -1714,15 +1885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6315,
-      "importance": 0.6315,
-      "importance_score": 0.6315,
+      "score": 0.6292,
+      "importance": 0.6292,
+      "importance_score": 0.6292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9041,
+        "recency": 0.8912,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1749,7 +1920,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1797,15 +1968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8328,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1832,7 +2003,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     },
     {
@@ -1908,15 +2079,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6146,
-      "importance": 0.6146,
-      "importance_score": 0.6146,
+      "score": 0.6124,
+      "importance": 0.6124,
+      "importance_score": 0.6124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8563,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1943,205 +2114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
-      }
-    },
-    {
-      "story_id": "story_001e17993196",
-      "title": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "url": "https://news.ycombinator.com/item?id=49324087",
-      "primary_url": "https://news.ycombinator.com/item?id=49324087",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "154d9623e102edcdbdae44b1636cb876c68aaef5",
-          "title": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。",
-          "title_en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在Claude中加“水印”遭批：检测需把未发表研究、书籍等私密文本发给多家AI公司，虽误报率低，但小改动即可骗过，且仅对长文本有效。",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T17:45:19.463000Z"
-        },
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": "John Gruber指出Anthropic宣称Claude水印“imperceptible且不改变意义与可读性”，实际却用选词隐写篡改语义，违背自己承诺。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic在Claude中的‘水印’文本篡改，是对写作的亵渎。 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic在Claude中的‘水印’文本篡改，是对写作的亵渎。",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "用户抱怨Anthropic的Claude水印功能毁掉写作辅助体验，称自己用Claude Opus和Fabel改稿时，Claude曾善于把'bananas'改成'airplanes'式精炼，如今却近不可用。",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T23:15:10.042000Z"
-        },
-        {
-          "id": "775e9faef812350e5e975a11c066f5e7cd38bfb6",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic宣布为Claude生成文本添加隐写式水印，通过改变词选择留下概率指纹，作者批评此举牺牲清晰度与语义，违背其“不改变质量”的承诺。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T21:53:43Z"
-        },
-        {
-          "id": "4e50a61646e4843a7c332d0e7a68a9164b15bf32",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "John Gruber批评Anthropic为合规将在全球Claude生成文本中嵌入语义级水印，揭示其“不影响意义、质量”的承诺不实，实为牺牲遣词选择来隐藏来源。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:53:43Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "daringfireball.net",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "154d9623e102edcdbdae44b1636cb876c68aaef5",
-          "title": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。",
-          "title_en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在Claude中加“水印”遭批：检测需把未发表研究、书籍等私密文本发给多家AI公司，虽误报率低，但小改动即可骗过，且仅对长文本有效。",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T17:45:19.463000Z"
-        },
-        {
-          "id": "f713a587ff54b68a52101f457162b00db26d1184",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": null,
-          "title_original": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "summary": null,
-          "recommend_reason_zh": "John Gruber指出Anthropic宣称Claude水印“imperceptible且不改变意义与可读性”，实际却用选词隐写篡改语义，违背自己承诺。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "daringfireball.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T00:06:02.469000Z"
-        },
-        {
-          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
-          "title": "Anthropic在Claude中的‘水印’文本篡改，是对写作的亵渎。 / Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic在Claude中的‘水印’文本篡改，是对写作的亵渎。",
-          "title_en": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "用户抱怨Anthropic的Claude水印功能毁掉写作辅助体验，称自己用Claude Opus和Fabel改稿时，Claude曾善于把'bananas'改成'airplanes'式精炼，如今却近不可用。",
-          "url": "https://news.ycombinator.com/item?id=49324087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T23:15:10.042000Z"
-        },
-        {
-          "id": "775e9faef812350e5e975a11c066f5e7cd38bfb6",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "title_original": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic宣布为Claude生成文本添加隐写式水印，通过改变词选择留下概率指纹，作者批评此举牺牲清晰度与语义，违背其“不改变质量”的承诺。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T21:53:43Z"
-        },
-        {
-          "id": "4e50a61646e4843a7c332d0e7a68a9164b15bf32",
-          "title": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_zh": "Anthropic在Claude中对“Watermark”文本的篡改是对写作的扭曲",
-          "title_en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "title_original": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-          "summary": null,
-          "recommend_reason_zh": "John Gruber批评Anthropic为合规将在全球Claude生成文本中嵌入语义级水印，揭示其“不影响意义、质量”的承诺不实，实为牺牲遣词选择来隐藏来源。",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T21:53:43Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6108,
-      "importance": 0.6108,
-      "importance_score": 0.6108,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9447,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T21:53:43Z",
-      "latest_at": "2026-08-17T17:45:19.463000Z",
-      "primary_item": {
-        "id": "154d9623e102edcdbdae44b1636cb876c68aaef5",
-        "title": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。 / Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-        "title_zh": "Anthropic 在 Claude 文本中掺入“水印”，是对写作的扭曲。",
-        "title_en": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-        "title_original": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic在Claude中加“水印”遭批：检测需把未发表研究、书籍等私密文本发给多家AI公司，虽误报率低，但小改动即可骗过，且仅对长文本有效。",
-        "url": "https://news.ycombinator.com/item?id=49324087",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "水印是伦理口水战，不影响今天调 API，纯围观。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-17T21:53:47.901007Z"
+        "scored_at": "2026-08-17T22:51:07.857600Z"
       }
     }
   ]

@@ -1,18 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3aa98e967d5f|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "团队管理员可收紧Copilot第三方应用权限，避免数据泄露风险。",
-      "title_hash": "800d9062",
-      "scored_at": "2026-07-27T22:23:52.205656Z"
-    },
-    "story_7284fe0b61a4|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "企业IT管理员可在Copilot应用和云代理中统一管控设置，减少运维风险。",
-      "title_hash": "e87d1bac",
-      "scored_at": "2026-07-27T22:23:55.461813Z"
-    },
     "story_f4def218d9f8|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "立场澄清不改变现状，开源自用不受影响，继续关注后续政策。",
@@ -5310,6 +5298,24 @@
       "review": "训练数据版权争议又添一例，做数据合规的得留个心眼。",
       "title_hash": "b4ad83ac",
       "scored_at": "2026-08-17T21:53:50.529379Z"
+    },
+    "story_13ad5c9c5494|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "多一个代码托管选择，想摆脱 GitHub 的可以试试，迁移成本不高。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-17T22:51:09.752934Z"
+    },
+    "story_13ad5c9c5494|cynic|f4237a62": {
+      "score": 55,
+      "review": "替代 GitHub 先解决生态和信任问题，光靠编辑器光环不够。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-17T22:51:12.520644Z"
+    },
+    "story_13ad5c9c5494|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方公告有了但无代码无评测，等第三方验证再定论。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-17T22:51:14.769661Z"
     }
   }
 }
