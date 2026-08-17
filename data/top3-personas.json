@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:50:13.697826Z",
+  "generated_at": "2026-08-17T16:59:13.686444Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_b60199de2cff",
-      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
-      "url": "https://www.aibase.com/news/30399",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "大满贯？先把评测基准名单列全，别只挑自家的强项。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "评测'大满贯'无论文无代码，凭平台新闻不可信。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "语音模型已上线，多模态任务可直接实测，跑ASR/音频理解的今天就能用。"
-        }
-      }
-    },
-    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 80,
           "review": "模型能用了但默认参数爱绕弯，部署时记得调低推理强度省 token。"
+        }
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "可视可控是实打实的，但“经济高效”的账本敢晒出来吗？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客讲概念，无论文无代码无跑分，效率提升缺证据。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。"
         }
       }
     },
