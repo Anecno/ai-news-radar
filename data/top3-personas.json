@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:09:51.366767Z",
+  "generated_at": "2026-08-17T09:11:45.794185Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_49a27a8cb3e7",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "url": "https://www.aibase.com/news/30389",
+      "story_id": "story_b60199de2cff",
+      "title": "阿里Qwen-Audio-3.0系列语音模型上线千问AI平台，斩获国际评测“大满贯”",
+      "url": "https://www.aibase.com/news/30399",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "GPT-5.6这版本号怕不是自己编的，百万上下文拿官方文档验验再说。"
+          "score": 65,
+          "review": "大满贯？先把评测基准名单列全，别只挑自家的强项。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "仅新闻标题宣称放开，无论文代码评测，无法验证真伪。"
+          "score": 10,
+          "review": "评测'大满贯'无论文无代码，凭平台新闻不可信。"
         },
         "pragmatic": {
-          "score": 92,
-          "review": "百万上下文直接可用，长文档处理今天就能上，无需额外申请。"
+          "score": 88,
+          "review": "语音模型已上线，多模态任务可直接实测，跑ASR/音频理解的今天就能用。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_ad56c119c312",
-      "title": "Claude更新核心系统提示 覆盖网页及iOS/Android应用",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "story_id": "story_16a84261d17f",
+      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
+      "url": "https://www.aibase.com/news/30402",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "系统提示更新是常态，但行为改变才是关键，别拿文档凑数。"
+          "score": 45,
+          "review": "远程控制又不是新发明，TeamViewer笑而不语，改个名叫跨设备办公就无边界了？"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方文档更新有细节，但无代码无第三方验证，待复现确认。"
+          "score": 22,
+          "review": "功能描述无评测细节，未开源未复现，仅官方说法待验证。"
         },
         "pragmatic": {
           "score": 65,
-          "review": "系统提示变了可能影响应用行为，先跑测试再上线。"
+          "review": "多设备操控落地，办公族能直接用，开发无新接口可蹭。"
         }
       }
     }
