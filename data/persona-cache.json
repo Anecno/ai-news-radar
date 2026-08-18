@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_bc76c2ce852e|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "IDE 里直接换模型试试，如果代码补全质量更好就用它。",
-      "title_hash": "6e3e1f47",
-      "scored_at": "2026-07-28T22:23:21.449735Z"
-    },
-    "story_390b0667fe65|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "智能体攻击预警，但无具体防御工具，先观望。",
-      "title_hash": "c5f66cb4",
-      "scored_at": "2026-07-28T22:23:24.600810Z"
-    },
-    "story_877f0f256fb6|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "新转录 API 今天可用，低延迟版本适合实时场景，直接集成省事。",
-      "title_hash": "0d5fbb67",
-      "scored_at": "2026-07-28T22:23:26.590821Z"
-    },
-    "story_b4bc426f8eb1|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景阶段，无可用产品，等开放再说。",
-      "title_hash": "938720d0",
-      "scored_at": "2026-07-28T22:23:28.511442Z"
-    },
-    "story_5f39e18da221|pragmatic|0a5c5b24": {
-      "score": 18,
-      "review": "来源存疑，真实性待验证，目前没看到可复现的细节，等官方确认再行动。",
-      "title_hash": "7c80c10e",
-      "scored_at": "2026-07-28T22:23:31.338012Z"
-    },
-    "story_91ce9044f408|pragmatic|0a5c5b24": {
-      "score": 10,
-      "review": "大公司喊口号，开发者等具体动作再跟进。",
-      "title_hash": "32c81dbc",
-      "scored_at": "2026-07-28T22:23:33.200535Z"
-    },
     "story_3a40efc29328|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "直接能用的安全工具，找漏洞和验证，今天就能集成到流水线。",
@@ -5418,6 +5382,42 @@
       "review": "Claude 性能下降会直接拖慢你的任务，先用备用方案顶着吧。",
       "title_hash": "3dce4080",
       "scored_at": "2026-08-18T21:43:24.647239Z"
+    },
+    "story_7de8d1dc0770|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "可以按 token 类型精准撤销，安全排查省事，有凭据管理需求的今天就能用。",
+      "title_hash": "56091ecd",
+      "scored_at": "2026-08-18T22:47:39.159369Z"
+    },
+    "story_02cf85db407e|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "官方小版本更新，没写具体改动，先看changelog再决定升不升。",
+      "title_hash": "7d97e62d",
+      "scored_at": "2026-08-18T22:47:46.446929Z"
+    },
+    "story_7b5d73500e30|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:47:48.443846Z"
+    },
+    "story_e8202dde9923|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "案例展示多于落地工具，做蛋白设计的可参考思路，暂无直接可用的接口。",
+      "title_hash": "588ceeaa",
+      "scored_at": "2026-08-18T22:47:50.091261Z"
+    },
+    "story_7b5d73500e30|cynic|f4237a62": {
+      "score": 82,
+      "review": "真开源了，但吊了两年胃口，生态位还抢得回来吗？",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:47:52.969810Z"
+    },
+    "story_7b5d73500e30|paper-police|966065bf": {
+      "score": 25,
+      "review": "博客只说开源，未见代码仓库和评测，等链接验证。",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:47:58.316172Z"
     }
   }
 }

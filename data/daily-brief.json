@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:38:22.490133Z",
+  "generated_at": "2026-08-18T22:42:00.120224Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8762,
-      "importance": 0.8762,
-      "importance_score": 0.8762,
+      "score": 0.8736,
+      "importance": 0.8736,
+      "importance_score": 0.8736,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.951,
+        "recency": 0.9365,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -192,15 +192,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8594,
-      "importance": 0.8594,
-      "importance_score": 0.8594,
+      "score": 0.857,
+      "importance": 0.857,
+      "importance_score": 0.857,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8576,
+        "recency": 0.8445,
         "story_heat": 0.25
       },
       "category": "official",
@@ -230,63 +230,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
-      "story_id": "story_17c97873294f",
-      "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
+      "story_id": "story_7de8d1dc0770",
+      "title": "按 token 类型撤销凭据与取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "primary_url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全中的民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-          "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按 token 类型撤销凭据与取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按 token 类型撤销凭据与取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭证功能，企业所有者和管理员可单独撤销 Personal access tokens、SSH keys 等特定类型，精准控制安全事件影响范围，避免一次性撤销所有信任凭证。",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全中的民主监督",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-          "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
+          "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+          "title": "按 token 类型撤销凭据与取消授权 / Credential revocation and deauthorization by token type",
+          "title_zh": "按 token 类型撤销凭据与取消授权",
+          "title_en": "Credential revocation and deauthorization by token type",
+          "title_original": "Credential revocation and deauthorization by token type",
+          "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+          "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭证功能，企业所有者和管理员可单独撤销 Personal access tokens、SSH keys 等特定类型，精准控制安全事件影响范围，避免一次性撤销所有信任凭证。",
+          "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "published_at": "2026-08-18T21:57:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9626,
+        "ai_relevance": 0.87,
+        "recency": 0.9893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,27 +295,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-18T19:00:00Z",
+      "earliest_at": "2026-08-18T21:57:30Z",
+      "latest_at": "2026-08-18T21:57:30Z",
       "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
-        "title_zh": "加强国家安全中的民主监督",
-        "title_en": "Strengthening democratic oversight in national security",
-        "title_original": "Strengthening democratic oversight in national security",
-        "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nOpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.\nAugus",
-        "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "source": "OpenAI News",
+        "id": "f4aa758ec0506c171d08b8864e8dfbcca8b1c2d5",
+        "title": "按 token 类型撤销凭据与取消授权 / Credential revocation and deauthorization by token type",
+        "title_zh": "按 token 类型撤销凭据与取消授权",
+        "title_en": "Credential revocation and deauthorization by token type",
+        "title_original": "Credential revocation and deauthorization by token type",
+        "summary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nBuilding on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives you finer-grained control when responding to a compromi",
+        "recommend_reason_zh": "GitHub 新增按令牌类型撤销凭证功能，企业所有者和管理员可单独撤销 Personal access tokens、SSH keys 等特定类型，精准控制安全事件影响范围，避免一次性撤销所有信任凭证。",
+        "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "官方治理表态，暂无直接工具或API变化，不影响今天写代码。",
+      "persona_score": 75,
+      "persona_review": "可以按 token 类型精准撤销，安全排查省事，有凭据管理需求的今天就能用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
+      }
+    },
+    {
+      "story_id": "story_02cf85db407e",
+      "title": "Codex CLI 0.148.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "Codex CLI 0.148.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.148.0",
+          "title_original": "Codex CLI 0.148.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+          "recommend_reason_zh": "Codex CLI 0.148.0带来macOS桌面端的Computer History可选记忆功能，推出Linux桌面预览版，并将安全工具Daybreak拆为Blue/Red两级，分别访问GPT-5.6 Sol和GPT-5.6 Cyber。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+          "title": "Codex CLI 0.148.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.148.0",
+          "title_original": "Codex CLI 0.148.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+          "recommend_reason_zh": "Codex CLI 0.148.0带来macOS桌面端的Computer History可选记忆功能，推出Linux桌面预览版，并将安全工具Daybreak拆为Blue/Red两级，分别访问GPT-5.6 Sol和GPT-5.6 Cyber。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7205,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
+      "primary_item": {
+        "id": "628d16ca26e4ea18a33764992457d12726bd5db4",
+        "title": "Codex CLI 0.148.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.148.0",
+        "title_original": "Codex CLI 0.148.0",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.147.0...rust-v0.148.0\nFull release on Github\nComputer History is an opt-in feature\nin the ChatGPT desktop app on macOS that turns activity across apps and\nwebsites into memories and a timeline that ChatGPT and Codex can use. Choose\nwhich apps and websites contribute, pause collection, and review or delete\nyour history at any time.",
+        "recommend_reason_zh": "Codex CLI 0.148.0带来macOS桌面端的Computer History可选记忆功能，推出Linux桌面预览版，并将安全工具Daybreak拆为Blue/Red两级，分别访问GPT-5.6 Sol和GPT-5.6 Cyber。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 68,
+      "persona_review": "官方小版本更新，没写具体改动，先看changelog再决定升不升。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -392,15 +477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7316,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "official",
@@ -430,121 +515,260 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
-      "story_id": "story_7e601a28e35c",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "primary_url": "https://cursor.com/changelog/origin-code-hosting",
+      "story_id": "story_17c97873294f",
+      "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全中的民主监督",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全中的民主监督",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.948,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T19:00:00Z",
+      "latest_at": "2026-08-18T19:00:00Z",
+      "primary_item": {
+        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+        "title": "加强国家安全中的民主监督 / Strengthening democratic oversight in national security",
+        "title_zh": "加强国家安全中的民主监督",
+        "title_en": "Strengthening democratic oversight in national security",
+        "title_original": "Strengthening democratic oversight in national security",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI启动新倡议，向政府监督机构提供工具、培训和专业知识，以强化国家安全中AI应用的民主监督。文章详述三大原则，强调AI应增强而非取代人类判断，并依据Preparedness Framework进行部署前审查。",
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "官方治理表态，暂无直接工具或API变化，不影响今天写代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T22:47:37.081702Z"
+      }
+    },
+    {
+      "story_id": "story_7b5d73500e30",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "primary_url": "https://www.modular.com/blog/mojo-open-source",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
           "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
+          "recommend_reason_zh": "Mojo语言正式开源，采用Apache 2.0许可并含LLVM例外，编译器与工具链全面开放，此前已开源标准库并发布数十万行内核代码，值得开发者关注。",
+          "url": "https://www.modular.com/blog/mojo-open-source",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
+          "published_at": "2026-08-18T21:26:01.095000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+          "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
           "title_en": null,
-          "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-          "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
+          "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+          "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
+          "recommend_reason_zh": "Mojo语言正式开源，采用Apache 2.0许可并含LLVM例外，编译器与工具链全面开放，此前已开源标准库并发布数十万行内核代码，值得开发者关注。",
+          "url": "https://www.modular.com/blog/mojo-open-source",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00.748000Z"
-        },
-        {
-          "id": "24bf32d9e6fbc3c8e01bfe0ca6b287a3cb352f35",
-          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "title_en": null,
-          "title_original": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-          "summary": null,
-          "recommend_reason_zh": "Cursor推出Origin代码托管服务，早期Beta版覆盖所有付费方案，支持PR双向同步、Vercel预览部署及Depot/Buildkite CI，并可将GitHub仓库实时同步至cursor.com/codebase/。",
-          "url": "https://cursor.com/changelog/origin-code-hosting",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T22:14:00.748000Z"
+          "published_at": "2026-08-18T21:26:01.095000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7132,
-        "story_heat": 0.25
+        "recency": 0.9819,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T22:14:00.748000Z",
-      "latest_at": "2026-08-17T22:14:00.748000Z",
+      "earliest_at": "2026-08-18T21:26:01.095000Z",
+      "latest_at": "2026-08-18T21:26:01.095000Z",
       "primary_item": {
-        "id": "5a4dff0995a2f95891c6c7ac5b66e04e4c21fe92",
-        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+        "id": "c85095d8dff46e7cff0dc8d8bf8ffa15d1d29acf",
+        "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "title_zh": "Mojo 语言正式开源，编译器与工具链全面开放",
         "title_en": null,
-        "title_original": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-        "recommend_reason_zh": "Cursor推出Origin代码托管服务，向所有付费方案开放早期Beta，涵盖代码仓库、PR、代码浏览，支持PR与GitHub双向同步，并集成Vercel、Depot、Buildkite，让代码与智能体同处一处。",
-        "url": "https://cursor.com/changelog/origin-code-hosting",
+        "title_original": "Mojo 语言正式开源，编译器与工具链全面开放",
+        "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
+        "recommend_reason_zh": "Mojo语言正式开源，采用Apache 2.0许可并含LLVM例外，编译器与工具链全面开放，此前已开源标准库并发布数十万行内核代码，值得开发者关注。",
+        "url": "https://www.modular.com/blog/mojo-open-source",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "新托管服务对标 GitHub，但生态迁移成本高，先观望别急换。",
+      "persona_score": 90,
+      "persona_review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
+      }
+    },
+    {
+      "story_id": "story_e8202dde9923",
+      "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "primary_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+          "title_en": "How Claude is accelerating protein design and analytical chemistry",
+          "title_original": "How Claude is accelerating protein design and analytical chemistry",
+          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+          "recommend_reason_zh": "本文介绍Claude加速生命科学研究：它成功设计14/15个蛋白结合靶点，结合成功率22%-35%优于常规10-15%；处理NMR和LC-MS数据仅用23和19分钟，纯度判断与实验室一致。",
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16.191000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+          "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+          "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+          "title_en": "How Claude is accelerating protein design and analytical chemistry",
+          "title_original": "How Claude is accelerating protein design and analytical chemistry",
+          "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+          "recommend_reason_zh": "本文介绍Claude加速生命科学研究：它成功设计14/15个蛋白结合靶点，结合成功率22%-35%优于常规10-15%；处理NMR和LC-MS数据仅用23和19分钟，纯度判断与实验室一致。",
+          "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T22:27:16.191000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T22:27:16.191000Z",
+      "latest_at": "2026-08-18T22:27:16.191000Z",
+      "primary_item": {
+        "id": "2d445d4711836fe1d6d56e649860541e33eb624e",
+        "title": "Claude 如何加速蛋白质设计与分析化学研究 / How Claude is accelerating protein design and analytical chemistry",
+        "title_zh": "Claude 如何加速蛋白质设计与分析化学研究",
+        "title_en": "How Claude is accelerating protein design and analytical chemistry",
+        "title_original": "How Claude is accelerating protein design and analytical chemistry",
+        "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+        "recommend_reason_zh": "本文介绍Claude加速生命科学研究：它成功设计14/15个蛋白结合靶点，结合成功率22%-35%优于常规10-15%；处理NMR和LC-MS数据仅用23和19分钟，纯度判断与实验室一致。",
+        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "案例展示多于落地工具，做蛋白设计的可参考思路，暂无直接可用的接口。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -592,15 +816,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8576,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -629,7 +853,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -705,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.8193,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -742,7 +966,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -790,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -826,7 +1050,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -874,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +1133,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -957,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +1216,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1040,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8576,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1077,7 +1301,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1125,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9687,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,7 +1384,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1208,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,7 +1467,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1291,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8094,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1328,7 +1552,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1376,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.8301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,7 +1635,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1459,15 +1683,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.8301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,7 +1718,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     },
     {
@@ -1542,15 +1766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.8301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1577,401 +1801,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
-      }
-    },
-    {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
-      "primary_url": "https://news.ycombinator.com/item?id=49348751",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-          "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude Code 2026年5月至8月每周限额促销",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
-          "url": "https://news.ycombinator.com/item?id=49348751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T18:57:10.122000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code每周使用限额限时提升50%，5月13日至8月19日期间Pro、Max、Team及legacy seat-based Enterprise用户自动适用，CLI、IDE、桌面和网页全平台生效，5小时使用限制不变，到期恢复原标准。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
-        },
-        {
-          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code宣布限时促销：2026年5月13日至8月19日，周使用限额提升50%，适用于Pro、Max、Team及旧版按席位Enterprise用户，Free与按用量付费Enterprise不适用，自动生效无需操作。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T17:02:15Z"
-        },
-        {
-          "id": "78ba2f3b938a2cee1027f70cccfcf5d926d534bd",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code weekly limits reduce by a third tomorrow",
-          "title_original": "Claude Code weekly limits reduce by a third tomorrow",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code推出限时促销，5月13日至8月19日每周用量限制提高50%，适用于Pro、Max、Team及legacy seat-based Enterprise用户，Free和按量付费企业席不参与，5小时连续使用限制不变。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T17:02:15Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "support.claude.com"
-      ],
-      "items": [
-        {
-          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-          "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude Code 2026年5月至8月每周限额促销",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
-          "url": "https://news.ycombinator.com/item?id=49348751",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T18:57:10.122000Z"
-        },
-        {
-          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
-          "title": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
-          "title_en": null,
-          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code每周使用限额限时提升50%，5月13日至8月19日期间Pro、Max、Team及legacy seat-based Enterprise用户自动适用，CLI、IDE、桌面和网页全平台生效，5小时使用限制不变，到期恢复原标准。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "support.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T18:14:09.002000Z"
-        },
-        {
-          "id": "8346c17d96c80d0b9d77d09be59509ea84225bc3",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code May–August 2026 weekly limits promotion",
-          "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code宣布限时促销：2026年5月13日至8月19日，周使用限额提升50%，适用于Pro、Max、Team及旧版按席位Enterprise用户，Free与按用量付费Enterprise不适用，自动生效无需操作。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T17:02:15Z"
-        },
-        {
-          "id": "78ba2f3b938a2cee1027f70cccfcf5d926d534bd",
-          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
-          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
-          "title_en": "Claude Code weekly limits reduce by a third tomorrow",
-          "title_original": "Claude Code weekly limits reduce by a third tomorrow",
-          "summary": null,
-          "recommend_reason_zh": "Claude Code推出限时促销，5月13日至8月19日每周用量限制提高50%，适用于Pro、Max、Team及legacy seat-based Enterprise用户，Free和按量付费企业席不参与，5小时连续使用限制不变。",
-          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-18T17:02:15Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.589,
-      "importance": 0.589,
-      "importance_score": 0.589,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9619,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T17:02:15Z",
-      "latest_at": "2026-08-18T18:57:10.122000Z",
-      "primary_item": {
-        "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
-        "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-        "title_zh": "Claude Code 2026年5月至8月每周限额促销",
-        "title_en": "Claude Code May–August 2026 weekly limits promotion",
-        "title_original": "Claude Code May–August 2026 weekly limits promotion",
-        "summary": null,
-        "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
-        "url": "https://news.ycombinator.com/item?id=49348751",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "额度放开就是真金白银，促销期内跑长任务的直接受益。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
-      }
-    },
-    {
-      "story_id": "story_bff3f6531ed0",
-      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-      "url": "https://www.aibase.com/news/30439",
-      "primary_url": "https://www.aibase.com/news/30439",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 8月15日风险报告意外披露Model 2，据内部基准CoBench v2，其多任务表现略超公开最强Claude Mythos 5，综合能力小幅提升，并牵出Model 1疑云。",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:53:39.267759Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "title_en": null,
-          "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 8月15日风险报告意外披露Model 2，据内部基准CoBench v2，其多任务表现略超公开最强Claude Mythos 5，综合能力小幅提升，并牵出Model 1疑云。",
-          "url": "https://www.aibase.com/news/30439",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:53:39.267759Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8319,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T08:53:39.267759Z",
-      "latest_at": "2026-08-18T08:53:39.267759Z",
-      "primary_item": {
-        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
-        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "title_zh": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "title_en": null,
-        "title_original": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic 8月15日风险报告意外披露Model 2，据内部基准CoBench v2，其多任务表现略超公开最强Claude Mythos 5，综合能力小幅提升，并牵出Model 1疑云。",
-        "url": "https://www.aibase.com/news/30439",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "未开放的模型，性能略超也动不了手，等 API 再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
-      }
-    },
-    {
-      "story_id": "story_76bbcf858747",
-      "title": "克劳德：多种模型的性能下降",
-      "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "primary_url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "source": "status.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
-          "summary": null,
-          "recommend_reason_zh": "Claude的状态页显示多种模型性能下降，受影响用户可通过邮件或短信订阅通知，以便及时获取事件更新。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
-        },
-        {
-          "id": "bbaa5cef2593f1a5451dffebb199b87615af58f3",
-          "title": "Claude：多种模型的性能下降 / Claude: Degraded Performance for Multiple Models",
-          "title_zh": "Claude：多种模型的性能下降",
-          "title_en": "Claude: Degraded Performance for Multiple Models",
-          "title_original": "Claude: Degraded Performance for Multiple Models",
-          "summary": null,
-          "recommend_reason_zh": "Claude状态页通报多个模型出现性能降级，用户可订阅邮件或短信更新，及时接收事件变化与解决通知。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
-        },
-        {
-          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
-          "summary": null,
-          "recommend_reason_zh": "Claude状态页显示多个模型性能降级，用户可通过邮件或短信订阅事件更新，实时掌握故障修复进展。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:28:20Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "status.claude.com"
-      ],
-      "items": [
-        {
-          "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-          "title": "克劳德：多种模型的性能下降",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": null,
-          "title_original": "克劳德：多种模型的性能下降",
-          "summary": null,
-          "recommend_reason_zh": "Claude的状态页显示多种模型性能下降，受影响用户可通过邮件或短信订阅通知，以便及时获取事件更新。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "status.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T17:09:55.487000Z"
-        },
-        {
-          "id": "bbaa5cef2593f1a5451dffebb199b87615af58f3",
-          "title": "Claude：多种模型的性能下降 / Claude: Degraded Performance for Multiple Models",
-          "title_zh": "Claude：多种模型的性能下降",
-          "title_en": "Claude: Degraded Performance for Multiple Models",
-          "title_original": "Claude: Degraded Performance for Multiple Models",
-          "summary": null,
-          "recommend_reason_zh": "Claude状态页通报多个模型出现性能降级，用户可订阅邮件或短信更新，及时接收事件变化与解决通知。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T16:28:20Z"
-        },
-        {
-          "id": "e2128c6d816fa85a6e417a10d46675dc0316a334",
-          "title": "克劳德：多种模型的性能下降 / Degraded performance for multiple models",
-          "title_zh": "克劳德：多种模型的性能下降",
-          "title_en": "Degraded performance for multiple models",
-          "title_original": "Degraded performance for multiple models",
-          "summary": null,
-          "recommend_reason_zh": "Claude状态页显示多个模型性能降级，用户可通过邮件或短信订阅事件更新，实时掌握故障修复进展。",
-          "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T16:28:20Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9374,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T16:28:20Z",
-      "latest_at": "2026-08-18T17:09:55.487000Z",
-      "primary_item": {
-        "id": "5c6800e633e808a669b24ce3269647bd5f172f3b",
-        "title": "克劳德：多种模型的性能下降",
-        "title_zh": "克劳德：多种模型的性能下降",
-        "title_en": null,
-        "title_original": "克劳德：多种模型的性能下降",
-        "summary": null,
-        "recommend_reason_zh": "Claude的状态页显示多种模型性能下降，受影响用户可通过邮件或短信订阅通知，以便及时获取事件更新。",
-        "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-        "source": "status.claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "Claude 性能下降会直接拖慢你的任务，先用备用方案顶着吧。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T21:43:21.090006Z"
+        "scored_at": "2026-08-18T22:47:37.081702Z"
       }
     }
   ]

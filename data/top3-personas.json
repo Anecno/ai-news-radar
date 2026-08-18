@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:43:24.647368Z",
+  "generated_at": "2026-08-18T22:47:58.316271Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
+      "story_id": "story_7b5d73500e30",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "限额促销也配叫新闻？换个说法就是打折清库存。"
+          "score": 82,
+          "review": "真开源了，但吊了两年胃口，生态位还抢得回来吗？"
         },
         "paper-police": {
-          "score": 20,
-          "review": "促销公告非技术发布，无论文代码benchmark，实质是商业活动。"
+          "score": 25,
+          "review": "博客只说开源，未见代码仓库和评测，等链接验证。"
         },
         "pragmatic": {
-          "score": 92,
-          "review": "额度放开就是真金白银，促销期内跑长任务的直接受益。"
+          "score": 90,
+          "review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。"
         }
       }
     },
