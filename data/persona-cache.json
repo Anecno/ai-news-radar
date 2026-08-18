@@ -1,72 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_c1632a302b6e|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "免费套餐+新模型，今天就能测试，降低开发成本。",
-      "title_hash": "f1391204",
-      "scored_at": "2026-07-28T16:59:21.991787Z"
-    },
-    "story_f3ef249ddb56|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接省GPU成本，长文本任务可在CPU上跑，今天就能试。",
-      "title_hash": "965191a7",
-      "scored_at": "2026-07-28T16:59:25.126450Z"
-    },
-    "story_dab11bf31a39|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "Dependabot 覆盖更多生态，直接减少被恶意包坑的风险，今天就能开。",
-      "title_hash": "d409d6dd",
-      "scored_at": "2026-07-28T16:59:27.781810Z"
-    },
-    "story_1697eebb2a9d|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "地理空间推理平台，但没说明开放接口或代码，先观望。",
-      "title_hash": "9faa1066",
-      "scored_at": "2026-07-28T16:59:31.686442Z"
-    },
-    "story_06bd8c7601c9|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "新注意力架构论文，没开源代码前只能看看，等可复现再试。",
-      "title_hash": "70380971",
-      "scored_at": "2026-07-28T16:59:34.099427Z"
-    },
-    "story_c1632a302b6e|cynic|f4237a62": {
-      "score": 70,
-      "review": "默认升级 3.6 Flash 不错，免费套餐配额敢不敢晒出来？",
-      "title_hash": "f1391204",
-      "scored_at": "2026-07-28T16:59:36.810791Z"
-    },
-    "story_c1632a302b6e|paper-police|966065bf": {
-      "score": 35,
-      "review": "仅官方博客宣称，无论文无代码无第三方评测，等独立验证。",
-      "title_hash": "f1391204",
-      "scored_at": "2026-07-28T16:59:39.114718Z"
-    },
-    "story_f3ef249ddb56|cynic|f4237a62": {
-      "score": 72,
-      "review": "CPU跑长上下文是好事，但别光说‘快’，把延迟、吞吐量和上下文长度亮出来。",
-      "title_hash": "965191a7",
-      "scored_at": "2026-07-28T16:59:42.555540Z"
-    },
-    "story_f3ef249ddb56|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客有细节数字但无独立验证，需等论文或开源代码。",
-      "title_hash": "965191a7",
-      "scored_at": "2026-07-28T16:59:48.457558Z"
-    },
-    "story_dab11bf31a39|cynic|f4237a62": {
-      "score": 85,
-      "review": "总算记得给其他生态系统也加把锁，别光顾着刷存在感。",
-      "title_hash": "d409d6dd",
-      "scored_at": "2026-07-28T16:59:51.967499Z"
-    },
-    "story_dab11bf31a39|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方公告证实功能扩展，但无代码或第三方验证，可信度有限。",
-      "title_hash": "d409d6dd",
-      "scored_at": "2026-07-28T16:59:54.478763Z"
-    },
     "story_71077999e62f|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "愿景文章，没有可上手的工具或API，等具体产品再看。",
@@ -5424,6 +5358,24 @@
       "review": "博客给了实现细节和示例代码，但缺论文与第三方评测，需自行复现。",
       "title_hash": "5f48ca34",
       "scored_at": "2026-08-18T16:57:33.001929Z"
+    },
+    "story_7e601a28e35c|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "新托管服务对标 GitHub，但生态迁移成本高，先观望别急换。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-18T17:50:21.031455Z"
+    },
+    "story_7e601a28e35c|cynic|f4237a62": {
+      "score": 65,
+      "review": "代码托管不是换个Logo就能替代，迁移工具和生态先摆出来看看。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-18T17:50:25.594033Z"
+    },
+    "story_7e601a28e35c|paper-police|966065bf": {
+      "score": 30,
+      "review": "仅官方公告，无独立评测或开源，替代GitHub待验证。",
+      "title_hash": "e591653d",
+      "scored_at": "2026-08-18T17:50:28.517015Z"
     }
   }
 }

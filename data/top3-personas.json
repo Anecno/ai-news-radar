@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:57:33.002071Z",
+  "generated_at": "2026-08-18T17:50:28.517074Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_13ad5c9c5494",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "替代 GitHub 先解决生态和信任问题，光靠编辑器光环不够。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方公告有了但无代码无评测，等第三方验证再定论。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "多一个代码托管选择，想摆脱 GitHub 的可以试试，迁移成本不高。"
-        }
-      }
-    },
-    {
       "story_id": "story_5646c2e72f66",
       "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_cd7a1ff75de2",
       "title": "使用Sentence Transformers的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "教程可实操，用多向量做检索能提升召回，今晚就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_7e601a28e35c",
+      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "代码托管不是换个Logo就能替代，迁移工具和生态先摆出来看看。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅官方公告，无独立评测或开源，替代GitHub待验证。"
+        },
+        "pragmatic": {
+          "score": 70,
+          "review": "新托管服务对标 GitHub，但生态迁移成本高，先观望别急换。"
         }
       }
     }
