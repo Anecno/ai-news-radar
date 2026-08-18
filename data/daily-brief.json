@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:43:29.653288Z",
+  "generated_at": "2026-08-18T18:56:51.514039Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8683,
-      "importance": 0.8683,
-      "importance_score": 0.8683,
+      "score": 0.8655,
+      "importance": 0.8655,
+      "importance_score": 0.8655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9075,
+        "recency": 0.8916,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
+      }
+    },
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "你的 Agent 到底需要多少记忆？ / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "你的 Agent 到底需要多少记忆？ / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "你的 Agent 到底需要多少记忆？",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+          "recommend_reason_zh": "IBM Research新研究揭示智能体记忆需按模型能力校准：gpt-oss-120b经精选检索提升16.1个百分点且仅增5% token，DeepSeek-V3.2全量指南增9.5pp，而GLM-5无增益。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "你的 Agent 到底需要多少记忆？ / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "你的 Agent 到底需要多少记忆？",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+          "recommend_reason_zh": "IBM Research新研究揭示智能体记忆需按模型能力校准：gpt-oss-120b经精选检索提升16.1个百分点且仅增5% token，DeepSeek-V3.2全量指南增9.5pp，而GLM-5无增益。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "你的 Agent 到底需要多少记忆？ / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "你的 Agent 到底需要多少记忆？",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
+        "recommend_reason_zh": "IBM Research新研究揭示智能体记忆需按模型能力校准：gpt-oss-120b经精选检索提升16.1个百分点且仅增5% token，DeepSeek-V3.2全量指南增9.5pp，而GLM-5无增益。",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "记忆多少有实验结论，但无现成工具，读来长见识，不急用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -192,15 +277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8524,
-      "importance": 0.8524,
-      "importance_score": 0.8524,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7742,
+        "recency": 0.7606,
         "story_heat": 0.25
       },
       "category": "official",
@@ -230,26 +315,26 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
-      "story_id": "story_8e332aafeb89",
-      "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "primary_url": "https://openai.com/index/partnering-with-codeai",
+      "story_id": "story_deae2dbaff1a",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "primary_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与CodeAI合作，培养第一代AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
-          "url": "https://openai.com/index/partnering-with-codeai",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "recommend_reason_zh": "本文披露OpenAI因OpenAI-Hugging Face事件及Astra模型或触及网络安全关键阈值，暂停两周RL训练并延后最大前沿RL运行，详述监控、对齐与安全强化措施。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -262,14 +347,14 @@
       ],
       "items": [
         {
-          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-          "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
-          "title_zh": "与CodeAI合作，培养第一代AI",
-          "title_en": "Partnering with CodeAI to prepare the first AI generation",
-          "title_original": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
-          "url": "https://openai.com/index/partnering-with-codeai",
+          "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+          "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+          "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+          "title_en": "Pacing model development in an era of cyber-critical capabilities",
+          "title_original": "Pacing model development in an era of cyber-critical capabilities",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "recommend_reason_zh": "本文披露OpenAI因OpenAI-Hugging Face事件及Astra模型或触及网络安全关键阈值，暂停两周RL训练并延后最大前沿RL运行，详述监控、对齐与安全强化措施。",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -278,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9075,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -298,109 +383,24 @@
       "earliest_at": "2026-08-18T11:00:00Z",
       "latest_at": "2026-08-18T11:00:00Z",
       "primary_item": {
-        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
-        "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
-        "title_zh": "与CodeAI合作，培养第一代AI",
-        "title_en": "Partnering with CodeAI to prepare the first AI generation",
-        "title_original": "Partnering with CodeAI to prepare the first AI generation",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
-        "url": "https://openai.com/index/partnering-with-codeai",
+        "id": "cdd10bf9920f60b5be7322fa5b0eaa62e04932f0",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
+        "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
+        "title_original": "Pacing model development in an era of cyber-critical capabilities",
+        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+        "recommend_reason_zh": "本文披露OpenAI因OpenAI-Hugging Face事件及Astra模型或触及网络安全关键阈值，暂停两周RL训练并延后最大前沿RL运行，详述监控、对齐与安全强化措施。",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "教育合作新闻，无新工具无新API，开发者不用动。",
+      "persona_score": 45,
+      "persona_review": "官方节奏声明，没有新工具或接口，动手前不必关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
-      }
-    },
-    {
-      "story_id": "story_5646c2e72f66",
-      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
-          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "summary": null,
-          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7283,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
-      "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
-        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "summary": null,
-        "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -477,15 +477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7547,
+        "recency": 0.7415,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -514,30 +514,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
-      "story_id": "story_41f4a70159de",
-      "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "primary_url": "https://openai.com/index/asana",
+      "story_id": "story_8e332aafeb89",
+      "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "primary_url": "https://openai.com/index/partnering-with-codeai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与CodeAI合作，培养第一代AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
           "summary": null,
-          "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
-          "url": "https://openai.com/index/asana",
+          "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
+          "url": "https://openai.com/index/partnering-with-codeai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "source_count": 1,
@@ -546,31 +546,31 @@
       ],
       "items": [
         {
-          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-          "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
-          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+          "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
+          "title_zh": "与CodeAI合作，培养第一代AI",
+          "title_en": "Partnering with CodeAI to prepare the first AI generation",
+          "title_original": "Partnering with CodeAI to prepare the first AI generation",
           "summary": null,
-          "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
-          "url": "https://openai.com/index/asana",
+          "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
+          "url": "https://openai.com/index/partnering-with-codeai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T07:00:00Z"
+          "published_at": "2026-08-18T11:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8565,
+        "ai_relevance": 0.91,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -579,27 +579,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:00:00Z",
-      "latest_at": "2026-08-18T07:00:00Z",
+      "earliest_at": "2026-08-18T11:00:00Z",
+      "latest_at": "2026-08-18T11:00:00Z",
       "primary_item": {
-        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
-        "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
-        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "id": "8c23f9c3a3a5054ca38390d052850998cb9e1e25",
+        "title": "与CodeAI合作，培养第一代AI / Partnering with CodeAI to prepare the first AI generation",
+        "title_zh": "与CodeAI合作，培养第一代AI",
+        "title_en": "Partnering with CodeAI to prepare the first AI generation",
+        "title_original": "Partnering with CodeAI to prepare the first AI generation",
         "summary": null,
-        "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
-        "url": "https://openai.com/index/asana",
+        "recommend_reason_zh": "OpenAI与CodeAI合作推出ChatGPT for Teens，帮助学生批判性地使用AI；文中引用调查数据：75%高中生认为理解AI更重要，但仅16%高中领导者表示所有学生都在课堂学习AI技术知识，直面这一代人的教育鸿沟。",
+        "url": "https://openai.com/index/partnering-with-codeai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "案例很猛但没工具可上手，属于市场宣传，参考效率即可。",
+      "persona_score": 35,
+      "persona_review": "教育合作新闻，无新工具无新API，开发者不用动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -675,15 +675,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8649,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,7 +712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -760,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.7538,
         "story_heat": 0.0
       },
       "category": "official",
@@ -796,7 +796,261 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
+      }
+    },
+    {
+      "story_id": "story_0bf04552d060",
+      "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+      "url": "https://x.com/merettm/status/2089776131255783823",
+      "primary_url": "https://x.com/merettm/status/2089776131255783823",
+      "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+          "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
+          "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
+          "recommend_reason_zh": "暂停最大规模frontier RL训练以强化安全监控，改用小规模训练与评估测试防护措施并收集对齐证据，揭示前沿AI安全实践的关键取舍。",
+          "url": "https://x.com/merettm/status/2089776131255783823",
+          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:07:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）"
+      ],
+      "items": [
+        {
+          "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+          "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
+          "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+          "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
+          "recommend_reason_zh": "暂停最大规模frontier RL训练以强化安全监控，改用小规模训练与评估测试防护措施并收集对齐证据，揭示前沿AI安全实践的关键取舍。",
+          "url": "https://x.com/merettm/status/2089776131255783823",
+          "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:07:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:07:10Z",
+      "latest_at": "2026-08-18T18:07:10Z",
+      "primary_item": {
+        "id": "cf9dc9974a9401bb4062286fb30619abe411abf1",
+        "title": "OpenAI 暂缓前沿训练强化安全监控 / We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+        "title_zh": "OpenAI 暂缓前沿训练强化安全监控",
+        "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+        "title_original": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+        "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
+        "recommend_reason_zh": "暂停最大规模frontier RL训练以强化安全监控，改用小规模训练与评估测试防护措施并收集对齐证据，揭示前沿AI安全实践的关键取舍。",
+        "url": "https://x.com/merettm/status/2089776131255783823",
+        "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "训练放缓是内部动作，开发者无需行动，等安全措施落地或 API 变化再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T19:04:08.584816Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": null,
+          "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7156,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "同一集群，利用率提升33个百分点：改变的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": null,
+        "recommend_reason_zh": "Dharma-AI实测证明，相同硬件下仅改变分配顺序，GPU利用率最多提升33个百分点，优先级加权输出最高提升105%，一个约束感知分配器的具体收益。",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 80,
+      "persona_review": "调度顺序优化就能提33%利用率，跑集群的值得读。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T19:04:08.584816Z"
+      }
+    },
+    {
+      "story_id": "story_41f4a70159de",
+      "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8415,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana借助Codex在两周内完成了原本需5年的工程工作量 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_zh": "Asana借助Codex在两周内完成了原本需5年的工程工作量",
+        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": null,
+        "recommend_reason_zh": "Asana 用 OpenAI Codex 在两周内拆除了过时的 Enzyme 测试系统，完成原本预计耗时五年、约 600 万美元的工作，实际成本仅约 1.2 万美元。",
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "案例很猛但没工具可上手，属于市场宣传，参考效率即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -844,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.8415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -879,7 +1133,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -927,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7738,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -962,7 +1216,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1010,21 +1264,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T10:47:07.153361Z",
       "latest_at": "2026-08-18T10:47:07.153361Z",
@@ -1046,120 +1299,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
-      }
-    },
-    {
-      "story_id": "story_9dc365abafc2",
-      "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-      "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "primary_url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": "404 Media在珍本书中暗置追踪设备，追踪到Amazon秘密收购大量图书用于AI训练扫描后销毁，首次曝光这一此前未报道的运作。",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.404media.co"
-      ],
-      "items": [
-        {
-          "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-          "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "title_en": null,
-          "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-          "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-          "recommend_reason_zh": "404 Media在珍本书中暗置追踪设备，追踪到Amazon秘密收购大量图书用于AI训练扫描后销毁，首次曝光这一此前未报道的运作。",
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        },
-        {
-          "id": "e93451a4241de1ea3225f404c98bc7301751b7e6",
-          "title": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_zh": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "title_en": null,
-          "title_original": "我们追踪了一批珍本图书的运输过程。最终，这些书被送到了亚马逊的一处人工智能训练中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-          "source": "www.404media.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T18:46:04.518000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7178,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T18:46:04.518000Z",
-      "latest_at": "2026-08-17T18:46:04.518000Z",
-      "primary_item": {
-        "id": "4e9af5540cfb87db38c0d740293719051913bff7",
-        "title": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_zh": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "title_en": null,
-        "title_original": "404 Media 追踪珍本图书流向：亚马逊批量购书扫描用于 AI 训练后销毁",
-        "summary": "404 Media 通过在一本珍本图书中放置追踪设备，首次揭露亚马逊未公开的购书行动：批量购入大量书籍，扫描用于 AI 训练数据，随后销毁。追踪显示这些书最终被送往亚马逊的一处人工智能训练中心。",
-        "recommend_reason_zh": "404 Media在珍本书中暗置追踪设备，追踪到Amazon秘密收购大量图书用于AI训练扫描后销毁，首次曝光这一此前未报道的运作。",
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "版权风险预警，采集训练数据前先查来路。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1207,15 +1347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,120 +1382,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
-      }
-    },
-    {
-      "story_id": "story_042e1009900f",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这篇指南手把手教你禁用侵入式AI，从Windows到Chrome、Firefox，具体到关闭Gemini和Apple Intelligence，甚至可用chrome://flags禁用GLIC功能，实用细节满满。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": "这篇图书馆员写的指南，按平台教你关闭侵入式AI：Google Gemini、Apple Intelligence、Amazon Alexa for Shopping，具体到取消勾选Acrobat Reader、在Chrome flags中禁用Gemini，并推荐Zen或Helium浏览器替代。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.librarian.net"
-      ],
-      "items": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这篇指南手把手教你禁用侵入式AI，从Windows到Chrome、Firefox，具体到关闭Gemini和Apple Intelligence，甚至可用chrome://flags禁用GLIC功能，实用细节满满。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": "这篇图书馆员写的指南，按平台教你关闭侵入式AI：Google Gemini、Apple Intelligence、Amazon Alexa for Shopping，具体到取消勾选Acrobat Reader、在Chrome flags中禁用Gemini，并推荐Zen或Helium浏览器替代。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7096,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T17:58:12.144000Z",
-      "latest_at": "2026-08-17T17:58:12.144000Z",
-      "primary_item": {
-        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_en": null,
-        "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-        "recommend_reason_zh": "这篇指南手把手教你禁用侵入式AI，从Windows到Chrome、Firefox，具体到关闭Gemini和Apple Intelligence，甚至可用chrome://flags禁用GLIC功能，实用细节满满。",
-        "url": "https://www.librarian.net/notoai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "禁用AI的操作清单，了解用户反AI情绪可参考，但无新工具或API。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1403,15 +1430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1438,7 +1465,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1486,15 +1513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8919,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1521,7 +1548,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
+      }
+    },
+    {
+      "story_id": "story_04675208260d",
+      "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://news.ycombinator.com/item?id=49348751",
+      "primary_url": "https://news.ycombinator.com/item?id=49348751",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026年5月至8月每周限额促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+          "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T18:57:10.122000Z"
+        },
+        {
+          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
+          "title": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_en": null,
+          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
+          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "recommend_reason_zh": "Claude Code每周使用限额限时提升50%，5月13日至8月19日期间Pro、Max、Team及legacy seat-based Enterprise用户自动适用，CLI、IDE、桌面和网页全平台生效，5小时使用限制不变，到期恢复原标准。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T18:14:09.002000Z"
+        },
+        {
+          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "recommend_reason_zh": "Claude Code宣布限时促销：2026年5月13日至8月19日，周使用限额提升50%，适用于Pro、Max、Team及旧版按席位Enterprise用户，Free与按用量付费Enterprise不适用，自动生效无需操作。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T17:02:15Z"
+        },
+        {
+          "id": "78ba2f3b938a2cee1027f70cccfcf5d926d534bd",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code weekly limits reduce by a third tomorrow",
+          "title_original": "Claude Code weekly limits reduce by a third tomorrow",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code推出限时促销，5月13日至8月19日每周用量限制提高50%，适用于Pro、Max、Team及legacy seat-based Enterprise用户，Free和按量付费企业席不参与，5小时连续使用限制不变。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-18T17:02:15Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "support.claude.com"
+      ],
+      "items": [
+        {
+          "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+          "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude Code 2026年5月至8月每周限额促销",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+          "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
+          "url": "https://news.ycombinator.com/item?id=49348751",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T18:57:10.122000Z"
+        },
+        {
+          "id": "bcadc5f5fd18b2a5c47628763903fe65fbf789f7",
+          "title": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
+          "title_en": null,
+          "title_original": "克劳德·科德的每周限额明天将减少三分之一",
+          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "recommend_reason_zh": "Claude Code每周使用限额限时提升50%，5月13日至8月19日期间Pro、Max、Team及legacy seat-based Enterprise用户自动适用，CLI、IDE、桌面和网页全平台生效，5小时使用限制不变，到期恢复原标准。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T18:14:09.002000Z"
+        },
+        {
+          "id": "475cd3dd93a2300aa584974fb07388cd8a77fbea",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code May–August 2026 weekly limits promotion",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code May–August 2026 weekly limits promotion",
+          "title_original": "Claude Code May–August 2026 weekly limits promotion",
+          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "recommend_reason_zh": "Claude Code宣布限时促销：2026年5月13日至8月19日，周使用限额提升50%，适用于Pro、Max、Team及旧版按席位Enterprise用户，Free与按用量付费Enterprise不适用，自动生效无需操作。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T17:02:15Z"
+        },
+        {
+          "id": "78ba2f3b938a2cee1027f70cccfcf5d926d534bd",
+          "title": "Claude·科德的每周限额明天将减少三分之一 / Claude Code weekly limits reduce by a third tomorrow",
+          "title_zh": "Claude·科德的每周限额明天将减少三分之一",
+          "title_en": "Claude Code weekly limits reduce by a third tomorrow",
+          "title_original": "Claude Code weekly limits reduce by a third tomorrow",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code推出限时促销，5月13日至8月19日每周用量限制提高50%，适用于Pro、Max、Team及legacy seat-based Enterprise用户，Free和按量付费企业席不参与，5小时连续使用限制不变。",
+          "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-18T17:02:15Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T17:02:15Z",
+      "latest_at": "2026-08-18T18:57:10.122000Z",
+      "primary_item": {
+        "id": "0831df28f1577bd85703eb1aab3ca8a4cda56e11",
+        "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
+        "title_zh": "Claude Code 2026年5月至8月每周限额促销",
+        "title_en": "Claude Code May–August 2026 weekly limits promotion",
+        "title_original": "Claude Code May–August 2026 weekly limits promotion",
+        "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+        "recommend_reason_zh": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
+        "url": "https://news.ycombinator.com/item?id=49348751",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "额度放开就是真金白银，促销期内跑长任务的直接受益。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1569,15 +1766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1604,7 +1801,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     },
     {
@@ -1652,15 +1849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,318 +1884,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
-      }
-    },
-    {
-      "story_id": "story_b7fc3695f17f",
-      "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "primary_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "source": "www.theregister.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": null,
-          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "summary": null,
-          "recommend_reason_zh": "谷歌以1000万美元拍下破产的Spirit Airlines数据，包括1亿封邮件、3000万通电话录音及Teams、Oracle等记录，用于改进AI服务。",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T12:06:14.267000Z"
-        },
-        {
-          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
-          "title": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": "Google在破产拍卖中买下Spirit Airlines的乘客数据用于AI，法庭文件显示数据出售前已去标识化，Google承诺清除任何PII，但乘客隐私仍令人担忧。",
-          "url": "https://news.ycombinator.com/item?id=49343559",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T10:25:49.787000Z"
-        },
-        {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": "Google花1000万美元在拍卖中买下已破产的Spirit Airlines的海量数据，包括超1亿封邮件、3000万通客服录音，以及来自Teams、Oracle等系统的记录，用于训练AI。",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T10:13:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.theregister.com"
-      ],
-      "items": [
-        {
-          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": null,
-          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "summary": null,
-          "recommend_reason_zh": "谷歌以1000万美元拍下破产的Spirit Airlines数据，包括1亿封邮件、3000万通电话录音及Teams、Oracle等记录，用于改进AI服务。",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "www.theregister.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-18T12:06:14.267000Z"
-        },
-        {
-          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
-          "title": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": "Google在破产拍卖中买下Spirit Airlines的乘客数据用于AI，法庭文件显示数据出售前已去标识化，Google承诺清除任何PII，但乘客隐私仍令人担忧。",
-          "url": "https://news.ycombinator.com/item?id=49343559",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-18T10:25:49.787000Z"
-        },
-        {
-          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
-          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
-          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
-          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
-          "summary": null,
-          "recommend_reason_zh": "Google花1000万美元在拍卖中买下已破产的Spirit Airlines的海量数据，包括超1亿封邮件、3000万通客服录音，以及来自Teams、Oracle等系统的记录，用于训练AI。",
-          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-18T10:13:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5568,
-      "importance": 0.5568,
-      "importance_score": 0.5568,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.922,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T10:13:28Z",
-      "latest_at": "2026-08-18T12:06:14.267000Z",
-      "primary_item": {
-        "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
-        "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-        "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-        "title_en": null,
-        "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
-        "summary": null,
-        "recommend_reason_zh": "谷歌以1000万美元拍下破产的Spirit Airlines数据，包括1亿封邮件、3000万通电话录音及Teams、Oracle等记录，用于改进AI服务。",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-        "source": "www.theregister.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "买数据训练AI，但用途未明，短期与开发者无关。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
-      }
-    },
-    {
-      "story_id": "story_63e3e8627617",
-      "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": null,
-          "title_original": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "summary": null,
-          "recommend_reason_zh": "404 Media通过一本被植入AirTag的珍本书追踪到Amazon在Las Vegas的AI训练设施，坐实其拆解古籍扫描用于训练模型的指控；该团队门口还挂着霸王龙吞书的标志。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
-        },
-        {
-          "id": "4596d129432d75c5c057161bd3cea7ac2485d03b",
-          "title": "AirTag 曝光 Amazon 为训练 AI 销毁稀有书籍 / AirTag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag 曝光 Amazon 为训练 AI 销毁稀有书籍",
-          "title_en": "AirTag reveals Amazon is trashing rare books to train AI",
-          "title_original": "AirTag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "一枚AirTag揭开Amazon为训练AI而销毁稀有书籍的内幕，文章还原了追踪过程，并质疑AI训练数据的来源。",
-          "url": "https://news.ycombinator.com/item?id=49336050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:44:01.694000Z"
-        },
-        {
-          "id": "ec43f26b1278c0cbd2c8f32b6c2e619e7f53a31f",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": "AirTag reveals Amazon is trashing rare books to train AI",
-          "title_original": "AirTag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "一枚藏在稀有书中的AirTag追踪显示，Amazon在拉斯维加斯VGT3设施撕毁书脊扫描页面以训练AI，团队门口还挂着暴龙吞书的Logo。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T19:06:11Z"
-        },
-        {
-          "id": "e8f91dc18f01368b9b3e041c7d265795aa022011",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "title_original": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "404 Media借助书商在珍本书中暗藏的Airtag，追踪到Amazon位于Las Vegas的AI训练设施VGT3，证实其批量购入珍本书后拆毁扫描用于训练AI，团队门口还挂着霸王龙吃书的标志。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:13:47Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Ars Technica",
-        "Hacker News · 24h最热",
-        "arstechnica.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": null,
-          "title_original": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "summary": null,
-          "recommend_reason_zh": "404 Media通过一本被植入AirTag的珍本书追踪到Amazon在Las Vegas的AI训练设施，坐实其拆解古籍扫描用于训练模型的指控；该团队门口还挂着霸王龙吞书的标志。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T20:38:17.125000Z"
-        },
-        {
-          "id": "4596d129432d75c5c057161bd3cea7ac2485d03b",
-          "title": "AirTag 曝光 Amazon 为训练 AI 销毁稀有书籍 / AirTag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag 曝光 Amazon 为训练 AI 销毁稀有书籍",
-          "title_en": "AirTag reveals Amazon is trashing rare books to train AI",
-          "title_original": "AirTag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "一枚AirTag揭开Amazon为训练AI而销毁稀有书籍的内幕，文章还原了追踪过程，并质疑AI训练数据的来源。",
-          "url": "https://news.ycombinator.com/item?id=49336050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:44:01.694000Z"
-        },
-        {
-          "id": "ec43f26b1278c0cbd2c8f32b6c2e619e7f53a31f",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / AirTag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": "AirTag reveals Amazon is trashing rare books to train AI",
-          "title_original": "AirTag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "一枚藏在稀有书中的AirTag追踪显示，Amazon在拉斯维加斯VGT3设施撕毁书脊扫描页面以训练AI，团队门口还挂着暴龙吞书的Logo。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T19:06:11Z"
-        },
-        {
-          "id": "e8f91dc18f01368b9b3e041c7d265795aa022011",
-          "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书 / Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-          "title_en": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "title_original": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-          "summary": null,
-          "recommend_reason_zh": "404 Media借助书商在珍本书中暗藏的Airtag，追踪到Amazon位于Las Vegas的AI训练设施VGT3，证实其批量购入珍本书后拆毁扫描用于训练AI，团队门口还挂着霸王龙吃书的标志。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-17T18:13:47Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7375,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T18:13:47Z",
-      "latest_at": "2026-08-17T20:38:17.125000Z",
-      "primary_item": {
-        "id": "68e9f5a422134ebac3f7a6493ac8448eeb747673",
-        "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-        "title_zh": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-        "title_en": null,
-        "title_original": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
-        "summary": null,
-        "recommend_reason_zh": "404 Media通过一本被植入AirTag的珍本书追踪到Amazon在Las Vegas的AI训练设施，坐实其拆解古籍扫描用于训练模型的指控；该团队门口还挂着霸王龙吞书的标志。",
-        "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "行业伦理争议，跟写代码没关系，围观即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T17:50:15.664582Z"
+        "scored_at": "2026-08-18T19:04:08.584816Z"
       }
     }
   ]
