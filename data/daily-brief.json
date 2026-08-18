@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T04:52:47.649744Z",
+  "generated_at": "2026-08-18T05:45:18.853359Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8531,
-      "importance": 0.8531,
-      "importance_score": 0.8531,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8971,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8768,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,122 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
-      }
-    },
-    {
-      "story_id": "story_b3a579450c1c",
-      "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "primary_url": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender’s Window",
-          "title_original": "The Defender’s Window",
-          "summary": null,
-          "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:30:00Z"
-        },
-        {
-          "id": "9575a034f19954426ba1d1e0ddeff1f6cab41ea5",
-          "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender's Window",
-          "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-          "title_en": "The Defender's Window",
-          "title_original": "The Defender's Window",
-          "summary": "OpenAI 在 OpenAI-Hugging Face 事件后反思低估了模型真实网络攻击能力，正通过四大支柱强化自身安全：用 Codex 验证代码漏洞、用智能体优先分流安全告警、持续枚举攻击路径，并仅向可信防御者开放网络能力。文中演示 ChatGPT Work（基于 GPT-5.6 Sol）15 分钟发现个人网站 13 个问题并在一小时内完成修复。",
-          "recommend_reason_zh": "Greg Brockman透露，ChatGPT Work用GPT-5.6 Sol在15分钟内扫描gregbrockman.com发现13个隐患，并反思OpenAI-Hugging Face事件中自主渗透的威胁。",
-          "url": "https://openai.com/index/the-defenders-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T05:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7135,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:30:00Z",
-      "latest_at": "2026-08-17T05:30:00Z",
-      "primary_item": {
-        "id": "9163f70edad4cc1828e92c7e823a607aad5512f0",
-        "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window / The Defender’s Window",
-        "title_zh": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
-        "title_en": "The Defender’s Window",
-        "title_original": "The Defender’s Window",
-        "summary": null,
-        "recommend_reason_zh": "Greg Brockman以OpenAI-Hugging Face事件为引，阐述AI如何同时赋能攻击与防御：OpenAI已只向可信防御者发布网络能力，他实测用ChatGPT Work（GPT-5.6 Sol）15分钟就在gregbrockman.com发现13处隐患，并给出企业立即行动的清单。",
-        "url": "https://openai.com/index/the-defenders-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "概念性官宣，没给出可用的防御工具或接口，等实际产品再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -420,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8303,
+        "recency": 0.8199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -650,15 +535,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8533,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -687,7 +572,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -735,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7397,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,7 +657,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -820,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9236,
+        "recency": 0.912,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,92 +741,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
-      }
-    },
-    {
-      "story_id": "story_07b36a6c9f2c",
-      "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "primary_url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-          "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-          "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-          "title_en": "OpenAI joins PORTS-Pike project",
-          "title_original": "OpenAI joins PORTS-Pike project",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-          "url": "https://openai.com/index/openai-joins-ports-pike-project",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T05:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:00:00Z",
-      "latest_at": "2026-08-17T05:00:00Z",
-      "primary_item": {
-        "id": "56b86347d148780724bfa2fb4adea8f45cdf3e76",
-        "title": "OpenAI 加入 PORTS-Pike 项目 / OpenAI joins PORTS-Pike project",
-        "title_zh": "OpenAI 加入 PORTS-Pike 项目",
-        "title_en": "OpenAI joins PORTS-Pike project",
-        "title_original": "OpenAI joins PORTS-Pike project",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI联手SB Energy、NVIDIA及美国能源部，在俄亥俄PORTS-Pike园区锁定约8吉瓦容量，预计创造35,000个建筑岗位和2,500个长期岗位，并投入$40百万社区基金及$84百万Codex credits。",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "合作声明没有可用的API或工具，等具体动作再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -989,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1073,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9315,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,7 +909,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1244,15 +1044,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8542,
+        "recency": 0.8435,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1281,7 +1081,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1329,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7903,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1364,7 +1164,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1412,15 +1212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7913,
+        "recency": 0.7814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1447,7 +1247,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1495,15 +1295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1531,7 +1331,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1579,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7307,
+      "importance": 0.7307,
+      "importance_score": 0.7307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7885,
+        "recency": 0.7786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,7 +1414,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1662,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1698,7 +1498,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1746,15 +1546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1782,7 +1582,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1830,15 +1630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1866,7 +1666,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -1943,15 +1743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6196,
-      "importance": 0.6196,
-      "importance_score": 0.6196,
+      "score": 0.6177,
+      "importance": 0.6177,
+      "importance_score": 0.6177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8381,
+        "recency": 0.8275,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1978,7 +1778,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     },
     {
@@ -2055,15 +1855,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6155,
-      "importance": 0.6155,
-      "importance_score": 0.6155,
+      "score": 0.6136,
+      "importance": 0.6136,
+      "importance_score": 0.6136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.815,
+        "recency": 0.8048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2090,7 +1890,202 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-18T05:04:30.152338Z"
+        "scored_at": "2026-08-18T05:52:53.309314Z"
+      }
+    },
+    {
+      "story_id": "story_cc1076e5eaf3",
+      "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+      "url": "https://www.aibase.com/news/30418",
+      "primary_url": "https://www.aibase.com/news/30418",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_en": null,
+          "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "summary": null,
+          "recommend_reason_zh": "字节跳动Seed与清华AIR发布CUDA Agent，用强化学习训练大模型编写GPU内核。KernelBench测试中Seed1.6任务成功率达74.0%，但仅27.2%超越torch.compile，本文揭示其突破性能瓶颈的关键。",
+          "url": "https://www.aibase.com/news/30418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T03:08:52.160268Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+          "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "title_en": null,
+          "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+          "summary": null,
+          "recommend_reason_zh": "字节跳动Seed与清华AIR发布CUDA Agent，用强化学习训练大模型编写GPU内核。KernelBench测试中Seed1.6任务成功率达74.0%，但仅27.2%超越torch.compile，本文揭示其突破性能瓶颈的关键。",
+          "url": "https://www.aibase.com/news/30418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T03:08:52.160268Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.963,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T03:08:52.160268Z",
+      "latest_at": "2026-08-18T03:08:52.160268Z",
+      "primary_item": {
+        "id": "344a1a7fed640588ca161b3c2efcd180f810dd31",
+        "title": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "title_zh": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "title_en": null,
+        "title_original": "字节跳动联合清华AIR推出CUDA Agent：大模型如何学会编写比编译器更快的GPU内核",
+        "summary": null,
+        "recommend_reason_zh": "字节跳动Seed与清华AIR发布CUDA Agent，用强化学习训练大模型编写GPU内核。KernelBench测试中Seed1.6任务成功率达74.0%，但仅27.2%超越torch.compile，本文揭示其突破性能瓶颈的关键。",
+        "url": "https://www.aibase.com/news/30418",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "方向有价值，但目前是研究演示，没有可直接用的工具和代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T05:52:53.309314Z"
+      }
+    },
+    {
+      "story_id": "story_af54f92163bc",
+      "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 详解 Claude 隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 详解 Claude 隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic详解如何用概率模式为Claude文本添加隐形水印：采用Google DeepMind开源的SynthID-Text，利用词语概率模式留下可检测痕迹，以符合欧盟AI法案，且不增加成本。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 详解 Claude 隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 详解 Claude 隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic详解如何用概率模式为Claude文本添加隐形水印：采用Google DeepMind开源的SynthID-Text，利用词语概率模式留下可检测痕迹，以符合欧盟AI法案，且不增加成本。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5976,
+      "importance": 0.5976,
+      "importance_score": 0.5976,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.7622,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T10:57:13Z",
+      "latest_at": "2026-08-17T10:57:13Z",
+      "primary_item": {
+        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+        "title": "Anthropic 详解 Claude 的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_zh": "Anthropic 详解 Claude 的隐形文本水印的工作原理",
+        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic 宣布将用 Google DeepMind 的开源 SynthID-Text 方案给 Claude 文本加隐形水印，通过改写低风险词语的概率模式留下可检测痕迹，以合规欧盟 AI 法案，且不影响输出质量与价格。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "水印机制说明，除非做 AI 内容检测，否则短期用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-18T05:52:53.309314Z"
       }
     }
   ]
