@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:59:13.768353Z",
+  "generated_at": "2026-08-18T16:57:33.002071Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_e8417ef9f36f",
-      "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "story_id": "story_cd7a1ff75de2",
+      "title": "使用Sentence Transformers的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "可视可控是实打实的，但“经济高效”的账本敢晒出来吗？"
+          "score": 80,
+          "review": "多向量教程够硬核，但推理成本翻倍没提，省了就是坑。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客讲概念，无论文无代码无跑分，效率提升缺证据。"
+          "score": 55,
+          "review": "博客给了实现细节和示例代码，但缺论文与第三方评测，需自行复现。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。"
+          "score": 72,
+          "review": "教程可实操，用多向量做检索能提升召回，今晚就能试。"
         }
       }
     }
