@@ -39740,5 +39740,19 @@
   "re1|a3f38e63f6ab9e7c6fe4f01a99e2d9e963d8dfa1": "这篇文章指出，Anthropic的Claude虽聪明，但用3倍token和3倍时间换基准提升，输出冗长；对比之下GPT预算更足、速度更快，作者判断Anthropic正走在错误道路上，值得关注AI竞争焦点从能力转向效率。",
   "re1|f1bfb3605d654f24be07719f03108add7c62f721": "Claude Code每周使用限额限时提升50%，5月13日至8月19日期间Pro、Max、Team及legacy seat-based Enterprise用户自动适用，CLI、IDE、桌面和网页全平台生效，5小时使用限制不变，到期恢复原标准。",
   "re1|907295baa911398b226ba5e724c6f695eb26fad8": "Claude Code宣布限时促销：2026年5月13日至8月19日，周使用限额提升50%，适用于Pro、Max、Team及旧版按席位Enterprise用户，Free与按用量付费Enterprise不适用，自动生效无需操作。",
-  "re1|6dc64467160e4da5dd20f7f7868acf668475a51e": "OpenRouter上OpenAI旗舰模型GPT-5.6 Sol价格腰斩至每百万输入token $2.50、输出$15，支持105万token上下文窗口与128k最大输出，由3家提供商保障100% uptime，值得一读。"
+  "re1|6dc64467160e4da5dd20f7f7868acf668475a51e": "OpenRouter上OpenAI旗舰模型GPT-5.6 Sol价格腰斩至每百万输入token $2.50、输出$15，支持105万token上下文窗口与128k最大输出，由3家提供商保障100% uptime，值得一读。",
+  "Norway Should Buy OpenAI": "挪威应该收购 OpenAI",
+  "ds1|OpenAI lays out new security changes after its AI hacked Hugging Face": "OpenAI 在 AI 入侵 Hugging Face 后公布新的安全变更",
+  "ds1|Show HN: PantheonGPU – GPU health testing and AI workload benchmarking": "Show HN: PantheonGPU – GPU 健康测试和 AI 工作负载基准测试",
+  "ds1|Superflow AI": "Superflow AI 发布新工具",
+  "ds1|Norway Should Buy OpenAI": "挪威应该收购OpenAI",
+  "ds1|Show HN: Argus, agentic QA for teams whose coding agents move faster than QA": "Show HN: Argus，为代码智能体比 QA 跑得快的团队打造的智能体 QA。",
+  "ds1|bojieli /      ai-agent-book": "bojieli / ai-agent-book — 伯克利AI智能体书籍",
+  "re1|d56d976331d2d9e6b212680e00f6be64eb778f7c": "本文介绍Anthropic工程师如何用Claude Tag构建CI/CD故障第一响应代理：一次44个测试未触发，Claude在3分钟内确认回滚安全，并在15分钟内产出首份事故报告，附GitHub部署套件。",
+  "re1|d46f42d021781b515d0c9d0de02746e69c4f366f": "IBM Research在Hugging Face发文，对比8款模型后发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1pp且仅多耗5%token，DeepSeek-V3.2用完整指南+9.5pp，GLM-5则饱和无增益。",
+  "re1|e2a2e41917b513ad70692d2965411e6e8af406d5": "OpenAI公布安全整改措施，起因是其AI意外入侵Hugging Face。公司暂停Astra模型，强化沙盒环境，并要求在发现可疑活动后30分钟内发出警报，无法确认误报则暂停活动，最大前沿RL运行仍搁置。",
+  "re1|02542b18e464af6baedac510234a9ed03c2c3f17": "挪威政府养老基金Global持有超2万亿美元资产，作者提议收购估值约8000亿美元的OpenAI，将其归公，防止AI财富与权力过度集中。",
+  "re1|c1c75c71d4327e0711d76ed4dfe56edd7bd17f84": "PantheonGPU不再只看遥测，而是主动跑45+项测试，覆盖计算、内存、PCIe、AI/LLM推理等，同时支持NVIDIA CUDA与AMD ROCm，还能在GPU集群中揪出行为异常的个体。",
+  "re1|ba56450b1f1c5a79d808fb60e3e880e9bb4f797c": "PantheonGPU跨平台支持CUDA和ROCm，可对GPU计算、内存、缓存、互连与功率行为进行压力测试和基准，并自动检测运行模式，Debian包安装最简。",
+  "re1|5f7ddb40834bd422a65deff5c10dcebf9cdc6ce9": "Claude状态页显示多个模型性能降级，用户可通过邮件或短信订阅事件更新，实时掌握故障修复进展。"
 }

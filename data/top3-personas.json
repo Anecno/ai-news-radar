@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:04:25.419895Z",
+  "generated_at": "2026-08-18T19:47:02.287067Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_cd7a1ff75de2",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 78,
+          "review": "多向量编码总算进了官方库，但别急着吹，复现和调参才是真考验。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方博客有技术细节，代码开源可复现，缺独立基准验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "多向量检索开箱即用，ColBERT 风格模型直接上手，检索精度提升可立即落地。"
+        }
+      }
+    },
+    {
       "story_id": "story_5646c2e72f66",
       "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 80,
           "review": "调度顺序优化就能提33%利用率，跑集群的值得读。"
-        }
-      }
-    },
-    {
-      "story_id": "story_cd7a1ff75de2",
-      "title": "使用Sentence Transformers的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 80,
-          "review": "多向量教程够硬核，但推理成本翻倍没提，省了就是坑。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "博客给了实现细节和示例代码，但缺论文与第三方评测，需自行复现。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "教程可实操，用多向量做检索能提升召回，今晚就能试。"
         }
       }
     }

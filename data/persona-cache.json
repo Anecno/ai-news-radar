@@ -5306,10 +5306,10 @@
       "scored_at": "2026-08-18T14:08:57.613384Z"
     },
     "story_cd7a1ff75de2|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "教程可实操，用多向量做检索能提升召回，今晚就能试。",
-      "title_hash": "5f48ca34",
-      "scored_at": "2026-08-18T14:09:00.541297Z"
+      "score": 88,
+      "review": "多向量检索开箱即用，ColBERT 风格模型直接上手，检索精度提升可立即落地。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:46:54.413285Z"
     },
     "story_9dc365abafc2|pragmatic|0a5c5b24": {
       "score": 52,
@@ -5336,16 +5336,16 @@
       "scored_at": "2026-08-18T16:57:28.501751Z"
     },
     "story_cd7a1ff75de2|cynic|f4237a62": {
-      "score": 80,
-      "review": "多向量教程够硬核，但推理成本翻倍没提，省了就是坑。",
-      "title_hash": "5f48ca34",
-      "scored_at": "2026-08-18T16:57:30.472806Z"
+      "score": 78,
+      "review": "多向量编码总算进了官方库，但别急着吹，复现和调参才是真考验。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:46:58.654748Z"
     },
     "story_cd7a1ff75de2|paper-police|966065bf": {
-      "score": 55,
-      "review": "博客给了实现细节和示例代码，但缺论文与第三方评测，需自行复现。",
-      "title_hash": "5f48ca34",
-      "scored_at": "2026-08-18T16:57:33.001929Z"
+      "score": 72,
+      "review": "官方博客有技术细节，代码开源可复现，缺独立基准验证。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:47:02.286977Z"
     },
     "story_7e601a28e35c|pragmatic|0a5c5b24": {
       "score": 70,
@@ -5366,10 +5366,10 @@
       "scored_at": "2026-08-18T17:50:28.517015Z"
     },
     "story_77f8f8705916|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "记忆多少有实验结论，但无现成工具，读来长见识，不急用。",
-      "title_hash": "7b670a9e",
-      "scored_at": "2026-08-18T19:04:11.236863Z"
+      "score": 72,
+      "review": "评测给了记忆配置参考，做Agent选型时值得翻一眼，但不用立刻动手改。",
+      "title_hash": "990283cf",
+      "scored_at": "2026-08-18T19:46:52.273992Z"
     },
     "story_deae2dbaff1a|pragmatic|0a5c5b24": {
       "score": 45,
@@ -5400,6 +5400,12 @@
       "review": "促销公告非技术发布，无论文代码benchmark，实质是商业活动。",
       "title_hash": "9aa2c15b",
       "scored_at": "2026-08-18T19:04:25.419803Z"
+    },
+    "story_57110e360f41|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "内部巡检实践可借鉴，但非现成工具，动手前先看自家流水线痛点。",
+      "title_hash": "652916cd",
+      "scored_at": "2026-08-18T19:46:56.618955Z"
     }
   }
 }
