@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d930809ff7d5|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CI/CD 构建可能被卡住，注意审批流程加速，避免阻塞部署。",
-      "title_hash": "7ba06747",
-      "scored_at": "2026-07-28T20:41:40.964280Z"
-    },
-    "story_a74dd2b06ea3|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "尚未公开漏洞细节或修复方案，暂时无法利用。",
-      "title_hash": "7a860c45",
-      "scored_at": "2026-07-28T20:41:44.319081Z"
-    },
-    "story_98693ee77dfa|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "一个观点表态，没工具没代码，跟今天的工作无关。",
-      "title_hash": "78e8321b",
-      "scored_at": "2026-07-28T20:41:46.620124Z"
-    },
     "story_bc76c2ce852e|pragmatic|0a5c5b24": {
       "score": 82,
       "review": "IDE 里直接换模型试试，如果代码补全质量更好就用它。",
@@ -5406,6 +5388,30 @@
       "review": "内部巡检实践可借鉴，但非现成工具，动手前先看自家流水线痛点。",
       "title_hash": "652916cd",
       "scored_at": "2026-08-18T19:46:56.618955Z"
+    },
+    "story_17c97873294f|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "治理声明不写代码，开发者无直接可用的东西。",
+      "title_hash": "bde89357",
+      "scored_at": "2026-08-18T20:47:16.788503Z"
+    },
+    "story_5a9ad877cc94|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "能直接操作Gmail和Drive，自动化办公场景可立即接入。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:18.908430Z"
+    },
+    "story_5a9ad877cc94|cynic|f4237a62": {
+      "score": 70,
+      "review": "集成邮件和网盘就叫新功能？隔壁插件市场早堆成山了。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:20.888622Z"
+    },
+    "story_5a9ad877cc94|paper-police|966065bf": {
+      "score": 18,
+      "review": "官方推特宣称新功能，无论文无代码无评测，等正式文档再验证。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:23.314636Z"
     }
   }
 }
