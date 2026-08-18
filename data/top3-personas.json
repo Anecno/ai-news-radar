@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:05:50.498104Z",
+  "generated_at": "2026-08-18T09:59:24.736730Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_c47c2f0e2f45",
-      "title": "OpenRouter宣布GPT-5.6Sol调用费用减半",
-      "url": "https://www.aibase.com/news/30433",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "降价是真降价，但先确认下是不是把原来的隐藏加价抹平了。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "费用调整是商业消息，无评测数据支撑，降费不影响模型能力判断。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "API费用减半，跑批量任务的今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_13ad5c9c5494",
       "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -60,7 +40,7 @@
       "story_id": "story_5646c2e72f66",
       "title": "同一集群，利用率提升33个百分点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 80,
           "review": "调度顺序优化就能提33%利用率，跑集群的值得读。"
+        }
+      }
+    },
+    {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何让智能体工作流变得可视、可控且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "可视可控是实打实的，但“经济高效”的账本敢晒出来吗？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客讲概念，无论文无代码无跑分，效率提升缺证据。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "Copilot 画布能直接上手调 Agent 工作流，省 token 又可控，值得试。"
         }
       }
     }
