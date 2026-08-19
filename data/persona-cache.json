@@ -5412,6 +5412,66 @@
       "review": "官方案例，没有新接口或降价，对企业选型有参考，开发者不用动。",
       "title_hash": "70aded30",
       "scored_at": "2026-08-18T23:41:50.066395Z"
+    },
+    "story_57fc147b8fa7|pragmatic|0a5c5b24": {
+      "score": 65,
+      "review": "企业管理员可统一管控 Copilot 设置，个人开发者无感。",
+      "title_hash": "54dfd872",
+      "scored_at": "2026-08-19T01:58:22.305728Z"
+    },
+    "story_eadd8d231bf2|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "新模型上线且成本降了，跑推理的直接换。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T01:58:24.269904Z"
+    },
+    "story_85c60887e099|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "常规安全更新，AI参与只是噱头，升级浏览器即可，别过度解读。",
+      "title_hash": "c013e3a4",
+      "scored_at": "2026-08-19T01:58:27.483935Z"
+    },
+    "story_fa9390c8de81|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "多一个托管选择，但迁移成本高，先观望，别急着从GitHub搬走。",
+      "title_hash": "caa1a039",
+      "scored_at": "2026-08-19T01:58:30.387043Z"
+    },
+    "story_8fca6b8ea403|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "安全审查收紧是中期风向，具体接口和准入规则没出，暂不用动。",
+      "title_hash": "8d308b8a",
+      "scored_at": "2026-08-19T01:58:33.394398Z"
+    },
+    "story_05c824816201|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "教育类产品可参考其安全设计，但开发者今天没有新接口可用。",
+      "title_hash": "c8f1a32f",
+      "scored_at": "2026-08-19T01:58:36.210758Z"
+    },
+    "story_39c8e5998438|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "安全事件提醒，慎用陌生模型，检查依赖，OpenAI暂停训练对日常API影响不大。",
+      "title_hash": "e66970dc",
+      "scored_at": "2026-08-19T01:58:41.981044Z"
+    },
+    "story_75da83f04ae8|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "水印可被绕过，依赖AI检测的别太放心，短期不用改方案。",
+      "title_hash": "e9b8362c",
+      "scored_at": "2026-08-19T01:58:43.994800Z"
+    },
+    "story_eadd8d231bf2|cynic|f4237a62": {
+      "score": 45,
+      "review": "自创“AA智能指数”并列第一，测评细则和对比对象倒是拿出来啊。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T01:58:47.076740Z"
+    },
+    "story_eadd8d231bf2|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有官方公众号宣称，无论文无代码无第三方评测，分数不可验证。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T01:58:49.015388Z"
     }
   }
 }
