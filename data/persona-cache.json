@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_407f953ae8e0|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "GitHub Copilot代码审查的Agent技能和MCP正式上线，今天就能集成到工作流中提效。",
-      "title_hash": "02914ae1",
-      "scored_at": "2026-07-29T22:20:58.698805Z"
-    },
-    "story_407f953ae8e0|cynic|f4237a62": {
-      "score": 65,
-      "review": "Agent技能和MCP都是之前预告过的，正式版就是补个票。",
-      "title_hash": "02914ae1",
-      "scored_at": "2026-07-29T22:21:00.678176Z"
-    },
-    "story_407f953ae8e0|paper-police|966065bf": {
-      "score": 28,
-      "review": "官方公告但无论文代码和benchmark，只有功能描述无法独立验证。",
-      "title_hash": "02914ae1",
-      "scored_at": "2026-07-29T22:21:04.370727Z"
-    },
     "story_54430aee701b|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "两个新设置直接拉高推理得分，需高准确率的任务立即调整API参数。",
@@ -5490,6 +5472,12 @@
       "review": "官方说零保留，无技术报告无第三方核验，等独立验证再提级。",
       "title_hash": "37a163a4",
       "scored_at": "2026-08-19T21:46:15.369110Z"
+    },
+    "story_ad1cf550f418|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "模型迭代节奏放缓，短期不影响现有 API，选型可继续观望。",
+      "title_hash": "61e716ce",
+      "scored_at": "2026-08-19T22:44:57.480413Z"
     }
   }
 }
