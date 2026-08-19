@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:58:02.148820Z",
+  "generated_at": "2026-08-19T15:50:53.863598Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026年5月至8月每周限额促销 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "限额促销也配叫新闻？换个说法就是打折清库存。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "促销公告非技术发布，无论文代码benchmark，实质是商业活动。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "额度放开就是真金白银，促销期内跑长任务的直接受益。"
-        }
-      }
-    },
-    {
       "story_id": "story_eadd8d231bf2",
       "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -60,7 +40,7 @@
       "story_id": "story_7b5d73500e30",
       "title": "Mojo 语言正式开源，编译器与工具链全面开放",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 90,
           "review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5a9ad877cc94",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "集成邮件和网盘就叫新功能？隔壁插件市场早堆成山了。"
+        },
+        "paper-police": {
+          "score": 18,
+          "review": "官方推特宣称新功能，无论文无代码无评测，等正式文档再验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "能直接操作Gmail和Drive，自动化办公场景可立即接入。"
         }
       }
     }
