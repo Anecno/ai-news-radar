@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T04:54:20.252422Z",
+  "generated_at": "2026-08-19T05:49:54.532050Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_34ed06650578",
-      "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
-      "url": "https://www.aibase.com/news/30454",
+      "story_id": "story_7b5d73500e30",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "AA指数并列第一，权重还没开，先别急着封神。"
+          "score": 82,
+          "review": "真开源了，但吊了两年胃口，生态位还抢得回来吗？"
         },
         "paper-police": {
-          "score": 10,
-          "review": "权重未开源，仅媒体通稿宣称分数，无第三方复现，等下周见真章。"
+          "score": 25,
+          "review": "博客只说开源，未见代码仓库和评测，等链接验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "API已开放可立即试用，开源权重下周落地，跑分并列第一，值得上手。"
+          "review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。"
         }
       }
     }
