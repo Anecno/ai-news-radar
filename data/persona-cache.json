@@ -5552,16 +5552,22 @@
       "scored_at": "2026-08-19T10:54:00.247086Z"
     },
     "story_be580d9263f2|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "量化检查点直接可下，部署省显存，小内存机器也能跑。",
-      "title_hash": "3f9fc854",
-      "scored_at": "2026-08-19T14:03:33.126744Z"
+      "score": 82,
+      "review": "Q4量化检查点可直接用，精度损失小，适合边缘部署，省内存的今天就能试。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T14:58:00.147116Z"
     },
     "story_24b8f639b701|pragmatic|0a5c5b24": {
       "score": 78,
       "review": "GitHub 官方功能，能直接看组织仓库质量趋势，适合团队管理员日常监控。",
       "title_hash": "4e581a5e",
       "scored_at": "2026-08-19T14:03:36.438834Z"
+    },
+    "story_ea98d8ec85c1|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "可视化模型结构，调试和讲原理能用上，但非日常刚需。",
+      "title_hash": "8b1bea0e",
+      "scored_at": "2026-08-19T14:58:02.148674Z"
     }
   }
 }
