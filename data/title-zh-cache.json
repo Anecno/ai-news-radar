@@ -40041,5 +40041,14 @@
   "re1|7820578396cc9f53ebd9152d8d0aef9369cbcf22": "本文借用户对Google Pixel 11的AI实测反馈，指出其日历添加虽好用，但拍名片加联系人仍需手动下载，离OpenClaw式全自动助手尚远，点明当前AI助手的实用边界。",
   "re1|05e1626633ff4e16fb46a1f7c137468ecfc114a2": "Unsloth Dynamic 3.0发布Qwen3.8-27B量化版，同尺寸下top-1%精度提升超10%，5天下载破510万次；另有6.2GB的UD-IQ1_S保留约72%精度。",
   "re1|2da67a87626313276a572a77899314e8c8af01bc": "作者用OCaml实现自研Lisp可扩展环境，三个月来所有计算跑在上面；创建端点只需定义一个Lisp函数，其LLMs称用纯Clojure或Racket复刻可少于10k行。",
-  "re1|94c0f624f8136db9ff15bd48a05b511614a5a566": "这篇文章提出LLM时代网页软件的新范式：以稳固核心加沙箱扩展，让用户用自然语言定制功能，并举Pi和Cloudflare Dynamic Workers为例，解释了为何长尾需求能被低成本满足。"
+  "re1|94c0f624f8136db9ff15bd48a05b511614a5a566": "这篇文章提出LLM时代网页软件的新范式：以稳固核心加沙箱扩展，让用户用自然语言定制功能，并举Pi和Cloudflare Dynamic Workers为例，解释了为何长尾需求能被低成本满足。",
+  "ds1|Stripe declares we're living in the singularity and uses it as a reason not to IPO": "Stripe宣称我们正生活在奇点中，并以此为由不IPO。",
+  "Mathematics in the age of AI": "人工智能时代的数学",
+  "te1|21c500fc0b60154e02ed50f8d632c174d6c5f157": "AI时代数学：无法被人类解释的证明应视为不完整",
+  "te1|2bdfc35fcdcbf694097088ea88540f0ec33d21dd": "AI时代数学界如何应对？文章探讨数学研究目标与价值",
+  "re1|88e00b9d4204f5acf0f74974ed7de680d59f0fe7": "Stripe致投资者信称1月1日为“奇点开端”，以此解释不IPO，同时确认超80亿美元收购OpenRouter，上半年营收增长41%，并称其股票年涨幅31%跑赢标普500。",
+  "re1|5eda52eae7840af824068e3f4d3ef2fd23dd2f72": "Claude Code v2.1.236 新增 ANTHROPIC_DEFAULT_MODEL 环境变量，可设定新会话默认模型，且 /model 选择会覆盖并跨重启保留，比 ANTHROPIC_MODEL 更灵活。",
+  "re1|092fbdeb50d560e896f44b57adfd5bd65114013d": "纯C语言单文件实现的microgpt-c在Apple M5上跑出1000万tps，仅4192参数，训练2万名字后未见过数据达2.2039 nats/char，胜过近5倍参数的trigram，几秒即可训练。",
+  "re1|21c500fc0b60154e02ed50f8d632c174d6c5f157": "这篇评论探讨AI时代数学证明的可解释性难题，引用Hironaka定理案例，指出Abhyankar和Zariski也未能完全理解该证明，并质疑Lean验证的长证明是否应被拒绝。",
+  "re1|2bdfc35fcdcbf694097088ea88540f0ec33d21dd": "这篇arXiv论文（2608.16753）源于2026 International Congress of Mathematicians的公开讲座，假设AI将能完成研究级数学任务，转而追问数学研究的目标与价值观，以问题求解为例。"
 }

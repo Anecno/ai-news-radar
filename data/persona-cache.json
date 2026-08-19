@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_a9f249526c20|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "封闭产品更新，非通用工具，无法直接用于你的项目。",
-      "title_hash": "8ddb6dfc",
-      "scored_at": "2026-07-29T19:52:42.826760Z"
-    },
-    "story_6332fb1f933f|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "Blackwell 低精度 RL 方案，硬件还没普及，等能跑再试。",
-      "title_hash": "c82f9a02",
-      "scored_at": "2026-07-29T19:52:46.602499Z"
-    },
-    "story_329997b20bc2|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "实验室里的行为实验，离实际应用还远，当八卦看看就行。",
-      "title_hash": "26b2645d",
-      "scored_at": "2026-07-29T19:52:48.551431Z"
-    },
     "story_aa4a42f08412|pragmatic|0a5c5b24": {
       "score": 93,
       "review": "新模型已开放，Sol、Terra、Luna三款可选，立即试用看性价比和特色能力。",
@@ -5490,6 +5472,18 @@
       "review": "面向普通用户的学习技巧，无 API 或代码可抄，开发者不用管。",
       "title_hash": "f9c92047",
       "scored_at": "2026-08-19T19:45:58.612287Z"
+    },
+    "story_be580d9263f2|cynic|f4237a62": {
+      "score": 55,
+      "review": "97%恢复精度？怕是跟全精度比，量化损失本来就没多少。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T20:49:22.012250Z"
+    },
+    "story_be580d9263f2|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给出97%精度恢复的数字，缺少论文和第三方复现，权重开源情况待查。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T20:49:25.331045Z"
     }
   }
 }
