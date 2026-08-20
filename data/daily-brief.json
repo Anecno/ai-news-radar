@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-08-20T14:55:09.486186Z",
+  "generated_at": "2026-08-20T15:49:17.583657Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_5eb7373b87f5",
-      "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News",
+      "story_id": "story_185e96d8c2f8",
+      "title": "代码扫描新增“已缓解”警报关闭原因 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-          "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
-          "title_zh": "为前沿模型提供零数据保留功能",
-          "title_en": "Offering Zero Data Retention for frontier models",
-          "title_original": "Offering Zero Data Retention for frontier models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "source": "OpenAI News",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”警报关闭原因 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”警报关闭原因",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
+          "recommend_reason_zh": "GitHub code scanning新增“Mitigated”关闭原因，用于漏洞仍存在但防火墙或网络策略等外部控制已缓解风险，便于区分“Won’t fix”并减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-          "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
-          "title_zh": "为前沿模型提供零数据保留功能",
-          "title_en": "Offering Zero Data Retention for frontier models",
-          "title_original": "Offering Zero Data Retention for frontier models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "source": "OpenAI News",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”警报关闭原因 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”警报关闭原因",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
+          "recommend_reason_zh": "GitHub code scanning新增“Mitigated”关闭原因，用于漏洞仍存在但防火墙或网络策略等外部控制已缓解风险，便于区分“Won’t fix”并减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.75,
+        "ai_relevance": 0.87,
+        "recency": 0.9917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,27 +65,197 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
       "primary_item": {
-        "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-        "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
-        "title_zh": "为前沿模型提供零数据保留功能",
-        "title_en": "Offering Zero Data Retention for frontier models",
-        "title_original": "Offering Zero Data Retention for frontier models",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
-        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描新增“已缓解”警报关闭原因 / Code scanning adds a mitigated alert dismissal reason",
+        "title_zh": "代码扫描新增“已缓解”警报关闭原因",
+        "title_en": "Code scanning adds a mitigated alert dismissal reason",
+        "title_original": "Code scanning adds a mitigated alert dismissal reason",
+        "summary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nYou can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network policy, mitigate its risk.\nThe new dismissal reason helps you distinguish mitigated vulnerabilities from alerts marked Won’t fix , align dismis",
+        "recommend_reason_zh": "GitHub code scanning新增“Mitigated”关闭原因，用于漏洞仍存在但防火墙或网络策略等外部控制已缓解风险，便于区分“Won’t fix”并减少在GitHub外跟踪决策。",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "扫描告警多了个关闭理由，审计记录更清楚，日常用得上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T15:54:27.999100Z"
+      }
+    },
+    {
+      "story_id": "story_e9f43080b634",
+      "title": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "primary_url": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "title_zh": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场",
+          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nAugust 20, 2026\nWith a fixed deadline and design r",
+          "recommend_reason_zh": "Stampli用Codex和ChatGPT Work将Deep Finance上线制作从243小时压缩至77小时，提速3.16倍，每周产出数百条内容，并完成约90%的动画工作。",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "title_zh": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场",
+          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nAugust 20, 2026\nWith a fixed deadline and design r",
+          "recommend_reason_zh": "Stampli用Codex和ChatGPT Work将Deep Finance上线制作从243小时压缩至77小时，提速3.16倍，每周产出数百条内容，并完成约90%的动画工作。",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7957,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+        "title": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+        "title_zh": "ChatGPT Work 如何帮助 Stampli 将创意快速推向市场",
+        "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+        "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+        "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nWith a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.\nAugust 20, 2026\nWith a fixed deadline and design r",
+        "recommend_reason_zh": "Stampli用Codex和ChatGPT Work将Deep Finance上线制作从243小时压缩至77小时，提速3.16倍，每周产出数百条内容，并完成约90%的动画工作。",
+        "url": "https://openai.com/index/stampli",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "数据合规需求直接可满足，企业客户可立刻评估接入。",
+      "persona_score": 45,
+      "persona_review": "客户案例，无新工具，参考其工作流可，但不必行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
+      }
+    },
+    {
+      "story_id": "story_c5030fa07ae8",
+      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
+          "recommend_reason_zh": "GitHub Code Quality的CodeQL工作流现采用独立路径dynamic/github-code-quality/codeql，运行历史与用量报告可区分于code scanning，actor改为github-code-quality，无需重配置但依赖旧路径的构建需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
+          "recommend_reason_zh": "GitHub Code Quality的CodeQL工作流现采用独立路径dynamic/github-code-quality/codeql，运行历史与用量报告可区分于code scanning，actor改为github-code-quality，无需重配置但依赖旧路径的构建需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:29:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.981,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
+      "primary_item": {
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+        "summary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nA dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart from GitHub code scanning runs. Code Quality analysis runs on dynamic/github-code-quality/codeql and shows github",
+        "recommend_reason_zh": "GitHub Code Quality的CodeQL工作流现采用独立路径dynamic/github-code-quality/codeql，运行历史与用量报告可区分于code scanning，actor改为github-code-quality，无需重配置但依赖旧路径的构建需更新。",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "代码质量检查可独立配置，用 Actions 的可以优化工作流，但要改配置。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -133,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7376,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7738,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
-      "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "小版本更新，Actions 和 JS 查询更准，用 CodeQL 的可以顺手升级。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -303,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.75,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +425,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审计日志中追踪 GitHub Code Quality 启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中追踪 GitHub Code Quality 启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中追踪 GitHub Code Quality 启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
+          "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库中启用、禁用或更改设置的完整历史，包含操作者与时间，可通过组织及企业审计日志API查询，便于追踪计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中追踪 GitHub Code Quality 启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中追踪 GitHub Code Quality 启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
+          "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库中启用、禁用或更改设置的完整历史，包含操作者与时间，可通过组织及企业审计日志API查询，便于追踪计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9808,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
+      "primary_item": {
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审计日志中追踪 GitHub Code Quality 启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审计日志中追踪 GitHub Code Quality 启用变更",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "summary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nGitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history:\nEach event captures the repository, the actor who made the change, and when it happened. Because Code Quality billing counts a",
+        "recommend_reason_zh": "GitHub Code Quality新增三个审计日志事件，记录仓库中启用、禁用或更改设置的完整历史，包含操作者与时间，可通过组织及企业审计日志API查询，便于追踪计费范围变化。",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "审计日志能查谁开了 Code Quality，团队合规排查有用，配好告警就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T15:54:27.999100Z"
+      }
+    },
+    {
+      "story_id": "story_5eb7373b87f5",
+      "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留功能",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+          "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留功能",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7403,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
+      "primary_item": {
+        "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
+        "title": "为前沿模型提供零数据保留功能 / Offering Zero Data Retention for frontier models",
+        "title_zh": "为前沿模型提供零数据保留功能",
+        "title_en": "Offering Zero Data Retention for frontier models",
+        "title_original": "Offering Zero Data Retention for frontier models",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI重申对API客户的ZDR承诺：不留存提示词和响应，并预览Private Safety Processing，以客户控制的密钥加密，跨交互识别风险，其人员无法查看。",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "数据合规需求直接可满足，企业客户可立刻评估接入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -388,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,7 +679,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -472,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9162,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -508,7 +763,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -585,15 +840,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7799,
+        "recency": 0.7698,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,7 +877,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -670,15 +925,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9663,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -705,7 +960,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -753,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9293,
+        "recency": 0.9173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,7 +1044,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -837,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -872,7 +1127,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -920,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7688,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,7 +1210,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7638,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "小版本更新，Actions 和 JS 查询更准，用 CodeQL 的可以顺手升级。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -1003,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -1086,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1122,7 +1462,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -1170,15 +1510,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9173,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1206,7 +1546,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -1254,21 +1594,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.8926,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T07:57:14.549069Z",
       "latest_at": "2026-08-20T07:57:14.549069Z",
@@ -1290,7 +1629,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     },
     {
@@ -1338,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,426 +1712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
-      }
-    },
-    {
-      "story_id": "story_5971ac49eb16",
-      "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-      "url": "https://www.aibase.com/news/30502",
-      "primary_url": "https://www.aibase.com/news/30502",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "title_en": null,
-          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "summary": null,
-          "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
-          "url": "https://www.aibase.com/news/30502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "title_en": null,
-          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-          "summary": null,
-          "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
-          "url": "https://www.aibase.com/news/30502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8934,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:06:44.789536Z",
-      "latest_at": "2026-08-20T07:06:44.789536Z",
-      "primary_item": {
-        "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
-        "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-        "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-        "title_en": null,
-        "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
-        "summary": null,
-        "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
-        "url": "https://www.aibase.com/news/30502",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "七轴机械臂9900元起，机器人开发多了个低价选择，但SDK和生态成熟度待验证。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
-      }
-    },
-    {
-      "story_id": "story_cd43b590ecb7",
-      "title": "请不要粘贴AI生成的内容",
-      "url": "https://dontpastetheai.com",
-      "primary_url": "https://dontpastetheai.com",
-      "source": "dontpastetheai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": null,
-          "title_original": "请不要粘贴AI生成的内容",
-          "summary": null,
-          "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "别直接把AI回答粘贴给对方",
-          "title_zh": "别直接把AI回答粘贴给对方",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": "What's the equivalent of \"Google it yourself\" these days? When you ask something of somebody, the expectation of the other side to drop everything and do work for you isn't always appropriate/balanced/appreciated. The underlying problem here is that communication is hard; especially if it's not face to face. People can't read your mind or might not get the full context of your question. Back in the day I learned the hard way that sending a long reply to an email just ensures the other side won't",
-          "recommend_reason_zh": "长邮件没人看、秒回低优先级请求只会添乱——作者用亲身经历总结出三条沟通原则：回复要简短清晰，低优先级请求别立刻回复，想写长回复时优先面谈；并提醒先反思自己提问是否合理。",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
-          "recommend_reason_zh": "别把ChatGPT的通用回答直接粘贴给别人——对方问的是你的看法。这篇讽刺短文用“四秒”点出关键：要你的语境、品味和判断，网站还提供带情绪版本和GitHub PR。",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "dontpastetheai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-          "title": "请不要粘贴AI生成的内容",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": null,
-          "title_original": "请不要粘贴AI生成的内容",
-          "summary": null,
-          "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
-          "url": "https://dontpastetheai.com",
-          "source": "dontpastetheai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T09:26:10.003000Z"
-        },
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "别直接把AI回答粘贴给对方",
-          "title_zh": "别直接把AI回答粘贴给对方",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": "What's the equivalent of \"Google it yourself\" these days? When you ask something of somebody, the expectation of the other side to drop everything and do work for you isn't always appropriate/balanced/appreciated. The underlying problem here is that communication is hard; especially if it's not face to face. People can't read your mind or might not get the full context of your question. Back in the day I learned the hard way that sending a long reply to an email just ensures the other side won't",
-          "recommend_reason_zh": "长邮件没人看、秒回低优先级请求只会添乱——作者用亲身经历总结出三条沟通原则：回复要简短清晰，低优先级请求别立刻回复，想写长回复时优先面谈；并提醒先反思自己提问是否合理。",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请不要粘贴AI生成的内容 / Don't paste the AI, please",
-          "title_zh": "请不要粘贴AI生成的内容",
-          "title_en": "Don't paste the AI, please",
-          "title_original": "Don't paste the AI, please",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
-          "recommend_reason_zh": "别把ChatGPT的通用回答直接粘贴给别人——对方问的是你的看法。这篇讽刺短文用“四秒”点出关键：要你的语境、品味和判断，网站还提供带情绪版本和GitHub PR。",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9239,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T08:20:44Z",
-      "latest_at": "2026-08-20T09:26:10.003000Z",
-      "primary_item": {
-        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
-        "title": "请不要粘贴AI生成的内容",
-        "title_zh": "请不要粘贴AI生成的内容",
-        "title_en": null,
-        "title_original": "请不要粘贴AI生成的内容",
-        "summary": null,
-        "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
-        "url": "https://dontpastetheai.com",
-        "source": "dontpastetheai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "提醒别直接贴AI生成内容，但没给工具或方案，动手价值有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
-      }
-    },
-    {
-      "story_id": "story_d727e79f1124",
-      "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-      "url": "https://news.ycombinator.com/item?id=49374772",
-      "primary_url": "https://news.ycombinator.com/item?id=49374772",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "59f2590b79b16641adbb408a02decbfaae1b9e7e",
-          "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-          "title_zh": "用Claude折腾27美元的智能手表",
-          "title_en": "Hacking with Claude on a $27 Smart Watch",
-          "title_original": "Hacking with Claude on a $27 Smart Watch",
-          "summary": "reply\nreply\nreply\nWhat's stopping you from using the watch piece by itself or as another type of wearable accessory?\nreply\nreply\n... This seems needlessly confusing/misleading? Author continues to use \"Claude\" throughout the article.\nreply\nreply\nreply\nreply",
-          "recommend_reason_zh": "作者在27美元智能手表上玩转Claude，展示了如何将这块廉价手表用于黑客实验，并探讨了将其单独作为可穿戴配件使用的可能性。",
-          "url": "https://news.ycombinator.com/item?id=49374772",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T14:39:08.635000Z"
-        },
-        {
-          "id": "5e0539426f3de075fa166c138da07ccaf646c68c",
-          "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-          "title_zh": "用Claude折腾27美元的智能手表",
-          "title_en": "Hacking with Claude on a $27 Smart Watch",
-          "title_original": "Hacking with Claude on a $27 Smart Watch",
-          "summary": "The Pine Time is a $27 smart watch that runs open source firmware. I’ve had one sitting in the back of a drawer for a...\nThe Pine Time is a $27 smart watch that runs open source firmware. I’ve had one sitting in the back of a drawer for a...\nHusband. Father. Software engineer. Ubuntu Linux user.\nThe Pine Time is a $27 smart watch that\nruns open source firmware. I’ve had one sitting in the back of a drawer for a\nyear or two. When I saw @steveruizok ’s Tweet\nabout hacking on ESP32 devices with Cla",
-          "recommend_reason_zh": "用Claude等AI模型在27美元PineTime上尝试复刻Casio表盘，实测240x240图蓝牙传输要10分钟、刷屏1-2秒，内存不足只能流式读取。",
-          "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T14:08:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "59f2590b79b16641adbb408a02decbfaae1b9e7e",
-          "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-          "title_zh": "用Claude折腾27美元的智能手表",
-          "title_en": "Hacking with Claude on a $27 Smart Watch",
-          "title_original": "Hacking with Claude on a $27 Smart Watch",
-          "summary": "reply\nreply\nreply\nWhat's stopping you from using the watch piece by itself or as another type of wearable accessory?\nreply\nreply\n... This seems needlessly confusing/misleading? Author continues to use \"Claude\" throughout the article.\nreply\nreply\nreply\nreply",
-          "recommend_reason_zh": "作者在27美元智能手表上玩转Claude，展示了如何将这块廉价手表用于黑客实验，并探讨了将其单独作为可穿戴配件使用的可能性。",
-          "url": "https://news.ycombinator.com/item?id=49374772",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T14:39:08.635000Z"
-        },
-        {
-          "id": "5e0539426f3de075fa166c138da07ccaf646c68c",
-          "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-          "title_zh": "用Claude折腾27美元的智能手表",
-          "title_en": "Hacking with Claude on a $27 Smart Watch",
-          "title_original": "Hacking with Claude on a $27 Smart Watch",
-          "summary": "The Pine Time is a $27 smart watch that runs open source firmware. I’ve had one sitting in the back of a drawer for a...\nThe Pine Time is a $27 smart watch that runs open source firmware. I’ve had one sitting in the back of a drawer for a...\nHusband. Father. Software engineer. Ubuntu Linux user.\nThe Pine Time is a $27 smart watch that\nruns open source firmware. I’ve had one sitting in the back of a drawer for a\nyear or two. When I saw @steveruizok ’s Tweet\nabout hacking on ESP32 devices with Cla",
-          "recommend_reason_zh": "用Claude等AI模型在27美元PineTime上尝试复刻Casio表盘，实测240x240图蓝牙传输要10分钟、刷屏1-2秒，内存不足只能流式读取。",
-          "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T14:08:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T14:08:09Z",
-      "latest_at": "2026-08-20T14:39:08.635000Z",
-      "primary_item": {
-        "id": "59f2590b79b16641adbb408a02decbfaae1b9e7e",
-        "title": "用Claude折腾27美元的智能手表 / Hacking with Claude on a $27 Smart Watch",
-        "title_zh": "用Claude折腾27美元的智能手表",
-        "title_en": "Hacking with Claude on a $27 Smart Watch",
-        "title_original": "Hacking with Claude on a $27 Smart Watch",
-        "summary": "reply\nreply\nreply\nWhat's stopping you from using the watch piece by itself or as another type of wearable accessory?\nreply\nreply\n... This seems needlessly confusing/misleading? Author continues to use \"Claude\" throughout the article.\nreply\nreply\nreply\nreply",
-        "recommend_reason_zh": "作者在27美元智能手表上玩转Claude，展示了如何将这块廉价手表用于黑客实验，并探讨了将其单独作为可穿戴配件使用的可能性。",
-        "url": "https://news.ycombinator.com/item?id=49374772",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "DIY 玩具级演示，思路有启发，但无通用方案，不用行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
-      }
-    },
-    {
-      "story_id": "story_eaf39713ae16",
-      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-      "url": "https://www.aibase.com/news/30500",
-      "primary_url": "https://www.aibase.com/news/30500",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": null,
-          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": null,
-          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8934,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:06:44.789536Z",
-      "latest_at": "2026-08-20T07:06:44.789536Z",
-      "primary_item": {
-        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "title_en": null,
-        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "summary": null,
-        "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-        "url": "https://www.aibase.com/news/30500",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "商业数据好看，但API和价格没变化，做应用的不用急着跟进。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T15:00:33.225743Z"
+        "scored_at": "2026-08-20T15:54:27.999100Z"
       }
     }
   ]
