@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:46:33.368023Z",
+  "generated_at": "2026-08-20T07:06:44.789536Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8559,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8417,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.883,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
-      "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "小版本更新，Actions 和 JS 查询更准，用 CodeQL 的可以顺手升级。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -303,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7941,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +255,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8661,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript及Vue源码建模，并提升多个GitHub Actions查询的准确性，作为GitHub code scanning的静态分析引擎，值得关注。",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "小版本更新，Actions 和 JS 查询更准，用 CodeQL 的可以顺手升级。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8559,
+        "recency": 0.8395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,92 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_fe9df585279b",
-      "title": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件 / Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "recommend_reason_zh": "Replit 借助 GPT-5.6 Luna 推出 Free Mode，让用户无需担心 token 成本，即可把想法变成可运行的软件；Agent 能理解项目上下文，复杂任务时可切换至 GPT-5.6 Sol 并保留上下文。",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "recommend_reason_zh": "Replit 借助 GPT-5.6 Luna 推出 Free Mode，让用户无需担心 token 成本，即可把想法变成可运行的软件；Agent 能理解项目上下文，复杂任务时可切换至 GPT-5.6 Sol 并保留上下文。",
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7197,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:00:00Z",
-      "latest_at": "2026-08-19T07:00:00Z",
-      "primary_item": {
-        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-        "title": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件 / Replit expands access to software creation with GPT-5.6 Luna",
-        "title_zh": "Replit 借助 GPT-5.6 Luna 让更多人能够创建软件",
-        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-        "summary": null,
-        "recommend_reason_zh": "Replit 借助 GPT-5.6 Luna 推出 Free Mode，让用户无需担心 token 成本，即可把想法变成可运行的软件；Agent 能理解项目上下文，复杂任务时可切换至 GPT-5.6 Sol 并保留上下文。",
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "看是否开放 API，能直接用才有价值，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -558,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7843,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -672,15 +587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.89,
+        "recency": 0.8729,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -709,30 +624,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
-      "story_id": "story_97e04846adb3",
-      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-      "url": "https://www.aibase.com/news/30497",
-      "primary_url": "https://www.aibase.com/news/30497",
+      "story_id": "story_170c6e847b14",
+      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+      "url": "https://www.aibase.com/news/30501",
+      "primary_url": "https://www.aibase.com/news/30501",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "title_en": null,
-          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "summary": "Global payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nExplore AI Fronti",
-          "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
-          "url": "https://www.aibase.com/news/30497",
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": "As more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nExplore AI Frontiers",
+          "recommend_reason_zh": "IDC最新报告将Ant Digital列入中国生成式AI安全评估平台领导者，聚焦大模型越狱、敏感信息泄露及工具滥用、智能体权限提升等新风险，并展示其在金融、医疗、制造行业的实践成效。",
+          "url": "https://www.aibase.com/news/30501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:46:33.368023Z"
+          "published_at": "2026-08-20T07:06:44.789536Z"
         }
       ],
       "source_count": 1,
@@ -741,18 +656,18 @@
       ],
       "items": [
         {
-          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
           "title_en": null,
-          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-          "summary": "Global payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nExplore AI Fronti",
-          "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
-          "url": "https://www.aibase.com/news/30497",
+          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+          "summary": "As more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nExplore AI Frontiers",
+          "recommend_reason_zh": "IDC最新报告将Ant Digital列入中国生成式AI安全评估平台领导者，聚焦大模型越狱、敏感信息泄露及工具滥用、智能体权限提升等新风险，并展示其在金融、医疗、制造行业的实践成效。",
+          "url": "https://www.aibase.com/news/30501",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T05:46:33.368023Z"
+          "published_at": "2026-08-20T07:06:44.789536Z"
         }
       ],
       "item_count": 1,
@@ -773,27 +688,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T05:46:33.368023Z",
-      "latest_at": "2026-08-20T05:46:33.368023Z",
+      "earliest_at": "2026-08-20T07:06:44.789536Z",
+      "latest_at": "2026-08-20T07:06:44.789536Z",
       "primary_item": {
-        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
-        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
+        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
         "title_en": null,
-        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
-        "summary": "Global payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nGlobal payment giant Stripe has officially confirmed that it has finalized the acquisition of the well-known AI model routing and gateway platform OpenRouter. I\nExplore AI Fronti",
-        "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
-        "url": "https://www.aibase.com/news/30497",
+        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
+        "summary": "As more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nAs more and more enterprises begin to apply AI to core business scenarios such as customer service and operations management, enterprise AI security risks have\nExplore AI Frontiers",
+        "recommend_reason_zh": "IDC最新报告将Ant Digital列入中国生成式AI安全评估平台领导者，聚焦大模型越狱、敏感信息泄露及工具滥用、智能体权限提升等新风险，并展示其在金融、医疗、制造行业的实践成效。",
+        "url": "https://www.aibase.com/news/30501",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "收购落地前OpenRouter照常用，关心后续定价和API变化。",
+      "persona_score": 52,
+      "persona_review": "研究报告看看即可，无直接工具或接口，选型参考价值有限。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -841,21 +756,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9238,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T00:17:26Z",
       "latest_at": "2026-08-20T00:17:26Z",
@@ -877,7 +791,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -925,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.8606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -960,7 +874,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -1008,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8429,
+        "recency": 0.8267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1043,7 +957,427 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_5971ac49eb16",
+      "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+      "url": "https://www.aibase.com/news/30502",
+      "primary_url": "https://www.aibase.com/news/30502",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_en": null,
+          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "summary": "Robotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nExplore AI Fronti",
+          "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
+          "url": "https://www.aibase.com/news/30502",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+          "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "title_en": null,
+          "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+          "summary": "Robotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nExplore AI Fronti",
+          "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
+          "url": "https://www.aibase.com/news/30502",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:06:44.789536Z",
+      "latest_at": "2026-08-20T07:06:44.789536Z",
+      "primary_item": {
+        "id": "a86d8f59dfae0cfc653f2b417bc9ff9a4b30e29c",
+        "title": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "title_zh": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "title_en": null,
+        "title_original": "宇树科技再出王炸！仿生7轴灵巧机械臂R1发布，9900元起售",
+        "summary": "Robotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nRobotics track has been active recently. Unitree Technology officially announced the launch of its new bionic 7-axis dexterous robotic arm R1 on August 20th, wi\nExplore AI Fronti",
+        "recommend_reason_zh": "Unitree发布仿生7轴机械臂R1，9900元起售，重复定位精度约0.1mm，各关节最大速度超180°/s，以低成本降低高性能多轴机器人门槛。",
+        "url": "https://www.aibase.com/news/30502",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "七轴机械臂9900元起，机器人开发多了个低价选择，但SDK和生态成熟度待验证。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_eaf39713ae16",
+      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+      "url": "https://www.aibase.com/news/30500",
+      "primary_url": "https://www.aibase.com/news/30500",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_en": null,
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
+          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+          "url": "https://www.aibase.com/news/30500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_en": null,
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
+          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+          "url": "https://www.aibase.com/news/30500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:06:44.789536Z",
+      "latest_at": "2026-08-20T07:06:44.789536Z",
+      "primary_item": {
+        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "title_en": null,
+        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "summary": "Kuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nKuaishou Technology's Q2 2026 financial report shows that the company's revenue in the second quarter reached 35.5 billion yuan, with core commercial revenue gr\nExplore AI Fronti",
+        "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+        "url": "https://www.aibase.com/news/30500",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "商业数据好看，但API和价格没变化，做应用的不用急着跟进。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_c7d29fef510b",
+      "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+      "url": "https://www.aibase.com/news/30499",
+      "primary_url": "https://www.aibase.com/news/30499",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_en": null,
+          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "summary": "With the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nExplore AI Frontiers",
+          "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
+          "url": "https://www.aibase.com/news/30499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_en": null,
+          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "summary": "With the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nExplore AI Frontiers",
+          "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
+          "url": "https://www.aibase.com/news/30499",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:06:44.789536Z",
+      "latest_at": "2026-08-20T07:06:44.789536Z",
+      "primary_item": {
+        "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
+        "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "title_en": null,
+        "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "summary": "With the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nWith the comprehensive intelligent upgrade of the logistics industry, frontline employees are experiencing a historic breakthrough in career transformation. JD\nExplore AI Frontiers",
+        "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
+        "url": "https://www.aibase.com/news/30499",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "培训新闻与开发者无关，等有实际技术细节再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_f580ac46b80c",
+      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+      "url": "https://www.aibase.com/news/30498",
+      "primary_url": "https://www.aibase.com/news/30498",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_en": null,
+          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "summary": "Wang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nExplore AI Fronti",
+          "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
+          "url": "https://www.aibase.com/news/30498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "title_en": null,
+          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+          "summary": "Wang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nExplore AI Fronti",
+          "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
+          "url": "https://www.aibase.com/news/30498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:06:44.789536Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T07:06:44.789536Z",
+      "latest_at": "2026-08-20T07:06:44.789536Z",
+      "primary_item": {
+        "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
+        "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "title_en": null,
+        "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
+        "summary": "Wang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nWang Xingxing, founder and CEO and CTO of BotSchool, stated during his speech at the main forum of the 2026 World Robot Conference (WRC2026) that embodied intel\nExplore AI Fronti",
+        "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
+        "url": "https://www.aibase.com/news/30498",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "预测量产时间而已，眼下没有可上手的工具，等真出来再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_97e04846adb3",
+      "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+      "url": "https://www.aibase.com/news/30497",
+      "primary_url": "https://www.aibase.com/news/30497",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_en": null,
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T05:46:33.368023Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+          "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "title_en": null,
+          "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
+          "url": "https://www.aibase.com/news/30497",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T05:46:33.368023Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T05:46:33.368023Z",
+      "latest_at": "2026-08-20T05:46:33.368023Z",
+      "primary_item": {
+        "id": "d3f775aec7238aa85d31859d61b11ef22857d5af",
+        "title": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_zh": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "title_en": null,
+        "title_original": "75亿美元！Stripe正式收购模型路由平台OpenRouter",
+        "summary": null,
+        "recommend_reason_zh": "全球支付巨头Stripe以约75亿美元完成对AI模型路由平台OpenRouter的收购，后者已集成超400个模型、日处理超10万亿tokens，估值较5月B轮融资时飙涨5倍，独立运营值得关注。",
+        "url": "https://www.aibase.com/news/30497",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "收购落地前OpenRouter照常用，关心后续定价和API变化。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -1091,15 +1425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1127,427 +1461,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_c4fc7d4e70c8",
-      "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-      "url": "https://www.aibase.com/news/30496",
-      "primary_url": "https://www.aibase.com/news/30496",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
-          "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "title_en": null,
-          "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "summary": null,
-          "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
-          "url": "https://www.aibase.com/news/30496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:59:21.136288Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
-          "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "title_en": null,
-          "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-          "summary": null,
-          "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
-          "url": "https://www.aibase.com/news/30496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:59:21.136288Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9745,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:59:21.136288Z",
-      "latest_at": "2026-08-20T03:59:21.136288Z",
-      "primary_item": {
-        "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
-        "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-        "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-        "title_en": null,
-        "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
-        "summary": null,
-        "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
-        "url": "https://www.aibase.com/news/30496",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "痛点共识而已，没给方案和工具，做具身的等落地细节。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_796e9c69bcbe",
-      "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-      "url": "https://www.aibase.com/news/30494",
-      "primary_url": "https://www.aibase.com/news/30494",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": null,
-          "recommend_reason_zh": "CounterPoint Research预测2026至2032年可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜2032年收入可达440亿美元，约占总额五分之一，成为增长最快品类。",
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-          "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "title_en": null,
-          "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-          "summary": null,
-          "recommend_reason_zh": "CounterPoint Research预测2026至2032年可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜2032年收入可达440亿美元，约占总额五分之一，成为增长最快品类。",
-          "url": "https://www.aibase.com/news/30494",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:10:29.548883Z",
-      "latest_at": "2026-08-20T03:10:29.548883Z",
-      "primary_item": {
-        "id": "c650f8502bf7f111d704450c5d48f5026221ebd3",
-        "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_zh": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "title_en": null,
-        "title_original": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
-        "summary": null,
-        "recommend_reason_zh": "CounterPoint Research预测2026至2032年可穿戴设备累计收入将超1万亿美元，年复合增长12%；其中智能眼镜2032年收入可达440亿美元，约占总额五分之一，成为增长最快品类。",
-        "url": "https://www.aibase.com/news/30494",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "趋势预测而已，没有可落地的接口或硬件，观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_82b715fa8ad8",
-      "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-      "url": "https://www.aibase.com/news/30493",
-      "primary_url": "https://www.aibase.com/news/30493",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-          "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "title_en": null,
-          "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:10:29.548883Z",
-      "latest_at": "2026-08-20T03:10:29.548883Z",
-      "primary_item": {
-        "id": "8fc76318ec4fdac79afb7d741cc0066d968e1874",
-        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_zh": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "title_en": null,
-        "title_original": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30493",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "Mac端应用而已，不是API或开源，开发者看看就好，除非你重度用Meta生态。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_d343d6dbf0c6",
-      "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-      "url": "https://www.aibase.com/news/30492",
-      "primary_url": "https://www.aibase.com/news/30492",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sara Ferial内部会议透露最迟2027年IPO，6月已秘密递交招股书，此前122亿美元融资；对手Anthropic或9月上市，一文看清双方底牌。",
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-          "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "title_en": null,
-          "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sara Ferial内部会议透露最迟2027年IPO，6月已秘密递交招股书，此前122亿美元融资；对手Anthropic或9月上市，一文看清双方底牌。",
-          "url": "https://www.aibase.com/news/30492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:10:29.548883Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9631,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:10:29.548883Z",
-      "latest_at": "2026-08-20T03:10:29.548883Z",
-      "primary_item": {
-        "id": "8742c7bcc7d71e7a948946fb78208452ba1a5f21",
-        "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_zh": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "title_en": null,
-        "title_original": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI CFO Sara Ferial内部会议透露最迟2027年IPO，6月已秘密递交招股书，此前122亿美元融资；对手Anthropic或9月上市，一文看清双方底牌。",
-        "url": "https://www.aibase.com/news/30492",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "上市计划不写代码，等真上市再看不迟。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
-      }
-    },
-    {
-      "story_id": "story_6be122ea69ff",
-      "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-      "url": "https://www.aibase.com/news/30490",
-      "primary_url": "https://www.aibase.com/news/30490",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_en": null,
-          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "summary": null,
-          "recommend_reason_zh": "ChatGPT于8月19日美东时间晚8点全球故障，用户无法登录、注册、加载聊天记录或发消息，OpenAI的Codex与API服务也受波及，本文梳理了故障始末。",
-          "url": "https://www.aibase.com/news/30490",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:51:38.065643Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "title_en": null,
-          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-          "summary": null,
-          "recommend_reason_zh": "ChatGPT于8月19日美东时间晚8点全球故障，用户无法登录、注册、加载聊天记录或发消息，OpenAI的Codex与API服务也受波及，本文梳理了故障始末。",
-          "url": "https://www.aibase.com/news/30490",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T01:51:38.065643Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.945,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T01:51:38.065643Z",
-      "latest_at": "2026-08-20T01:51:38.065643Z",
-      "primary_item": {
-        "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
-        "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "title_en": null,
-        "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
-        "summary": null,
-        "recommend_reason_zh": "ChatGPT于8月19日美东时间晚8点全球故障，用户无法登录、注册、加载聊天记录或发消息，OpenAI的Codex与API服务也受波及，本文梳理了故障始末。",
-        "url": "https://www.aibase.com/news/30490",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "临时故障，等恢复即可，不影响选型。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
@@ -1653,15 +1567,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "score": 0.5547,
+      "importance": 0.5547,
+      "importance_score": 0.5547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9284,
+        "recency": 0.9107,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1688,30 +1602,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     },
     {
-      "story_id": "story_6bbd57344177",
-      "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-      "url": "https://www.aibase.com/news/30478",
-      "primary_url": "https://www.aibase.com/news/30478",
+      "story_id": "story_c4fc7d4e70c8",
+      "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
+      "url": "https://www.aibase.com/news/30496",
+      "primary_url": "https://www.aibase.com/news/30496",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
+          "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
+          "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
           "title_en": null,
-          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
           "summary": null,
-          "recommend_reason_zh": "ChatGPT于8月20日前后突发全球宕机，数百万美欧用户无法登录，chatgpt.com瘫痪，OpenAI的Codex及12个核心API接口也受影响，值得关注其服务稳定性问题。",
-          "url": "https://www.aibase.com/news/30478",
+          "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
+          "url": "https://www.aibase.com/news/30496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:51:38.065643Z"
+          "published_at": "2026-08-20T03:59:21.136288Z"
         }
       ],
       "source_count": 1,
@@ -1720,31 +1634,31 @@
       ],
       "items": [
         {
-          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
+          "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
+          "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
           "title_en": null,
-          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
           "summary": null,
-          "recommend_reason_zh": "ChatGPT于8月20日前后突发全球宕机，数百万美欧用户无法登录，chatgpt.com瘫痪，OpenAI的Codex及12个核心API接口也受影响，值得关注其服务稳定性问题。",
-          "url": "https://www.aibase.com/news/30478",
+          "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
+          "url": "https://www.aibase.com/news/30496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T01:51:38.065643Z"
+          "published_at": "2026-08-20T03:59:21.136288Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.945,
+        "recency": 0.9559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1752,27 +1666,139 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T01:51:38.065643Z",
-      "latest_at": "2026-08-20T01:51:38.065643Z",
+      "earliest_at": "2026-08-20T03:59:21.136288Z",
+      "latest_at": "2026-08-20T03:59:21.136288Z",
       "primary_item": {
-        "id": "ba0f4f849ba241978d499e019071fcabe915df15",
-        "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
-        "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "id": "21b88c24f27039e3e9f541267efb40b60a54eb88",
+        "title": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
+        "title_zh": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
         "title_en": null,
-        "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "title_original": "王兴兴首谈具身智能行业拐点：核心痛点在于大模型与真机如何完美对齐",
         "summary": null,
-        "recommend_reason_zh": "ChatGPT于8月20日前后突发全球宕机，数百万美欧用户无法登录，chatgpt.com瘫痪，OpenAI的Codex及12个核心API接口也受影响，值得关注其服务稳定性问题。",
-        "url": "https://www.aibase.com/news/30478",
+        "recommend_reason_zh": "Wang Xingxing谈具身智能‘ChatGPT moment’：机器人在80%陌生场景完成80%任务，预计2-3年或最迟5-10年到来，核心痛点是大模型与真机对齐。",
+        "url": "https://www.aibase.com/news/30496",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "服务中断影响当天可用性，但属于偶发事件，不需要改选型。",
+      "persona_score": 50,
+      "persona_review": "痛点共识而已，没给方案和工具，做具身的等落地细节。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T05:49:17.700660Z"
+        "scored_at": "2026-08-20T07:08:30.555218Z"
+      }
+    },
+    {
+      "story_id": "story_ea6a0f0ad466",
+      "title": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "primary_url": "https://arxiv.org/abs/2608.16753",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "baf7280aedf2f5ce0eae51addcf3143d70cbf65e",
+          "title": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+          "title_zh": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+          "title_en": null,
+          "title_original": "人工智能时代的数学",
+          "summary": null,
+          "recommend_reason_zh": "这篇基于2026年国际数学家大会公开讲座的文章，不争论AI能否完成研究级数学，而是探讨数学研究的目标与价值观，并以问题解决为案例，原文见arXiv 2608.16753。",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T23:01:56.839000Z"
+        },
+        {
+          "id": "730639b8c3b687f7a493dfc778fd9c78fb4a539d",
+          "title": "AI时代数学界如何应对？文章探讨数学研究目标与价值",
+          "title_zh": "AI时代数学界如何应对？文章探讨数学研究目标与价值",
+          "title_en": "Mathematics in the age of AI",
+          "title_original": "Mathematics in the age of AI",
+          "summary": null,
+          "recommend_reason_zh": "这篇arXiv论文（2608.16753）源于2026 International Congress of Mathematicians的公开讲座，假设AI将能完成研究级数学任务，转而追问数学研究的目标与价值观，以问题求解为例。",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T15:14:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org"
+      ],
+      "items": [
+        {
+          "id": "baf7280aedf2f5ce0eae51addcf3143d70cbf65e",
+          "title": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+          "title_zh": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+          "title_en": null,
+          "title_original": "人工智能时代的数学",
+          "summary": null,
+          "recommend_reason_zh": "这篇基于2026年国际数学家大会公开讲座的文章，不争论AI能否完成研究级数学，而是探讨数学研究的目标与价值观，并以问题解决为案例，原文见arXiv 2608.16753。",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-19T23:01:56.839000Z"
+        },
+        {
+          "id": "730639b8c3b687f7a493dfc778fd9c78fb4a539d",
+          "title": "AI时代数学界如何应对？文章探讨数学研究目标与价值",
+          "title_zh": "AI时代数学界如何应对？文章探讨数学研究目标与价值",
+          "title_en": "Mathematics in the age of AI",
+          "title_original": "Mathematics in the age of AI",
+          "summary": null,
+          "recommend_reason_zh": "这篇arXiv论文（2608.16753）源于2026 International Congress of Mathematicians的公开讲座，假设AI将能完成研究级数学任务，转而追问数学研究的目标与价值观，以问题求解为例。",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T15:14:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T15:14:25Z",
+      "latest_at": "2026-08-19T23:01:56.839000Z",
+      "primary_item": {
+        "id": "baf7280aedf2f5ce0eae51addcf3143d70cbf65e",
+        "title": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+        "title_zh": "人工智能时代，数学界如何回应可执行研究级数学任务的AI工具",
+        "title_en": null,
+        "title_original": "人工智能时代的数学",
+        "summary": null,
+        "recommend_reason_zh": "这篇基于2026年国际数学家大会公开讲座的文章，不争论AI能否完成研究级数学，而是探讨数学研究的目标与价值观，并以问题解决为案例，原文见arXiv 2608.16753。",
+        "url": "https://arxiv.org/abs/2608.16753",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "论文讨论AI做数学研究，离可上手工具还远，看看即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T07:08:30.555218Z"
       }
     }
   ]
