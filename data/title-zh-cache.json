@@ -40328,5 +40328,8 @@
   "re1|f4b32eabf309250a94b60b44b835f9399b99710f": "本文报道Google为出版商新增按钮，读者可将其设为Search、Discover及Google News的优先来源，以应对AI搜索减少网页点击的流量损失。",
   "re1|f465d5c38a69053d13e0e51e8ff5663e4acd500e": "Runlayer与Rippling已撤销诉讼，未支付任何赔偿，Rippling还顺势发布竞品庆祝，这场风波对创业者仍是重要警示。",
   "re1|bfcd06c5ba874cd9c20a005a569e002f09cf0fd3": "danielvaughn自今年一月几乎只靠编码代理写码，发现复杂代码库中代理会自我混淆。他开发的Huzzah让你写伪代码，保存时同步为真实源码，伪代码与代码并存记录意图。目前是概念验证，GitHub仓库和演示视频已公开。",
-  "re1|27e1d37be3f65f5876304f30f9c3ba48ccdf391c": "厌倦了向coding agents写长篇英文？Huzzah让你用伪代码声明式描述改动，保存.hz文件时自动捕捉diff并生成代码，告别一次性提示，fizz buzz示例直观展示差异。"
+  "re1|27e1d37be3f65f5876304f30f9c3ba48ccdf391c": "厌倦了向coding agents写长篇英文？Huzzah让你用伪代码声明式描述改动，保存.hz文件时自动捕捉diff并生成代码，告别一次性提示，fizz buzz示例直观展示差异。",
+  "re1|5a76d48495d93af321055ea4c259fc799576ef1c": "Claude Platform的Computer use、Skills API与Files API今日全面可用，新增browser use工具让代理在网页中操作，实测最长理赔流程从32分钟缩至13分钟，成本降约30%。",
+  "re1|5e6abde383ac523ddada6230ad1be99917c6f569": "Claude Code v2.1.238新增keybindingFlavor设置，设为\"readline\"后Ctrl+W可像Bash那样删除到前一个空白符，默认\"classic\"保持不变，终端编码体验更灵活。",
+  "re1|c3df7f20659b6c0fba55b1f04f6c2a0f59555e34": "Vomit通过本地LLM将Claude 5的token输出转成英文，完全本地运行、无遥测且无外部依赖，还支持非侵入模式，推荐搭配Llama.app下载GPT-OSS 20B使用。"
 }

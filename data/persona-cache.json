@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cd0c62bd1478|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "正在用它试模型的开发者抓紧迁移，没用过的基本不影响。",
-      "title_hash": "bd544cc8",
-      "scored_at": "2026-07-30T20:44:13.857238Z"
-    },
-    "story_6613dc91bfab|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "法律官司不影响今天写代码，等有实际限制再关注。",
-      "title_hash": "8c09269b",
-      "scored_at": "2026-07-30T20:44:16.773839Z"
-    },
-    "story_a63efd000889|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "自动浏览集成Chrome，省去手动操作，适合自动化场景，但接口细节待查。",
-      "title_hash": "f78108ee",
-      "scored_at": "2026-07-30T20:44:19.902456Z"
-    },
-    "story_4500861bbc86|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "功能更新但无API或源码，除非你开发Google Earth插件，否则看看就好。",
-      "title_hash": "114556de",
-      "scored_at": "2026-07-30T20:44:23.211003Z"
-    },
     "story_6f833287598b|pragmatic|0a5c5b24": {
       "score": 65,
       "review": "Codex 工具更新，有浏览器和图像编辑改进，具体需看 changelog 再试。",
@@ -5556,6 +5532,24 @@
       "review": "官网介绍性质，没看到可上手的工具，等具体产品再说。",
       "title_hash": "8fb7b6ae",
       "scored_at": "2026-08-20T19:50:34.734830Z"
+    },
+    "story_997206e2df36|pragmatic|0a5c5b24": {
+      "score": 92,
+      "review": "直接可用的新 API，agent 开发能上手试了，浏览器操作开箱即用。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:50:24.607389Z"
+    },
+    "story_997206e2df36|cynic|f4237a62": {
+      "score": 80,
+      "review": "API 全家桶诚意足，但'正式上线'和'稳定好用'隔着一堆坑。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:50:26.903181Z"
+    },
+    "story_997206e2df36|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方博客说上线新API，没论文没代码没benchmark，等实测再信。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:50:28.689565Z"
     }
   }
 }

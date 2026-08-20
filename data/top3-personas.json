@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:50:34.735064Z",
+  "generated_at": "2026-08-20T20:50:28.689668Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_997206e2df36",
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 80,
+          "review": "API 全家桶诚意足，但'正式上线'和'稳定好用'隔着一堆坑。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方博客说上线新API，没论文没代码没benchmark，等实测再信。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "直接可用的新 API，agent 开发能上手试了，浏览器操作开箱即用。"
+        }
+      }
+    },
+    {
       "story_id": "story_13b553da3c26",
       "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
       "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -40,7 +60,7 @@
       "story_id": "story_666a236350be",
       "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "草稿模型提速 3 倍，跑生成任务可试，但需确认兼容性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "1-bit 量化牺牲精度换体积，'更聪明'得看基准测试，8GB 能跑不等于好用。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅新闻稿无技术细节，无代码无评测，1-bit效果待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "1-bit量化8GB跑27B，本地部署党可上手试。"
         }
       }
     }
