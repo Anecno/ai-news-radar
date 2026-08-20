@@ -40267,5 +40267,20 @@
   "re1|a32431dbaba0880097171b9a3ab2b0458de9cde0": "OpenAI经历与Elon Musk的官司、Apple的诉讼及高管离职潮后，权力悄然集中到President Greg Brockman手中。文章揭示Sam Altman仍是CEO但Brockman已主导日常运营，并援引他2017年日记“如何赚到10亿美元”及如今持股价值近30倍等细节。",
   "re1|466906353f69d6cf1c5ee61cb28887f73e035a07": "正文仅用‘reply reply’两词，标题即断言Anti-AI fonts无用且有害，文章以极简形式表达立场，警示读者勿被此类字体噱头迷惑。",
   "re1|dc6203ba81ea3867bc3170a085d33a10c04d84c6": "用独立的LLM当编辑，按“仅人类和智能体可做动作”等规则清理Claude 5的token vomit，保留细节并改写为清晰口语，避免破折号和自夸，方法具体可照做。",
-  "re1|9f31fa5e7028a96a8da8ba32ea2370283823bd1a": "开源工具 Vomit 可将 Claude 5 输出的 token 乱码经本地 LLM 清洗成可读英文，完全本地运行、无遥测无外部依赖，还提供旁路非侵入模式，官方建议用 Llama.app 下载 GPT-OSS 20B 配合使用。"
+  "re1|9f31fa5e7028a96a8da8ba32ea2370283823bd1a": "开源工具 Vomit 可将 Claude 5 输出的 token 乱码经本地 LLM 清洗成可读英文，完全本地运行、无遥测无外部依赖，还提供旁路非侵入模式，官方建议用 Llama.app 下载 GPT-OSS 20B 配合使用。",
+  "ds1|Ramp launches its own AI model router, called Router": "Ramp 推出自家的 AI 模型路由器，名为 Router",
+  "ds1|Meta brings Pocket, an app that lets you vibe-code and share games, to US users": "Meta向美国用户推出Pocket，一款可让你随性编码并分享游戏的应用。",
+  "ds1|Inertia Enterprises finds a way to make its fusion fuel fast": "Inertia Enterprises 找到快速制造聚变燃料的方法",
+  "ds1|How Generative Recommenders Are Redefining RecSys at Scale": "生成式推荐器如何大规模重塑RecSys",
+  "ds1|I Am Morally Opposed to Updating My Claude.md": "我坚决反对更新我的Claude.md",
+  "te1|4e272630c65c59f6a1816325530ef0bdde6641ee": "反AI字体无用且有害，并损害无障碍阅读",
+  "re1|95113af258b1284eda76f40a79e58d93e1bc0c99": "Agentic Search作为检索层，帮助AI系统在复杂文档间导航、读取并验证信息，提升AI系统结果的准确性和效率。",
+  "re1|6855c05533a98a615f1f86fb065ccad82a862328": "AlloyDB ScaNN索引引入四层树架构，将向量检索规模扩展至100亿，查询复杂度降至O(N^1/4)，兼顾内存效率与低延迟。",
+  "re1|89f720b93b853f387c5f070b326066a04b436e2d": "",
+  "re1|32ff408a98d4358205edb601c5a314328548340a": "Ramp推出自有AI模型路由服务Router，通过API让用户和企业在不同大语言模型间切换使用，应对模型多样化的成本与性能选择难题。",
+  "re1|f8fc10ce058e71e37569d8884ccd7e807dbbf1f0": "Meta将实验性AI应用Pocket从巴西测试推向美国，让用户以vibe-code方式创建并分享互动游戏，是AI生成内容在游戏场景的落地。",
+  "re1|1051a1d1570e46b74ec57eefb6b1f2b5ff881530": "Inertia Enterprises将聚变燃料填充时间从一周压缩至数小时，攻克了建造盈利电厂需跨越的10大难关之一，展现核聚变商业化关键提速。",
+  "re1|3789350fba26ac1b6379c212c331dd6ad0b29a4d": "生成式推荐器将推荐重构为序列建模，NVIDIA 的 recsys-examples 和 nv-embedding-cache 应对每天 TB 级用户历史数据与毫秒级延迟，值得一读。",
+  "re1|c43c2ded4cbbb5be32285fa0f834d36fc14b9367": "作者调侃自己“道德上反对更新CLAUDE.md”，称它是记录伤害的日记：三月一次坏交互即成永久规则，模型每四个月变强而规则却冻结。他还戏言须以Dario受启示的方式接收权重，讽刺AI提示词维护中的过时陷阱。",
+  "re1|4e272630c65c59f6a1816325530ef0bdde6641ee": "Anti-AI fonts这类混淆字体既无用又有害：屏幕阅读器会解析出乱码，残障用户首当其冲；且AI公司已借此训练多模态模型，多数已被破解。作者警告，此举会催生集中式身份验证，不如回归纯文本。"
 }
