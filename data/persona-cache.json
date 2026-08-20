@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_19984c444ae4|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "新模型若已开放API，直接升级跑任务，性价比提升明显。",
-      "title_hash": "ecbf4bcb",
-      "scored_at": "2026-07-30T18:54:44.821238Z"
-    },
-    "story_4960da0a8a33|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "堆叠会话和PR功能直接提升协作效率，更新后即可体验。",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T18:54:46.662125Z"
-    },
-    "story_1874745eca9c|pragmatic|0a5c5b24": {
-      "score": 74,
-      "review": "简化仓库内Action引用，今天就能在workflow里直接写self/，省去路径配置。",
-      "title_hash": "85a83320",
-      "scored_at": "2026-07-30T18:54:49.149928Z"
-    },
-    "story_cbb764ee9dd7|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "API降价50%，跑推理的今天就能切换省钱。",
-      "title_hash": "4c24072d",
-      "scored_at": "2026-07-30T18:54:50.632458Z"
-    },
-    "story_1952fed86a09|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "新功能但未见开放详情，对开发流程没有直接影响，观望。",
-      "title_hash": "d6a4b56f",
-      "scored_at": "2026-07-30T18:54:53.328772Z"
-    },
-    "story_4960da0a8a33|cynic|f4237a62": {
-      "score": 75,
-      "review": "堆叠会话听起来高级，实际不就是多开几个标签页？",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T18:54:54.999373Z"
-    },
-    "story_4960da0a8a33|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方博客有细节，但无论文代码，第三方无法复现功能，仅为产品发布。",
-      "title_hash": "2385d0a6",
-      "scored_at": "2026-07-30T18:54:59.385394Z"
-    },
     "story_cd0c62bd1478|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "正在用它试模型的开发者抓紧迁移，没用过的基本不影响。",
@@ -5568,6 +5526,30 @@
       "review": "官方博客给了推理速度数字，但无论文和无第三方复现，待验证。",
       "title_hash": "739e1bc2",
       "scored_at": "2026-08-20T17:54:10.703190Z"
+    },
+    "story_13b553da3c26|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "arm64 开发环境镜像已就绪，Windows 用户今天就能用上 VS2026。",
+      "title_hash": "f5f32181",
+      "scored_at": "2026-08-20T19:06:19.768934Z"
+    },
+    "story_3416d3016502|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "讲教学理念和方法论，有参考但无直接可用的工具，看看即可。",
+      "title_hash": "59525210",
+      "scored_at": "2026-08-20T19:06:21.901423Z"
+    },
+    "story_13b553da3c26|cynic|f4237a62": {
+      "score": 65,
+      "review": "镜像上线是例行公事，但至少比某些PPT强，有本事跑个真实负载？",
+      "title_hash": "f5f32181",
+      "scored_at": "2026-08-20T19:06:24.025359Z"
+    },
+    "story_13b553da3c26|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方公告可用，但无代码无评测，实机验证前只能算声称。",
+      "title_hash": "f5f32181",
+      "scored_at": "2026-08-20T19:06:26.082839Z"
     }
   }
 }
