@@ -40331,5 +40331,18 @@
   "re1|27e1d37be3f65f5876304f30f9c3ba48ccdf391c": "厌倦了向coding agents写长篇英文？Huzzah让你用伪代码声明式描述改动，保存.hz文件时自动捕捉diff并生成代码，告别一次性提示，fizz buzz示例直观展示差异。",
   "re1|5a76d48495d93af321055ea4c259fc799576ef1c": "Claude Platform的Computer use、Skills API与Files API今日全面可用，新增browser use工具让代理在网页中操作，实测最长理赔流程从32分钟缩至13分钟，成本降约30%。",
   "re1|5e6abde383ac523ddada6230ad1be99917c6f569": "Claude Code v2.1.238新增keybindingFlavor设置，设为\"readline\"后Ctrl+W可像Bash那样删除到前一个空白符，默认\"classic\"保持不变，终端编码体验更灵活。",
-  "re1|c3df7f20659b6c0fba55b1f04f6c2a0f59555e34": "Vomit通过本地LLM将Claude 5的token输出转成英文，完全本地运行、无遥测且无外部依赖，还支持非侵入模式，推荐搭配Llama.app下载GPT-OSS 20B使用。"
+  "re1|c3df7f20659b6c0fba55b1f04f6c2a0f59555e34": "Vomit通过本地LLM将Claude 5的token输出转成英文，完全本地运行、无遥测且无外部依赖，还支持非侵入模式，推荐搭配Llama.app下载GPT-OSS 20B使用。",
+  "ds1|Vomit: Clean up Claude 5's token output with a separate LLM": "Vomit：用另一个LLM清理Claude 5的token输出",
+  "ds1|Ok, can we actually cool data centers with our pee?": "好吧，我们真的能用尿给数据中心降温吗？",
+  "ds1|I am morally opposed to updating my Claude.md": "我打心底里反对更新我的 Claude.md",
+  "ds1|Hacking with Claude on a $27 smart watch": "用Claude折腾27美元的智能手表",
+  "ds1|Stampli cuts launch hours by 68% using ChatGPT Work": "Stampli借助ChatGPT Work将发布工时缩短68%",
+  "re1|5339040076f5fa589c2fa3283cc0929494bdcb5a": "Stampli借助Codex与ChatGPT Work，成功将Deep Finance发布的生产制作时间从243小时压缩到77小时，节省166小时，效率达3.16倍，连90%动画也由Codex完成。",
+  "re1|6dc7b103f2b9ffbf4d9ac0e2038d5d564b95bc4c": "Jason Kelce开玩笑提议用尿液替代饮用水冷却数据中心，本文探讨了这一看似荒唐的建议为何并非完全荒谬，并回应了尿液冷却数据中心是否真的可行。",
+  "re1|bbeca93da15b48c02135d76c4951b15b6d132bba": "这篇文章讲述作者用一份提示词迫使Claude 5每段回复末尾附上要点总结和待办表格，以对抗其充满密集术语、矫揉怪喻、只为显得权威而刻意晦涩的默认输出风格。",
+  "re1|73d4928f8bba50cb544755643f765e081c6bb590": "厌倦了长文本提示词？Huzzah编辑器改用伪代码、声明式且持久化的提示词，保存时自动用diff重新生成代码，让你兼顾AI效率与对代码的掌控。",
+  "re1|57ed30c32caca8a0354cff8f62b58a67cdc82dad": "",
+  "re1|ba8e672ce5b1c12f04f714a2a6d24c3617d58d0d": "令人捧腹又深思：CLAUDE.md是'伤痕日记'，三月写下的'NEVER create documentation files'，到六月竟让模型拒绝写README。",
+  "re1|1f6ef64f8238e2e96dac5dd77e475d1aa6700210": "作者在27美元智能手表上用Claude开发应用，包括比特币天气表盘和Garmin卡路里追踪器，并指出PineTime内存过小是瓶颈，期待Pro版本。",
+  "re1|1955c877015451a20699d02a70aa1b4e32eaf697": "作者把27美元的Pine Time开源手表从抽屉里翻出来，用Claude等模型在OpenCode里复刻了Casio风格表盘，尝试用全屏静态图减少编程量，实测240x240图片蓝牙传输需10分钟、刷新要1-2秒。"
 }
