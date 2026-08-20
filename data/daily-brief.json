@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:56:42.308162Z",
+  "generated_at": "2026-08-20T09:50:26.241384Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8176,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.804,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7586,
+        "recency": 0.7489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8435,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8176,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
+      }
+    },
+    {
+      "story_id": "story_6e44341739d1",
+      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+      "url": "https://www.aibase.com/news/30507",
+      "primary_url": "https://www.aibase.com/news/30507",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_en": null,
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
+          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+          "url": "https://www.aibase.com/news/30507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T09:50:26.241384Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_en": null,
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
+          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+          "url": "https://www.aibase.com/news/30507",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T09:50:26.241384Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T09:50:26.241384Z",
+      "latest_at": "2026-08-20T09:50:26.241384Z",
+      "primary_item": {
+        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_en": null,
+        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
+        "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+        "url": "https://www.aibase.com/news/30507",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "技术分享有干货，做搜索的可以参考，但无工具可直接上手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -473,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7492,
+        "recency": 0.7396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,91 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
-      }
-    },
-    {
-      "story_id": "story_185623635221",
-      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-      "url": "https://www.aibase.com/news/30506",
-      "primary_url": "https://www.aibase.com/news/30506",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "summary": "Recently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nExplore AI Fronti",
-          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-          "url": "https://www.aibase.com/news/30506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:56:42.308162Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "summary": "Recently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nExplore AI Fronti",
-          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-          "url": "https://www.aibase.com/news/30506",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:56:42.308162Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T08:56:42.308162Z",
-      "latest_at": "2026-08-20T08:56:42.308162Z",
-      "primary_item": {
-        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "title_en": null,
-        "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "summary": "Recently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nRecently, at the 2026 World Robot Conference (WRC2026), Xiaomi's new humanoid robot \"Tie Da\" made its debut at the exhibition. This robot is about 1.70 meters t\nExplore AI Fronti",
-        "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-        "url": "https://www.aibase.com/news/30506",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "没有开放接口或技术细节，机器人开发者只能看个热闹。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -671,15 +671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -708,7 +708,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -756,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,26 +791,26 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
+      "story_id": "story_185623635221",
+      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+      "url": "https://www.aibase.com/news/30506",
+      "primary_url": "https://www.aibase.com/news/30506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
           "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
-          "url": "https://www.aibase.com/news/30504",
+          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "summary": null,
+          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+          "url": "https://www.aibase.com/news/30506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -823,14 +823,14 @@
       ],
       "items": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
           "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
-          "url": "https://www.aibase.com/news/30504",
+          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "summary": null,
+          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+          "url": "https://www.aibase.com/news/30506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -839,15 +839,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -858,107 +858,24 @@
       "earliest_at": "2026-08-20T08:56:42.308162Z",
       "latest_at": "2026-08-20T08:56:42.308162Z",
       "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
         "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "summary": "Tongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nTongyi Qianwen (Qwen) official recently publicly thanked the Unsloth team for their released Qwen3.8-27B GGUF quantized version, which they highly recognized an\nExplore AI Fronti",
-        "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
-        "url": "https://www.aibase.com/news/30504",
+        "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "summary": null,
+        "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+        "url": "https://www.aibase.com/news/30506",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "1-bit量化8GB跑27B，本地部署党可上手试。",
+      "persona_score": 45,
+      "persona_review": "没有开放接口或技术细节，机器人开发者只能看个热闹。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
-      }
-    },
-    {
-      "story_id": "story_cf8446af2124",
-      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-      "url": "https://x.com/haoailab/status/2090177721913770407",
-      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
-      "source": "X：Sky Computing Lab (@haoailab)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-          "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sky Computing Lab (@haoailab)"
-      ],
-      "items": [
-        {
-          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-          "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
-          "url": "https://x.com/haoailab/status/2090177721913770407",
-          "source": "X：Sky Computing Lab (@haoailab)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T20:42:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8381,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T20:42:57Z",
-      "latest_at": "2026-08-19T20:42:57Z",
-      "primary_item": {
-        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
-        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
-        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
-        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-        "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
-        "url": "https://x.com/haoailab/status/2090177721913770407",
-        "source": "X：Sky Computing Lab (@haoailab)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Mac 本地 30 秒出视频，免云免 CUDA，想玩生成视频的今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1006,15 +923,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,7 +958,174 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
+      }
+    },
+    {
+      "story_id": "story_cf8446af2124",
+      "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+      "url": "https://x.com/haoailab/status/2090177721913770407",
+      "primary_url": "https://x.com/haoailab/status/2090177721913770407",
+      "source": "X：Sky Computing Lab (@haoailab)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sky Computing Lab (@haoailab)"
+      ],
+      "items": [
+        {
+          "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+          "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+          "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+          "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+          "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
+          "url": "https://x.com/haoailab/status/2090177721913770407",
+          "source": "X：Sky Computing Lab (@haoailab)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T20:42:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8273,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T20:42:57Z",
+      "latest_at": "2026-08-19T20:42:57Z",
+      "primary_item": {
+        "id": "f39e84d55e2bb334bb0b2696037ba29ac1d75047",
+        "title": "FastMetal 让 Mac 本地 30 秒生成视频 / A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_zh": "FastMetal 让 Mac 本地 30 秒生成视频",
+        "title_en": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "title_original": "A 5-second 480P video， generated entirely on a Mac， in 30 seconds. No CUDA， no cloud， 3.9 GiB of mem…",
+        "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+        "recommend_reason_zh": "FastMetal将FastWan-QAD系列带到Apple Silicon，在Mac上仅用30秒就能生成一段5秒的480P视频，内存占用仅3.9 GiB，无需CUDA和云端，DiT、DMD采样器与解码器默认INT8，经MLX在Metal上运行。",
+        "url": "https://x.com/haoailab/status/2090177721913770407",
+        "source": "X：Sky Computing Lab (@haoailab)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "Mac 本地 30 秒出视频，免云免 CUDA，想玩生成视频的今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T09:56:26.859785Z"
+      }
+    },
+    {
+      "story_id": "story_56e8099b2502",
+      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+      "url": "https://www.aibase.com/news/30504",
+      "primary_url": "https://www.aibase.com/news/30504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_en": null,
+          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "summary": null,
+          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
+          "url": "https://www.aibase.com/news/30504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:56:42.308162Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_en": null,
+          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "summary": null,
+          "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
+          "url": "https://www.aibase.com/news/30504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:56:42.308162Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T08:56:42.308162Z",
+      "latest_at": "2026-08-20T08:56:42.308162Z",
+      "primary_item": {
+        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "title_en": null,
+        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "summary": null,
+        "recommend_reason_zh": "通义千问官方公开致谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，1-bit版仅需8GB内存即可本地运行，同等体积下精度提升超10%。",
+        "url": "https://www.aibase.com/news/30504",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "1-bit量化8GB跑27B，本地部署党可上手试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1089,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1125,7 +1209,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1173,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1293,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1257,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1341,15 +1425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,7 +1461,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
+      }
+    },
+    {
+      "story_id": "story_cd43b590ecb7",
+      "title": "请不要粘贴AI生成的内容",
+      "url": "https://dontpastetheai.com",
+      "primary_url": "https://dontpastetheai.com",
+      "source": "dontpastetheai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": null,
+          "title_original": "请不要粘贴AI生成的内容",
+          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+          "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
+        },
+        {
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
+          "title_zh": "请勿粘贴AI生成内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": "作者用Claude时选择直接粘贴完整上下文，宁可付“LLM税”也不逐次引导；他把Claude的总结当作可恢复的工作摘要，避免反复确认，让双方更同步。本文讲透了这种“resume”机制的价值。",
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:40:46.840000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": "别把ChatGPT的原文粘贴给提问者——对方要的是你的观点和判断，不是四秒就能生成的通用答案。这篇讽刺短文用具体场景告诉你为何简短人工回复胜过冗长模型输出。",
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "dontpastetheai.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+          "title": "请不要粘贴AI生成的内容",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": null,
+          "title_original": "请不要粘贴AI生成的内容",
+          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+          "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
+          "url": "https://dontpastetheai.com",
+          "source": "dontpastetheai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T09:26:10.003000Z"
+        },
+        {
+          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
+          "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
+          "title_zh": "请勿粘贴AI生成内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": "作者用Claude时选择直接粘贴完整上下文，宁可付“LLM税”也不逐次引导；他把Claude的总结当作可恢复的工作摘要，避免反复确认，让双方更同步。本文讲透了这种“resume”机制的价值。",
+          "url": "https://news.ycombinator.com/item?id=49371857",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T08:40:46.840000Z"
+        },
+        {
+          "id": "b6f7bc7997292509751cecb729085e02b469d495",
+          "title": "请不要粘贴AI生成的内容 / Don't Paste the AI, please",
+          "title_zh": "请不要粘贴AI生成的内容",
+          "title_en": "Don't Paste the AI, please",
+          "title_original": "Don't Paste the AI, please",
+          "summary": null,
+          "recommend_reason_zh": "别把ChatGPT的原文粘贴给提问者——对方要的是你的观点和判断，不是四秒就能生成的通用答案。这篇讽刺短文用具体场景告诉你为何简短人工回复胜过冗长模型输出。",
+          "url": "https://dontpastetheai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-20T08:20:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T08:20:44Z",
+      "latest_at": "2026-08-20T09:26:10.003000Z",
+      "primary_item": {
+        "id": "132dfe0439518720d544f0d1e85d9f268c16eb39",
+        "title": "请不要粘贴AI生成的内容",
+        "title_zh": "请不要粘贴AI生成的内容",
+        "title_en": null,
+        "title_original": "请不要粘贴AI生成的内容",
+        "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+        "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
+        "url": "https://dontpastetheai.com",
+        "source": "dontpastetheai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "提醒别直接贴AI生成内容，但没给工具或方案，动手价值有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1425,15 +1650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1461,91 +1686,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
-      }
-    },
-    {
-      "story_id": "story_f580ac46b80c",
-      "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-      "url": "https://www.aibase.com/news/30498",
-      "primary_url": "https://www.aibase.com/news/30498",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_en": null,
-          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "summary": null,
-          "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
-          "url": "https://www.aibase.com/news/30498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-          "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "title_en": null,
-          "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-          "summary": null,
-          "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
-          "url": "https://www.aibase.com/news/30498",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9739,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T07:06:44.789536Z",
-      "latest_at": "2026-08-20T07:06:44.789536Z",
-      "primary_item": {
-        "id": "9e1f1cd0092d709665069ae91c1939f53ebdb5cd",
-        "title": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "title_zh": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "title_en": null,
-        "title_original": "王兴兴:具身智能最快2至3年迎来“ChatGPT时刻”",
-        "summary": null,
-        "recommend_reason_zh": "BotSchool创始人Wang Xingxing在WRC2026预测具身智能最快2至3年迎来“ChatGPT时刻”，并以机器人能否在80%陌生环境中完成80%任务为衡量标准；其公司上市首日收盘价较发行价涨460%。",
-        "url": "https://www.aibase.com/news/30498",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "预测量产时间而已，眼下没有可上手的工具，等真出来再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     },
     {
@@ -1651,15 +1792,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8869,
+        "recency": 0.8755,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1686,119 +1827,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
-      }
-    },
-    {
-      "story_id": "story_cd43b590ecb7",
-      "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
-      "url": "https://news.ycombinator.com/item?id=49371857",
-      "primary_url": "https://news.ycombinator.com/item?id=49371857",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
-          "title_zh": "请勿粘贴AI生成内容",
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": "Since people started using Claude now I get full context of everything… might be too much sure, but to be honest over-communicating seems better than under-communicating - sure it’s boring and tedious but that shifts the blockage to me. Otherwise each of these coaxing sessions is something I have to keep in my head until resolved, which is a load in and off itself. And even better - I can point Claude to that message and gives me a summary. You might say this is silly because we are paying the L",
-          "recommend_reason_zh": "作者用Claude时选择直接粘贴完整上下文，宁可付“LLM税”也不逐次引导；他把Claude的总结当作可恢复的工作摘要，避免反复确认，让双方更同步。本文讲透了这种“resume”机制的价值。",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请勿直接粘贴AI回答，请给出你的见解",
-          "title_zh": "请勿直接粘贴AI回答，请给出你的见解",
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
-          "recommend_reason_zh": "别把ChatGPT的原文粘贴给提问者——对方要的是你的观点和判断，不是四秒就能生成的通用答案。这篇讽刺短文用具体场景告诉你为何简短人工回复胜过冗长模型输出。",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-          "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
-          "title_zh": "请勿粘贴AI生成内容",
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": "Since people started using Claude now I get full context of everything… might be too much sure, but to be honest over-communicating seems better than under-communicating - sure it’s boring and tedious but that shifts the blockage to me. Otherwise each of these coaxing sessions is something I have to keep in my head until resolved, which is a load in and off itself. And even better - I can point Claude to that message and gives me a summary. You might say this is silly because we are paying the L",
-          "recommend_reason_zh": "作者用Claude时选择直接粘贴完整上下文，宁可付“LLM税”也不逐次引导；他把Claude的总结当作可恢复的工作摘要，避免反复确认，让双方更同步。本文讲透了这种“resume”机制的价值。",
-          "url": "https://news.ycombinator.com/item?id=49371857",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-20T08:40:46.840000Z"
-        },
-        {
-          "id": "b6f7bc7997292509751cecb729085e02b469d495",
-          "title": "请勿直接粘贴AI回答，请给出你的见解",
-          "title_zh": "请勿直接粘贴AI回答，请给出你的见解",
-          "title_en": "Don't Paste the AI, please",
-          "title_original": "Don't Paste the AI, please",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
-          "recommend_reason_zh": "别把ChatGPT的原文粘贴给提问者——对方要的是你的观点和判断，不是四秒就能生成的通用答案。这篇讽刺短文用具体场景告诉你为何简短人工回复胜过冗长模型输出。",
-          "url": "https://dontpastetheai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-20T08:20:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-20T08:20:44Z",
-      "latest_at": "2026-08-20T08:40:46.840000Z",
-      "primary_item": {
-        "id": "14c4f74bdc0da7fa9e4d7c6d1a1ef8cf759279d7",
-        "title": "请勿粘贴AI生成内容 / Don't Paste the AI, please",
-        "title_zh": "请勿粘贴AI生成内容",
-        "title_en": "Don't Paste the AI, please",
-        "title_original": "Don't Paste the AI, please",
-        "summary": "Since people started using Claude now I get full context of everything… might be too much sure, but to be honest over-communicating seems better than under-communicating - sure it’s boring and tedious but that shifts the blockage to me. Otherwise each of these coaxing sessions is something I have to keep in my head until resolved, which is a load in and off itself. And even better - I can point Claude to that message and gives me a summary. You might say this is silly because we are paying the L",
-        "recommend_reason_zh": "作者用Claude时选择直接粘贴完整上下文，宁可付“LLM税”也不逐次引导；他把Claude的总结当作可恢复的工作摘要，避免反复确认，让双方更同步。本文讲透了这种“resume”机制的价值。",
-        "url": "https://news.ycombinator.com/item?id=49371857",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "只是社区呼吁别用AI刷回复，对今天开发选型没影响，看看即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:03:24.572427Z"
+        "scored_at": "2026-08-20T09:56:26.859785Z"
       }
     }
   ]
