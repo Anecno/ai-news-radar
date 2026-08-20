@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:50:26.241384Z",
+  "generated_at": "2026-08-20T10:47:45.204720Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8071,
+        "recency": 0.796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,92 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7937,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "入门教程，老用户不用看，新手照着点一遍即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -218,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7489,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +170,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
+      }
+    },
+    {
+      "story_id": "story_c773429fa020",
+      "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7828,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
+      "primary_item": {
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "面向初学者的GitHub Copilot应用：管理工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "面向初学者的GitHub Copilot应用：管理工作",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": null,
+        "recommend_reason_zh": "用GitHub Copilot app的My work pane集中管理多个会话任务：All视图汇总PR和issues，可自建“My issues”过滤视图，支持列表与表格切换，跟踪进行中、已完成和下一步工作。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "入门教程，老用户不用看，新手照着点一遍即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8327,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8071,
+        "recency": 0.796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,30 +425,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
-      "story_id": "story_6e44341739d1",
-      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-      "url": "https://www.aibase.com/news/30507",
-      "primary_url": "https://www.aibase.com/news/30507",
+      "story_id": "story_8d7d53a3e367",
+      "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+      "url": "https://www.aibase.com/news/30508",
+      "primary_url": "https://www.aibase.com/news/30508",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
           "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
-          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
-          "url": "https://www.aibase.com/news/30507",
+          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "summary": "Just seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nExplore AI Fronti",
+          "recommend_reason_zh": "发布仅7天，开源智能体工具DeepSeek Harness即迎重大更新：正式支持多模态，/goal等命令可图文同传，@引用扩至历史对话，并修复MCP与ACP附件持久性问题。",
+          "url": "https://www.aibase.com/news/30508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:50:26.241384Z"
+          "published_at": "2026-08-20T10:47:45.204720Z"
         }
       ],
       "source_count": 1,
@@ -457,18 +457,18 @@
       ],
       "items": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
           "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
-          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
-          "url": "https://www.aibase.com/news/30507",
+          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "summary": "Just seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nExplore AI Fronti",
+          "recommend_reason_zh": "发布仅7天，开源智能体工具DeepSeek Harness即迎重大更新：正式支持多模态，/goal等命令可图文同传，@引用扩至历史对话，并修复MCP与ACP附件持久性问题。",
+          "url": "https://www.aibase.com/news/30508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:50:26.241384Z"
+          "published_at": "2026-08-20T10:47:45.204720Z"
         }
       ],
       "item_count": 1,
@@ -489,27 +489,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T09:50:26.241384Z",
-      "latest_at": "2026-08-20T09:50:26.241384Z",
+      "earliest_at": "2026-08-20T10:47:45.204720Z",
+      "latest_at": "2026-08-20T10:47:45.204720Z",
       "primary_item": {
-        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
+        "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
         "title_en": null,
-        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "summary": "With the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nWith the deep evolution of large language model (LLM) technology, search engines are undergoing a third paradigm shift, moving from traditional keyword-based te\nExplore AI Fronti",
-        "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
-        "url": "https://www.aibase.com/news/30507",
+        "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "summary": "Just seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nJust seven days after its release, the open-source intelligent agent tool DeepSeek Harness has already received a new version update, officially introducing enh\nExplore AI Fronti",
+        "recommend_reason_zh": "发布仅7天，开源智能体工具DeepSeek Harness即迎重大更新：正式支持多模态，/goal等命令可图文同传，@引用扩至历史对话，并修复MCP与ACP附件持久性问题。",
+        "url": "https://www.aibase.com/news/30508",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "技术分享有干货，做搜索的可以参考，但无工具可直接上手。",
+      "persona_score": 75,
+      "persona_review": "Harness 多模态已上线，可立刻试；V4 视觉版仅剧透，不急。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7396,
+        "recency": 0.7294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +594,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
+      }
+    },
+    {
+      "story_id": "story_07ac88c2e7ee",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+      "url": "https://www.ithome.com/0/992/239.htm",
+      "primary_url": "https://www.ithome.com/0/992/239.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+          "recommend_reason_zh": "Qwen-UI-Agent在100+台真机、150+应用环境中训练，真机基准MobileWorld-Real达92.2%，移动端MobileWorld以82.1%领先GPT-5.6 Sol达12个百分点。",
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+          "recommend_reason_zh": "Qwen-UI-Agent在100+台真机、150+应用环境中训练，真机基准MobileWorld-Real达92.2%，移动端MobileWorld以82.1%领先GPT-5.6 Sol达12个百分点。",
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T09:45:51Z",
+      "latest_at": "2026-08-20T09:45:51Z",
+      "primary_item": {
+        "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "title_en": null,
+        "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+        "recommend_reason_zh": "Qwen-UI-Agent在100+台真机、150+应用环境中训练，真机基准MobileWorld-Real达92.2%，移动端MobileWorld以82.1%领先GPT-5.6 Sol达12个百分点。",
+        "url": "https://www.ithome.com/0/992/239.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "UI Agent 概念不新，等模型或 API 开放再评估，暂时不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -671,15 +755,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8392,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -708,113 +792,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
-      "story_id": "story_8d0553fb4a53",
-      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-      "url": "https://www.ithome.com/0/991/886.htm",
-      "primary_url": "https://www.ithome.com/0/991/886.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-          "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-          "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
-          "url": "https://www.ithome.com/0/991/886.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T00:17:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T00:17:26Z",
-      "latest_at": "2026-08-20T00:17:26Z",
-      "primary_item": {
-        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
-        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "title_en": null,
-        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-        "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
-        "url": "https://www.ithome.com/0/991/886.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "上市时间表不解决今天的技术问题，等真招股再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
-      }
-    },
-    {
-      "story_id": "story_185623635221",
-      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-      "url": "https://www.aibase.com/news/30506",
-      "primary_url": "https://www.aibase.com/news/30506",
+      "story_id": "story_6e44341739d1",
+      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+      "url": "https://www.aibase.com/news/30507",
+      "primary_url": "https://www.aibase.com/news/30507",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "summary": null,
-          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-          "url": "https://www.aibase.com/news/30506",
+          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+          "url": "https://www.aibase.com/news/30507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:56:42.308162Z"
+          "published_at": "2026-08-20T09:50:26.241384Z"
         }
       ],
       "source_count": 1,
@@ -823,31 +824,31 @@
       ],
       "items": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
           "summary": null,
-          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-          "url": "https://www.aibase.com/news/30506",
+          "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+          "url": "https://www.aibase.com/news/30507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:56:42.308162Z"
+          "published_at": "2026-08-20T09:50:26.241384Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,27 +856,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:56:42.308162Z",
-      "latest_at": "2026-08-20T08:56:42.308162Z",
+      "earliest_at": "2026-08-20T09:50:26.241384Z",
+      "latest_at": "2026-08-20T09:50:26.241384Z",
       "primary_item": {
-        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
+        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
         "title_en": null,
-        "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
         "summary": null,
-        "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
-        "url": "https://www.aibase.com/news/30506",
+        "recommend_reason_zh": "美团搜索3.0技术分析披露三次迭代路径，聚焦服务零售排名场景，用LLM语义表征替代传统词匹配，应对长尾品类与复杂意图挑战。",
+        "url": "https://www.aibase.com/news/30507",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "没有开放接口或技术细节，机器人开发者只能看个热闹。",
+      "persona_score": 55,
+      "persona_review": "技术分享有干货，做搜索的可以参考，但无工具可直接上手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -923,15 +924,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7948,
+        "recency": 0.7839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,7 +959,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1006,15 +1007,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8273,
+        "recency": 0.816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,7 +1042,174 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
+      }
+    },
+    {
+      "story_id": "story_8d0553fb4a53",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8592,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_en": null,
+        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+        "recommend_reason_zh": "OpenAI CFO透露公司最迟2027年上市，已秘密提交招股书；本季度年化营收增35%、企业级业务增50%，二季度营收67亿美元。了解上市时间表、财务数据及高管离职影响，值得一读。",
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "上市时间表不解决今天的技术问题，等真招股再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T10:53:08.774661Z"
+      }
+    },
+    {
+      "story_id": "story_185623635221",
+      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+      "url": "https://www.aibase.com/news/30506",
+      "primary_url": "https://www.aibase.com/news/30506",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_en": null,
+          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "summary": null,
+          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+          "url": "https://www.aibase.com/news/30506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:56:42.308162Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "title_en": null,
+          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "summary": null,
+          "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+          "url": "https://www.aibase.com/news/30506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T08:56:42.308162Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T08:56:42.308162Z",
+      "latest_at": "2026-08-20T08:56:42.308162Z",
+      "primary_item": {
+        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
+        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "title_en": null,
+        "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "summary": null,
+        "recommend_reason_zh": "小米人形机器人Tie Da在WRC2026首次亮相，身高约1.70米、重66公斤，66个自由度中半数集中在双手；同时“小米铁大”商标已成功注册，涉及医疗园艺、健身设备等。",
+        "url": "https://www.aibase.com/news/30506",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "没有开放接口或技术细节，机器人开发者只能看个热闹。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1089,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1125,7 +1293,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1173,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9731,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1257,15 +1425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1461,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1341,15 +1509,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,91 +1545,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
-      }
-    },
-    {
-      "story_id": "story_eaf39713ae16",
-      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-      "url": "https://www.aibase.com/news/30500",
-      "primary_url": "https://www.aibase.com/news/30500",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": null,
-          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "title_en": null,
-          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-          "summary": null,
-          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-          "url": "https://www.aibase.com/news/30500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:06:44.789536Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T07:06:44.789536Z",
-      "latest_at": "2026-08-20T07:06:44.789536Z",
-      "primary_item": {
-        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
-        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "title_en": null,
-        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
-        "summary": null,
-        "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
-        "url": "https://www.aibase.com/news/30500",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "商业数据好看，但API和价格没变化，做应用的不用急着跟进。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
@@ -1478,7 +1562,7 @@
           "title_zh": "请不要粘贴AI生成的内容",
           "title_en": null,
           "title_original": "请不要粘贴AI生成的内容",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+          "summary": null,
           "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
           "url": "https://dontpastetheai.com",
           "source": "dontpastetheai.com",
@@ -1528,7 +1612,7 @@
           "title_zh": "请不要粘贴AI生成的内容",
           "title_en": null,
           "title_original": "请不要粘贴AI生成的内容",
-          "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+          "summary": null,
           "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
           "url": "https://dontpastetheai.com",
           "source": "dontpastetheai.com",
@@ -1567,15 +1651,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9806,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1590,7 +1674,7 @@
         "title_zh": "请不要粘贴AI生成的内容",
         "title_en": null,
         "title_original": "请不要粘贴AI生成的内容",
-        "summary": "If someone asks you a question, paste your answer — not the chatbot's.\nIf someone asks you a question, paste your answer — not the chatbot's.\nWhen someone asks you something, they want your answer.\n        Not a wall of unedited ChatGPT output . A short reply from you beats\n        a long one from a model, every time.\nSomeone asked you a real question. You popped it into a chatbot, copied the answer, and sent it back.\n        It felt fast. It felt helpful. And it usually isn't.\nThe person on the",
+        "summary": null,
         "recommend_reason_zh": "别再粘贴ChatGPT回答了——对方四秒就能拿到通用回复，问你是想要你的判断。这篇短文提供dontpastetheai.com链接供你提醒对方，还有不适合发给老板的愤怒版，并欢迎在GitHub上参与改写。",
         "url": "https://dontpastetheai.com",
         "source": "dontpastetheai.com",
@@ -1602,26 +1686,26 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     },
     {
-      "story_id": "story_c7d29fef510b",
-      "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-      "url": "https://www.aibase.com/news/30499",
-      "primary_url": "https://www.aibase.com/news/30499",
+      "story_id": "story_eaf39713ae16",
+      "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+      "url": "https://www.aibase.com/news/30500",
+      "primary_url": "https://www.aibase.com/news/30500",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
           "title_en": null,
-          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
           "summary": null,
-          "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
-          "url": "https://www.aibase.com/news/30499",
+          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+          "url": "https://www.aibase.com/news/30500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1634,14 +1718,14 @@
       ],
       "items": [
         {
-          "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-          "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-          "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+          "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+          "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
           "title_en": null,
-          "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+          "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
           "summary": null,
-          "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
-          "url": "https://www.aibase.com/news/30499",
+          "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+          "url": "https://www.aibase.com/news/30500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1650,15 +1734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1669,165 +1753,24 @@
       "earliest_at": "2026-08-20T07:06:44.789536Z",
       "latest_at": "2026-08-20T07:06:44.789536Z",
       "primary_item": {
-        "id": "a235428c049c7ab794e6c76d0271985dd3ad04eb",
-        "title": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
-        "title_zh": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "id": "560b143c4b0862cd0742391b18c63b06ccf91667",
+        "title": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
+        "title_zh": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
         "title_en": null,
-        "title_original": "快递员变身AI机器人高薪工程师！京东物流首批学员正式上岗，未来5年豪掷10万个高新岗位",
+        "title_original": "快手二季度营收355亿元，可灵AI商业化收入同比增长超200%",
         "summary": null,
-        "recommend_reason_zh": "JD Logistics首批快递员、仓管员、质检员经涿州认证培训中心集训考核，正式转型为机器人维修工程师；培训结合多家头部机器人公司最新样机，覆盖故障维修流程，未来5年计划提供10万个高新岗位。",
-        "url": "https://www.aibase.com/news/30499",
+        "recommend_reason_zh": "快手二季度营收355亿元，可灵AI商业化收入超8.5亿元、同比增超200%，全球用户破1亿、覆盖224国，企业客户近5万，展现AI增长动能。",
+        "url": "https://www.aibase.com/news/30500",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "培训新闻与开发者无关，等有实际技术细节再看。",
+      "persona_score": 50,
+      "persona_review": "商业数据好看，但API和价格没变化，做应用的不用急着跟进。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
-      }
-    },
-    {
-      "story_id": "story_f4583eda883d",
-      "title": "大语言模型时代的可扩展软件",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "primary_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-      "source": "jeremymorrell.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-          "title": "大语言模型时代的可扩展软件",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": null,
-          "title_original": "大语言模型时代的可扩展软件",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章提出LLM-native软件模式，以Pi为例说明用户可用自然语言无限扩展核心功能，并探讨在Web上借助Dynamic Workers沙箱实现安全扩展的前景。",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "jeremymorrell.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T00:38:00.116000Z"
-        },
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "LLM 时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "LLM 时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "作者用OCaml实现自研Lisp可扩展环境，三个月来所有计算跑在上面；创建端点只需定义一个Lisp函数，其LLMs称用纯Clojure或Racket复刻可少于10k行。",
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:41:41.670000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章提出LLM时代网页软件的新范式：以稳固核心加沙箱扩展，让用户用自然语言定制功能，并举Pi和Cloudflare Dynamic Workers为例，解释了为何长尾需求能被低成本满足。",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "jeremymorrell.dev"
-      ],
-      "items": [
-        {
-          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-          "title": "大语言模型时代的可扩展软件",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": null,
-          "title_original": "大语言模型时代的可扩展软件",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章提出LLM-native软件模式，以Pi为例说明用户可用自然语言无限扩展核心功能，并探讨在Web上借助Dynamic Workers沙箱实现安全扩展的前景。",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "jeremymorrell.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-20T00:38:00.116000Z"
-        },
-        {
-          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-          "title": "LLM 时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "LLM 时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "作者用OCaml实现自研Lisp可扩展环境，三个月来所有计算跑在上面；创建端点只需定义一个Lisp函数，其LLMs称用纯Clojure或Racket复刻可少于10k行。",
-          "url": "https://news.ycombinator.com/item?id=49363668",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T17:41:41.670000Z"
-        },
-        {
-          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
-          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
-          "title_zh": "大语言模型时代的可扩展软件",
-          "title_en": "Extensible Software in the age of LLMs",
-          "title_original": "Extensible Software in the age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章提出LLM时代网页软件的新范式：以稳固核心加沙箱扩展，让用户用自然语言定制功能，并举Pi和Cloudflare Dynamic Workers为例，解释了为何长尾需求能被低成本满足。",
-          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-19T16:26:05Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8755,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-19T16:26:05Z",
-      "latest_at": "2026-08-20T00:38:00.116000Z",
-      "primary_item": {
-        "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
-        "title": "大语言模型时代的可扩展软件",
-        "title_zh": "大语言模型时代的可扩展软件",
-        "title_en": null,
-        "title_original": "大语言模型时代的可扩展软件",
-        "summary": null,
-        "recommend_reason_zh": "这篇文章提出LLM-native软件模式，以Pi为例说明用户可用自然语言无限扩展核心功能，并探讨在Web上借助Dynamic Workers沙箱实现安全扩展的前景。",
-        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
-        "source": "jeremymorrell.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "讲思路没代码，看完不能立马上手，闲时读读就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-20T09:56:26.859785Z"
+        "scored_at": "2026-08-20T10:53:08.774661Z"
       }
     }
   ]
