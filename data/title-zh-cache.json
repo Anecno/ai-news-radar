@@ -40453,5 +40453,9 @@
   "ds1|Introducing AI Futures": "正式推出 AI Futures",
   "re1|ea863f11d3a0c8b6b6c45f6ec6b4a73b96fa4a0c": "AWS Bedrock上Codex的bug可致10倍费用，将web_search设为“disabled”即可规避，一文讲清问题根源与解决步骤。",
   "re1|6bed69b88241c88628f30c85d11f9413b516beb3": "",
-  "re1|d3aaf33252146f4cf875e067f48792a00d706e67": "Codex CLI在Amazon Bedrock Mantle上无法启用GPT-5.6 Sol显式提示缓存，导致缓存写入token占模型估计支出85%；一次会话76个请求产生6.709M写入token，平均每请求约88K，成本显著抬升。"
+  "re1|d3aaf33252146f4cf875e067f48792a00d706e67": "Codex CLI在Amazon Bedrock Mantle上无法启用GPT-5.6 Sol显式提示缓存，导致缓存写入token占模型估计支出85%；一次会话76个请求产生6.709M写入token，平均每请求约88K，成本显著抬升。",
+  "te1|69f31657498c4f31d3c40183f75ec02fe7f58cfb": "Ox Alpha免费推理模型，专为编程与智能体工作负载设计",
+  "re1|126e8fdb53f00f2c14c7e492238967383afebaab": "本文揭露AI公司秘密收购、扫描并销毁数百万实体书，Anthropic的Project Panama因十五亿美元和解被曝光，Anna's Archive呼吁全球志愿者抢在文化消失前扫描上传珍本，以防人类知识被永久私有化。",
+  "re1|bb396961d4a3fb50fe730d6dc79f8a1875ae455b": "",
+  "re1|69f31657498c4f31d3c40183f75ec02fe7f58cfb": "Ox Alpha是一款免费推理模型，拥有1,048,576 token上下文和131,072 token输出，吞吐达51 tok/s，由匿名第三方提供，适合编码与长时agentic工作。"
 }
