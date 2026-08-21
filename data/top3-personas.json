@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:51:55.501124Z",
+  "generated_at": "2026-08-21T21:49:08.686193Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_7b114e120e12",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "开源是好事，但先确认不是阉割版，别急着封神。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "报道称开源但无仓库链接，代码和评测均无，无法验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "开源评估工具可直接上手，跑代码评测不用再看闭源脸色。"
+        }
+      }
+    },
+    {
       "story_id": "story_1942460359a8",
       "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
       "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "新视觉模型进API，多模态任务今天就能试，留意下价格和限流。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a1a025194e2c",
-      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 68,
-          "review": "重启快是快，可常驻显存的缓存成本，宣传稿里一个字没提。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客给细节数字但无代码复现，等开源或第三方验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "崩溃恢复从分钟级降到亚秒级，生产环境直接受益。"
         }
       }
     }
