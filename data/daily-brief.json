@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:45:29.816104Z",
+  "generated_at": "2026-08-21T18:56:19.861272Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9766,
+        "recency": 0.9601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9202,
+        "recency": 0.9046,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7738,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9758,
+        "recency": 0.9593,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -446,15 +446,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8867,
+        "recency": 0.8718,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -483,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -500,7 +500,7 @@
           "title_zh": "更好的被屏蔽用户管理工具",
           "title_en": "Better tools for managing blocked users",
           "title_original": "Better tools for managing blocked users",
-          "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+          "summary": null,
           "recommend_reason_zh": "GitHub更新了屏蔽用户管理功能，支持按用户名、全名或邮箱搜索，并可排序和分页长列表，同时清晰区分搜索与屏蔽操作，避免误封。",
           "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
@@ -520,7 +520,7 @@
           "title_zh": "更好的被屏蔽用户管理工具",
           "title_en": "Better tools for managing blocked users",
           "title_original": "Better tools for managing blocked users",
-          "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+          "summary": null,
           "recommend_reason_zh": "GitHub更新了屏蔽用户管理功能，支持按用户名、全名或邮箱搜索，并可排序和分页长列表，同时清晰区分搜索与屏蔽操作，避免误封。",
           "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "source": "GitHub Changelog",
@@ -531,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9572,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
         "title_zh": "更好的被屏蔽用户管理工具",
         "title_en": "Better tools for managing blocked users",
         "title_original": "Better tools for managing blocked users",
-        "summary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nManaging blocked users is now faster and clearer for personal accounts and organizations. With this update, you can:\nThe updated experience also clearly separates searching the blocked-user list from blocking a new user, helping you find cases faster and avoid accidental blocks.\nTo get started, go to Settings ",
+        "summary": null,
         "recommend_reason_zh": "GitHub更新了屏蔽用户管理功能，支持按用户名、全名或邮箱搜索，并可排序和分页长列表，同时清晰区分搜索与屏蔽操作，避免误封。",
         "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
         "source": "GitHub Changelog",
@@ -568,7 +568,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -652,7 +652,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -700,15 +700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8867,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +736,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
+      }
+    },
+    {
+      "story_id": "story_a1a025194e2c",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+          "recommend_reason_zh": "Weight Cache Daemon让SGLang引擎重启从8.52分钟降至亚秒级：通过CUDA IPC零拷贝复用GPU内存中的量化权重，省去占启动93.2%的磁盘加载，专治Ling-2.6-1T等大模型冷启动痛点。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+          "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+          "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+          "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+          "recommend_reason_zh": "Weight Cache Daemon让SGLang引擎重启从8.52分钟降至亚秒级：通过CUDA IPC零拷贝复用GPU内存中的量化权重，省去占启动93.2%的磁盘加载，专治Ling-2.6-1T等大模型冷启动痛点。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T17:56:25.415000Z",
+      "latest_at": "2026-08-21T17:56:25.415000Z",
+      "primary_item": {
+        "id": "1c4bbbb83206a9e870fa90d5c9874c029973b10b",
+        "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "title_zh": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启",
+        "title_en": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "title_original": "Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+        "summary": "SGLang 团队推出 Weight Cache Daemon，通过 CUDA IPC 零拷贝映射将模型权重加载从约 495 秒降至约 0.63 秒（约 785 倍加速），端到端启动时间减少 93.9%。该守护进程在 GPU 内存中持久化后量化权重，支持多实例共享和亚秒级主备切换，是 Fast Engine Recovery Framework 的第一阶段。",
+        "recommend_reason_zh": "Weight Cache Daemon让SGLang引擎重启从8.52分钟降至亚秒级：通过CUDA IPC零拷贝复用GPU内存中的量化权重，省去占启动93.2%的磁盘加载，专治Ling-2.6-1T等大模型冷启动痛点。",
+        "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "崩溃恢复从分钟级降到亚秒级，生产环境直接受益。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -784,21 +868,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9044,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T10:48:10.708106Z",
       "latest_at": "2026-08-21T10:48:10.708106Z",
@@ -820,7 +903,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -868,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9339,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -903,7 +986,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -951,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,7 +1069,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -1034,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7682,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1071,7 +1154,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
+      }
+    },
+    {
+      "story_id": "story_23e3c927edf2",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "340f16af643dfae465b99366c133369fcb22c060",
+          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "title_zh": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+          "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "title_original": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+          "recommend_reason_zh": "本文实测Ling-3.0-flash在4张Blackwell GPU上的投机解码优化：NEXTN路径单请求解码从288 tok/s提至606 tok/s，DSpark路径达1120 tok/s，平均TPOT由3.33ms降至0.78ms，并对比两者性能差异。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "340f16af643dfae465b99366c133369fcb22c060",
+          "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "title_zh": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+          "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "title_original": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+          "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+          "recommend_reason_zh": "本文实测Ling-3.0-flash在4张Blackwell GPU上的投机解码优化：NEXTN路径单请求解码从288 tok/s提至606 tok/s，DSpark路径达1120 tok/s，平均TPOT由3.33ms降至0.78ms，并对比两者性能差异。",
+          "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:56:25.415000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T17:56:25.415000Z",
+      "latest_at": "2026-08-21T17:56:25.415000Z",
+      "primary_item": {
+        "id": "340f16af643dfae465b99366c133369fcb22c060",
+        "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+        "title_zh": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+        "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+        "title_original": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+        "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+        "recommend_reason_zh": "本文实测Ling-3.0-flash在4张Blackwell GPU上的投机解码优化：NEXTN路径单请求解码从288 tok/s提至606 tok/s，DSpark路径达1120 tok/s，平均TPOT由3.33ms降至0.78ms，并对比两者性能差异。",
+        "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "批处理1延迟降54%，用SGLang做低延迟推理的可以照着调参落地。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-21T19:11:29.383274Z"
+      }
+    },
+    {
+      "story_id": "story_6330aea85a01",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+          "recommend_reason_zh": "本文介绍Claude Mythos 5现已在Claude Security中可用，并即将集成至合作伙伴的防御工具；同时推出3500万美元基金支持开源软件安全，并扩大Cyber Verification Program，让更多防御者安全使用前沿模型。",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+          "recommend_reason_zh": "本文介绍Claude Mythos 5现已在Claude Security中可用，并即将集成至合作伙伴的防御工具；同时推出3500万美元基金支持开源软件安全，并扩大Cyber Verification Program，让更多防御者安全使用前沿模型。",
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T17:58:29.461000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T17:58:29.461000Z",
+      "latest_at": "2026-08-21T17:58:29.461000Z",
+      "primary_item": {
+        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
+        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+        "recommend_reason_zh": "本文介绍Claude Mythos 5现已在Claude Security中可用，并即将集成至合作伙伴的防御工具；同时推出3500万美元基金支持开源软件安全，并扩大Cyber Verification Program，让更多防御者安全使用前沿模型。",
+        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "安全能力扩展可能涉及权限开放，先查自己的 API 版本是否可用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -1119,15 +1368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,92 +1403,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
-      }
-    },
-    {
-      "story_id": "story_13b553da3c26",
-      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 正式推出 Windows 11 arm64 的 Visual Studio 2026 镜像，支持在标准及更大 runner 上使用，并计划于 2026 年 9 月 21 日至 30 日逐步默认迁移，需注意可能破坏依赖 Visual Studio 2022 的工作流。",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 正式推出 Windows 11 arm64 的 Visual Studio 2026 镜像，支持在标准及更大 runner 上使用，并计划于 2026 年 9 月 21 日至 30 日逐步默认迁移，需注意可能破坏依赖 Visual Studio 2022 的工作流。",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-        "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-        "title_en": "Windows 11 arm64 VS2026 image generally available",
-        "title_original": "Windows 11 arm64 VS2026 image generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 正式推出 Windows 11 arm64 的 Visual Studio 2026 镜像，支持在标准及更大 runner 上使用，并计划于 2026 年 9 月 21 日至 30 日逐步默认迁移，需注意可能破坏依赖 Visual Studio 2022 的工作流。",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "arm64 开发环境镜像已就绪，Windows 用户今天就能用上 VS2026。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -1287,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8925,
+        "recency": 0.8774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1322,7 +1486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -1370,15 +1534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1405,7 +1569,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
+      }
+    },
+    {
+      "story_id": "story_cb8188eda400",
+      "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://news.ycombinator.com/item?id=49390463",
+      "primary_url": "https://news.ycombinator.com/item?id=49390463",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
+          "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": "I'm interested in hearing from folks who are hosting their own GPU to run coding models.  So far my own results are...  not great.  Seems like frontier models are needed via the big providers?\nreply\nStill, it's largely replaced the cheap tier of the frontiers that I would otherwise be using. It can be run with older GPUs (a 3090 is ~1k), but the time spent thinking will become a fairly noticeable impediment for staying in the flow. The next step up would be to run DeepSeek V4 Flash 0731 on two D",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49390463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T18:31:56.086000Z"
+        },
+        {
+          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
+          "title": "自托管AI软件工厂难敌前沿模型",
+          "title_zh": "自托管AI软件工厂难敌前沿模型",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": "自托管AI软件工厂实测：作者用R9700跑编码模型，qwen赢过8B以下对手，但复杂任务经历三次上下文压缩，房间过热叫停；对比Claude Code的20分钟频繁打扰，反思Hermes式AI代理能否真正产出可卖产品。",
+          "url": "https://news.ycombinator.com/item?id=49390463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+          "title": "自托管AI软件工厂：一条提示词自动开发并部署应用",
+          "title_zh": "自托管AI软件工厂：一条提示词自动开发并部署应用",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": "作者用一台2021年i7旧服务器和20英镑Codex订阅，搭建了全自主的沙盒软件工厂：仅靠一句提示就自动创建仓库、编写应用与测试、通过CI、配置Postgres并完成HTTPS部署，全程无需人工干预。",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:27:52Z"
+        },
+        {
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": "I built an (almost) fully self-hosted, sandboxed, agentic software factory.\nI built an (almost) fully self-hosted, sandboxed, agentic software factory.\nI built an (almost) fully self-hosted, sandboxed, agentic software factory.\ntl;dr: It worked! From one prompt it created a repo, wrote the application and tests, got CI green, provisioned\nPostgres and deployed the finished app behind HTTPS without another message from me.If you just wanna see the outcome\nyou can find a demo video at the bottom\nLL",
+          "recommend_reason_zh": "作者用2021年10代i7/32GB RAM的eBay二手服务器自托管，以£20 Codex订阅驱动单一prompt，自动完成建repo、写应用与测试、CI变绿、配置Postgres并部署HTTPS应用，全程无需人工干预。",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:27:52Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
+          "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": "I'm interested in hearing from folks who are hosting their own GPU to run coding models.  So far my own results are...  not great.  Seems like frontier models are needed via the big providers?\nreply\nStill, it's largely replaced the cheap tier of the frontiers that I would otherwise be using. It can be run with older GPUs (a 3090 is ~1k), but the time spent thinking will become a fairly noticeable impediment for staying in the flow. The next step up would be to run DeepSeek V4 Flash 0731 on two D",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49390463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T18:31:56.086000Z"
+        },
+        {
+          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
+          "title": "自托管AI软件工厂难敌前沿模型",
+          "title_zh": "自托管AI软件工厂难敌前沿模型",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": "自托管AI软件工厂实测：作者用R9700跑编码模型，qwen赢过8B以下对手，但复杂任务经历三次上下文压缩，房间过热叫停；对比Claude Code的20分钟频繁打扰，反思Hermes式AI代理能否真正产出可卖产品。",
+          "url": "https://news.ycombinator.com/item?id=49390463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T17:31:53.537000Z"
+        },
+        {
+          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
+          "title": "自托管AI软件工厂：一条提示词自动开发并部署应用",
+          "title_zh": "自托管AI软件工厂：一条提示词自动开发并部署应用",
+          "title_en": "A self hosted AI software factory",
+          "title_original": "A self hosted AI software factory",
+          "summary": null,
+          "recommend_reason_zh": "作者用一台2021年i7旧服务器和20英镑Codex订阅，搭建了全自主的沙盒软件工厂：仅靠一句提示就自动创建仓库、编写应用与测试、通过CI、配置Postgres并完成HTTPS部署，全程无需人工干预。",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T16:27:52Z"
+        },
+        {
+          "id": "fa15cfb99a8bff4e0ce4825f6aec20eac4d02f1e",
+          "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_zh": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂",
+          "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "summary": "I built an (almost) fully self-hosted, sandboxed, agentic software factory.\nI built an (almost) fully self-hosted, sandboxed, agentic software factory.\nI built an (almost) fully self-hosted, sandboxed, agentic software factory.\ntl;dr: It worked! From one prompt it created a repo, wrote the application and tests, got CI green, provisioned\nPostgres and deployed the finished app behind HTTPS without another message from me.If you just wanna see the outcome\nyou can find a demo video at the bottom\nLL",
+          "recommend_reason_zh": "作者用2021年10代i7/32GB RAM的eBay二手服务器自托管，以£20 Codex订阅驱动单一prompt，自动完成建repo、写应用与测试、CI变绿、配置Postgres并部署HTTPS应用，全程无需人工干预。",
+          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T16:27:52Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9941,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T16:27:52Z",
+      "latest_at": "2026-08-21T18:31:56.086000Z",
+      "primary_item": {
+        "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
+        "title": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+        "title_zh": "构建一个（几乎）完全自托管、沙箱化的 Agent 软件工厂",
+        "title_en": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+        "title_original": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+        "summary": "I'm interested in hearing from folks who are hosting their own GPU to run coding models.  So far my own results are...  not great.  Seems like frontier models are needed via the big providers?\nreply\nStill, it's largely replaced the cheap tier of the frontiers that I would otherwise be using. It can be run with older GPUs (a 3090 is ~1k), but the time spent thinking will become a fairly noticeable impediment for staying in the flow. The next step up would be to run DeepSeek V4 Flash 0731 on two D",
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49390463",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "自托管 Agent 流水线有实操参考，想搭私有化 CI/Agent 的可以看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     },
     {
@@ -1422,7 +1755,7 @@
           "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": null,
           "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-          "summary": "News Portal24\nA new study tracking 27,000 students in China has found that pupils who used artificial intelligence tools saw higher homework scores over time, but performed worse than their peers on exams taken without AI assistance, according to research covered by The Economist on August 18.\nThe research was conducted by David Stromberg of Stockholm University along with Victor Lei and Wu Yanhui of the University of Hong Kong. The study followed 27,000 pupils aged 12 to 18 in China, where adop",
+          "summary": null,
           "recommend_reason_zh": "一项由Stockholm University与University of Hong Kong学者完成的追踪27,000名中国学生的研究发现，使用Doubao、DeepSeek等AI工具者六个月内作业成绩平均提高18%，但在无AI辅助的考试中得分比未使用者低20%。",
           "url": "https://canews24.online/?p=71",
           "source": "canews24.online",
@@ -1464,7 +1797,7 @@
           "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": "AI boosted homework scores, then exam scores dropped: Study",
           "title_original": "AI boosted homework scores, then exam scores dropped: Study",
-          "summary": "News Portal24\nA new study tracking 27,000 students in China has found that pupils who used artificial intelligence tools saw higher homework scores over time, but performed worse than their peers on exams taken without AI assistance, according to research covered by The Economist on August 18.\nThe research was conducted by David Stromberg of Stockholm University along with Victor Lei and Wu Yanhui of the University of Hong Kong. The study followed 27,000 pupils aged 12 to 18 in China, where adop",
+          "summary": null,
           "recommend_reason_zh": "一项追踪中国2.7万名学生的研究发现，80%学生使用Doubao、DeepSeek等AI工具后作业成绩平均提升18%，但在无AI辅助的考试中反而比不用AI的同学低20%，凸显AI辅助的隐患。",
           "url": "https://canews24.online/?p=71",
           "source": "Hacker News (黑客新闻)",
@@ -1487,7 +1820,7 @@
           "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": null,
           "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-          "summary": "News Portal24\nA new study tracking 27,000 students in China has found that pupils who used artificial intelligence tools saw higher homework scores over time, but performed worse than their peers on exams taken without AI assistance, according to research covered by The Economist on August 18.\nThe research was conducted by David Stromberg of Stockholm University along with Victor Lei and Wu Yanhui of the University of Hong Kong. The study followed 27,000 pupils aged 12 to 18 in China, where adop",
+          "summary": null,
           "recommend_reason_zh": "一项由Stockholm University与University of Hong Kong学者完成的追踪27,000名中国学生的研究发现，使用Doubao、DeepSeek等AI工具者六个月内作业成绩平均提高18%，但在无AI辅助的考试中得分比未使用者低20%。",
           "url": "https://canews24.online/?p=71",
           "source": "canews24.online",
@@ -1529,7 +1862,7 @@
           "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
           "title_en": "AI boosted homework scores, then exam scores dropped: Study",
           "title_original": "AI boosted homework scores, then exam scores dropped: Study",
-          "summary": "News Portal24\nA new study tracking 27,000 students in China has found that pupils who used artificial intelligence tools saw higher homework scores over time, but performed worse than their peers on exams taken without AI assistance, according to research covered by The Economist on August 18.\nThe research was conducted by David Stromberg of Stockholm University along with Victor Lei and Wu Yanhui of the University of Hong Kong. The study followed 27,000 pupils aged 12 to 18 in China, where adop",
+          "summary": null,
           "recommend_reason_zh": "一项追踪中国2.7万名学生的研究发现，80%学生使用Doubao、DeepSeek等AI工具后作业成绩平均提升18%，但在无AI辅助的考试中反而比不用AI的同学低20%，凸显AI辅助的隐患。",
           "url": "https://canews24.online/?p=71",
           "source": "Hacker News (黑客新闻)",
@@ -1540,15 +1873,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5949,
-      "importance": 0.5949,
-      "importance_score": 0.5949,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9784,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1563,7 +1896,7 @@
         "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
         "title_en": null,
         "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-        "summary": "News Portal24\nA new study tracking 27,000 students in China has found that pupils who used artificial intelligence tools saw higher homework scores over time, but performed worse than their peers on exams taken without AI assistance, according to research covered by The Economist on August 18.\nThe research was conducted by David Stromberg of Stockholm University along with Victor Lei and Wu Yanhui of the University of Hong Kong. The study followed 27,000 pupils aged 12 to 18 in China, where adop",
+        "summary": null,
         "recommend_reason_zh": "一项由Stockholm University与University of Hong Kong学者完成的追踪27,000名中国学生的研究发现，使用Doubao、DeepSeek等AI工具者六个月内作业成绩平均提高18%，但在无AI辅助的考试中得分比未使用者低20%。",
         "url": "https://canews24.online/?p=71",
         "source": "canews24.online",
@@ -1575,285 +1908,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
-      }
-    },
-    {
-      "story_id": "story_7b114e120e12",
-      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-      "url": "https://www.aibase.com/news/30531",
-      "primary_url": "https://www.aibase.com/news/30531",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "title_en": null,
-          "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI进一步开放Codex Harness核心能力，公开其Agent Loop、线程管理及JSON-RPC集成机制，开发者可基于双向协议构建IDE等定制化agent产品，底层框架全面透明化。",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:57:27.828300Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-          "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "title_en": null,
-          "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI进一步开放Codex Harness核心能力，公开其Agent Loop、线程管理及JSON-RPC集成机制，开发者可基于双向协议构建IDE等定制化agent产品，底层框架全面透明化。",
-          "url": "https://www.aibase.com/news/30531",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:57:27.828300Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:57:27.828300Z",
-      "latest_at": "2026-08-21T07:57:27.828300Z",
-      "primary_item": {
-        "id": "4994c2aec0b14c7b7efc5c867ad691286091b63f",
-        "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "title_zh": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "title_en": null,
-        "title_original": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI进一步开放Codex Harness核心能力，公开其Agent Loop、线程管理及JSON-RPC集成机制，开发者可基于双向协议构建IDE等定制化agent产品，底层框架全面透明化。",
-        "url": "https://www.aibase.com/news/30531",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "开源评估工具可直接上手，跑代码评测不用再看闭源脸色。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
-      }
-    },
-    {
-      "story_id": "story_73c198965c13",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:57:27.828300Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:57:27.828300Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T07:57:27.828300Z",
-      "latest_at": "2026-08-21T07:57:27.828300Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_en": null,
-        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "summary": null,
-        "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
-        "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源可 clone，做 UI 自动化的今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
-      }
-    },
-    {
-      "story_id": "story_3da7a85e3dd1",
-      "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-      "url": "https://news.ycombinator.com/item?id=49390910",
-      "primary_url": "https://news.ycombinator.com/item?id=49390910",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
-          "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_zh": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师",
-          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49390910",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:31:53.537000Z"
-        },
-        {
-          "id": "24ca2059074e20283084428200fdf793ffb3e570",
-          "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_zh": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师",
-          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "summary": "Own the migration of LiteLLM from Python to Rust and make us the fastest AI gateway ever built. You'll plan the migration directly with our CTO, structure the codebase for the move, and lead a gradual, stability-first rollout at 1B+ requests/mo. This is a single-owner mandate for a Rust expert who is obsessed with performance. Years of production Rust experience required. Major bonuses for prior language-to-Rust migrations and a track record of shipping performance-critical systems.\nOwn the migr",
-          "recommend_reason_zh": "这篇文章报道了LiteLLM（YC W23）招聘Rust工程师，主导其从Python到Rust的迁移，目标成为最快的AI网关，支撑每月10亿+请求。值得关注的是单一负责人权限和稳定性优先策略。",
-          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T17:00:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
-          "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_zh": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师",
-          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49390910",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:31:53.537000Z"
-        },
-        {
-          "id": "24ca2059074e20283084428200fdf793ffb3e570",
-          "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_zh": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师",
-          "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-          "summary": "Own the migration of LiteLLM from Python to Rust and make us the fastest AI gateway ever built. You'll plan the migration directly with our CTO, structure the codebase for the move, and lead a gradual, stability-first rollout at 1B+ requests/mo. This is a single-owner mandate for a Rust expert who is obsessed with performance. Years of production Rust experience required. Major bonuses for prior language-to-Rust migrations and a track record of shipping performance-critical systems.\nOwn the migr",
-          "recommend_reason_zh": "这篇文章报道了LiteLLM（YC W23）招聘Rust工程师，主导其从Python到Rust的迁移，目标成为最快的AI网关，支撑每月10亿+请求。值得关注的是单一负责人权限和稳定性优先策略。",
-          "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T17:00:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9967,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T17:00:23Z",
-      "latest_at": "2026-08-21T17:31:53.537000Z",
-      "primary_item": {
-        "id": "20709f76c7df385c0d5bbd4eb98c04568df63fb8",
-        "title": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师 / LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-        "title_zh": "LiteLLM（YC W23）正在招聘 —— Rust / 性能工程师",
-        "title_en": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-        "title_original": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49390910",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "招人是公司家事，对现有开发工作无直接用处，除非你在找工作。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T17:56:23.294538Z"
+        "scored_at": "2026-08-21T19:11:29.383274Z"
       }
     }
   ]
