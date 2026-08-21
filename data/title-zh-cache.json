@@ -40448,5 +40448,10 @@
   "re1|ce01d8480e80a4286a9b009c7cd5855c3ac86052": "",
   "re1|105f8eeffe88a0ee53ad4a0f22e052e8f3682879": "欧盟版权法以人类为中心，纯AI生成内容不受保护；Daniel J. Gervais指出署名ChatGPT或Claude生成的文章只带来责任而非版权，慕尼黑地方法院亦认定AI生成logo无版权。",
   "re1|bdb1c8fe69c8b9ad6d127aeb1471119804596795": "UC Berkeley School of Law自2026年夏季起禁止学生用AI起草、修订、翻译作业及用于任何考试，但允许AI仅用于查找文献来源，以保障法律思维训练。",
-  "re1|98979fccb0d487e22a20e72ae537f718f9fbb4a8": "Berkeley Law宣布自2026年夏季起默认禁止学生在课堂作业中使用AI，涵盖起草、翻译、编辑及考试全流程，仅允许用AI查找文献来源，引用不存在的来源将被视为违规。"
+  "re1|98979fccb0d487e22a20e72ae537f718f9fbb4a8": "Berkeley Law宣布自2026年夏季起默认禁止学生在课堂作业中使用AI，涵盖起草、翻译、编辑及考试全流程，仅允许用AI查找文献来源，引用不存在的来源将被视为违规。",
+  "ds1|Codex on AWS bedrock bug causing 10x charges": "AWS Bedrock 上 Codex 的 bug 导致费用暴涨 10 倍",
+  "ds1|Introducing AI Futures": "正式推出 AI Futures",
+  "re1|ea863f11d3a0c8b6b6c45f6ec6b4a73b96fa4a0c": "AWS Bedrock上Codex的bug可致10倍费用，将web_search设为“disabled”即可规避，一文讲清问题根源与解决步骤。",
+  "re1|6bed69b88241c88628f30c85d11f9413b516beb3": "",
+  "re1|d3aaf33252146f4cf875e067f48792a00d706e67": "Codex CLI在Amazon Bedrock Mantle上无法启用GPT-5.6 Sol显式提示缓存，导致缓存写入token占模型估计支出85%；一次会话76个请求产生6.709M写入token，平均每请求约88K，成本显著抬升。"
 }
