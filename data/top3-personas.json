@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:57:17.231992Z",
+  "generated_at": "2026-08-21T11:54:07.685642Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_73c198965c13",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
+      "story_id": "story_1942460359a8",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "开源是真，可'真机基座'这词儿是跟风还是真有本事，得看跑分外的实测。"
+          "score": 35,
+          "review": "实验版就敢叫V4？benchmark没影，先发个API更新凑热度。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只说了开源未见仓库链接，论文和评测都没给，无法核实。"
+          "score": 20,
+          "review": "仅官方日志宣称发布，无论文无代码无第三方跑分，需实测API验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "开源可 clone，做 UI 自动化的今天就能试。"
+          "review": "新视觉模型进API，多模态任务今天就能试，留意下价格和限流。"
         }
       }
     }
