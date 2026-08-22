@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:49:18.421215Z",
+  "generated_at": "2026-08-22T19:35:38.725364Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9358,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -115,7 +115,7 @@
           "title_zh": "MCP更新路线图，聚焦后续规范发布",
           "title_en": "New MCP Roadmap",
           "title_original": "New MCP Roadmap",
-          "summary": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nAn update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nAn update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nToday we’re excited to publish an updated roadmap for the Model Context Protocol (MCP), covering the next specification release and beyond.\nThe roadmap sets the direction for protocol work over the",
+          "summary": null,
           "recommend_reason_zh": "MCP发布新版路线图，聚焦五大优先领域，包括server-initiated events、agent identity及DPoP标准化，并展望2026-07-28发布后统一传输模式，值得关注。",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
           "source": "Hacker News (黑客新闻)",
@@ -165,7 +165,7 @@
           "title_zh": "MCP更新路线图，聚焦后续规范发布",
           "title_en": "New MCP Roadmap",
           "title_original": "New MCP Roadmap",
-          "summary": "An update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nAn update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nAn update on the Model Context Protocol roadmap and focus areas for upcoming specification releases.\nToday we’re excited to publish an updated roadmap for the Model Context Protocol (MCP), covering the next specification release and beyond.\nThe roadmap sets the direction for protocol work over the",
+          "summary": null,
           "recommend_reason_zh": "MCP发布新版路线图，聚焦五大优先领域，包括server-initiated events、agent identity及DPoP标准化，并展望2026-07-28发布后统一传输模式，值得关注。",
           "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
           "source": "Hacker News (黑客新闻)",
@@ -190,15 +190,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5665,
-      "importance": 0.5665,
-      "importance_score": 0.5665,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9762,
+        "recency": 0.9654,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,7 +225,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -331,15 +331,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9487,
+        "recency": 0.9382,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -366,7 +366,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -383,7 +383,7 @@
           "title_zh": "MCP发布新路线图，初始定制协议被指不智",
           "title_en": "New MCP Roadmap",
           "title_original": "New MCP Roadmap",
-          "summary": "Good. Introducing a bespoke new protocol was one of the more bone-headed things MCP did on initial release.\nreply\nreply\nreply\nreply\nThis would be more complex to implement for a simple server, but it’s not exactly difficult.\nreply\nreply\nIn the flip side: I’m currently designing an AI-adjacent protocol, and it will be able to map to WebTransport, but I don’t plan to define non-WebTransport HTTP bindings unless a very compelling reason appears. The main implementations will not use HTTP at all :)\n",
+          "summary": null,
           "recommend_reason_zh": "MCP新路线图聚焦代理身份与授权，计划推进DPoP落地，并借Workload Identity Federation、ID-JAG定义标准化路径，取代长期令牌，以适配云端代理场景。",
           "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
@@ -417,7 +417,7 @@
           "title_zh": "MCP发布新路线图，初始定制协议被指不智",
           "title_en": "New MCP Roadmap",
           "title_original": "New MCP Roadmap",
-          "summary": "Good. Introducing a bespoke new protocol was one of the more bone-headed things MCP did on initial release.\nreply\nreply\nreply\nreply\nThis would be more complex to implement for a simple server, but it’s not exactly difficult.\nreply\nreply\nIn the flip side: I’m currently designing an AI-adjacent protocol, and it will be able to map to WebTransport, but I don’t plan to define non-WebTransport HTTP bindings unless a very compelling reason appears. The main implementations will not use HTTP at all :)\n",
+          "summary": null,
           "recommend_reason_zh": "MCP新路线图聚焦代理身份与授权，计划推进DPoP落地，并借Workload Identity Federation、ID-JAG定义标准化路径，取代长期令牌，以适配云端代理场景。",
           "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
@@ -442,15 +442,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,7 +465,7 @@
         "title_zh": "MCP发布新路线图，初始定制协议被指不智",
         "title_en": "New MCP Roadmap",
         "title_original": "New MCP Roadmap",
-        "summary": "Good. Introducing a bespoke new protocol was one of the more bone-headed things MCP did on initial release.\nreply\nreply\nreply\nreply\nThis would be more complex to implement for a simple server, but it’s not exactly difficult.\nreply\nreply\nIn the flip side: I’m currently designing an AI-adjacent protocol, and it will be able to map to WebTransport, but I don’t plan to define non-WebTransport HTTP bindings unless a very compelling reason appears. The main implementations will not use HTTP at all :)\n",
+        "summary": null,
         "recommend_reason_zh": "MCP新路线图聚焦代理身份与授权，计划推进DPoP落地，并借Workload Identity Federation、ID-JAG定义标准化路径，取代长期令牌，以适配云端代理场景。",
         "url": "https://news.ycombinator.com/item?id=49399591",
         "source": "hackernews",
@@ -477,7 +477,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -503,7 +503,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -511,15 +511,15 @@
           "summary": null,
           "recommend_reason_zh": "Anthropic IPO在即，招股书将把公众对数据中心的抗议及AI取代工作的恐惧列为风险因素，揭示这家AI巨头上市时面临的社会情绪挑战。",
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -538,7 +538,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "知情人士称，Anthropic IPO文件将把AI反对声浪列为风险因素",
           "title_en": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
@@ -546,23 +546,23 @@
           "summary": null,
           "recommend_reason_zh": "Anthropic IPO在即，招股书将把公众对数据中心的抗议及AI取代工作的恐惧列为风险因素，揭示这家AI巨头上市时面临的社会情绪挑战。",
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.9658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,7 +589,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -666,15 +666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8398,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -701,7 +701,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     },
     {
@@ -778,15 +778,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7265,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -813,7 +813,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T18:58:43.796978Z"
+        "scored_at": "2026-08-22T19:49:17.846267Z"
       }
     }
   ]
