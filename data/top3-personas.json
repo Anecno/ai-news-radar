@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:44:14.259314Z",
+  "generated_at": "2026-08-22T18:58:56.093670Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_e106ae18d313",
+      "story_id": "story_ede39af7c879",
       "title": "MCP更新路线图 聚焦未来规范发布重点",
       "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "路线图画得圆，规范落地前都是纸上谈兵。"
+          "score": 55,
+          "review": "路线图写得像规划，可发布过的规范有几个能跑？"
         },
         "paper-police": {
           "score": 20,
-          "review": "路线图只算规划声明，无代码无评测，等发布规范再验证。"
+          "review": "路线图只有规划，无代码无评测，等规范落地再议。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "MCP规范方向定了，SDK和工具链会跟进，但今天没新东西可用，先关注别急着改。"
+          "score": 70,
+          "review": "规范方向明确但暂无新版本可上手，集成方先观望。"
         }
       }
     },
     {
-      "story_id": "story_deed5dc2807d",
-      "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-      "url": "https://news.ycombinator.com/item?id=49393051",
+      "story_id": "story_e2695a874548",
+      "title": "MCP发布新路线图，初始定制协议被指不智",
+      "url": "https://news.ycombinator.com/item?id=49399591",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 38,
-          "review": "一周个人体感就拿来对比，样本量够写评测吗？"
+          "score": 42,
+          "review": "路线图没细说就急着否定初始协议，有数据支撑还是纯嘴仗？"
         },
         "paper-police": {
-          "score": 25,
-          "review": "个人体验无评测数据，主观比较难服众，缺实证支撑。"
+          "score": 20,
+          "review": "路线图仅口头表态，无论文代码评测支撑，争议难定。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "具体对比才有用，但个人体验当参考，别急着换工具。"
+          "score": 70,
+          "review": "MCP路线图定了，搞Agent工具链的该看看接口变没变。"
         }
       }
     }
