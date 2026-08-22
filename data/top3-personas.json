@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:50:26.251745Z",
+  "generated_at": "2026-08-22T11:44:52.391464Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_24786bde920b",
-      "title": "DeepSeek-v4-flash-vision-exp 支持图文输入，可描述图片与图表",
-      "url": "https://api-docs.deepseek.com/guides/vision",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "实验版挂exp就敢叫v4，图文输入不新鲜，先拿基准测过再说。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方文档自称支持图文，无论文代码和独立评测，能力待验证。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "能传图了，多模态需求今天就能接，图表描述可直接用。"
-        }
-      }
-    },
-    {
       "story_id": "story_355768f68f0e",
       "title": "GPT 5.6 Sol 价格下调 20% / GPT 5.6 Sol 20% price reduction",
       "url": "https://news.ycombinator.com/item?id=49396590",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -60,7 +40,7 @@
       "story_id": "story_f7faaf469ef0",
       "title": "Show HN：Proliferate——适用于任意编码代理的开源自托管Codex / Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
       "url": "https://news.ycombinator.com/item?id=49390739",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 78,
           "review": "开源可自托管，想绕开官方限流的可以试，但新项目成熟度待验。"
+        }
+      }
+    },
+    {
+      "story_id": "story_deb52648d399",
+      "title": "Claudette：让Claude别再像BuzzFeed文章那样说话 / Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://news.ycombinator.com/item?id=49388752",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 40,
+          "review": "把'别用列表和表情'写进system prompt，就敢发新闻？"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有HN讨论无代码无评测，效果无从验证，等开源或示例再评。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "能让 Claude 输出更简洁，写代码和文档时省心，今天就能试。"
         }
       }
     }
