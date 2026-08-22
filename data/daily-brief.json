@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:35:46.581316Z",
+  "generated_at": "2026-08-22T22:39:03.246657Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8991,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -83,7 +83,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
+      }
+    },
+    {
+      "story_id": "story_8a2541a1bf06",
+      "title": "为什么你身边的LLM看起来比实际更“笨”",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "forum.level1techs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_en": null,
+          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:47.378000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "forum.level1techs.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_en": null,
+          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:47.378000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": null,
+          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9977,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T22:29:26.810000Z",
+      "primary_item": {
+        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+        "title": "为什么你身边的LLM看起来比实际更“笨”",
+        "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
+        "title_en": null,
+        "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+        "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+        "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "forum.level1techs.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "解释本地模型表现差的常见原因，适合排查自己的部署配置，但无新工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -189,15 +330,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9379,
+        "recency": 0.9237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +365,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -330,15 +471,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5549,
-      "importance": 0.5549,
-      "importance_score": 0.5549,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9115,
+        "recency": 0.8977,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -365,7 +506,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -382,7 +523,7 @@
           "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
           "title_en": null,
           "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+          "summary": null,
           "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
           "url": "https://twitter.com/argofowl/status/2091150597374537729",
           "source": "twitter.com",
@@ -417,7 +558,7 @@
           "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
           "title_en": null,
           "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-          "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+          "summary": null,
           "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
           "url": "https://twitter.com/argofowl/status/2091150597374537729",
           "source": "twitter.com",
@@ -442,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9937,
+        "recency": 0.9786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,7 +606,7 @@
         "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
         "title_en": null,
         "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
-        "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+        "summary": null,
         "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "source": "twitter.com",
@@ -477,119 +618,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
-      }
-    },
-    {
-      "story_id": "story_8a2541a1bf06",
-      "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-      "url": "https://news.ycombinator.com/item?id=49402232",
-      "primary_url": "https://news.ycombinator.com/item?id=49402232",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
-          "url": "https://news.ycombinator.com/item?id=49402232",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T20:40:47.378000Z"
-        },
-        {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
-          "url": "https://news.ycombinator.com/item?id=49402232",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T20:40:47.378000Z"
-        },
-        {
-          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T18:14:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9869,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T20:40:47.378000Z",
-      "primary_item": {
-        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-        "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-        "title_zh": "为什么你的本地LLM显得比实际更笨？",
-        "title_en": "Why your local LLM feels dumber than it is",
-        "title_original": "Why your local LLM feels dumber than it is",
-        "summary": null,
-        "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
-        "url": "https://news.ycombinator.com/item?id=49402232",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "调参和使用技巧能救回本地模型智商，跑不起来先查这几个坑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -665,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9576,
+        "recency": 0.9431,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -700,7 +729,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -777,15 +806,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
+        "recency": 0.9241,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -812,7 +841,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     },
     {
@@ -889,15 +918,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8068,
+        "recency": 0.7946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -924,7 +953,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T21:44:53.828456Z"
+        "scored_at": "2026-08-22T22:49:55.741494Z"
       }
     }
   ]

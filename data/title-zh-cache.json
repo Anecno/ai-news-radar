@@ -40984,5 +40984,21 @@
   "re1|960f5f9bb8b82d23a4b4b56d11850c3ba96bb150": "",
   "re1|3f8b1c476206091b1731104ddba555d4adf791b1": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
   "re1|16c75006f381b851997cec6ecc89fd0ddbddc96e": "荷兰AP因Uber用自动化系统停用司机账户且未充分告知，开出8.25亿欧元罚款，为GDPR迄今第二高罚款，仅次于Meta的12亿欧元。",
-  "re1|58ed680883f1996851fd8d0e94b98359dae09518": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。"
+  "re1|58ed680883f1996851fd8d0e94b98359dae09518": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
+  "ds1|A free AI model is winning over developers. And nobody knows whose servers it runs on": "一款免费的AI模型正在赢得开发者青睐。没人知道它究竟运行在谁的服务器上。",
+  "ds1|Harvard’s $699 startup bootcamp offers AI avatars of its instructors": "哈佛的699美元创业训练营提供讲师的AI化身",
+  "ds1|Nvidia AI server prices are rising more than 15% from early next year": "Nvidia AI服务器价格将从明年初起上涨超过15%",
+  "ds1|A mysterious free AI model is impressing developers. And nobody knows who made it.": "神秘免费AI模型惊艳开发者，创造者身份成谜。",
+  "ds1|Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police": "Flock 正秘密为警方打造强大的新型提示式 AI 工具",
+  "ds1|At China's robot Olympics, the finish line comes with a padded wall and a stretcher": "中国机器人奥运会：终点线配有软垫墙和担架。",
+  "ds1|A Chinese robot did the 100 meter dash in 9.39 seconds. Beating Usain Bolts 9.58 seconds world record.": "一个中国机器人以9.39秒跑完100米，打破了Usain Bolt的9.58秒世界纪录。",
+  "re1|9dcdba2020fb89eb13e2cb8d8ca6a1b80cb306b2": "哈佛大学699美元创业训练营HBS Foundry中，AI avatars会在模拟路演和董事会会议上提供反馈，以低成本获得导师式指导。",
+  "re1|96c8d2b1e084d783aadc82674b12f3904f00b71e": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
+  "re1|fed6d1ca3bed97a9c9aaa3600193baae67fd9182": "",
+  "re1|dc726955b507ebeac5e91085de93e2db952f8347": "匿名模型Ox Alpha在OpenRouter免费提供百万token上下文，但provider身份不明且留存全部提示词，Stripe CEO Patrick Collison称其“very impressive”，欧洲企业却因数据合规无法使用。",
+  "re1|3bdf5951f240cf123e985135e756d14d0315ccd6": "Nvidia因内存价格飙升，明年初起AI服务器将涨价超15%，涉及Vera Rubin与Grace Blackwell系统。连毛利率75%的Nvidia都无法消化成本，三星、SK hynix和Micron主导内存市场，欧盟约200亿欧元AI超级工厂预算也面临变数。",
+  "re1|d5ac5b4b531b04ccf708256a98b9d545af9c0624": "一文追踪神秘免费AI模型Ox Alpha：它在OpenRouter上线，提供每日100万亿tokens容量，Stripe CEO Patrick Collison试用后称“impressive”，但开发者尚不确定它来自哪家实验室。",
+  "re1|98e3956280413a37db8a962e253face662809a1a": "Flock多年公开坚称其技术无法识别或追踪个人，如今被披露正秘密构建基于提示词的人工智能警务工具，可识别司机并跟踪车辆，彻底违背承诺。",
+  "re1|1807b5446e5661c5bb2bd4577faf99f2bac14d76": "本文直击北京世界人形机器人运动会：名为Lightning的机器人百米号称快过Usain Bolt，却撞墙断肢、甚至起火；Unitree上市首日大涨460%。",
+  "re1|7d37b09b78952830f6690521d6b8f17438726570": ""
 }
