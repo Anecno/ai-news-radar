@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:57:05.338304Z",
+  "generated_at": "2026-08-22T08:58:05.238951Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_a1a025194e2c",
-      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "story_id": "story_f7faaf469ef0",
+      "title": "Show HN：Proliferate——适用于任意编码代理的开源自托管Codex / Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+      "url": "https://news.ycombinator.com/item?id=49390739",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "重启快是快，可常驻显存的缓存成本，宣传稿里一个字没提。"
+          "score": 72,
+          "review": "开源诚意有，但自夸“任意”前先跑通十个代理再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给细节数字但无代码复现，等开源或第三方验证。"
+          "score": 20,
+          "review": "自称开源自托管却无仓库链接，凭一句话无法验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "崩溃恢复从分钟级降到亚秒级，生产环境直接受益。"
+          "score": 78,
+          "review": "开源可自托管，想绕开官方限流的可以试，但新项目成熟度待验。"
         }
       }
     }
