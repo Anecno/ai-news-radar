@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:39:12.880480Z",
+  "generated_at": "2026-08-22T01:50:22.388608Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8969,
+        "recency": 0.8691,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8451,
+        "recency": 0.8188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
-      }
-    },
-    {
-      "story_id": "story_8ea439a37deb",
-      "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "primary_url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-          "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-          "title_en": "Measuring benchmark optimization in speech recognition",
-          "title_original": "Measuring benchmark optimization in speech recognition",
-          "summary": null,
-          "recommend_reason_zh": "研究发现，11个开源ASR模型中，多个高分模型在VoxPopuli测试中复现错误基准转录，如忽略音频里清晰的“Thank you”，暴露了基准优化问题。",
-          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-          "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-          "title_en": "Measuring benchmark optimization in speech recognition",
-          "title_original": "Measuring benchmark optimization in speech recognition",
-          "summary": null,
-          "recommend_reason_zh": "研究发现，11个开源ASR模型中，多个高分模型在VoxPopuli测试中复现错误基准转录，如忽略音频里清晰的“Thank you”，暴露了基准优化问题。",
-          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7107,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T00:00:00Z",
-      "latest_at": "2026-08-21T00:00:00Z",
-      "primary_item": {
-        "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-        "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-        "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-        "title_en": "Measuring benchmark optimization in speech recognition",
-        "title_original": "Measuring benchmark optimization in speech recognition",
-        "summary": null,
-        "recommend_reason_zh": "研究发现，11个开源ASR模型中，多个高分模型在VoxPopuli测试中复现错误基准转录，如忽略音频里清晰的“Thank you”，暴露了基准优化问题。",
-        "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "榜单分可能虚高，挑ASR模型得用自己数据复测。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -303,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8961,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -446,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8144,
+        "recency": 0.7891,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -483,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -531,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8791,
+        "recency": 0.8517,
         "story_heat": 0.0
       },
       "category": "official",
@@ -568,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -616,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8759,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,7 +566,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -699,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8143,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,7 +649,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -782,15 +697,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,7 +732,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -865,15 +780,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +815,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -948,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,7 +898,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1060,15 +975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1096,7 +1011,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1144,15 +1059,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8196,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,7 +1094,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1227,15 +1142,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,7 +1177,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1310,15 +1225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8196,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1260,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1393,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8196,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1476,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1645,15 +1560,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.5778,
+      "importance": 0.5778,
+      "importance_score": 0.5778,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9287,
+        "recency": 0.8999,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1680,7 +1595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1728,15 +1643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7972,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1763,7 +1678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     },
     {
@@ -1898,15 +1813,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5803,
-      "importance": 0.5803,
-      "importance_score": 0.5803,
+      "score": 0.5752,
+      "importance": 0.5752,
+      "importance_score": 0.5752,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.914,
+        "recency": 0.8856,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1933,7 +1848,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-21T23:48:36.971498Z"
+        "scored_at": "2026-08-22T02:02:15.796193Z"
+      }
+    },
+    {
+      "story_id": "story_73c198965c13",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_en": null,
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "summary": null,
+          "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:57:27.828300Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_en": null,
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "summary": null,
+          "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
+          "url": "https://www.aibase.com/news/30530",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T07:57:27.828300Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-21T07:57:27.828300Z",
+      "latest_at": "2026-08-21T07:57:27.828300Z",
+      "primary_item": {
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_en": null,
+        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "summary": null,
+        "recommend_reason_zh": "阿里开源Qwen-UI-Agent，基于100多部真机与150+应用构建真实环境，推出超400任务的MobileWorld-Real基准，支持命令行操作，打通模拟与现实的差距。",
+        "url": "https://www.aibase.com/news/30530",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源可 clone，做 UI 自动化的今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-22T02:02:15.796193Z"
       }
     }
   ]
