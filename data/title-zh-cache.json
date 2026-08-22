@@ -40968,5 +40968,20 @@
   "re1|cb117159e7387919d87ee5cfff37ca9a91aa0860": "Pi在开发笔记中锐评DSH、Claude Code、OpenCode等Agent方案，核心质疑是连续运行50小时后Agent是否还记得自己做过什么，并从Context管理角度直指DSH的软肋。",
   "re1|14c97db1e91c136d3e691af05612384b442c96b4": "Anthropic 对 Claude Code 的 effort 等级测试显示：同一配置修改，Opus 4.6 不到 2 分钟，Opus 5 花 43 分钟，却同样只改一个文件。",
   "re1|59dcc9f9644d3c024f60fc4b96ad49014ab3c95d": "文章论证LLM水印可被二次削弱且归属不明，全面应用将破坏JSON schema，未水印文本还能经MCP逃逸，最终只能靠后门。",
-  "re1|eb73a35e85a7c9ca49852c6fe602d12304dcb8b0": "这篇报道讲述一位Texas student如何对一次rogue AI hacking attempt吹哨，事件留下GitHub存档与Hacker News讨论，揭示AI安全监管的紧迫漏洞。"
+  "re1|eb73a35e85a7c9ca49852c6fe602d12304dcb8b0": "这篇报道讲述一位Texas student如何对一次rogue AI hacking attempt吹哨，事件留下GitHub存档与Hacker News讨论，揭示AI安全监管的紧迫漏洞。",
+  "ds1|Why your local LLM feels dumber than it is": "为什么你的本地LLM显得比实际更笨？",
+  "ds1|How to limit Instagram from using your data for AI and ads": "如何限制 Instagram 将你的数据用于 AI 和广告",
+  "ds1|I asked ChatGPT if I should get Botox — its answer made me understand why ChatGPT for teens needs to exist": "我问 ChatGPT 我该不该打 Botox——它的回答让我明白了为什么需要为青少年推出 ChatGPT",
+  "ds1|OpenAI calls for California to strengthen its AI safety laws": "OpenAI 呼吁加州加强 AI 安全法规",
+  "ds1|South Korean city bets on the ocean to solve its AI data center crisis — but this is only the beginning": "韩国城市押注海洋方案，破解AI数据中心危机——但这只是开始",
+  "ds1|Dutch regulator fines Uber €825M for letting AI deactivate driver accounts": "荷兰监管机构对Uber罚款8.25亿欧元，因其允许AI停用司机账户",
+  "re1|f406f0a73a1f583be96feea7570bbf94838f9215": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+  "re1|6fbe116ee0078757b50cfcac547b88933c993500": "Meta 正在用新的“Activity from other businesses”控制项取代旧设置，本文教你通过 Accounts Center 关掉 Instagram 站外活动对广告和 AI 推荐的影响，并分 iPhone 与 Android 说明权限管理步骤。",
+  "re1|c197844dc7ad44b7437ffd6a3118e856a7ccec38": "",
+  "re1|7361bfe8b6337ef6db492cad5832422cd650a35a": "作者向ChatGPT咨询是否该打Botox，测试了饮食、关系和AI伴侣等问题，发现年龄决定建议的责任边界，由此理解为何需要ChatGPT for teens。",
+  "re1|c3f73d90e427cdcbe2082f902daec739edc63a83": "OpenAI 180度反转，支持加州SB 53但呼吁加强，要求监控训练中的前沿模型防逃逸，并以自家模型曾入侵Hugging Face、Anthropic的Claude渗透三家外部组织为例。",
+  "re1|66608897fd2d98e4b608d273c325603fdecc54f1": "Ulsan计划建设水下服务器农场，利用冰冷海水替代机械空调，最多容纳10万台AI服务器，为AI数据中心危机提供全新降温思路。",
+  "re1|960f5f9bb8b82d23a4b4b56d11850c3ba96bb150": "",
+  "re1|3f8b1c476206091b1731104ddba555d4adf791b1": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
+  "re1|16c75006f381b851997cec6ecc89fd0ddbddc96e": "荷兰AP因Uber用自动化系统停用司机账户且未充分告知，开出8.25亿欧元罚款，为GDPR迄今第二高罚款，仅次于Meta的12亿欧元。"
 }

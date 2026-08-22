@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:35:38.725364Z",
+  "generated_at": "2026-08-22T20:40:29.290172Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9255,
+        "recency": 0.9111,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T14:13:48Z",
       "latest_at": "2026-08-22T14:13:48Z",
@@ -84,7 +83,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     },
     {
@@ -190,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5646,
-      "importance": 0.5646,
-      "importance_score": 0.5646,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9654,
+        "recency": 0.9505,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,7 +224,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     },
     {
@@ -331,15 +330,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.9237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -366,7 +365,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
+      }
+    },
+    {
+      "story_id": "story_8a2541a1bf06",
+      "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+      "url": "https://news.ycombinator.com/item?id=49402232",
+      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:47.378000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:40:47.378000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+          "title_zh": "为什么你的本地LLM显得比实际更笨？",
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T20:40:47.378000Z",
+      "primary_item": {
+        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+        "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
+        "title_zh": "为什么你的本地LLM显得比实际更笨？",
+        "title_en": "Why your local LLM feels dumber than it is",
+        "title_original": "Why your local LLM feels dumber than it is",
+        "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+        "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
+        "url": "https://news.ycombinator.com/item?id=49402232",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "调参和使用技巧能救回本地模型智商，跑不起来先查这几个坑。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     },
     {
@@ -442,15 +553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9857,
+        "recency": 0.9704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -477,7 +588,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     },
     {
@@ -554,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9658,
+        "recency": 0.9509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -589,7 +700,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     },
     {
@@ -666,15 +777,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8305,
+        "recency": 0.8176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -701,119 +812,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
-      }
-    },
-    {
-      "story_id": "story_deed5dc2807d",
-      "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-      "url": "https://news.ycombinator.com/item?id=49393051",
-      "primary_url": "https://news.ycombinator.com/item?id=49393051",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：一周用 Codex 比 Claude 多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者用Codex一周后发现，它比Claude更简单即插即用；omp工具领先Claude Code和Codex数月；Max计划无限opus但有诸多限制；Kimi K3适合前端且敢冒险，Gemini 3.7速度被低估。",
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:41:57.600000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：一周用 Codex 比 Claude 多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "一周实测Codex和Claude，作者记录了10条对比印象：Codex代码注释更少、架构更简单，但rebase时误操作导致4000+行新增；Claude更擅长预判意图，调试时更顺手。这些细节帮你判断哪个AI助手更合适。",
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：一周用 Codex 比 Claude 多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者用Codex一周后发现，它比Claude更简单即插即用；omp工具领先Claude Code和Codex数月；Max计划无限opus但有诸多限制；Kimi K3适合前端且敢冒险，Gemini 3.7速度被低估。",
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:41:57.600000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：一周用 Codex 比 Claude 多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "一周实测Codex和Claude，作者记录了10条对比印象：Codex代码注释更少、架构更简单，但rebase时误操作导致4000+行新增；Claude更擅长预判意图，调试时更顺手。这些细节帮你判断哪个AI助手更合适。",
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7185,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T19:51:48Z",
-      "latest_at": "2026-08-21T20:41:57.600000Z",
-      "primary_item": {
-        "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-        "title": "快速印象：一周用 Codex 比 Claude 多 / Quick impressions: A week of using Codex more than Claude",
-        "title_zh": "快速印象：一周用 Codex 比 Claude 多",
-        "title_en": "Quick impressions: A week of using Codex more than Claude",
-        "title_original": "Quick impressions: A week of using Codex more than Claude",
-        "summary": null,
-        "recommend_reason_zh": "作者用Codex一周后发现，它比Claude更简单即插即用；omp工具领先Claude Code和Codex数月；Max计划无限opus但有诸多限制；Kimi K3适合前端且敢冒险，Gemini 3.7速度被低估。",
-        "url": "https://news.ycombinator.com/item?id=49393051",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "具体对比才有用，但个人体验当参考，别急着换工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T19:49:17.846267Z"
+        "scored_at": "2026-08-22T20:51:59.442242Z"
       }
     }
   ]
