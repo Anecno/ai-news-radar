@@ -40983,5 +40983,6 @@
   "re1|66608897fd2d98e4b608d273c325603fdecc54f1": "Ulsan计划建设水下服务器农场，利用冰冷海水替代机械空调，最多容纳10万台AI服务器，为AI数据中心危机提供全新降温思路。",
   "re1|960f5f9bb8b82d23a4b4b56d11850c3ba96bb150": "",
   "re1|3f8b1c476206091b1731104ddba555d4adf791b1": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
-  "re1|16c75006f381b851997cec6ecc89fd0ddbddc96e": "荷兰AP因Uber用自动化系统停用司机账户且未充分告知，开出8.25亿欧元罚款，为GDPR迄今第二高罚款，仅次于Meta的12亿欧元。"
+  "re1|16c75006f381b851997cec6ecc89fd0ddbddc96e": "荷兰AP因Uber用自动化系统停用司机账户且未充分告知，开出8.25亿欧元罚款，为GDPR迄今第二高罚款，仅次于Meta的12亿欧元。",
+  "re1|58ed680883f1996851fd8d0e94b98359dae09518": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。"
 }

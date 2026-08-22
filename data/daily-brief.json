@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T20:40:29.290172Z",
+  "generated_at": "2026-08-22T21:35:46.581316Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_06a27d0d7448",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9111,
+        "recency": 0.8991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -83,7 +83,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9505,
+        "recency": 0.9379,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,7 +224,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5571,
-      "importance": 0.5571,
-      "importance_score": 0.5571,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9237,
+        "recency": 0.9115,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -365,7 +365,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
+      }
+    },
+    {
+      "story_id": "story_ce8fd18a4317",
+      "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "primary_url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_en": null,
+          "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+          "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T21:09:21.713000Z"
+        },
+        {
+          "id": "929739c0677411630477ec750d3d6e3b86b85881",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_en": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "title_original": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic疑似在Claude Code 2.1.236+上对5个会话做A/B测试，缩小努力等级，旧版本和Opus 5不受影响。若你感觉‘high’像‘low’，这篇解读了这个服务端实验的细节。",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T16:58:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_en": null,
+          "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+          "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T21:09:21.713000Z"
+        },
+        {
+          "id": "929739c0677411630477ec750d3d6e3b86b85881",
+          "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试 / Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+          "title_en": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "title_original": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic疑似在Claude Code 2.1.236+上对5个会话做A/B测试，缩小努力等级，旧版本和Opus 5不受影响。若你感觉‘high’像‘low’，这篇解读了这个服务端实验的细节。",
+          "url": "https://twitter.com/argofowl/status/2091150597374537729",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-22T16:58:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:58:49Z",
+      "latest_at": "2026-08-22T21:09:21.713000Z",
+      "primary_item": {
+        "id": "756cbab0cafb5cc40cb78549659cffae8f5b09fa",
+        "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "title_zh": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "title_en": null,
+        "title_original": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
+        "summary": "update: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyone will see it\n\nif \"high\" feels like \"low\" for you,\nupdate: it's server-side, not the app\n\nanthropic enrols fable 5 sessions on claude code 2.1.236+ into an experiment that shrinks the effort scale, older versions and opus 5 are left alone\n\nprobably an a/b test, so not everyo",
+        "recommend_reason_zh": "Anthropic 正针对 Claude Code 2.1.236+ 的 fable 5 sessions 启动实验，压缩工作量等级（effort scale），并确认是服务端改动而非应用端；旧版本与 Opus 5 不受影响。这是 A/B 测试，所以不是每个人都会看到“High”变成“Low”。",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "A/B测试没实锤前不用管，等官方文档更新再调整工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -382,7 +494,7 @@
           "title_zh": "为什么你的本地LLM显得比实际更笨？",
           "title_en": "Why your local LLM feels dumber than it is",
           "title_original": "Why your local LLM feels dumber than it is",
-          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
           "url": "https://news.ycombinator.com/item?id=49402232",
           "source": "hackernews",
@@ -396,7 +508,7 @@
           "title_zh": "为什么你的本地LLM显得比实际更笨？",
           "title_en": "Why your local LLM feels dumber than it is",
           "title_original": "Why your local LLM feels dumber than it is",
-          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "summary": null,
           "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
           "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
           "source": "Hacker News",
@@ -417,7 +529,7 @@
           "title_zh": "为什么你的本地LLM显得比实际更笨？",
           "title_en": "Why your local LLM feels dumber than it is",
           "title_original": "Why your local LLM feels dumber than it is",
-          "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
           "url": "https://news.ycombinator.com/item?id=49402232",
           "source": "hackernews",
@@ -431,7 +543,7 @@
           "title_zh": "为什么你的本地LLM显得比实际更笨？",
           "title_en": "Why your local LLM feels dumber than it is",
           "title_original": "Why your local LLM feels dumber than it is",
-          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "summary": null,
           "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
           "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
           "source": "Hacker News",
@@ -442,15 +554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -465,7 +577,7 @@
         "title_zh": "为什么你的本地LLM显得比实际更笨？",
         "title_en": "Why your local LLM feels dumber than it is",
         "title_original": "Why your local LLM feels dumber than it is",
-        "summary": "reply\nreply\nreply\nreply\nreply\nreply\nreply\nreply",
+        "summary": null,
         "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
         "url": "https://news.ycombinator.com/item?id=49402232",
         "source": "hackernews",
@@ -477,7 +589,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -553,15 +665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -588,7 +700,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -665,15 +777,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9509,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -700,7 +812,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     },
     {
@@ -726,7 +838,7 @@
           "published_at": "2026-08-22T06:43:59.267000Z"
         },
         {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
           "title": "GPT 5.6 Sol 价格下调 20% / GPT 5.6 Sol 20% price reduction",
           "title_zh": "GPT 5.6 Sol 价格下调 20%",
           "title_en": "GPT 5.6 Sol 20% price reduction",
@@ -734,15 +846,15 @@
           "summary": null,
           "recommend_reason_zh": "GPT-5.6 Sol 定价降至每百万输入 token 4 美元、输出 20 美元，输入降价 20%、输出降价 33%，促销价持续至 2026 年 11 月 21 日。",
           "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -761,7 +873,7 @@
           "published_at": "2026-08-22T06:43:59.267000Z"
         },
         {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
           "title": "GPT 5.6 Sol 价格下调 20% / GPT 5.6 Sol 20% price reduction",
           "title_zh": "GPT 5.6 Sol 价格下调 20%",
           "title_en": "GPT 5.6 Sol 20% price reduction",
@@ -769,23 +881,23 @@
           "summary": null,
           "recommend_reason_zh": "GPT-5.6 Sol 定价降至每百万输入 token 4 美元、输出 20 美元，输入降价 20%、输出降价 33%，促销价持续至 2026 年 11 月 21 日。",
           "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -812,7 +924,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-22T20:51:59.442242Z"
+        "scored_at": "2026-08-22T21:44:53.828456Z"
       }
     }
   ]
