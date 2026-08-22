@@ -13,24 +13,6 @@
       "title_hash": "221b92bb",
       "scored_at": "2026-08-01T18:24:34.295097Z"
     },
-    "story_cb70a765bd5d|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "做内容平台的得提前规划标签方案，但具体技术标准还没落地，先观望。",
-      "title_hash": "4ca356c2",
-      "scored_at": "2026-08-01T17:33:39.515554Z"
-    },
-    "story_31ed9d2f74da|cynic|f4237a62": {
-      "score": 40,
-      "review": "弃用公告比发布还勤，模型没捂热就进博物馆了。",
-      "title_hash": "af39d7de",
-      "scored_at": "2026-08-01T17:33:55.489623Z"
-    },
-    "story_31ed9d2f74da|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方弃用公告只有说法，无论文代码评测支撑，影响待观察。",
-      "title_hash": "af39d7de",
-      "scored_at": "2026-08-01T17:33:57.220359Z"
-    },
     "story_b49f835a8373|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "论文级优化思路，普通开发者用不上，做推理引擎的可以瞄一眼。",
@@ -5658,6 +5640,30 @@
       "review": "个人体验无评测数据，主观比较难服众，缺实证支撑。",
       "title_hash": "fe09a6db",
       "scored_at": "2026-08-22T16:50:47.414251Z"
+    },
+    "story_e106ae18d313|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "MCP规范方向定了，SDK和工具链会跟进，但今天没新东西可用，先关注别急着改。",
+      "title_hash": "c00551f3",
+      "scored_at": "2026-08-22T17:44:01.510635Z"
+    },
+    "story_a2591c776bef|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "IPO风险披露而已，不影响API使用，开发者不用行动。",
+      "title_hash": "dceb7b6f",
+      "scored_at": "2026-08-22T17:44:03.070878Z"
+    },
+    "story_e106ae18d313|cynic|f4237a62": {
+      "score": 35,
+      "review": "路线图画得圆，规范落地前都是纸上谈兵。",
+      "title_hash": "c00551f3",
+      "scored_at": "2026-08-22T17:44:12.564707Z"
+    },
+    "story_e106ae18d313|paper-police|966065bf": {
+      "score": 20,
+      "review": "路线图只算规划声明，无代码无评测，等发布规范再验证。",
+      "title_hash": "c00551f3",
+      "scored_at": "2026-08-22T17:44:14.259244Z"
     }
   }
 }

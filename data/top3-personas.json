@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:50:47.414307Z",
+  "generated_at": "2026-08-22T17:44:14.259314Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_f7faaf469ef0",
-      "title": "Show HN：Proliferate——适用于任意编码代理的开源自托管Codex / Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-      "url": "https://news.ycombinator.com/item?id=49390739",
+      "story_id": "story_e106ae18d313",
+      "title": "MCP更新路线图 聚焦未来规范发布重点",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "开源诚意有，但自夸“任意”前先跑通十个代理再说。"
+          "score": 35,
+          "review": "路线图画得圆，规范落地前都是纸上谈兵。"
         },
         "paper-police": {
           "score": 20,
-          "review": "自称开源自托管却无仓库链接，凭一句话无法验证。"
+          "review": "路线图只算规划声明，无代码无评测，等发布规范再验证。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "开源可自托管，想绕开官方限流的可以试，但新项目成熟度待验。"
+          "score": 72,
+          "review": "MCP规范方向定了，SDK和工具链会跟进，但今天没新东西可用，先关注别急着改。"
         }
       }
     },
