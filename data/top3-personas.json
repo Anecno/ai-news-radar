@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:59:06.090930Z",
+  "generated_at": "2026-08-23T21:49:32.856662Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_a648cb6edf34",
-      "title": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-      "url": "https://news.ycombinator.com/item?id=49411178",
+      "story_id": "story_fa8a07601060",
+      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "专用芯片打通用GPU，赢在跑分输在生态，敢晒完整负载曲线吗？"
+          "score": 62,
+          "review": "学生揭发是好事，但单例故事不解决系统性AI滥用问题。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "仅新闻标题无论文代码，性能宣称无法验证，等实测。"
+          "score": 20,
+          "review": "只有新闻转述，无技术报告或代码，黑客攻击细节无法独立验证。"
         },
         "pragmatic": {
-          "score": 58,
-          "review": "ASIC 和 GPU 对比看着热闹，没开放前只能围观。"
+          "score": 55,
+          "review": "AI 安全事件提醒，自查下自己的 agent 有没有被 prompt 注入的风险。"
         }
       }
     }
