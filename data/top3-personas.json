@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:57:53.701770Z",
+  "generated_at": "2026-08-23T17:45:21.419497Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_c83125a610d8",
+      "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://news.ycombinator.com/item?id=49410097",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "五分之一成本打赢不难，先公布测试集和基线版本再谈颠覆。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只闻其声不见其码，无论文无仓库，成本优势拿什么验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开放权重还便宜五倍，直接换模型省钱，跑推理的今天就能测试。"
+        }
+      }
+    },
+    {
       "story_id": "story_fa8a07601060",
       "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -40,7 +60,7 @@
       "story_id": "story_88ca2ea32ad4",
       "title": "NanoGPT 速通前沿",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 55,
           "review": "训练技巧有参考，但没有现成工具，动手前先看代码。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8a2541a1bf06",
-      "title": "为什么你身边的LLM看起来比实际更“笨”",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "跑个小模型还怪它笨，怎么不看看你的显卡显存？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "论坛经验谈，无论文无代码无基准，主观感受不算数。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "解释本地模型表现差的常见原因，适合排查自己的部署配置，但无新工具。"
         }
       }
     }
