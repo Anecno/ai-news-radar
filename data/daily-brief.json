@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:34:36.055493Z",
+  "generated_at": "2026-08-23T18:48:43.040078Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
@@ -132,15 +132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8227,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -167,7 +167,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
@@ -215,15 +215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7859,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -250,119 +250,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
-      "story_id": "story_c83125a610d8",
-      "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "url": "https://news.ycombinator.com/item?id=49410097",
-      "primary_url": "https://news.ycombinator.com/item?id=49410097",
+      "story_id": "story_bb66d67f267d",
+      "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+      "url": "https://news.ycombinator.com/item?id=49410628",
+      "primary_url": "https://news.ycombinator.com/item?id=49410628",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": "Why do these results contradict existing serious attempts at benchmarking LLMs? Namely: https://artificialanalysis.ai/ https://arena.ai/leaderboard/agent\nreply\nreply\nreply\nreply\nreply\nWe just published GLM 5.3 results on our multi-agent coding evaluations and it's definitely an impressive model, coming in around #6. For the price, it's actually not Pareto optimal, falling slightly behind Grok 4.6 (which is faster and the same price) and Sol 5.6 (which uses far fewer thinking tokens for comparabl",
-          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-          "url": "https://news.ycombinator.com/item?id=49410097",
+          "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
+          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+          "title_zh": "我们绝不能赋予AI智能体法律人格",
+          "title_en": "We must not grant AI agents legal personhood",
+          "title_original": "We must not grant AI agents legal personhood",
+          "summary": "reply\nreply\n> 60.0 s remaining > Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\n> Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\nHeh, charming.\nreply\nreply\nreply\nreply\nreply\nBut in general corporations are not granted personhood.\nreply\nreply\nMuch of conservative US business theory is based on Milton Friedman's famous op-ed in the New York Times in 1970, \"The Social Responsibility of Business Is to Increase Its Profits\". [1] Go read the or",
+          "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
+          "url": "https://news.ycombinator.com/item?id=49410628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T17:34:54.839000Z"
+          "published_at": "2026-08-23T18:28:55.091000Z"
         },
         {
-          "id": "3398c311fb85107a79c03cb3916d0f0541244ddd",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
-          "url": "https://reinvently.co.uk/tools/ed-o-meter",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T16:24:21Z"
+          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
+          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+          "title_zh": "我们绝不能赋予AI智能体法律人格",
+          "title_en": "We must not grant AI agents legal personhood",
+          "title_original": "We must not grant AI agents legal personhood",
+          "summary": "What kind of sanctions could keep a non-human corporation in check?\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nOur digitised version of the FT newspaper, for easy reading on any device.\nCheck whether y",
+          "recommend_reason_zh": "本文警告不应授予AI代理法人资格，直指“非人公司”逃脱制裁的风险，并追问如何约束这类实体，观点鲜明且切中AI监管要害。",
+          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T17:25:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": "Why do these results contradict existing serious attempts at benchmarking LLMs? Namely: https://artificialanalysis.ai/ https://arena.ai/leaderboard/agent\nreply\nreply\nreply\nreply\nreply\nWe just published GLM 5.3 results on our multi-agent coding evaluations and it's definitely an impressive model, coming in around #6. For the price, it's actually not Pareto optimal, falling slightly behind Grok 4.6 (which is faster and the same price) and Sol 5.6 (which uses far fewer thinking tokens for comparabl",
-          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-          "url": "https://news.ycombinator.com/item?id=49410097",
+          "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
+          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+          "title_zh": "我们绝不能赋予AI智能体法律人格",
+          "title_en": "We must not grant AI agents legal personhood",
+          "title_original": "We must not grant AI agents legal personhood",
+          "summary": "reply\nreply\n> 60.0 s remaining > Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\n> Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\nHeh, charming.\nreply\nreply\nreply\nreply\nreply\nBut in general corporations are not granted personhood.\nreply\nreply\nMuch of conservative US business theory is based on Milton Friedman's famous op-ed in the New York Times in 1970, \"The Social Responsibility of Business Is to Increase Its Profits\". [1] Go read the or",
+          "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
+          "url": "https://news.ycombinator.com/item?id=49410628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-23T17:34:54.839000Z"
+          "published_at": "2026-08-23T18:28:55.091000Z"
         },
         {
-          "id": "3398c311fb85107a79c03cb3916d0f0541244ddd",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
-          "url": "https://reinvently.co.uk/tools/ed-o-meter",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T16:24:21Z"
+          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
+          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+          "title_zh": "我们绝不能赋予AI智能体法律人格",
+          "title_en": "We must not grant AI agents legal personhood",
+          "title_original": "We must not grant AI agents legal personhood",
+          "summary": "What kind of sanctions could keep a non-human corporation in check?\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.\nEssential digital access to quality FT journalism on any device. Pay a year upfront and save 20%.\nComplete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%.\nOur digitised version of the FT newspaper, for easy reading on any device.\nCheck whether y",
+          "recommend_reason_zh": "本文警告不应授予AI代理法人资格，直指“非人公司”逃脱制裁的风险，并追问如何约束这类实体，观点鲜明且切中AI监管要害。",
+          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T17:25:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T16:24:21Z",
-      "latest_at": "2026-08-23T17:34:54.839000Z",
+      "earliest_at": "2026-08-23T17:25:03Z",
+      "latest_at": "2026-08-23T18:28:55.091000Z",
       "primary_item": {
-        "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-        "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-        "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "summary": "Why do these results contradict existing serious attempts at benchmarking LLMs? Namely: https://artificialanalysis.ai/ https://arena.ai/leaderboard/agent\nreply\nreply\nreply\nreply\nreply\nWe just published GLM 5.3 results on our multi-agent coding evaluations and it's definitely an impressive model, coming in around #6. For the price, it's actually not Pareto optimal, falling slightly behind Grok 4.6 (which is faster and the same price) and Sol 5.6 (which uses far fewer thinking tokens for comparabl",
-        "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-        "url": "https://news.ycombinator.com/item?id=49410097",
+        "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
+        "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
+        "title_zh": "我们绝不能赋予AI智能体法律人格",
+        "title_en": "We must not grant AI agents legal personhood",
+        "title_original": "We must not grant AI agents legal personhood",
+        "summary": "reply\nreply\n> 60.0 s remaining > Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\n> Write a 300-word essay about Napoleon in less than a minute. Heh, charming.\nHeh, charming.\nreply\nreply\nreply\nreply\nreply\nBut in general corporations are not granted personhood.\nreply\nreply\nMuch of conservative US business theory is based on Milton Friedman's famous op-ed in the New York Times in 1970, \"The Social Responsibility of Business Is to Increase Its Profits\". [1] Go read the or",
+        "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
+        "url": "https://news.ycombinator.com/item?id=49410628",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开放权重还便宜五倍，直接换模型省钱，跑推理的今天就能测试。",
+      "persona_score": 25,
+      "persona_review": "纯观念争论，不碰代码，开发者不用管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8993,
+        "recency": 0.8834,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -474,148 +474,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
-      "story_id": "story_8a2541a1bf06",
-      "title": "为什么你身边的LLM看起来比实际更“笨”",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "source": "forum.level1techs.com",
-      "source_name": "Buzzing",
+      "story_id": "story_c83125a610d8",
+      "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://news.ycombinator.com/item?id=49410097",
+      "primary_url": "https://news.ycombinator.com/item?id=49410097",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": null,
-          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
+          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
           "summary": null,
-          "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
+          "url": "https://news.ycombinator.com/item?id=49410097",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:40:47.378000Z"
+          "published_at": "2026-08-23T17:34:54.839000Z"
         },
         {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
+          "id": "3398c311fb85107a79c03cb3916d0f0541244ddd",
+          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
           "summary": null,
-          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
+          "url": "https://reinvently.co.uk/tools/ed-o-meter",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T16:24:21Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "forum.level1techs.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-          "title": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": null,
-          "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
+          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
           "summary": null,
-          "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "forum.level1techs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T22:29:26.810000Z"
-        },
-        {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "为什么你的本地LLM显得比实际更笨？ / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你的本地LLM显得比实际更笨？",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
-          "summary": null,
-          "recommend_reason_zh": "这篇“Why your local LLM feels dumber than it is”的专文，拆解了本地模型显得更笨的成因，教你正确评估模型能力，避免因错误配置而低估它。",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
+          "url": "https://news.ycombinator.com/item?id=49410097",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:40:47.378000Z"
+          "published_at": "2026-08-23T17:34:54.839000Z"
         },
         {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
-          "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-          "title_en": "Why your local LLM feels dumber than it is",
-          "title_original": "Why your local LLM feels dumber than it is",
+          "id": "3398c311fb85107a79c03cb3916d0f0541244ddd",
+          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
           "summary": null,
-          "recommend_reason_zh": "本地LLM显得变笨，常非模型本身问题，而是推理实现差异所致：不同GPU代际和指令集令token计算的数学过程不同。作者以reference implementation为参照，建议用terminal bench、hle、SWEthis等基准测试替代零样本提示词判断。",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
+          "url": "https://reinvently.co.uk/tools/ed-o-meter",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "published_at": "2026-08-23T16:24:21Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
-        "story_heat": 0.5
+        "recency": 0.9824,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T22:29:26.810000Z",
+      "earliest_at": "2026-08-23T16:24:21Z",
+      "latest_at": "2026-08-23T17:34:54.839000Z",
       "primary_item": {
-        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
-        "title": "为什么你身边的LLM看起来比实际更“笨”",
-        "title_zh": "为什么你身边的LLM看起来比实际更“笨”",
-        "title_en": null,
-        "title_original": "为什么你身边的LLM看起来比实际更“笨”",
+        "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
+        "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
+        "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
         "summary": null,
-        "recommend_reason_zh": "本文通过系列实验揭示LLM推理中实现细节的影响，指出量化版本与参考实现的差距，并建议用terminal bench等基准测试衡量真实性能。",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "source": "forum.level1techs.com",
-        "source_name": "Buzzing"
+        "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
+        "url": "https://news.ycombinator.com/item?id=49410097",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "解释本地模型表现差的常见原因，适合排查自己的部署配置，但无新工具。",
+      "persona_score": 88,
+      "persona_review": "开放权重还便宜五倍，直接换模型省钱，跑推理的今天就能测试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     },
     {
@@ -692,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9842,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -727,7 +698,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T17:45:12.713278Z"
+        "scored_at": "2026-08-23T19:03:16.001706Z"
       }
     }
   ]
