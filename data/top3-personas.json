@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:48:11.669574Z",
+  "generated_at": "2026-08-23T20:59:06.090930Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_fa8a07601060",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
+      "story_id": "story_40d699f454ea",
+      "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
+      "url": "https://news.ycombinator.com/item?id=49410932",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "学生揭发是好事，但单例故事不解决系统性AI滥用问题。"
+          "score": 72,
+          "review": "把 agent 提示词当工程文档写，方向对，但别指望它万能。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有新闻转述，无技术报告或代码，黑客攻击细节无法独立验证。"
+          "score": 25,
+          "review": "仅个人经验分享，无评测数据，效果无法验证。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "AI 安全事件提醒，自查下自己的 agent 有没有被 prompt 注入的风险。"
+          "score": 75,
+          "review": "用agent.md给AI立项目上下文，今天就能写上，直接提升辅助编码质量。"
         }
       }
     },
     {
-      "story_id": "story_88ca2ea32ad4",
-      "title": "NanoGPT 速通前沿",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "story_id": "story_a648cb6edf34",
+      "title": "Etched Sohu 对决 Nvidia：Transformer ASIC 对比 GPU（2026）– Spheron Blog / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+      "url": "https://news.ycombinator.com/item?id=49411178",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "速通听着像打游戏，可复现的训练配置敢全量公开吗？"
+          "score": 42,
+          "review": "专用芯片打通用GPU，赢在跑分输在生态，敢晒完整负载曲线吗？"
         },
         "paper-police": {
-          "score": 50,
-          "review": "有技术页面和讨论，但缺论文与独立跑分，等开源复现再信。"
+          "score": 10,
+          "review": "仅新闻标题无论文代码，性能宣称无法验证，等实测。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "训练技巧有参考，但没有现成工具，动手前先看代码。"
+          "score": 58,
+          "review": "ASIC 和 GPU 对比看着热闹，没开放前只能围观。"
         }
       }
     }
