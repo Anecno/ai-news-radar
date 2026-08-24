@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:13:56.590084Z",
+  "generated_at": "2026-08-24T03:30:29.035993Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_78fee6466319",
+      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+      "url": "https://www.aibase.com/news/30559",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "开源是真，逆袭存疑，评测集和基线挑的是哪家？"
+        },
+        "paper-police": {
+          "score": 68,
+          "review": "代码开源可查但无论文，评测缺独立验证，等复现再定论。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "开源8B模型可直接本地跑，写定理证明或形式化验证的今天就能用。"
+        }
+      }
+    },
+    {
       "story_id": "story_078e553a1a1c",
       "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
       "url": "https://www.aibase.com/news/30539",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 75,
           "review": "开源可自部署，团队培训 AI 协作直接拿去改，今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_924e46807ade",
-      "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
-      "url": "https://www.aibase.com/news/30544",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "修个Bug重置额度也值得发通稿？先把Codex的稳定性搞好吧。"
-        },
-        "paper-police": {
-          "score": 12,
-          "review": "官方公告无论文无代码无评测，仅修复额度Bug，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "少看虚火多改Bug，明天重置后实际可用额度更真实，重度用户留意一下。"
         }
       }
     },
