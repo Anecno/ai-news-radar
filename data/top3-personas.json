@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:05:03.828142Z",
+  "generated_at": "2026-08-24T07:47:57.680349Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_78fee6466319",
-      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
-      "url": "https://www.aibase.com/news/30559",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "开源是真，逆袭存疑，评测集和基线挑的是哪家？"
-        },
-        "paper-police": {
-          "score": 68,
-          "review": "代码开源可查但无论文，评测缺独立验证，等复现再定论。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "开源8B模型可直接本地跑，写定理证明或形式化验证的今天就能用。"
-        }
-      }
-    },
-    {
       "story_id": "story_6ec96b1638b3",
       "title": "万相Wan3.0视频生成模型正式上线，解锁30秒长视频创作新体验",
       "url": "https://www.aibase.com/news/30562",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 40,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "万相3.0上线，可试玩30秒长视频生成，效果达标再考虑接入。"
+        }
+      }
+    },
+    {
+      "story_id": "story_013a5db6bd34",
+      "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://news.ycombinator.com/item?id=49415852",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "OCR 又不是新东西，喂给 LLM 前先解决排版混乱再说。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有标题宣称有OCR功能，无论文代码或评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "扫描件转文字直接喂 LLM，日常处理文档能省时间，可用。"
         }
       }
     }
