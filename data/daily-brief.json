@@ -1,8 +1,261 @@
 {
-  "generated_at": "2026-08-23T23:35:27.630473Z",
+  "generated_at": "2026-08-24T01:57:47.728933Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a31e711ee9db",
+      "title": "Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you",
+          "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+          "title": "Codex CLI 0.149.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.149.1",
+          "title_original": "Codex CLI 0.149.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you",
+          "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-24T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.861,
+      "importance": 0.861,
+      "importance_score": 0.861,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.972,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T00:00:00Z",
+      "latest_at": "2026-08-24T00:00:00Z",
+      "primary_item": {
+        "id": "6986cd90498eb6d2f2240556fbddd0fbab755c6b",
+        "title": "Codex CLI 0.149.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.149.1",
+        "title_original": "Codex CLI 0.149.1",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.149.0...rust-v0.149.1\nFull release on Github\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you",
+        "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "小版本迭代，有需要的看更新日志再升。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_078e553a1a1c",
+      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+      "url": "https://www.aibase.com/news/30539",
+      "primary_url": "https://www.aibase.com/news/30539",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_en": null,
+          "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "summary": "Today, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic免费开源内部培训平台Claude Academy，提供289个学习资源，覆盖Claude Code、API调用及agent开发，注册即可学习并获得官方认证徽章。",
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6f5117de7586692b00038832a5809756e3c62404",
+          "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "title_en": null,
+          "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+          "summary": "Today, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic免费开源内部培训平台Claude Academy，提供289个学习资源，覆盖Claude Code、API调用及agent开发，注册即可学习并获得官方认证徽章。",
+          "url": "https://www.aibase.com/news/30539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "6f5117de7586692b00038832a5809756e3c62404",
+        "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "title_zh": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "title_en": null,
+        "title_original": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
+        "summary": "Today, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nToday, as artificial intelligence technology is advancing rapidly, large model manufacturers are not only engaged in an arms race in product performance but hav\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic免费开源内部培训平台Claude Academy，提供289个学习资源，覆盖Claude Code、API调用及agent开发，注册即可学习并获得官方认证徽章。",
+        "url": "https://www.aibase.com/news/30539",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "开源可自部署，团队培训 AI 协作直接拿去改，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_022d3793f9ed",
+      "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+      "url": "https://www.aibase.com/news/30552",
+      "primary_url": "https://www.aibase.com/news/30552",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_en": null,
+          "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "summary": "On August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nExplore AI Frontiers",
+          "recommend_reason_zh": "Ramp对7万家企业统计，Fable5发布两月后仅占Anthropic支出11%，Opus5反超，高投入模式引发IPO担忧。",
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+          "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "title_en": null,
+          "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+          "summary": "On August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nExplore AI Frontiers",
+          "recommend_reason_zh": "Ramp对7万家企业统计，Fable5发布两月后仅占Anthropic支出11%，Opus5反超，高投入模式引发IPO担忧。",
+          "url": "https://www.aibase.com/news/30552",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "f9000a5b562c5bc5dd374ddcc7a7230b0c97d06c",
+        "title": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "title_zh": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "title_en": null,
+        "title_original": "Anthropic旗舰模型遇冷，企业支出仅11%流向Fable5",
+        "summary": "On August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nOn August 24, according to the Financial Times, U.S. corporate customers of Anthropic are reducing their use of its most powerful model, Fable5, and opting for\nExplore AI Frontiers",
+        "recommend_reason_zh": "Ramp对7万家企业统计，Fable5发布两月后仅占Anthropic支出11%，Opus5反超，高投入模式引发IPO担忧。",
+        "url": "https://www.aibase.com/news/30552",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "市场用脚投票，选型前看实际需求，别被旗舰光环带偏。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
     {
       "story_id": "story_e76d4359eb9a",
       "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
@@ -48,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "recency": 0.8441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -83,173 +336,259 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
-      "story_id": "story_e41a51c93b53",
-      "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_d1f66f117b7e",
+      "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+      "url": "https://www.aibase.com/news/30545",
+      "primary_url": "https://www.aibase.com/news/30545",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA为OpenAI数据中心租约提供最高1050亿美元残值担保，Stripe以70亿美元收购OpenRouter，周报还追踪OpenAI安全团队解散与安全基准失效，揭示AI算力基建金融化与安全治理退潮。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "summary": "Guidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nExplore AI Fronti",
+          "recommend_reason_zh": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分居首，Anthropic与Meta垫底；报告基于公开信息核查，指出OpenAI虽有事后暂停先例，但尚无正式应急计划。",
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "85009006fffe3911d67a638c58319557b700e017",
-          "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
+          "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+          "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
           "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA为OpenAI数据中心租约提供最高1050亿美元残值担保，Stripe以70亿美元收购OpenRouter，周报还追踪OpenAI安全团队解散与安全基准失效，揭示AI算力基建金融化与安全治理退潮。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-23T04:03:52Z"
+          "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+          "summary": "Guidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nExplore AI Fronti",
+          "recommend_reason_zh": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分居首，Anthropic与Meta垫底；报告基于公开信息核查，指出OpenAI虽有事后暂停先例，但尚无正式应急计划。",
+          "url": "https://www.aibase.com/news/30545",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T04:03:52Z",
-      "latest_at": "2026-08-23T04:03:52Z",
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
       "primary_item": {
-        "id": "85009006fffe3911d67a638c58319557b700e017",
-        "title": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
+        "id": "194fcdd9cc966568eb4ddb49d2c2613a13a58fc5",
+        "title": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "title_zh": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
         "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026 W34) | 算力基建金融化与安全治理退潮",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA为OpenAI数据中心租约提供最高1050亿美元残值担保，Stripe以70亿美元收购OpenRouter，周报还追踪OpenAI安全团队解散与安全基准失效，揭示AI算力基建金融化与安全治理退潮。",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-23-hexi-2077-ai-weekly-2026-w34",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "title_original": "Guidelight评估五大AI实验室，OpenAI遏制能力排名第一",
+        "summary": "Guidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nGuidelight AI Standards recently released an assessment of the containment capabilities of leading AI laboratories, revealing that few companies among the top f\nExplore AI Fronti",
+        "recommend_reason_zh": "Guidelight评估五大AI实验室遏制能力，OpenAI以3分居首，Anthropic与Meta垫底；报告基于公开信息核查，指出OpenAI虽有事后暂停先例，但尚无正式应急计划。",
+        "url": "https://www.aibase.com/news/30545",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 50,
-      "persona_review": "行业趋势分析，了解算力金融化方向足矣，无立即行动项。",
+      "persona_review": "报告看看即可，无具体数据支撑的排名不改变选型决策。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
-      "story_id": "story_fa8a07601060",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "primary_url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_7e98b8c46817",
+      "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+      "url": "https://www.aibase.com/news/30548",
+      "primary_url": "https://www.aibase.com/news/30548",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
           "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": "According to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nExplore AI Fronti",
+          "recommend_reason_zh": "Hugging Face 据报正寻求出售，估值或达130亿美元，较2023年 Salesforce、Google、NVIDIA 投资时的45亿美元近翻三倍，开源AI基础设施成巨头争夺焦点。",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-          "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+          "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+          "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
           "title_en": null,
-          "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-          "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T00:53:34.184000Z"
+          "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+          "summary": "According to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nExplore AI Fronti",
+          "recommend_reason_zh": "Hugging Face 据报正寻求出售，估值或达130亿美元，较2023年 Salesforce、Google、NVIDIA 投资时的45亿美元近翻三倍，开源AI基础设施成巨头争夺焦点。",
+          "url": "https://www.aibase.com/news/30548",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7205,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-23T00:53:34.184000Z",
-      "latest_at": "2026-08-23T00:53:34.184000Z",
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
       "primary_item": {
-        "id": "c403826ba017a8d7758a532d0e40783cf37a8e7d",
-        "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "title_zh": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
+        "id": "6f9fe733a028dd23ff22e56dfbbf719553c59087",
+        "title": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "title_zh": "Hugging Face 传寻求出售，估值或达 130 亿美元",
         "title_en": null,
-        "title_original": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-        "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "title_original": "Hugging Face 传寻求出售，估值或达 130 亿美元",
+        "summary": "According to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nAccording to Business Insider, citing sources, the AI startup Hugging Face has been exploring a sale, with the transaction valuation possibly reaching $13 billi\nExplore AI Fronti",
+        "recommend_reason_zh": "Hugging Face 据报正寻求出售，估值或达130亿美元，较2023年 Salesforce、Google、NVIDIA 投资时的45亿美元近翻三倍，开源AI基础设施成巨头争夺焦点。",
+        "url": "https://www.aibase.com/news/30548",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "AI 安全事件提醒，自查下自己的 agent 有没有被 prompt 注入的风险。",
+      "persona_score": 20,
+      "persona_review": "只是传闻，不影响今天写代码，等实锤再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_c7b3d9e5c585",
+      "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+      "url": "https://www.aibase.com/news/30538",
+      "primary_url": "https://www.aibase.com/news/30538",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
+          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "title_en": null,
+          "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "summary": "Keep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nExplore AI Fronti",
+          "recommend_reason_zh": "Keep 2026半年报显示营收8.25亿元、调整后净利588万元，ARPU同比增21.3%，MAU月均锻炼时长增15.3%，自研Keepace.ai大模型正加速商业化并探索B端输出。",
+          "url": "https://www.aibase.com/news/30538",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
+          "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "title_en": null,
+          "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+          "summary": "Keep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nExplore AI Fronti",
+          "recommend_reason_zh": "Keep 2026半年报显示营收8.25亿元、调整后净利588万元，ARPU同比增21.3%，MAU月均锻炼时长增15.3%，自研Keepace.ai大模型正加速商业化并探索B端输出。",
+          "url": "https://www.aibase.com/news/30538",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "25ebdd00c6e6eaebfcb7c3a3017237a29a9d4b1f",
+        "title": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+        "title_zh": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+        "title_en": null,
+        "title_original": "Keep 2026半年报出炉，自研大模型加速商业化落地",
+        "summary": "Keep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nKeep, the sports technology platform, has officially released its half-year financial report for 2026. The financial data shows that the company achieved a reve\nExplore AI Fronti",
+        "recommend_reason_zh": "Keep 2026半年报显示营收8.25亿元、调整后净利588万元，ARPU同比增21.3%，MAU月均锻炼时长增15.3%，自研Keepace.ai大模型正加速商业化并探索B端输出。",
+        "url": "https://www.aibase.com/news/30538",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "健身App财报，不涉及可用的工具或API，技术选型不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -355,15 +694,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6273,
-      "importance": 0.6273,
-      "importance_score": 0.6273,
+      "score": 0.6215,
+      "importance": 0.6215,
+      "importance_score": 0.6215,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9552,
+        "recency": 0.923,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -390,7 +729,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_69222f0c9630",
+      "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+      "url": "https://www.aibase.com/news/30540",
+      "primary_url": "https://www.aibase.com/news/30540",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "summary": "OpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI本周推出专为青少年设计的ChatGPT for Kids，以年龄识别限制功能，却遭Common Sense Media与Fairplay专家质疑：安全机制缺乏透明度和问责制，呼吁先进行独立测试再推荐给家长。",
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+          "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "title_en": null,
+          "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+          "summary": "OpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI本周推出专为青少年设计的ChatGPT for Kids，以年龄识别限制功能，却遭Common Sense Media与Fairplay专家质疑：安全机制缺乏透明度和问责制，呼吁先进行独立测试再推荐给家长。",
+          "url": "https://www.aibase.com/news/30540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "05e686728899509aea3901a42cdf92aae6ea91ad",
+        "title": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "title_zh": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "title_en": null,
+        "title_original": "专为青少年打造却遭专家“泼冷水”：OpenAI青少年版ChatGPT安全机制引争议",
+        "summary": "OpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nOpenAI officially launched the ChatGPT for Kids version for young users this week, with certain features restricted through an age recognition mechanism. Howeve\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI本周推出专为青少年设计的ChatGPT for Kids，以年龄识别限制功能，却遭Common Sense Media与Fairplay专家质疑：安全机制缺乏透明度和问责制，呼吁先进行独立测试再推荐给家长。",
+        "url": "https://www.aibase.com/news/30540",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "安全争议听着热闹，但没开放新接口，开发不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_f9980ad00360",
+      "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+      "url": "https://www.aibase.com/news/30550",
+      "primary_url": "https://www.aibase.com/news/30550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "520193c69d55554442a947fe47fa584a8d7b5448",
+          "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "title_zh": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "title_en": null,
+          "title_original": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "summary": "Amid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nExplore AI Fronti",
+          "recommend_reason_zh": "谷歌开源模型Gemma总下载量突破10亿，衍生超10万个定制变体，并深入医疗领域，借助MedGemma辅助癌症治疗方案设计与结构化医疗报告，展现垂直应用潜力。",
+          "url": "https://www.aibase.com/news/30550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "520193c69d55554442a947fe47fa584a8d7b5448",
+          "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "title_zh": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "title_en": null,
+          "title_original": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+          "summary": "Amid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nExplore AI Fronti",
+          "recommend_reason_zh": "谷歌开源模型Gemma总下载量突破10亿，衍生超10万个定制变体，并深入医疗领域，借助MedGemma辅助癌症治疗方案设计与结构化医疗报告，展现垂直应用潜力。",
+          "url": "https://www.aibase.com/news/30550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "520193c69d55554442a947fe47fa584a8d7b5448",
+        "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+        "title_zh": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+        "title_en": null,
+        "title_original": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
+        "summary": "Amid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nAmid the surging open-source AI ecosystem, Google's open-source edge-side model family has reached a new milestone. On August 20 local time, Google officially a\nExplore AI Fronti",
+        "recommend_reason_zh": "谷歌开源模型Gemma总下载量突破10亿，衍生超10万个定制变体，并深入医疗领域，借助MedGemma辅助癌症治疗方案设计与结构化医疗报告，展现垂直应用潜力。",
+        "url": "https://www.aibase.com/news/30550",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "下载量破亿是生态信号，无新 API 或工具，做项目不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -524,15 +1031,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5907,
-      "importance": 0.5907,
-      "importance_score": 0.5907,
+      "score": 0.5848,
+      "importance": 0.5848,
+      "importance_score": 0.5848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9717,
+        "recency": 0.939,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -559,7 +1066,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_1032d8abca20",
+      "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+      "url": "https://www.aibase.com/news/30549",
+      "primary_url": "https://www.aibase.com/news/30549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_en": null,
+          "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "summary": "The anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nExplore AI Fronti",
+          "recommend_reason_zh": "匿名模型Ox Alpha登陆OpenRouter后迅速登顶，单日调用破纪录，累计用量已超40万亿Token，技术特征疑似GLM系列，值得关注。",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+          "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "title_en": null,
+          "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+          "summary": "The anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nExplore AI Fronti",
+          "recommend_reason_zh": "匿名模型Ox Alpha登陆OpenRouter后迅速登顶，单日调用破纪录，累计用量已超40万亿Token，技术特征疑似GLM系列，值得关注。",
+          "url": "https://www.aibase.com/news/30549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
+        "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "title_zh": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "title_en": null,
+        "title_original": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
+        "summary": "The anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nThe anonymous model Ox Alpha (known as \"Niu Lai\" in the Chinese community) has recently launched on OpenRouter, with its usage rapidly increasing and quickly cl\nExplore AI Fronti",
+        "recommend_reason_zh": "匿名模型Ox Alpha登陆OpenRouter后迅速登顶，单日调用破纪录，累计用量已超40万亿Token，技术特征疑似GLM系列，值得关注。",
+        "url": "https://www.aibase.com/news/30549",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 68,
+      "persona_review": "匿名模型别急着上生产，先等它亮明身份再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_924e46807ade",
+      "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+      "url": "https://www.aibase.com/news/30544",
+      "primary_url": "https://www.aibase.com/news/30544",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
+          "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "title_zh": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "title_en": null,
+          "title_original": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "summary": "Regarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI Codex用量异常激增，负责人Thibault Sottiaux宣布明天太平洋时间14:00重置所有订阅用户配额，并披露三个具体技术原因，包括长会话图像处理效率下降、Computer History的P95资源占用高企等，修复措施同步上线。",
+          "url": "https://www.aibase.com/news/30544",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
+          "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "title_zh": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "title_en": null,
+          "title_original": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+          "summary": "Regarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI Codex用量异常激增，负责人Thibault Sottiaux宣布明天太平洋时间14:00重置所有订阅用户配额，并披露三个具体技术原因，包括长会话图像处理效率下降、Computer History的P95资源占用高企等，修复措施同步上线。",
+          "url": "https://www.aibase.com/news/30544",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "8eced93507c9dd366399b8452f1c357f1cb2d0ad",
+        "title": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+        "title_zh": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+        "title_en": null,
+        "title_original": "告别“虚火”！OpenAI紧急出手：Codex明天重置额度并修复用量Bug",
+        "summary": "Regarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nRegarding the recent issue of rapid usage consumption reported by a large number of users, Thibault Sottiaux, head of the OpenAI Codex & ChatGPT team, made an o\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI Codex用量异常激增，负责人Thibault Sottiaux宣布明天太平洋时间14:00重置所有订阅用户配额，并披露三个具体技术原因，包括长会话图像处理效率下降、Computer History的P95资源占用高企等，修复措施同步上线。",
+        "url": "https://www.aibase.com/news/30544",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "少看虚火多改Bug，明天重置后实际可用额度更真实，重度用户留意一下。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -576,7 +1251,7 @@
           "title_zh": "用纯 CMake 实现 GPT-2",
           "title_en": "Implementation of GPT-2 in pure CMake",
           "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": "It can only use one core at a time, but that is not the worst thing: CMake is interpreted and stringly typed, so every number will have to be converted string -> number and usually back on every use.\nreply",
+          "summary": null,
           "recommend_reason_zh": "纯CMake实现GPT-2，虽只能单核运行，但清晰展现了CMake解释执行和强字符串类型下每个数字反复转换的开销，细节硬核。",
           "url": "https://news.ycombinator.com/item?id=49412909",
           "source": "hackernews",
@@ -590,7 +1265,7 @@
           "title_zh": "用纯 CMake 实现 GPT-2",
           "title_en": "Implementation of GPT-2 in pure CMake",
           "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": "Implementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nImplementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nImplementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nGPT-2 in pure CMake, executed with Q16.16 integer arithmetic.\nBSD 3-Clause. See LICENSE .\nImplementation of th",
+          "summary": null,
           "recommend_reason_zh": "这个项目用纯CMake实现了GPT-2模型，采用Q16.16整数算术执行，BSD 3-Clause许可，展示了不依赖传统深度学习框架的另类实现路径。",
           "url": "https://github.com/AlpinDale/gpt2.cmake",
           "source": "Hacker News (黑客新闻)",
@@ -611,7 +1286,7 @@
           "title_zh": "用纯 CMake 实现 GPT-2",
           "title_en": "Implementation of GPT-2 in pure CMake",
           "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": "It can only use one core at a time, but that is not the worst thing: CMake is interpreted and stringly typed, so every number will have to be converted string -> number and usually back on every use.\nreply",
+          "summary": null,
           "recommend_reason_zh": "纯CMake实现GPT-2，虽只能单核运行，但清晰展现了CMake解释执行和强字符串类型下每个数字反复转换的开销，细节硬核。",
           "url": "https://news.ycombinator.com/item?id=49412909",
           "source": "hackernews",
@@ -625,7 +1300,7 @@
           "title_zh": "用纯 CMake 实现 GPT-2",
           "title_en": "Implementation of GPT-2 in pure CMake",
           "title_original": "Implementation of GPT-2 in pure CMake",
-          "summary": "Implementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nImplementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nImplementation of the GPT-2 model in pure CMake. Contribute to AlpinDale/gpt2.cmake development by creating an account on GitHub.\nGPT-2 in pure CMake, executed with Q16.16 integer arithmetic.\nBSD 3-Clause. See LICENSE .\nImplementation of th",
+          "summary": null,
           "recommend_reason_zh": "这个项目用纯CMake实现了GPT-2模型，采用Q16.16整数算术执行，BSD 3-Clause许可，展示了不依赖传统深度学习框架的另类实现路径。",
           "url": "https://github.com/AlpinDale/gpt2.cmake",
           "source": "Hacker News (黑客新闻)",
@@ -636,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -659,7 +1334,7 @@
         "title_zh": "用纯 CMake 实现 GPT-2",
         "title_en": "Implementation of GPT-2 in pure CMake",
         "title_original": "Implementation of GPT-2 in pure CMake",
-        "summary": "It can only use one core at a time, but that is not the worst thing: CMake is interpreted and stringly typed, so every number will have to be converted string -> number and usually back on every use.\nreply",
+        "summary": null,
         "recommend_reason_zh": "纯CMake实现GPT-2，虽只能单核运行，但清晰展现了CMake解释执行和强字符串类型下每个数字反复转换的开销，细节硬核。",
         "url": "https://news.ycombinator.com/item?id=49412909",
         "source": "hackernews",
@@ -671,7 +1346,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_e96216e5b94f",
+      "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+      "url": "https://www.aibase.com/news/30541",
+      "primary_url": "https://www.aibase.com/news/30541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "summary": "HBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nExplore AI Fronti",
+          "recommend_reason_zh": "哈佛商学院创业项目HBS Foundry以699美元推出八周训练营，引入HeyGen打造的AI虚拟导师，在模拟路演和董事会中提供反馈，甚至可模拟投资人Jeff Bussgang点评创意。",
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "title_en": null,
+          "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "summary": "HBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nExplore AI Fronti",
+          "recommend_reason_zh": "哈佛商学院创业项目HBS Foundry以699美元推出八周训练营，引入HeyGen打造的AI虚拟导师，在模拟路演和董事会中提供反馈，甚至可模拟投资人Jeff Bussgang点评创意。",
+          "url": "https://www.aibase.com/news/30541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+        "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "title_zh": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "title_en": null,
+        "title_original": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "summary": "HBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nHBS Foundry, the entrepreneurship training program of Harvard Business School, is introducing AI avatars to provide personalized feedback to students through di\nExplore AI Fronti",
+        "recommend_reason_zh": "哈佛商学院创业项目HBS Foundry以699美元推出八周训练营，引入HeyGen打造的AI虚拟导师，在模拟路演和董事会中提供反馈，甚至可模拟投资人Jeff Bussgang点评创意。",
+        "url": "https://www.aibase.com/news/30541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "教育产品上新，开发者无直接可用工具，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -748,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9865,
+        "recency": 0.9532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -783,7 +1542,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_ab88d494926c",
+      "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+      "url": "https://www.aibase.com/news/30543",
+      "primary_url": "https://www.aibase.com/news/30543",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": "Sam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nExplore AI Fronti",
+          "recommend_reason_zh": "Sam Altman在8月23日播客中忧心AI会被少数公司、模型或个人垄断，并暗指Anthropic CEO Amode呼吁监管是“用自由换安全”；Anthropic上月是唯一未签支持开放权重联名信的大公司。",
+          "url": "https://www.aibase.com/news/30543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+          "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "title_en": null,
+          "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+          "summary": "Sam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nExplore AI Fronti",
+          "recommend_reason_zh": "Sam Altman在8月23日播客中忧心AI会被少数公司、模型或个人垄断，并暗指Anthropic CEO Amode呼吁监管是“用自由换安全”；Anthropic上月是唯一未签支持开放权重联名信的大公司。",
+          "url": "https://www.aibase.com/news/30543",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "b7460c8d564a41bfa18ae8b38e3fb0417b316d09",
+        "title": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "title_zh": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "title_en": null,
+        "title_original": "奥尔特曼忧心：AI 或被少数强势主体掌控，公众失去发言权",
+        "summary": "Sam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nSam Altman, CEO of OpenAI, said in a podcast on August 23 that he is worried AI will eventually be controlled by a small number of companies, models or individu\nExplore AI Fronti",
+        "recommend_reason_zh": "Sam Altman在8月23日播客中忧心AI会被少数公司、模型或个人垄断，并暗指Anthropic CEO Amode呼吁监管是“用自由换安全”；Anthropic上月是唯一未签支持开放权重联名信的大公司。",
+        "url": "https://www.aibase.com/news/30543",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "宏观担忧不写代码，等有政策或产品再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -860,15 +1703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9562,
+        "recency": 0.924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -895,7 +1738,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
+      }
+    },
+    {
+      "story_id": "story_e75779b1202a",
+      "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+      "url": "https://www.aibase.com/news/30542",
+      "primary_url": "https://www.aibase.com/news/30542",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "title_zh": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "title_en": null,
+          "title_original": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "summary": "On Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nExplore AI Fronti",
+          "recommend_reason_zh": "得州州长Abbott在ABC节目直言AI数据中心遭反对是行业“自掘坟墓”；民调显示七成美国人反对本地建数据中心，他需在选民意愿与Trump力挺的500亿美元Stargate计划间走钢丝。",
+          "url": "https://www.aibase.com/news/30542",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "title_zh": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "title_en": null,
+          "title_original": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "summary": "On Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nExplore AI Fronti",
+          "recommend_reason_zh": "得州州长Abbott在ABC节目直言AI数据中心遭反对是行业“自掘坟墓”；民调显示七成美国人反对本地建数据中心，他需在选民意愿与Trump力挺的500亿美元Stargate计划间走钢丝。",
+          "url": "https://www.aibase.com/news/30542",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:57:47.728933Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:57:47.728933Z",
+      "latest_at": "2026-08-24T01:57:47.728933Z",
+      "primary_item": {
+        "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+        "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+        "title_zh": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+        "title_en": null,
+        "title_original": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+        "summary": "On Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nOn Sunday, Texas Governor Abbott appeared on ABC's \"This Week\" program and said that the sharp criticism of AI data centers by Americans was \"justified.\" He sta\nExplore AI Fronti",
+        "recommend_reason_zh": "得州州长Abbott在ABC节目直言AI数据中心遭反对是行业“自掘坟墓”；民调显示七成美国人反对本地建数据中心，他需在选民意愿与Trump力挺的500亿美元Stargate计划间走钢丝。",
+        "url": "https://www.aibase.com/news/30542",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "政客喊话不影响明天部署，数据中心选址短期别指望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     },
     {
@@ -972,15 +1899,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9562,
+        "recency": 0.924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1007,567 +1934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
-      }
-    },
-    {
-      "story_id": "story_40d699f454ea",
-      "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-      "url": "https://news.ycombinator.com/item?id=49410932",
-      "primary_url": "https://news.ycombinator.com/item?id=49410932",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md 如何提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": "作者分享了自用的agent.md，用“成功、有意义进展、诚实停止”三级标准提升LLM编码质量，并批评常见AGENTS.md要么重复模型已知的穷举switch/match建议，要么有“短函数名”这类有害规则。",
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md 如何提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": "作者用agent.md引导LLM编码风格，从2025年中期libadbmdns无法编译，到2026年3月用Antigravity和VS Code的Claude Code插件写出接近手工质量的代码，并分享对抗上下文稀释的方法。",
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bdc37bb0506dc265f613450407476cee220a8158",
-          "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md 如何提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": "作者分享了自用的agent.md，用“成功、有意义进展、诚实停止”三级标准提升LLM编码质量，并批评常见AGENTS.md要么重复模型已知的穷举switch/match建议，要么有“短函数名”这类有害规则。",
-          "url": "https://news.ycombinator.com/item?id=49410932",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "1d6dd6193e01271371c76057d0264edce1707798",
-          "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-          "title_zh": "我的 agent.md 如何提升 LLM 辅助代码质量",
-          "title_en": "My agent.md to improve LLM-assisted code quality",
-          "title_original": "My agent.md to improve LLM-assisted code quality",
-          "summary": null,
-          "recommend_reason_zh": "作者用agent.md引导LLM编码风格，从2025年中期libadbmdns无法编译，到2026年3月用Antigravity和VS Code的Claude Code插件写出接近手工质量的代码，并分享对抗上下文稀释的方法。",
-          "url": "https://fabiensanglard.net/agent.md/index.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T17:59:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9562,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:59:52Z",
-      "latest_at": "2026-08-23T20:29:14.517000Z",
-      "primary_item": {
-        "id": "bdc37bb0506dc265f613450407476cee220a8158",
-        "title": "我的 agent.md 如何提升 LLM 辅助代码质量 / My agent.md to improve LLM-assisted code quality",
-        "title_zh": "我的 agent.md 如何提升 LLM 辅助代码质量",
-        "title_en": "My agent.md to improve LLM-assisted code quality",
-        "title_original": "My agent.md to improve LLM-assisted code quality",
-        "summary": null,
-        "recommend_reason_zh": "作者分享了自用的agent.md，用“成功、有意义进展、诚实停止”三级标准提升LLM编码质量，并批评常见AGENTS.md要么重复模型已知的穷举switch/match建议，要么有“短函数名”这类有害规则。",
-        "url": "https://news.ycombinator.com/item?id=49410932",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "用agent.md给AI立项目上下文，今天就能写上，直接提升辅助编码质量。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
-      }
-    },
-    {
-      "story_id": "story_87449c42d39a",
-      "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-      "url": "https://news.ycombinator.com/item?id=49410949",
-      "primary_url": "https://news.ycombinator.com/item?id=49410949",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "c55f56a726f8cb24ea5c1b2bc84a9cb8f50c25ae",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
-          "summary": null,
-          "recommend_reason_zh": "Release Oracle用市场数据预测AI模型发布时间，追踪16款模型，预计下一代Kimi K将于2026年9月13日发布，还提供不确定性区间与每日预测历史。",
-          "url": "https://releaseoracle.xyz",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:01:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49410949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T20:29:14.517000Z"
-        },
-        {
-          "id": "c55f56a726f8cb24ea5c1b2bc84a9cb8f50c25ae",
-          "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-          "title_zh": "用统计数据预测AI模型发布日期",
-          "title_en": "Predicting AI model release dates with stats",
-          "title_original": "Predicting AI model release dates with stats",
-          "summary": null,
-          "recommend_reason_zh": "Release Oracle用市场数据预测AI模型发布时间，追踪16款模型，预计下一代Kimi K将于2026年9月13日发布，还提供不确定性区间与每日预测历史。",
-          "url": "https://releaseoracle.xyz",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T18:01:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9562,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T18:01:30Z",
-      "latest_at": "2026-08-23T20:29:14.517000Z",
-      "primary_item": {
-        "id": "fae4aaf35f90e4f6e8030c462d19ceddbec265d7",
-        "title": "用统计数据预测AI模型发布日期 / Predicting AI model release dates with stats",
-        "title_zh": "用统计数据预测AI模型发布日期",
-        "title_en": "Predicting AI model release dates with stats",
-        "title_original": "Predicting AI model release dates with stats",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49410949",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "统计预测模型发布日，参考价值有限，直接盯官方就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
-      }
-    },
-    {
-      "story_id": "story_bb66d67f267d",
-      "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-      "url": "https://news.ycombinator.com/item?id=49410628",
-      "primary_url": "https://news.ycombinator.com/item?id=49410628",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
-          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-          "title_zh": "我们绝不能赋予AI智能体法律人格",
-          "title_en": "We must not grant AI agents legal personhood",
-          "title_original": "We must not grant AI agents legal personhood",
-          "summary": null,
-          "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
-          "url": "https://news.ycombinator.com/item?id=49410628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T18:28:55.091000Z"
-        },
-        {
-          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
-          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-          "title_zh": "我们绝不能赋予AI智能体法律人格",
-          "title_en": "We must not grant AI agents legal personhood",
-          "title_original": "We must not grant AI agents legal personhood",
-          "summary": null,
-          "recommend_reason_zh": "本文警告不应授予AI代理法人资格，直指“非人公司”逃脱制裁的风险，并追问如何约束这类实体，观点鲜明且切中AI监管要害。",
-          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T17:25:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
-          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-          "title_zh": "我们绝不能赋予AI智能体法律人格",
-          "title_en": "We must not grant AI agents legal personhood",
-          "title_original": "We must not grant AI agents legal personhood",
-          "summary": null,
-          "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
-          "url": "https://news.ycombinator.com/item?id=49410628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T18:28:55.091000Z"
-        },
-        {
-          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
-          "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-          "title_zh": "我们绝不能赋予AI智能体法律人格",
-          "title_en": "We must not grant AI agents legal personhood",
-          "title_original": "We must not grant AI agents legal personhood",
-          "summary": null,
-          "recommend_reason_zh": "本文警告不应授予AI代理法人资格，直指“非人公司”逃脱制裁的风险，并追问如何约束这类实体，观点鲜明且切中AI监管要害。",
-          "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T17:25:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9289,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T17:25:03Z",
-      "latest_at": "2026-08-23T18:28:55.091000Z",
-      "primary_item": {
-        "id": "f8164294bdea4fbbdacaab0089cd0a41bf6a593f",
-        "title": "我们绝不能赋予AI智能体法律人格 / We must not grant AI agents legal personhood",
-        "title_zh": "我们绝不能赋予AI智能体法律人格",
-        "title_en": "We must not grant AI agents legal personhood",
-        "title_original": "We must not grant AI agents legal personhood",
-        "summary": null,
-        "recommend_reason_zh": "本文以Milton Friedman 1970年《纽约时报》宣扬的“企业唯一责任是利润”为靶，对比公司尚有人可追责，而AI能备份大脑永生、惩罚失效，旗帜鲜明反对赋予AI法律人格。",
-        "url": "https://news.ycombinator.com/item?id=49410628",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "纯观念争论，不碰代码，开发者不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
-      }
-    },
-    {
-      "story_id": "story_c83125a610d8",
-      "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "url": "https://news.ycombinator.com/item?id=49410097",
-      "primary_url": "https://news.ycombinator.com/item?id=49410097",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-          "url": "https://news.ycombinator.com/item?id=49410097",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T17:34:54.839000Z"
-        },
-        {
-          "id": "f4d5733c14a4b91bb95b54be3bbe6d6d7595c570",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
-          "url": "https://reinvently.co.uk/tools/ed-o-meter",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T16:24:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-          "url": "https://news.ycombinator.com/item?id=49410097",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T17:34:54.839000Z"
-        },
-        {
-          "id": "f4d5733c14a4b91bb95b54be3bbe6d6d7595c570",
-          "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-          "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-          "summary": null,
-          "recommend_reason_zh": "glm-5.3在Featherbench的28项真实任务中拿下100%通过率，跑完全程仅需$0.28，约为gpt-5.5的五分之一，但gpt-5.5的响应首字更快（13.2秒对16.3秒）。",
-          "url": "https://reinvently.co.uk/tools/ed-o-meter",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T16:24:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9169,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T16:24:21Z",
-      "latest_at": "2026-08-23T17:34:54.839000Z",
-      "primary_item": {
-        "id": "7dbd9ade21eaa19435bb8f6256c748bcf8d6eaae",
-        "title": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型 / GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "title_zh": "GLM-5.3（开放权重）以五分之一成本击败 Anthropic/OpenAI 模型",
-        "title_en": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "title_original": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "summary": null,
-        "recommend_reason_zh": "文章报道GLM-5.3(open-weight)以1/5成本在测试中击败Anthropic/OpenAI模型，但其排名约第6且仅基于28个任务，被指性价比不及Grok 4.6与Sol 5.6，引发对基准可靠性的质疑。",
-        "url": "https://news.ycombinator.com/item?id=49410097",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开放权重还便宜五倍，直接换模型省钱，跑推理的今天就能测试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
-      }
-    },
-    {
-      "story_id": "story_2383057681de",
-      "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://news.ycombinator.com/item?id=49409073",
-      "primary_url": "https://news.ycombinator.com/item?id=49409073",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-          "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_zh": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。",
-          "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "summary": null,
-          "recommend_reason_zh": "作者花266美元和四个AI模型试图完全掌控自己的平板，GLM-5.3一天内找到未修补漏洞并制成exploit，而美国模型退回安全机制，凸显AI安全策略分歧。",
-          "url": "https://news.ycombinator.com/item?id=49409073",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T16:28:19.614000Z"
-        },
-        {
-          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
-          "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_zh": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。",
-          "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-          "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_zh": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。",
-          "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "summary": null,
-          "recommend_reason_zh": "作者花266美元和四个AI模型试图完全掌控自己的平板，GLM-5.3一天内找到未修补漏洞并制成exploit，而美国模型退回安全机制，凸显AI安全策略分歧。",
-          "url": "https://news.ycombinator.com/item?id=49409073",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-23T16:28:19.614000Z"
-        },
-        {
-          "id": "3f56a0dd9c61fdd97b70403abf5efbc702f001a3",
-          "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_zh": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。",
-          "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ericpardee.github.io/fire-hd-ownership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T14:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9023,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T14:23:09Z",
-      "latest_at": "2026-08-23T16:28:19.614000Z",
-      "primary_item": {
-        "id": "b1056c15a7eaf7898e041ca5304b97bcbc29586e",
-        "title": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。 / I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "title_zh": "我花了266美元和四个AI模型才拥有自己的平板，GLM-5.3一天搞定。",
-        "title_en": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "title_original": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "summary": null,
-        "recommend_reason_zh": "作者花266美元和四个AI模型试图完全掌控自己的平板，GLM-5.3一天内找到未修补漏洞并制成exploit，而美国模型退回安全机制，凸显AI安全策略分歧。",
-        "url": "https://news.ycombinator.com/item?id=49409073",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "个人折腾记录，无直接可用工具，当案例参考即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-23T23:48:01.702306Z"
+        "scored_at": "2026-08-24T02:13:00.514832Z"
       }
     }
   ]
