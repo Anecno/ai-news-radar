@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T05:11:44.490011Z",
+  "generated_at": "2026-08-24T06:05:03.828142Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_dfd01e096721",
+      "title": "阿里视频大模型Wan3.0正式上线，全面实现超长生成与多维一致性",
+      "url": "https://www.aibase.com/news/30567",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "超长是几分钟？一致性测到第几帧？宣传词缺量化，先报参数再吹。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方宣称上线无论文代码评测，等公开基准和第三方验证再定。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接上线可用的视频生成模型，超长生成和一致性提升，做视频的现在就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_78fee6466319",
       "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
       "url": "https://www.aibase.com/news/30559",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 82,
           "review": "开源8B模型可直接本地跑，写定理证明或形式化验证的今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_078e553a1a1c",
-      "title": "AI时代的入职第一课：Anthropic免费开源内部培训平台，教你如何与AI深度协作",
-      "url": "https://www.aibase.com/news/30539",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源教程当培训平台卖，协作深度还得看人练。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "宣称开源但无具体仓库链接，无法验证是否真开源，待上线再评。"
-        },
-        "pragmatic": {
-          "score": 75,
-          "review": "开源可自部署，团队培训 AI 协作直接拿去改，今天就能用。"
         }
       }
     },
