@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:04:36.076298Z",
+  "generated_at": "2026-08-24T19:20:06.314525Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -18,21 +18,21 @@
   "items": [
     {
       "story_id": "story_85b41d51c03a",
-      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续到11月21日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://news.ycombinator.com/item?id=49421074",
+      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
+      "url": "https://developers.openai.com/api/docs/pricing",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "限时降价是营销老套路，产品力不够才靠促销凑。"
+          "score": 55,
+          "review": "降价是实打实的，但换个代号Sol就当新品？先解释下和前代的差距。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有降价传闻，无论文无代码无评测，降价不等于实力。"
+          "score": 30,
+          "review": "官方定价页确认降价，但无测试数据，性价比需实测验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "API直接降价，跑批量任务现在就能换，省到就是赚到。"
+          "review": "API 降价直接降成本，跑任务的可趁窗口期切换。"
         }
       }
     },
