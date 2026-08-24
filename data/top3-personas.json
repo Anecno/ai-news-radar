@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:18:21.652503Z",
+  "generated_at": "2026-08-24T16:16:55.524739Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_013a5db6bd34",
-      "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
+      "story_id": "story_85b41d51c03a",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://news.ycombinator.com/item?id=49421074",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "OCR 又不是新东西，喂给 LLM 前先解决排版混乱再说。"
+          "score": 35,
+          "review": "限时降价纯属促销，连降幅都藏着，诚意不足。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "只有标题宣称有OCR功能，无论文代码或评测，证据不足。"
+          "score": 15,
+          "review": "降价消息无细节无数据，仅凭标题难辨真伪，等官方公告。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "扫描件转文字直接喂 LLM，日常处理文档能省时间，可用。"
+          "score": 90,
+          "review": "API降价直接省成本，批量任务今天就能切。"
         }
       }
     },
