@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:46:12.802615Z",
+  "generated_at": "2026-08-25T20:46:37.538485Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9366,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
+      }
+    },
+    {
+      "story_id": "story_72c69d1ef3c2",
+      "title": "GitHub Copilot 应用的自定义选项卡现已全面可用。 / GitHub Copilot app Customize tab is generally available",
+      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot 应用的自定义选项卡现已全面可用。 / GitHub Copilot app Customize tab is generally available",
+          "title_zh": "GitHub Copilot 应用的自定义选项卡现已全面可用。",
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
+          "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases集中管理，支持按类型浏览精选定制项，帮助团队快速找到适配工作流的配置。",
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot 应用的自定义选项卡现已全面可用。 / GitHub Copilot app Customize tab is generally available",
+          "title_zh": "GitHub Copilot 应用的自定义选项卡现已全面可用。",
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
+          "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases集中管理，支持按类型浏览精选定制项，帮助团队快速找到适配工作流的配置。",
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9901,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T20:05:26Z",
+      "latest_at": "2026-08-25T20:05:26Z",
+      "primary_item": {
+        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+        "title": "GitHub Copilot 应用的自定义选项卡现已全面可用。 / GitHub Copilot app Customize tab is generally available",
+        "title_zh": "GitHub Copilot 应用的自定义选项卡现已全面可用。",
+        "title_en": "GitHub Copilot app Customize tab is generally available",
+        "title_original": "GitHub Copilot app Customize tab is generally available",
+        "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+        "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases集中管理，支持按类型浏览精选定制项，帮助团队快速找到适配工作流的配置。",
+        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "Copilot 自定义选项卡转正，调指令和上下文的活儿能省点事。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -162,15 +247,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8316,
+        "recency": 0.8196,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,92 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
-      }
-    },
-    {
-      "story_id": "story_0536ff6c73c5",
-      "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "从安全公告中直接屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience…\nYou can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience available for issues and pull requests to security advisories.\nSecurity advisories contain user-created content and",
-          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "从安全公告中直接屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience…\nYou can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience available for issues and pull requests to security advisories.\nSecurity advisories contain user-created content and",
-          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9839,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
-      "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-        "title_zh": "从安全公告中直接屏蔽用户",
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
-        "summary": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience…\nYou can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience available for issues and pull requests to security advisories.\nSecurity advisories contain user-created content and",
-        "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "省一次跳转的小改进，维护者顺手能用，不必特别关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -333,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.947,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -387,7 +387,7 @@
           "title_zh": "浏览器扩展、网站工具和云登录",
           "title_en": "Browser extensions, site tools, and cloud sign-in",
           "title_original": "Browser extensions, site tools, and cloud sign-in",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+          "summary": null,
           "recommend_reason_zh": "本文介绍ChatGPT与Codex更新：浏览器扩展新增Edge、Brave、Opera、Vivaldi支持，站点工具需GPT-5.6 Sol/Terra，云浏览器登录可用，日程任务可由Gmail、Slack、GitHub事件触发，并弃用codex mcp-server命令。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -407,7 +407,7 @@
           "title_zh": "浏览器扩展、网站工具和云登录",
           "title_en": "Browser extensions, site tools, and cloud sign-in",
           "title_original": "Browser extensions, site tools, and cloud sign-in",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+          "summary": null,
           "recommend_reason_zh": "本文介绍ChatGPT与Codex更新：浏览器扩展新增Edge、Brave、Opera、Vivaldi支持，站点工具需GPT-5.6 Sol/Terra，云浏览器登录可用，日程任务可由Gmail、Slack、GitHub事件触发，并弃用codex mcp-server命令。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -418,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7516,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,7 +443,7 @@
         "title_zh": "浏览器扩展、网站工具和云登录",
         "title_en": "Browser extensions, site tools, and cloud sign-in",
         "title_original": "Browser extensions, site tools, and cloud sign-in",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+        "summary": null,
         "recommend_reason_zh": "本文介绍ChatGPT与Codex更新：浏览器扩展新增Edge、Brave、Opera、Vivaldi支持，站点工具需GPT-5.6 Sol/Terra，云浏览器登录可用，日程任务可由Gmail、Slack、GitHub事件触发，并弃用codex mcp-server命令。",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -455,7 +455,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -590,15 +590,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.9028,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -627,7 +627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -675,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9337,
+        "recency": 0.9202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,30 +712,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "story_id": "story_0536ff6c73c5",
+      "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
+      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
+          "title_zh": "从安全公告中直接屏蔽用户",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
-          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "source_count": 1,
@@ -744,18 +744,18 @@
       ],
       "items": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
+          "title_zh": "从安全公告中直接屏蔽用户",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
-          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "item_count": 1,
@@ -768,7 +768,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9701,
+        "recency": 0.9697,
         "story_heat": 0.0
       },
       "category": "official",
@@ -777,27 +777,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
+      "earliest_at": "2026-08-25T18:38:57Z",
+      "latest_at": "2026-08-25T18:38:57Z",
       "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-        "title_zh": "规则集中的推送规则现支持路径例外",
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
+        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+        "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
+        "title_zh": "从安全公告中直接屏蔽用户",
+        "title_en": "Block users directly from security advisories",
+        "title_original": "Block users directly from security advisories",
         "summary": null,
-        "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "仓库规则能按路径豁免了，CI/CD 卡点配置更细，今天就能改。",
+      "persona_score": 48,
+      "persona_review": "省一次跳转的小改进，维护者顺手能用，不必特别关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -845,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7516,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -882,7 +882,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -899,7 +899,7 @@
           "title_zh": "通过Gmail、Slack和GitHub事件触发定时任务",
           "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
           "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+          "summary": null,
           "recommend_reason_zh": "本文介绍ChatGPT最新更新：定时任务现可由Gmail、Slack或GitHub事件触发，如按发件人或主题过滤邮件、监控Slack频道、响应PR审查与合并；同时浏览器扩展支持Edge、Brave、Opera和Vivaldi。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -919,7 +919,7 @@
           "title_zh": "通过Gmail、Slack和GitHub事件触发定时任务",
           "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
           "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+          "summary": null,
           "recommend_reason_zh": "本文介绍ChatGPT最新更新：定时任务现可由Gmail、Slack或GitHub事件触发，如按发件人或主题过滤邮件、监控Slack频道、响应PR审查与合并；同时浏览器扩展支持Edge、Brave、Opera和Vivaldi。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -930,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7516,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,7 +955,7 @@
         "title_zh": "通过Gmail、Slack和GitHub事件触发定时任务",
         "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
         "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nMore browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up\nyour browser in Settings > Computer Use in the ChatGPT desktop app.\nAll five support tab mentions and browser control; Opera doesn’t support\nside chat.\nSite tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work\nand Codex ",
+        "summary": null,
         "recommend_reason_zh": "本文介绍ChatGPT最新更新：定时任务现可由Gmail、Slack或GitHub事件触发，如按发件人或主题过滤邮件、监控Slack频道、响应PR审查与合并；同时浏览器扩展支持Edge、Brave、Opera和Vivaldi。",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -967,7 +967,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1015,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8894,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1052,7 +1052,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
+      }
+    },
+    {
+      "story_id": "story_2ae3bbe5c601",
+      "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
+          "title_zh": "规则集中的推送规则现支持路径例外",
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
+          "title_zh": "规则集中的推送规则现支持路径例外",
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:40:15Z",
+      "latest_at": "2026-08-25T17:40:15Z",
+      "primary_item": {
+        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+        "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
+        "title_zh": "规则集中的推送规则现支持路径例外",
+        "title_en": "Push rules in rulesets now support path exceptions",
+        "title_original": "Push rules in rulesets now support path exceptions",
+        "summary": null,
+        "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "仓库规则能按路径豁免了，CI/CD 卡点配置更细，今天就能改。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1100,15 +1185,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8326,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1137,7 +1222,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1185,15 +1270,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9418,
+        "recency": 0.9282,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,7 +1306,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1269,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1304,7 +1389,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1352,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1472,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1435,15 +1520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.856,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1470,7 +1555,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1518,15 +1603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,7 +1638,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1601,15 +1686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1636,7 +1721,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     },
     {
@@ -1684,15 +1769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7516,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1721,92 +1806,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
-      }
-    },
-    {
-      "story_id": "story_4c08adc024bd",
-      "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
-          "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
-          "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7516,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-        "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
-        "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
-        "title_en": "Disrupting a new covert influence campaign from Russia",
-        "title_original": "Disrupting a new covert influence campaign from Russia",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全事件通报，开发者无需行动，关注后续防护策略即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T20:10:22.428255Z"
+        "scored_at": "2026-08-25T21:08:56.792032Z"
       }
     }
   ]
