@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:21:14.543473Z",
+  "generated_at": "2026-08-25T18:10:45.016595Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_451d09e98bb5",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "story_id": "story_4af25ba10386",
+      "title": "推出 ChatGPT Work 和 Codex 的管理插件 / Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "性能跃升喊得响，要是又只对比自家前代，第三方基准见真章。"
+          "score": 70,
+          "review": "管理插件而已，别叫Work就以为能替代管理员了。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方宣传无评测数据，等第三方跑分再定论。"
+          "score": 35,
+          "review": "官方公告但无代码无评测，插件实际效果待验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "硬件升级对跑本地模型的开发者是利好，但等真机评测再决定换不换。"
+          "score": 80,
+          "review": "企业管理员今天就能配置权限，普通开发者暂不受影响。"
         }
       }
     }
