@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:00:19.433422Z",
+  "generated_at": "2026-08-25T16:55:46.117688Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "Granite 4.2 LLMs 是如何打造的",
           "title_en": "Granite 4.2 LLMs: How They're Built",
           "title_original": "Granite 4.2 LLMs: How They're Built",
-          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+          "summary": null,
           "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
           "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
@@ -37,7 +37,7 @@
           "title_zh": "Granite 4.2 LLMs 是如何打造的",
           "title_en": "Granite 4.2 LLMs: How They're Built",
           "title_original": "Granite 4.2 LLMs: How They're Built",
-          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+          "summary": null,
           "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
           "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
+      "score": 0.8637,
+      "importance": 0.8637,
+      "importance_score": 0.8637,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.989,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "Granite 4.2 LLMs 是如何打造的",
         "title_en": "Granite 4.2 LLMs: How They're Built",
         "title_original": "Granite 4.2 LLMs: How They're Built",
-        "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+        "summary": null,
         "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
         "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
         "source": "Hugging Face Blog",
@@ -85,7 +85,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
+      }
+    },
+    {
+      "story_id": "story_e7853aaebb60",
+      "title": "用Google Search升级家居装饰的5种方法 / 5 ways to upgrade your home decor with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "用Google Search升级家居装饰的5种方法 / 5 ways to upgrade your home decor with Google Search",
+          "title_zh": "用Google Search升级家居装饰的5种方法",
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nAug 25, 2026\nFrom tracking down unique vintage finds to seeing how new furniture fits before you buy, here’s how Google Search can help transform your living ",
+          "recommend_reason_zh": "这篇指南教你用Google Search的AI Mode、Google Lens和Circle to Search等工具可视化家具、识别vintage单品和圈选商品，并引用“home decor inspo”搜索量上涨300%、fish wallpaper激增140%等数据，帮你轻松实现家居改造。",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+          "title": "用Google Search升级家居装饰的5种方法 / 5 ways to upgrade your home decor with Google Search",
+          "title_zh": "用Google Search升级家居装饰的5种方法",
+          "title_en": "5 ways to upgrade your home decor with Google Search",
+          "title_original": "5 ways to upgrade your home decor with Google Search",
+          "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nAug 25, 2026\nFrom tracking down unique vintage finds to seeing how new furniture fits before you buy, here’s how Google Search can help transform your living ",
+          "recommend_reason_zh": "这篇指南教你用Google Search的AI Mode、Google Lens和Circle to Search等工具可视化家具、识别vintage单品和圈选商品，并引用“home decor inspo”搜索量上涨300%、fish wallpaper激增140%等数据，帮你轻松实现家居改造。",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9867,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T16:00:00Z",
+      "latest_at": "2026-08-25T16:00:00Z",
+      "primary_item": {
+        "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
+        "title": "用Google Search升级家居装饰的5种方法 / 5 ways to upgrade your home decor with Google Search",
+        "title_zh": "用Google Search升级家居装饰的5种方法",
+        "title_en": "5 ways to upgrade your home decor with Google Search",
+        "title_original": "5 ways to upgrade your home decor with Google Search",
+        "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nLearn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.\nAug 25, 2026\nFrom tracking down unique vintage finds to seeing how new furniture fits before you buy, here’s how Google Search can help transform your living ",
+        "recommend_reason_zh": "这篇指南教你用Google Search的AI Mode、Google Lens和Circle to Search等工具可视化家具、识别vintage单品和圈选商品，并引用“home decor inspo”搜索量上涨300%、fish wallpaper激增140%等数据，帮你轻松实现家居改造。",
+        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 10,
+      "persona_review": "家居装饰与开发者无关，生活软文，不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -220,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9672,
+        "recency": 0.9544,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -274,7 +359,7 @@
           "title_zh": "海量智能背后的全栈技术",
           "title_en": "The full stack behind abundant intelligence",
           "title_original": "The full stack behind abundant intelligence",
-          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
           "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
           "source": "OpenAI News",
@@ -294,7 +379,7 @@
           "title_zh": "海量智能背后的全栈技术",
           "title_en": "The full stack behind abundant intelligence",
           "title_original": "The full stack behind abundant intelligence",
-          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
           "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
           "source": "OpenAI News",
@@ -305,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8791,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,7 +415,7 @@
         "title_zh": "海量智能背后的全栈技术",
         "title_en": "The full stack behind abundant intelligence",
         "title_original": "The full stack behind abundant intelligence",
-        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+        "summary": null,
         "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
         "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
         "source": "OpenAI News",
@@ -342,7 +427,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -390,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8574,
-      "importance": 0.8574,
-      "importance_score": 0.8574,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9858,
+        "recency": 0.9728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,7 +512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -475,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8781,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -560,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9391,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -597,7 +682,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
+      }
+    },
+    {
+      "story_id": "story_e1c25592fe2f",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+          "title_en": "https://x.com/i/article/2092249927812337664",
+          "title_original": "https://x.com/i/article/2092249927812337664",
+          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2092275116503707733",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:37:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:37:15Z",
+      "latest_at": "2026-08-25T15:37:15Z",
+      "primary_item": {
+        "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
+        "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+        "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
+        "title_en": "https://x.com/i/article/2092249927812337664",
+        "title_original": "https://x.com/i/article/2092249927812337664",
+        "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GoogleAI/status/2092275116503707733",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "气象预测研究，做相关应用的可以关注，普通开发者不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -645,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7936,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,7 +851,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -730,21 +899,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T09:00:18.327487Z",
       "latest_at": "2026-08-25T09:00:18.327487Z",
@@ -766,7 +934,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
+      }
+    },
+    {
+      "story_id": "story_33fb169ced44",
+      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "primary_url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": "这篇对话预测Anthropic与OpenAI到2028年将掌控全球多数算力，并讨论到本十年末超10万亿美元AI资本开支是否会引发主权债务危机。",
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "recommend_reason_zh": "这篇对话预测Anthropic与OpenAI到2028年将掌控全球多数算力，并讨论到本十年末超10万亿美元AI资本开支是否会引发主权债务危机。",
+          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T15:32:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T15:32:57Z",
+      "latest_at": "2026-08-25T15:32:57Z",
+      "primary_item": {
+        "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
+        "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+        "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+        "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+        "recommend_reason_zh": "这篇对话预测Anthropic与OpenAI到2028年将掌控全球多数算力，并讨论到本十年末超10万亿美元AI资本开支是否会引发主权债务危机。",
+        "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "算力集中影响未来定价和供应，但今天不改变你的选型，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -814,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,7 +1100,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -897,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7936,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,7 +1185,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -982,21 +1233,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T09:00:18.327487Z",
       "latest_at": "2026-08-25T09:00:18.327487Z",
@@ -1018,7 +1268,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -1066,21 +1316,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T09:00:18.327487Z",
       "latest_at": "2026-08-25T09:00:18.327487Z",
@@ -1102,7 +1351,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -1150,21 +1399,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T09:00:18.327487Z",
       "latest_at": "2026-08-25T09:00:18.327487Z",
@@ -1186,7 +1434,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -1234,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1269,7 +1517,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -1345,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6162,
-      "importance": 0.6162,
-      "importance_score": 0.6162,
+      "score": 0.6139,
+      "importance": 0.6139,
+      "importance_score": 0.6139,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.9575,
+        "recency": 0.9448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1380,7 +1628,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
@@ -1428,15 +1676,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,484 +1711,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     },
     {
-      "story_id": "story_2cdc7641002b",
-      "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-      "url": "https://www.aibase.com/news/30602",
-      "primary_url": "https://www.aibase.com/news/30602",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-          "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_en": null,
-          "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30602",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:28.407599Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-          "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "title_en": null,
-          "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30602",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:28.407599Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8799,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T07:08:28.407599Z",
-      "latest_at": "2026-08-25T07:08:28.407599Z",
-      "primary_item": {
-        "id": "00ab544af595fb6c20f3d263744d6d1dff134d5b",
-        "title": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "title_zh": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "title_en": null,
-        "title_original": "ChatGPT重磅上线自定义贴纸功能，完美打通两大社交巨头",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30602",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "贴纸功能是娱乐向更新，不涉及API或开发工具，从业者无需关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
-      }
-    },
-    {
-      "story_id": "story_974793f4f4f9",
-      "title": "复古人工智能：在变得尴尬之前",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "primary_url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-      "source": "blog.archive.org",
+      "story_id": "story_89a7f4d0785b",
+      "title": "HN每日头条约50%与AI相关",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "primary_url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "source": "blog.coredump.cx",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
+          "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+          "title": "HN每日头条约50%与AI相关",
+          "title_zh": "HN每日头条约50%与AI相关",
           "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
+          "title_original": "HN中有多少是AI？",
+          "summary": "TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nI have a complicated relationship with Hacker News . The site is the most important aggregator of geek news and a major source of traffic to this blog. At the same time, it has a fair number of toxic commenters, making it a dependable source of insult",
+          "recommend_reason_zh": "作者用Pangram检测发现，HN每日热门故事中AI相关或AI生成比例从2月40%升至6月约50%，并指出2月4日AI曾占前五中四席，显示极客社区被AI淹没，值得一读。",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "blog.coredump.cx",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
+          "published_at": "2026-08-25T16:21:34.454000Z"
         },
         {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在它变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
+          "id": "05d3c0c052fd2b3743ac7fbc2621e922eed98262",
+          "title": "HN 上有多少内容是 AI？ / How much of HN is AI?",
+          "title_zh": "HN 上有多少内容是 AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:44:46.216000Z"
-        },
-        {
-          "id": "6b3ddf826656bb9730b1c966248c75951d715e33",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.archive.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-          "title": "复古人工智能：在变得尴尬之前",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": null,
-          "title_original": "复古人工智能：在变得尴尬之前",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "blog.archive.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T10:13:48.902000Z"
-        },
-        {
-          "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在它变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49425800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T21:44:46.216000Z"
-        },
-        {
-          "id": "6b3ddf826656bb9730b1c966248c75951d715e33",
-          "title": "复古人工智能：在变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": "复古人工智能：在变得尴尬之前",
-          "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T21:01:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.92,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T21:01:38Z",
-      "latest_at": "2026-08-25T10:13:48.902000Z",
-      "primary_item": {
-        "id": "5d43f2213e47090aa4e83ae6b5c0fc4bcb008113",
-        "title": "复古人工智能：在变得尴尬之前",
-        "title_zh": "复古人工智能：在变得尴尬之前",
-        "title_en": null,
-        "title_original": "复古人工智能：在变得尴尬之前",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
-        "source": "blog.archive.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "考古文，不是工具文；怀念可以，别指望有能抄的代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
-      }
-    },
-    {
-      "story_id": "story_8905d625b3de",
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://news.ycombinator.com/item?id=49435147",
-      "primary_url": "https://news.ycombinator.com/item?id=49435147",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": null,
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
-          "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
-          "url": "https://news.ycombinator.com/item?id=49435147",
+          "recommend_reason_zh": "作者质疑HN上AI内容占比，批评数据中心ML带来重金属入水与干旱区饮用水减少，指出手写代码用20年前电脑即可，而ML框架依赖昂贵硬件拉大贫富差距，因此转向Lobsters。",
+          "url": "https://news.ycombinator.com/item?id=49435728",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-25T15:42:35.118000Z"
         },
         {
-          "id": "b3c957ac8b4b56c80b1b26fb15acf3301329687f",
-          "title": "斯坦福研究：AI对入门级岗位冲击最大 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福研究：AI对入门级岗位冲击最大",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "id": "fdff209b20d98f9ce33e8a5e5d935480c9be05c3",
+          "title": "2026年6月HN每日热门故事约半数与AI相关",
+          "title_zh": "2026年6月HN每日热门故事约半数与AI相关",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "recommend_reason_zh": "这篇分析用Pangram检测了Hacker News在2026年2月与6月的每日Top 5，发现约50%的热门故事与AI相关或由AI生成，较2月的40%上升，6月上半月一度达60%。",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T14:48:58Z"
+          "published_at": "2026-08-25T15:23:41Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
+        "blog.coredump.cx",
         "hackernews"
       ],
       "items": [
         {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": null,
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
-          "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
-          "url": "https://news.ycombinator.com/item?id=49435147",
+          "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+          "title": "HN每日头条约50%与AI相关",
+          "title_zh": "HN每日头条约50%与AI相关",
+          "title_en": null,
+          "title_original": "HN中有多少是AI？",
+          "summary": "TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nI have a complicated relationship with Hacker News . The site is the most important aggregator of geek news and a major source of traffic to this blog. At the same time, it has a fair number of toxic commenters, making it a dependable source of insult",
+          "recommend_reason_zh": "作者用Pangram检测发现，HN每日热门故事中AI相关或AI生成比例从2月40%升至6月约50%，并指出2月4日AI曾占前五中四席，显示极客社区被AI淹没，值得一读。",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "source": "blog.coredump.cx",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T16:21:34.454000Z"
+        },
+        {
+          "id": "05d3c0c052fd2b3743ac7fbc2621e922eed98262",
+          "title": "HN 上有多少内容是 AI？ / How much of HN is AI?",
+          "title_zh": "HN 上有多少内容是 AI？",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
+          "summary": null,
+          "recommend_reason_zh": "作者质疑HN上AI内容占比，批评数据中心ML带来重金属入水与干旱区饮用水减少，指出手写代码用20年前电脑即可，而ML框架依赖昂贵硬件拉大贫富差距，因此转向Lobsters。",
+          "url": "https://news.ycombinator.com/item?id=49435728",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-25T15:42:35.118000Z"
         },
         {
-          "id": "b3c957ac8b4b56c80b1b26fb15acf3301329687f",
-          "title": "斯坦福研究：AI对入门级岗位冲击最大 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福研究：AI对入门级岗位冲击最大",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "id": "fdff209b20d98f9ce33e8a5e5d935480c9be05c3",
+          "title": "2026年6月HN每日热门故事约半数与AI相关",
+          "title_zh": "2026年6月HN每日热门故事约半数与AI相关",
+          "title_en": "How much of HN is AI?",
+          "title_original": "How much of HN is AI?",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "recommend_reason_zh": "这篇分析用Pangram检测了Hacker News在2026年2月与6月的每日Top 5，发现约50%的热门故事与AI相关或由AI生成，较2月的40%上升，6月上半月一度达60%。",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9957,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T14:48:58Z",
-      "latest_at": "2026-08-25T15:42:35.118000Z",
-      "primary_item": {
-        "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "title_zh": null,
-        "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-        "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
-        "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
-        "url": "https://news.ycombinator.com/item?id=49435147",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "研究结论听听就好，不影响今天写代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
-      }
-    },
-    {
-      "story_id": "story_a382eafa5b52",
-      "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "primary_url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "boydkane.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs 可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "LLMs 可利用推理引擎控制宿主机",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": "文章探究LLM利用推理引擎劫持宿主机的可能性，评论反驳指出现实中推理多在multi-GPU集群进行，token解析由API网关独立完成，并认为攻击前提含糊，缺乏触发机制。",
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T19:45:32.451000Z"
-        },
-        {
-          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": "本文揭示恶意LLM借vLLM的CVE-2025-9141（Qwen3 Coder解析器误将参数交给eval）控制宿主机，并分析200多种模型架构扩大攻击面。",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:03:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "boydkane.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": null,
-          "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "boydkane.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T03:02:56.442000Z"
-        },
-        {
-          "id": "ed23432d04a4d512c316552b37f2b39adab7cebd",
-          "title": "LLMs 可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "LLMs 可利用推理引擎控制宿主机",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": "文章探究LLM利用推理引擎劫持宿主机的可能性，评论反驳指出现实中推理多在multi-GPU集群进行，token解析由API网关独立完成，并认为攻击前提含糊，缺乏触发机制。",
-          "url": "https://news.ycombinator.com/item?id=49424387",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T19:45:32.451000Z"
-        },
-        {
-          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
-          "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
-          "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-          "title_en": "LLMs could control their host machines by exploiting inference engines",
-          "title_original": "LLMs could control their host machines by exploiting inference engines",
-          "summary": null,
-          "recommend_reason_zh": "本文揭示恶意LLM借vLLM的CVE-2025-9141（Qwen3 Coder解析器误将参数交给eval）控制宿主机，并分析200多种模型架构扩大攻击面。",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T19:03:06Z"
+          "published_at": "2026-08-25T15:23:41Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8294,
+        "recency": 0.9918,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-24T19:03:06Z",
-      "latest_at": "2026-08-25T03:02:56.442000Z",
+      "earliest_at": "2026-08-25T15:23:41Z",
+      "latest_at": "2026-08-25T16:21:34.454000Z",
       "primary_item": {
-        "id": "97417977768554cb444b51c984aefaf71a02a8b5",
-        "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
+        "id": "69d437035d392fcd2c1d81593dff059f4b007d18",
+        "title": "HN每日头条约50%与AI相关",
+        "title_zh": "HN每日头条约50%与AI相关",
         "title_en": null,
-        "title_original": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "source": "boydkane.com",
+        "title_original": "HN中有多少是AI？",
+        "summary": "TL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nTL;DR: As of June 2026, ~50% of daily top stories are about AI or generated by AI.\nI have a complicated relationship with Hacker News . The site is the most important aggregator of geek news and a major source of traffic to this blog. At the same time, it has a fair number of toxic commenters, making it a dependable source of insult",
+        "recommend_reason_zh": "作者用Pangram检测发现，HN每日热门故事中AI相关或AI生成比例从2月40%升至6月约50%，并指出2月4日AI曾占前五中四席，显示极客社区被AI淹没，值得一读。",
+        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+        "source": "blog.coredump.cx",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "理论探讨，暂无实际利用价值，等 PoC 再说。",
+      "persona_score": 52,
+      "persona_review": "统计观察而已，不影响今天写代码，看一眼知道风向就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T16:36:37.995666Z"
+        "scored_at": "2026-08-25T17:21:06.486166Z"
       }
     }
   ]
