@@ -41998,5 +41998,18 @@
   "re1|03c89f6a6761226303bb8c9d7d51cc70e6f3b9aa": "",
   "re1|13cfa6eba9b0bbe2b703b1b6ea2b653999a15967": "Perplexity推出Portable Computer，与NVIDIA合作让AI代理完全在DGX Spark本地运行，支持Qwen 3.8 27B及PPLX 27B模型，私密数据不外传，按需才上云，本地任务不消耗积分。",
   "re1|cc0d119e365073c35f9d9b4319236ae5cb810d54": "MulmoTerminal 能让你在浏览器终端网格中并行运行多个 Claude Code 和 Codex 会话，并直观看到哪个 agent 需要你；它本地运行、基于 tmux，采用 MIT 许可，来自 receptron。",
-  "re1|58cbc2f087154dafdf989e07a402b4a487a44bdc": "Yeschef让Claude Code把任务分派给局域网Ollama上的本地模型，3台NUC跑出627 tok/s，内置qwen2.5:7b-instruct等模型，还支持Codex与全程回放。"
+  "re1|58cbc2f087154dafdf989e07a402b4a487a44bdc": "Yeschef让Claude Code把任务分派给局域网Ollama上的本地模型，3台NUC跑出627 tok/s，内置qwen2.5:7b-instruct等模型，还支持Codex与全程回放。",
+  "ds1|How to evaluate LLMs before production": "生产前如何评估LLM？",
+  "ds1|Free accounts can now access ChatGPT's upgraded task scheduling tool": "免费账户现可使用ChatGPT升级版任务调度工具",
+  "ds1|World humanoid robot games show runners breaking records, bursting into flames": "世界人形机器人运动会：选手破纪录，也自燃起火",
+  "ds1|Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo": "NVIDIA Dynamo Shadow Engine 恢复：数秒内恢复 LLM 推理容量",
+  "ds1|vLLM-iOS: 88% Faster Multi-Agent Inference on iOS": "vLLM-iOS：iOS 端 Multi-Agent 推理速度提升 88%",
+  "ds1|OpenAI's Head of Data Centers Has Left the Company": "OpenAI数据中心负责人已离职",
+  "re1|e34758cf105bce9ed9cdc23fa06e3800f004aef8": "本文介绍为GitHub secret scanning评估LLM的实战经验：用精确率衡量误报降低，以召回率作为安全底线，并设立三层评估标准，避免基准测试掩盖生产问题。",
+  "re1|1033d89466718fa16a4fe49842e846a235a657be": "LangChain与Airbyte深化集成，新增LangChain目的地，实现数据入库调度自动化，并支持15+文本分割算法与50+向量存储集成，助力检索应用从原型走向生产。",
+  "re1|b968fd068c73984a99628dc49fbb7bea67c066bc": "NVIDIA Dynamo预览版Shadow Engine Recovery将LLM进程故障恢复从283秒冷重启缩短至7.3秒，快39倍，靠GPU Memory Service共享权重避免HBM重复加载。",
+  "re1|94f2b265397a599689543a5a37787ee0c8521b75": "免费用户现可使用ChatGPT升级版任务调度工具；付费用户还能让ChatGPT在Gmail、Slack或GitHub有动态时自动触发提示，并支持与他人共享定时任务。",
+  "re1|6c47f01f6727e5ffa3008f071d15d8ab38d1619e": "世界人形机器人运动会上，机器人在百米赛跑中超越Usain Bolt的纪录却摔倒起火，而洗衣等家务效率仍落后人类，展现专能进步与通用性局限。",
+  "re1|c1641ac0d00bfe781a5265fc88a769cea6803b1e": "vllm-ios在iPhone上实现vLLM式连续批处理，纯Swift on MLX，8并发流比llama.cpp快88%；演示中8个agent生成385 tokens仅需2.9秒，实测于iPhone 16 Pro。",
+  "re1|8f01edc39eda46f13c394ffd5b87885d51f72f4b": ""
 }

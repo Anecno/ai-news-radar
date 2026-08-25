@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_0e23ce0343ea|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全评估报告，不影响日常开发，做合规的可以瞄一眼。",
-      "title_hash": "56926fdf",
-      "scored_at": "2026-08-04T21:52:09.203846Z"
-    },
     "story_48187a538519|pragmatic|0a5c5b24": {
       "score": 48,
       "review": "宣传大于落地，没给可试用的接口或仓库，等真上线再说。",
@@ -6318,6 +6312,18 @@
       "review": "Copilot 自定义选项卡转正，调指令和上下文的活儿能省点事。",
       "title_hash": "9c410574",
       "scored_at": "2026-08-25T21:08:59.697931Z"
+    },
+    "story_4b7b151c884e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "评估方法论总结，做选型前可当checklist翻，没有新东西但够用。",
+      "title_hash": "e7abe149",
+      "scored_at": "2026-08-25T22:07:08.820167Z"
+    },
+    "story_f92e65dfe441|pragmatic|0a5c5b24": {
+      "score": 80,
+      "review": "批量接入数据源做 RAG 的可以照抄，生产级管道少踩坑。",
+      "title_hash": "ce40e10b",
+      "scored_at": "2026-08-25T22:07:11.175233Z"
     }
   }
 }
