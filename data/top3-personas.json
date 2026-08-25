@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:48:46.746233Z",
+  "generated_at": "2026-08-25T02:08:48.685720Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,14 @@
       }
     },
     {
-      "story_id": "story_35aa593beb9e",
-      "title": "Codex MCP server 命令已弃用 / Codex MCP server command deprecated",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_a382eafa5b52",
+      "title": "LLMs 可利用推理引擎控制宿主机 / LLMs could control their host machines by exploiting inference engines",
+      "url": "https://news.ycombinator.com/item?id=49424387",
       "rank": 3,
       "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "弃用个命令也值得刷存在感？替代品性能数据呢？"
-        },
-        "paper-police": {
-          "score": 40,
-          "review": "官方变更日志可查，但无代码或复现，实际影响待验证。"
-        },
         "pragmatic": {
-          "score": 72,
-          "review": "Codex MCP 命令弃用，在用的赶紧查迁移指南，别等脚本挂了再改。"
+          "score": 62,
+          "review": "安全研究者提醒：跑不可信模型务必隔离沙箱，部署前查自家推理栈。"
         }
       }
     }
