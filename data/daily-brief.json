@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-25T15:05:46.790968Z",
+  "generated_at": "2026-08-25T16:00:19.433422Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7ee612916ff0",
-      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "story_id": "story_2e1e1831ce49",
+      "title": "Granite 4.2 LLMs 是如何打造的 / Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-          "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_zh": null,
-          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
-          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs 是如何打造的 / Granite 4.2 LLMs: How They're Built",
+          "title_zh": "Granite 4.2 LLMs 是如何打造的",
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+          "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:01:00Z"
+          "published_at": "2026-08-25T15:14:14Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-          "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_zh": null,
-          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
-          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs 是如何打造的 / Granite 4.2 LLMs: How They're Built",
+          "title_zh": "Granite 4.2 LLMs 是如何打造的",
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+          "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:01:00Z"
+          "published_at": "2026-08-25T15:14:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9989,
+        "ai_relevance": 0.99,
+        "recency": 0.989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,27 +65,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:01:00Z",
-      "latest_at": "2026-08-25T15:01:00Z",
+      "earliest_at": "2026-08-25T15:14:14Z",
+      "latest_at": "2026-08-25T15:14:14Z",
       "primary_item": {
-        "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-        "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-        "title_zh": null,
-        "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-        "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-        "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
-        "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+        "title": "Granite 4.2 LLMs 是如何打造的 / Granite 4.2 LLMs: How They're Built",
+        "title_zh": "Granite 4.2 LLMs 是如何打造的",
+        "title_en": "Granite 4.2 LLMs: How They're Built",
+        "title_original": "Granite 4.2 LLMs: How They're Built",
+        "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nOverview Model Architecture Pre-Training SFT: Data Preparation & Quality Control Data Quality Control SFT Training Details Phase 2 SFT for the 30B Model Reinforcement Learning: A Multi-Stage, Multi-Environment Pipeline Training Methodology The Staged Curriculum Reward Signals Foundational RL: Build the Skills Agentic RL: Learning to Act (8B / 30B) Alignment: RLHF How the Three Sizes Differ Agentic AI Infrastruc",
+        "recommend_reason_zh": "Granite 4.2是IBM首个推理模型系列，含3B、8B、30B三档，从零预训练于约15T tokens，支持512K上下文和思考/非思考切换，并详述了8B与30B在真实沙箱环境中的agentic RL训练流程，Apache 2.0开源。",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "新开源CTC转录模型已上线，可clone试用，低延迟场景今天能接。",
+      "persona_score": 85,
+      "persona_review": "IBM 官方开源 Granite 4.2，模型权重已发布，可下载微调，但注意硬件需求和许可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -112,8 +112,8 @@
         },
         {
           "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
+          "title": "Apple推出M6和M5 Ultra，性能和AI算力实现大幅跃升。 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "Apple推出M6和M5 Ultra，性能和AI算力实现大幅跃升。",
           "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "summary": null,
@@ -177,8 +177,8 @@
         },
         {
           "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
+          "title": "Apple推出M6和M5 Ultra，性能和AI算力实现大幅跃升。 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "Apple推出M6和M5 Ultra，性能和AI算力实现大幅跃升。",
           "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
           "summary": null,
@@ -220,15 +220,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.98,
+        "recency": 0.9672,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,12 +257,182 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
+      }
+    },
+    {
+      "story_id": "story_6e67842f0f7e",
+      "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "primary_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c11537df89677eb075157ecdbf835a264160de84",
+          "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
+          "title_zh": "海量智能背后的全栈技术",
+          "title_en": "The full stack behind abundant intelligence",
+          "title_original": "The full stack behind abundant intelligence",
+          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:05:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c11537df89677eb075157ecdbf835a264160de84",
+          "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
+          "title_zh": "海量智能背后的全栈技术",
+          "title_en": "The full stack behind abundant intelligence",
+          "title_original": "The full stack behind abundant intelligence",
+          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:05:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8791,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T07:05:00Z",
+      "latest_at": "2026-08-25T07:05:00Z",
+      "primary_item": {
+        "id": "c11537df89677eb075157ecdbf835a264160de84",
+        "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
+        "title_zh": "海量智能背后的全栈技术",
+        "title_en": "The full stack behind abundant intelligence",
+        "title_original": "The full stack behind abundant intelligence",
+        "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.\nOpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+        "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "讲了基础设施思路，没有新工具，暂不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T16:36:37.995666Z"
+      }
+    },
+    {
+      "story_id": "story_7ee612916ff0",
+      "title": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录",
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "summary": null,
+          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录",
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "summary": null,
+          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:01:00Z",
+      "latest_at": "2026-08-25T15:01:00Z",
+      "primary_item": {
+        "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+        "title": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_zh": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录",
+        "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "summary": null,
+        "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "新转录模型已发布，低延迟场景可实测，适合实时语音应用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
       "story_id": "story_b95e33dbd1e9",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "url": "https://openai.com/index/jalapeno-first-results",
       "primary_url": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI News",
@@ -270,11 +440,11 @@
       "sources": [
         {
           "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_zh": null,
+          "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
           "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+          "summary": null,
           "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
           "url": "https://openai.com/index/jalapeno-first-results",
           "source": "OpenAI News",
@@ -290,11 +460,11 @@
       "items": [
         {
           "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_zh": null,
+          "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
           "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+          "summary": null,
           "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
           "url": "https://openai.com/index/jalapeno-first-results",
           "source": "OpenAI News",
@@ -305,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8897,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,11 +496,11 @@
       "latest_at": "2026-08-25T07:00:00Z",
       "primary_item": {
         "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "title_zh": null,
+        "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
         "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
         "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+        "summary": null,
         "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
         "url": "https://openai.com/index/jalapeno-first-results",
         "source": "OpenAI News",
@@ -338,16 +508,16 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "官方秀推理速度，但没开放就用不上，等 API。",
+      "persona_review": "只是官方晒基准，没有 API 和开源，暂时用不上。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
       "story_id": "story_6411634610d0",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "title": "量化感知修复：一种超越全精度原版的压缩4位模型 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "source": "Hugging Face Blog",
@@ -355,8 +525,8 @@
       "sources": [
         {
           "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_zh": null,
+          "title": "量化感知修复：一种超越全精度原版的压缩4位模型 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "title_zh": "量化感知修复：一种超越全精度原版的压缩4位模型",
           "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "summary": null,
@@ -375,8 +545,8 @@
       "items": [
         {
           "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_zh": null,
+          "title": "量化感知修复：一种超越全精度原版的压缩4位模型 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "title_zh": "量化感知修复：一种超越全精度原版的压缩4位模型",
           "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "summary": null,
@@ -390,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9515,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -411,8 +581,8 @@
       "latest_at": "2026-08-25T11:39:24Z",
       "primary_item": {
         "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-        "title_zh": null,
+        "title": "量化感知修复：一种超越全精度原版的压缩4位模型 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "title_zh": "量化感知修复：一种超越全精度原版的压缩4位模型",
         "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
         "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
         "summary": null,
@@ -422,17 +592,17 @@
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "4-bit量化反超全精度，有开源就值得试，省显存还提精度。",
+      "persona_score": 65,
+      "persona_review": "4位量化能反超原版，值得跑个实验验证；但未开源前别改生产。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
       "story_id": "story_4c08adc024bd",
-      "title": "Disrupting a new covert influence campaign from Russia",
+      "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "source": "OpenAI News",
@@ -440,8 +610,8 @@
       "sources": [
         {
           "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
-          "title_zh": null,
+          "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
+          "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
           "title_en": "Disrupting a new covert influence campaign from Russia",
           "title_original": "Disrupting a new covert influence campaign from Russia",
           "summary": null,
@@ -460,8 +630,8 @@
       "items": [
         {
           "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
-          "title_zh": null,
+          "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
+          "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
           "title_en": "Disrupting a new covert influence campaign from Russia",
           "title_original": "Disrupting a new covert influence campaign from Russia",
           "summary": null,
@@ -475,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8041,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -496,8 +666,8 @@
       "latest_at": "2026-08-25T00:00:00Z",
       "primary_item": {
         "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "title_zh": null,
+        "title": "瓦解俄罗斯新一轮秘密影响行动 / Disrupting a new covert influence campaign from Russia",
+        "title_zh": "瓦解俄罗斯新一轮秘密影响行动",
         "title_en": "Disrupting a new covert influence campaign from Russia",
         "title_original": "Disrupting a new covert influence campaign from Russia",
         "summary": null,
@@ -508,96 +678,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "安全对抗与日常开发无关，但提示了AI被滥用的现实风险。",
+      "persona_review": "安全事件通报，开发者无需行动，关注后续防护策略即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
-      }
-    },
-    {
-      "story_id": "story_bc5800b304fc",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": null,
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": null,
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8041,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "title_zh": null,
-        "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/gradio-workflow-guide",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "Gradio 官方工作流指南，照着搭能省调试时间，适合快速部署演示。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -645,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,7 +766,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -729,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -764,7 +849,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
+      }
+    },
+    {
+      "story_id": "story_bc5800b304fc",
+      "title": "连接、运行、部署：用 Gradio 构建 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "primary_url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
+          "title": "连接、运行、部署：用 Gradio 构建 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "title_zh": "连接、运行、部署：用 Gradio 构建 AI 工作流",
+          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
+          "title": "连接、运行、部署：用 Gradio 构建 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "title_zh": "连接、运行、部署：用 Gradio 构建 AI 工作流",
+          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7936,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
+      "primary_item": {
+        "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
+        "title": "连接、运行、部署：用 Gradio 构建 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "title_zh": "连接、运行、部署：用 Gradio 构建 AI 工作流",
+        "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/gradio-workflow-guide",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "官方教程，照着搭 AI 工作流能直接跑，原型阶段够用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -812,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +1018,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -896,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +1102,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -980,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,7 +1186,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -1064,21 +1234,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9023,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T07:58:25.564989Z",
       "latest_at": "2026-08-25T07:58:25.564989Z",
@@ -1100,12 +1269,12 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
       "story_id": "story_97f565872705",
-      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
       "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
       "primary_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
       "source": "The Verge",
@@ -1113,8 +1282,8 @@
       "sources": [
         {
           "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_zh": null,
+          "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
           "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "summary": null,
@@ -1127,11 +1296,11 @@
         },
         {
           "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
-          "title": "Apple’s new M6 chip gets more cores and more AI compute",
-          "title_zh": null,
+          "title": "Apple新款M6芯片配备更多核心，AI算力更强 / Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片配备更多核心，AI算力更强",
           "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
           "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
-          "summary": "The M6 is Apple’s first 2nm chip.\nApple announced new M6 and M5 Ultra chips on Tuesday that will be available in a new Mac Mini and a new Mac Studio, respectively. They’ll be released on September 22nd.\nThe M6 is Apple’s first 2nm chip.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest ",
+          "summary": null,
           "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
           "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
           "source": "The Verge",
@@ -1147,8 +1316,8 @@
       "items": [
         {
           "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_zh": null,
+          "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
           "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "summary": null,
@@ -1161,11 +1330,11 @@
         },
         {
           "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
-          "title": "Apple’s new M6 chip gets more cores and more AI compute",
-          "title_zh": null,
+          "title": "Apple新款M6芯片配备更多核心，AI算力更强 / Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片配备更多核心，AI算力更强",
           "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
           "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
-          "summary": "The M6 is Apple’s first 2nm chip.\nApple announced new M6 and M5 Ultra chips on Tuesday that will be available in a new Mac Mini and a new Mac Studio, respectively. They’ll be released on September 22nd.\nThe M6 is Apple’s first 2nm chip.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest ",
+          "summary": null,
           "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
           "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
           "source": "The Verge",
@@ -1176,15 +1345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6184,
-      "importance": 0.6184,
-      "importance_score": 0.6184,
+      "score": 0.6162,
+      "importance": 0.6162,
+      "importance_score": 0.6162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.9702,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1195,8 +1364,8 @@
       "latest_at": "2026-08-25T13:00:00Z",
       "primary_item": {
         "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-        "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-        "title_zh": null,
+        "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
         "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
         "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
         "summary": null,
@@ -1207,11 +1376,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 50,
-      "persona_review": "新芯片刚有传闻，等真机评测再决定买不买，现有M5够用。",
+      "persona_review": "芯片迭代对本地跑模型的开发者是利好，但没具体规格和发售日，不用急着换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -1259,21 +1428,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9023,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T07:58:25.564989Z",
       "latest_at": "2026-08-25T07:58:25.564989Z",
@@ -1295,7 +1463,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -1343,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,7 +1546,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -1405,8 +1573,8 @@
         },
         {
           "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
           "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
           "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
           "summary": null,
@@ -1455,8 +1623,8 @@
         },
         {
           "id": "4d2e6ea72770a6d0bdca9f741342114768dcd82d",
-          "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-          "title_zh": null,
+          "title": "复古人工智能：在它变得尴尬之前 / Vintage Artificial Intelligence: Before It Got Awkward",
+          "title_zh": "复古人工智能：在它变得尴尬之前",
           "title_en": "Vintage Artificial Intelligence: Before It Got Awkward",
           "title_original": "Vintage Artificial Intelligence: Before It Got Awkward",
           "summary": null,
@@ -1484,15 +1652,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5586,
-      "importance": 0.5586,
-      "importance_score": 0.5586,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9321,
+        "recency": 0.92,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1519,119 +1687,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
-      "story_id": "story_8acadb205621",
-      "title": "Anthropic tells staff to work from home due to possible security team strike",
-      "url": "https://news.ycombinator.com/item?id=49434291",
-      "primary_url": "https://news.ycombinator.com/item?id=49434291",
+      "story_id": "story_8905d625b3de",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://news.ycombinator.com/item?id=49435147",
+      "primary_url": "https://news.ycombinator.com/item?id=49435147",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
-          "title": "Anthropic tells staff to work from home due to possible security team strike",
+          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
           "title_zh": null,
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
-          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
-          "url": "https://news.ycombinator.com/item?id=49434291",
+          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
+          "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
+          "url": "https://news.ycombinator.com/item?id=49435147",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T15:06:08.849000Z"
+          "published_at": "2026-08-25T15:42:35.118000Z"
         },
         {
-          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
-          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_zh": null,
-          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "id": "b3c957ac8b4b56c80b1b26fb15acf3301329687f",
+          "title": "斯坦福研究：AI对入门级岗位冲击最大 / AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_zh": "斯坦福研究：AI对入门级岗位冲击最大",
+          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Business Insider",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T09:11:11Z"
+          "published_at": "2026-08-25T14:48:58Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
-          "title": "Anthropic tells staff to work from home due to possible security team strike",
+          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
+          "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
           "title_zh": null,
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
-          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
-          "url": "https://news.ycombinator.com/item?id=49434291",
+          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
+          "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
+          "url": "https://news.ycombinator.com/item?id=49435147",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T15:06:08.849000Z"
+          "published_at": "2026-08-25T15:42:35.118000Z"
         },
         {
-          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
-          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_zh": null,
-          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "id": "b3c957ac8b4b56c80b1b26fb15acf3301329687f",
+          "title": "斯坦福研究：AI对入门级岗位冲击最大 / AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_zh": "斯坦福研究：AI对入门级岗位冲击最大",
+          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Business Insider",
+          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
+          "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T09:11:11Z"
+          "published_at": "2026-08-25T14:48:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9957,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-25T09:11:11Z",
-      "latest_at": "2026-08-25T15:06:08.849000Z",
+      "earliest_at": "2026-08-25T14:48:58Z",
+      "latest_at": "2026-08-25T15:42:35.118000Z",
       "primary_item": {
-        "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
-        "title": "Anthropic tells staff to work from home due to possible security team strike",
+        "id": "d91a85545c74544d23307d16668d02585e47f6e7",
+        "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
         "title_zh": null,
-        "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-        "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-        "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
-        "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
-        "url": "https://news.ycombinator.com/item?id=49434291",
+        "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
+        "summary": "Im mostly speaking about software engineering, but the \"juniors\" I've seen be hired now are basically the equivalent of mid (maybe even low senior) levels of yesteryear. AI is most certainly raising the bar.\nreply\nIn other words shareholders and senior management are being shown the appearance of expectations about AI being met, whether or not it's working. Entry-level jobs are an obvious place to look things that can be cut to create an AI budget.\nreply\nNow he gets asked: if a junior can do the",
+        "recommend_reason_zh": "Stanford研究指出AI正冲击入门级工作，软件工程初级岗实际要求已接近过去的中级水平；不少公司宁愿把招聘初级工程师的预算转为给高级工程师的AI token，因培训新人需一年以上。",
+        "url": "https://news.ycombinator.com/item?id=49435147",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "安全团队罢工影响的是Anthropic内部，API照常，开发者不用管。",
+      "persona_score": 45,
+      "persona_review": "研究结论听听就好，不影响今天写代码。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     },
     {
@@ -1737,15 +1905,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8403,
+        "recency": 0.8294,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1772,231 +1940,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
-      }
-    },
-    {
-      "story_id": "story_a3a30019dba2",
-      "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-      "url": "https://www.aibase.com/news/30600",
-      "primary_url": "https://www.aibase.com/news/30600",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-          "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_en": null,
-          "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:28.407599Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-          "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "title_en": null,
-          "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30600",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T07:08:28.407599Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T07:08:28.407599Z",
-      "latest_at": "2026-08-25T07:08:28.407599Z",
-      "primary_item": {
-        "id": "7f32c6dd06dc76515701281c803e3283eb887eee",
-        "title": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-        "title_zh": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-        "title_en": null,
-        "title_original": "GPT-5.6重磅登陆Kiro！AI原生编码迎来性价比革命，开发效率实现质的飞跃",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30600",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "GPT-5.6还没影，Kiro集成存疑，等官方API或开源再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
-      }
-    },
-    {
-      "story_id": "story_85b41d51c03a",
-      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "primary_url": "https://developers.openai.com/api/docs/pricing",
-      "source": "developers.openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1b361010fb494b63d4abf738b9cafce635914a52",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_en": null,
-          "title_original": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "developers.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T18:45:40.613000Z"
-        },
-        {
-          "id": "9e9fe571863934ec226a1f367059b9108fb3f4db",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续到11月21日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续到11月21日）",
-          "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_original": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将GPT-5.6 Sol价格下调，输入每百万token $4、输出$20，虽仍是Luna的20倍，但比Anthropic等竞品更具吸引力，降价至少持续至11月21日。",
-          "url": "https://news.ycombinator.com/item?id=49421074",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T15:37:22.419000Z"
-        },
-        {
-          "id": "ec25a3a499544a74a128bca1af9c2f4a7e4970a5",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_original": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI宣布gpt-5.6-sol降价至少到11月21日，daybreak-blue-latest与daybreak-red-latest别名现指向gpt-5.6-sol和gpt-5.6-cyber，微调平台不再对新用户开放，值得关注。",
-          "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-24T15:22:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "developers.openai.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1b361010fb494b63d4abf738b9cafce635914a52",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_en": null,
-          "title_original": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "developers.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T18:45:40.613000Z"
-        },
-        {
-          "id": "9e9fe571863934ec226a1f367059b9108fb3f4db",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续到11月21日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续到11月21日）",
-          "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_original": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将GPT-5.6 Sol价格下调，输入每百万token $4、输出$20，虽仍是Luna的20倍，但比Anthropic等竞品更具吸引力，降价至少持续至11月21日。",
-          "url": "https://news.ycombinator.com/item?id=49421074",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T15:37:22.419000Z"
-        },
-        {
-          "id": "ec25a3a499544a74a128bca1af9c2f4a7e4970a5",
-          "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-          "title_en": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "title_original": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI宣布gpt-5.6-sol降价至少到11月21日，daybreak-blue-latest与daybreak-red-latest别名现指向gpt-5.6-sol和gpt-5.6-cyber，微调平台不再对新用户开放，值得关注。",
-          "url": "https://developers.openai.com/api/docs/pricing",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-24T15:22:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7455,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T15:22:43Z",
-      "latest_at": "2026-08-24T18:45:40.613000Z",
-      "primary_item": {
-        "id": "1b361010fb494b63d4abf738b9cafce635914a52",
-        "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-        "title_zh": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-        "title_en": null,
-        "title_original": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/api/docs/pricing",
-        "source": "developers.openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "API 降价直接降成本，跑任务的可趁窗口期切换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T15:32:27.826483Z"
+        "scored_at": "2026-08-25T16:36:37.995666Z"
       }
     }
   ]

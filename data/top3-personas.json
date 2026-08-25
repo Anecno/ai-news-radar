@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:33:40.900200Z",
+  "generated_at": "2026-08-25T16:37:22.344379Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_85b41d51c03a",
-      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-      "url": "https://developers.openai.com/api/docs/pricing",
+      "story_id": "story_2e1e1831ce49",
+      "title": "Granite 4.2 LLMs 是如何打造的 / Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "降价是实打实的，但换个代号Sol就当新品？先解释下和前代的差距。"
+          "score": 72,
+          "review": "官方开卷，但得看有没有硬核细节，别又是包装精美的软文。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方定价页确认降价，但无测试数据，性价比需实测验证。"
+          "score": 50,
+          "review": "技术博客有细节，但无论文无代码，等第三方复现再定论。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "API 降价直接降成本，跑任务的可趁窗口期切换。"
+          "score": 85,
+          "review": "IBM 官方开源 Granite 4.2，模型权重已发布，可下载微调，但注意硬件需求和许可。"
         }
       }
     },
     {
       "story_id": "story_7ee612916ff0",
-      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "title": "Granite Speech 5.0 Turbo CTC 实现极速准确的转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "CTC模型谈极致准确？先亮出和主流端到端方案的对比表再说。"
+          "score": 72,
+          "review": "CTC模型敢叫Turbo，先亮出词错率和延迟对比再吹不迟。"
         },
         "paper-police": {
-          "score": 65,
-          "review": "模型权重可下载，评测数字在手，缺学术论文，第三方复现待验证。"
+          "score": 50,
+          "review": "官方博客给了指标，但无论文和独立复现，等第三方评测。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "新开源CTC转录模型已上线，可clone试用，低延迟场景今天能接。"
+          "score": 85,
+          "review": "新转录模型已发布，低延迟场景可实测，适合实时语音应用。"
         }
       }
     },
     {
-      "story_id": "story_6411634610d0",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "story_id": "story_451d09e98bb5",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "压缩反超原版？先看训练步数是不是一样，别拿瘸腿原版比。"
+          "score": 72,
+          "review": "性能跃升喊得响，要是又只对比自家前代，第三方基准见真章。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客给了评测数字但没开源代码，等第三方复现再确认更优。"
+          "score": 25,
+          "review": "官方宣传无评测数据，等第三方跑分再定论。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "4-bit量化反超全精度，有开源就值得试，省显存还提精度。"
+          "score": 72,
+          "review": "硬件升级对跑本地模型的开发者是利好，但等真机评测再决定换不换。"
         }
       }
     }
