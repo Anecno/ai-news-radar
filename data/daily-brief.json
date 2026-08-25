@@ -1,8 +1,350 @@
 {
-  "generated_at": "2026-08-25T14:04:39.816874Z",
+  "generated_at": "2026-08-25T15:05:46.790968Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7ee612916ff0",
+      "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": null,
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
+          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": null,
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
+          "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T15:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9989,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T15:01:00Z",
+      "latest_at": "2026-08-25T15:01:00Z",
+      "primary_item": {
+        "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+        "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_zh": null,
+        "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "summary": "A Blog post by IBM Granite on Hugging Face\nA Blog post by IBM Granite on Hugging Face\nToday we're delighted to announce the release of two new models in the Granite Speech family : compact, 470M-parameter English speech recognition models that pair strong accuracy with unprecedented speed — over 12,600 RTFx on an NVIDIA H200 GPU, meaning they can transcribe more than 3.5 hours of speech in one second using batched inference.\nTo get a sense of the models' responsiveness, check out our WebGPU demo",
+        "recommend_reason_zh": "IBM Granite推出470M参数的Granite Speech 5.0 Turbo CTC，在NVIDIA H200上速度超12,600 RTFx，每秒可转录3.5小时语音，Apache 2.0版WER仅5.00%。",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "新开源CTC转录模型已上线，可clone试用，低延迟场景今天能接。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
+      }
+    },
+    {
+      "story_id": "story_451d09e98bb5",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:05:00.603000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.apple.com"
+      ],
+      "items": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
+          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": null,
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49433292",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-25T14:05:00.603000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:01:22Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T13:01:22Z",
+      "latest_at": "2026-08-25T14:05:00.603000Z",
+      "primary_item": {
+        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_en": null,
+        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+        "recommend_reason_zh": null,
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "硬件升级对跑本地模型的开发者是利好，但等真机评测再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
+      }
+    },
+    {
+      "story_id": "story_b95e33dbd1e9",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "primary_url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_zh": null,
+          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_zh": null,
+          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8897,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T07:00:00Z",
+      "latest_at": "2026-08-25T07:00:00Z",
+      "primary_item": {
+        "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "title_zh": null,
+        "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nJalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.\nAugus",
+        "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
+        "url": "https://openai.com/index/jalapeno-first-results",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "官方秀推理速度，但没开放就用不上，等 API。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
+      }
+    },
     {
       "story_id": "story_6411634610d0",
       "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
@@ -48,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8513,
+      "importance": 0.8513,
+      "importance_score": 0.8513,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9656,
+        "recency": 0.9515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -78,170 +420,14 @@
         "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_451d09e98bb5",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": "- Xiaomi: We have matched Apple in CPU performance.\n    - Apple: *Meep Meep...*\nreply\nreply\nreply\nreply\nreply\nI assume the M6 will take the crown back and then a few months later Intel/AMD will release a new chip and take that crown back again.   That's the state of the world we used to expect, but it's a state that has been missing ever since the release of the M1 in 2020 until Intel finally caught up again this year.\nreply\nWhen plugged in... This caveat is so enormous it should almost be legis",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49433292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T14:05:00.603000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nApple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nText of this article\nAugust 25, 2026\nPRESS RELEASE\nApple introduces M6 and M5 Ultra for a big leap in performance and AI compute\nM6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, a",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nApple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nText of this article\nAugust 25, 2026\nPRESS RELEASE\nApple introduces M6 and M5 Ultra for a big leap in performance and AI compute\nM6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, a",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T13:01:22Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.apple.com"
-      ],
-      "items": [
-        {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": null,
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": "- Xiaomi: We have matched Apple in CPU performance.\n    - Apple: *Meep Meep...*\nreply\nreply\nreply\nreply\nreply\nI assume the M6 will take the crown back and then a few months later Intel/AMD will release a new chip and take that crown back again.   That's the state of the world we used to expect, but it's a state that has been missing ever since the release of the M1 in 2020 until Intel finally caught up again this year.\nreply\nWhen plugged in... This caveat is so enormous it should almost be legis",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49433292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T14:05:00.603000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nApple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nText of this article\nAugust 25, 2026\nPRESS RELEASE\nApple introduces M6 and M5 Ultra for a big leap in performance and AI compute\nM6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, a",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "0e1940ab31fb95ee9a56b854c1328cb977a49d5b",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": "Apple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nApple debuted M6 in the new Mac mini and M5 Ultra in the new Mac Studio, providing an extraordinary leap in performance and AI capabilities.\nText of this article\nAugust 25, 2026\nPRESS RELEASE\nApple introduces M6 and M5 Ultra for a big leap in performance and AI compute\nM6, Apple’s first 2 nm chip, features a larger, more powerful 12-core CPU, 12-core GPU, a",
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T13:01:22Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9945,
-        "story_heat": 0.75
       },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T13:01:22Z",
-      "latest_at": "2026-08-25T14:05:00.603000Z",
-      "primary_item": {
-        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_en": null,
-        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-        "recommend_reason_zh": null,
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "4-bit量化反超全精度，有开源就值得试，省显存还提精度。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -289,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.816,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -319,6 +505,14 @@
         "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全对抗与日常开发无关，但提示了AI被滥用的现实风险。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -366,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.816,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -396,6 +590,14 @@
         "url": "https://huggingface.co/blog/gradio-workflow-guide",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 76,
+      "persona_review": "Gradio 官方工作流指南，照着搭能省调试时间，适合快速部署演示。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -443,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -472,6 +674,14 @@
         "url": "https://www.aibase.com/news/30607",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "路线图而已，模型10月才亮相，现在不用动手，等接口出了再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -519,15 +729,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9847,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -547,119 +757,14 @@
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
         "source": "Apple：Newsroom（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_929ed190248c",
-      "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "primary_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-          "recommend_reason_zh": "本文探访OpenAI前沿实验室，报道其打造覆盖一切的AI代理，推动它们从软件工程师走向普通大众，并探讨未来人人都会使用的可能性。",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:00Z"
-        },
-        {
-          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "summary": null,
-          "recommend_reason_zh": "本文深入OpenAI前沿实验室，报道其打造覆盖一切的AI代理，并推动这些AI代理从软件工程师走向普通大众。重点探讨：这种全能代理，真的会被所有人用上吗？",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-24T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-          "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-          "recommend_reason_zh": "本文探访OpenAI前沿实验室，报道其打造覆盖一切的AI代理，推动它们从软件工程师走向普通大众，并探讨未来人人都会使用的可能性。",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-24T15:00:00Z"
-        },
-        {
-          "id": "fb1f0a2a15004e6ab87eb2dbad8fef8a656f7afa",
-          "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-          "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "title_original": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "summary": null,
-          "recommend_reason_zh": "本文深入OpenAI前沿实验室，报道其打造覆盖一切的AI代理，并推动这些AI代理从软件工程师走向普通大众。重点探讨：这种全能代理，真的会被所有人用上吗？",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-24T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-24T15:00:00Z",
-      "latest_at": "2026-08-24T15:00:00Z",
-      "primary_item": {
-        "id": "e2750c619f1c2b7cd0fd5107485707a151770103",
-        "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？ / OpenAI is building AI agents for everything. Will everyone use them？",
-        "title_zh": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-        "title_en": "OpenAI is building AI agents for everything. Will everyone use them？",
-        "title_original": "OpenAI is building AI agents for everything. Will everyone use them？",
-        "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-        "recommend_reason_zh": "本文探访OpenAI前沿实验室，报道其打造覆盖一切的AI代理，推动它们从软件工程师走向普通大众，并探讨未来人人都会使用的可能性。",
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "没有具体可用的产品细节，开发者先观望。",
+      "persona_score": 62,
+      "persona_review": "本地跑大模型有新硬件选项，但性价比要等实测，不急就等等。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T14:37:43.317167Z"
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -707,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,6 +841,14 @@
         "url": "https://www.aibase.com/news/30608",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "没有可用原型或数据，嘴上省成本不如看路测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -783,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,6 +925,14 @@
         "url": "https://www.aibase.com/news/30605",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "界面升级主要面向终端用户，开发者若不做集成无需行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -859,15 +980,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,6 +1009,14 @@
         "url": "https://www.aibase.com/news/30609",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "集成案例有参考价值，但无通用工具或API，暂不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -935,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,6 +1093,125 @@
         "url": "https://www.aibase.com/news/30604",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "纯AI音乐被卡，辅助工具仍可准入，做音乐AI的需调整定位。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
+      }
+    },
+    {
+      "story_id": "story_97f565872705",
+      "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "primary_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": "The M6 is Apple’s first 2nm chip.\nApple announced new M6 and M5 Ultra chips on Tuesday that will be available in a new Mac Mini and a new Mac Studio, respectively. They’ll be released on September 22nd.\nThe M6 is Apple’s first 2nm chip.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest ",
+          "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": null,
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": "The M6 is Apple’s first 2nm chip.\nApple announced new M6 and M5 Ultra chips on Tuesday that will be available in a new Mac Mini and a new Mac Studio, respectively. They’ll be released on September 22nd.\nThe M6 is Apple’s first 2nm chip.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest ",
+          "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6184,
+      "importance": 0.6184,
+      "importance_score": 0.6184,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.58,
+        "ai_relevance": 0.7,
+        "recency": 0.9702,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-25T13:00:00Z",
+      "latest_at": "2026-08-25T13:00:00Z",
+      "primary_item": {
+        "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+        "title": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_zh": null,
+        "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "新芯片刚有传闻，等真机评测再决定买不买，现有M5够用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1011,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9156,
+        "recency": 0.9023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,6 +1288,14 @@
         "url": "https://www.aibase.com/news/30603",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "明年才开售，现在买不到，等真机评测再决定要不要关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1087,21 +1343,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9047,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T07:08:28.407599Z",
       "latest_at": "2026-08-25T07:08:28.407599Z",
@@ -1116,6 +1371,14 @@
         "url": "https://www.aibase.com/news/30602",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "贴纸功能是娱乐向更新，不涉及API或开发工具，从业者无需关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1221,15 +1484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9321,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1249,78 +1512,86 @@
         "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward",
         "source": "blog.archive.org",
         "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "考古文，不是工具文；怀念可以，别指望有能抄的代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
-      "story_id": "story_77e205d8388b",
-      "title": "The state of AI in 2026: On the road to ROI",
-      "url": "https://news.ycombinator.com/item?id=49433759",
-      "primary_url": "https://news.ycombinator.com/item?id=49433759",
+      "story_id": "story_8acadb205621",
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://news.ycombinator.com/item?id=49434291",
+      "primary_url": "https://news.ycombinator.com/item?id=49434291",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
-          "title": "The state of AI in 2026: On the road to ROI",
+          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
           "title_zh": null,
-          "title_en": "The state of AI in 2026: On the road to ROI",
-          "title_original": "The state of AI in 2026: On the road to ROI",
-          "summary": "People think they can do it themself... kind of like how everyone build their own database using Microsoft Access in the 90's. When all software developers needed to repair all the issues...\nreply\nreply\nreply\nreply\nreply\nIt is far more plausible that we'll see that pattern again - small, department-level vibe coded apps will be around. And things that need to scale bigger will need professionals.\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nDo t",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49433759",
+          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
+          "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
+          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
+          "url": "https://news.ycombinator.com/item?id=49434291",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T14:05:00.603000Z"
+          "published_at": "2026-08-25T15:06:08.849000Z"
         },
         {
-          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
-          "title": "The state of AI in 2026: On the road to ROI",
+          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
+          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
           "title_zh": null,
-          "title_en": "The state of AI in 2026: On the road to ROI",
-          "title_original": "The state of AI in 2026: On the road to ROI",
+          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-          "source": "Hacker News",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T13:32:52Z"
+          "published_at": "2026-08-25T09:11:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Business Insider",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
-          "title": "The state of AI in 2026: On the road to ROI",
+          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
+          "title": "Anthropic tells staff to work from home due to possible security team strike",
           "title_zh": null,
-          "title_en": "The state of AI in 2026: On the road to ROI",
-          "title_original": "The state of AI in 2026: On the road to ROI",
-          "summary": "People think they can do it themself... kind of like how everyone build their own database using Microsoft Access in the 90's. When all software developers needed to repair all the issues...\nreply\nreply\nreply\nreply\nreply\nIt is far more plausible that we'll see that pattern again - small, department-level vibe coded apps will be around. And things that need to scale bigger will need professionals.\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nDo t",
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49433759",
+          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
+          "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
+          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
+          "url": "https://news.ycombinator.com/item?id=49434291",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-25T14:05:00.603000Z"
+          "published_at": "2026-08-25T15:06:08.849000Z"
         },
         {
-          "id": "34002ddc76b1ecc8265a5e979ce34705d680104e",
-          "title": "The state of AI in 2026: On the road to ROI",
+          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
+          "title": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
           "title_zh": null,
-          "title_en": "The state of AI in 2026: On the road to ROI",
-          "title_original": "The state of AI in 2026: On the road to ROI",
+          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
+          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
-          "source": "Hacker News",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-25T13:32:52Z"
+          "published_at": "2026-08-25T09:11:11Z"
         }
       ],
       "item_count": 2,
@@ -1340,19 +1611,27 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-25T13:32:52Z",
-      "latest_at": "2026-08-25T14:05:00.603000Z",
+      "earliest_at": "2026-08-25T09:11:11Z",
+      "latest_at": "2026-08-25T15:06:08.849000Z",
       "primary_item": {
-        "id": "9ea5196edfe45f6591a7183c877eddb48c20af39",
-        "title": "The state of AI in 2026: On the road to ROI",
+        "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
+        "title": "Anthropic tells staff to work from home due to possible security team strike",
         "title_zh": null,
-        "title_en": "The state of AI in 2026: On the road to ROI",
-        "title_original": "The state of AI in 2026: On the road to ROI",
-        "summary": "People think they can do it themself... kind of like how everyone build their own database using Microsoft Access in the 90's. When all software developers needed to repair all the issues...\nreply\nreply\nreply\nreply\nreply\nIt is far more plausible that we'll see that pattern again - small, department-level vibe coded apps will be around. And things that need to scale bigger will need professionals.\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nDo t",
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49433759",
+        "title_en": "Anthropic tells staff to work from home due to possible security team strike",
+        "title_original": "Anthropic tells staff to work from home due to possible security team strike",
+        "summary": "reply\nreply\nIs it? In Portuguese it's thousand, million, billion, trillion... (Milhar, milhão, bilhão, trilhão, ...)\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n- You're absolutely right!\nreply\nreply\nreply\nreply\nSupport SEIU organizing them (their fighting the good fight in this case), but this specific article is clickbait.\nreply\nreply\nreply\nAllied United is one of the larger security augmentation firms in the nation, which makes is harder. For example, my Alma",
+        "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
+        "url": "https://news.ycombinator.com/item?id=49434291",
         "source": "hackernews",
         "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "安全团队罢工影响的是Anthropic内部，API照常，开发者不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1392,7 +1671,7 @@
           "published_at": "2026-08-24T19:45:32.451000Z"
         },
         {
-          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
+          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
           "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
           "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
           "title_en": "LLMs could control their host machines by exploiting inference engines",
@@ -1400,15 +1679,15 @@
           "summary": null,
           "recommend_reason_zh": "本文揭示恶意LLM借vLLM的CVE-2025-9141（Qwen3 Coder解析器误将参数交给eval）控制宿主机，并分析200多种模型架构扩大攻击面。",
           "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T19:03:06Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "boydkane.com",
         "hackernews"
       ],
@@ -1442,7 +1721,7 @@
           "published_at": "2026-08-24T19:45:32.451000Z"
         },
         {
-          "id": "31a32bf26e7b09bdb44e1aa8b21319ee13334835",
+          "id": "b564d7c8242be50852b21c315100aee0bbf5704e",
           "title": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器 / LLMs could control their host machines by exploiting inference engines",
           "title_zh": "大型语言模型（LLMs）可能通过利用推理引擎来控制其宿主机器",
           "title_en": "LLMs could control their host machines by exploiting inference engines",
@@ -1450,23 +1729,23 @@
           "summary": null,
           "recommend_reason_zh": "本文揭示恶意LLM借vLLM的CVE-2025-9141（Qwen3 Coder解析器误将参数交给eval）控制宿主机，并分析200多种模型架构扩大攻击面。",
           "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-24T19:03:06Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8528,
+        "recency": 0.8403,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1486,6 +1765,14 @@
         "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "source": "boydkane.com",
         "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "理论探讨，暂无实际利用价值，等 PoC 再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1533,21 +1820,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9047,
+        "recency": 0.8915,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T07:08:28.407599Z",
       "latest_at": "2026-08-25T07:08:28.407599Z",
@@ -1562,6 +1848,14 @@
         "url": "https://www.aibase.com/news/30600",
         "source": "AIbase",
         "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "GPT-5.6还没影，Kiro集成存疑，等官方API或开源再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     },
     {
@@ -1667,15 +1961,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7566,
+        "recency": 0.7455,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1702,252 +1996,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T14:37:43.317167Z"
-      }
-    },
-    {
-      "story_id": "story_5c02918da695",
-      "title": "对人工智能的依赖将导致编程专业技能的崩溃",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "primary_url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "source": "larsfaye.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c470d353470cd4b0179cc9faf74c3c1e425922ff",
-          "title": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_en": null,
-          "title_original": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "summary": null,
-          "recommend_reason_zh": "本文引用JetBrains引述的研究指出，新手在AI辅助编程时误以为有私人导师，实则技能学习受损，揭示依赖AI导致专业能力崩溃的悖论。",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "larsfaye.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T18:45:40.784000Z"
-        },
-        {
-          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
-          "title": "依赖AI将导致编程专业技能崩溃 / Coding expertise is going to collapse from AI reliance",
-          "title_zh": "依赖AI将导致编程专业技能崩溃",
-          "title_en": "Coding expertise is going to collapse from AI reliance",
-          "title_original": "Coding expertise is going to collapse from AI reliance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49421554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T16:37:31.237000Z"
-        },
-        {
-          "id": "279aab2d3ea86f8c4dc98fed09a833b4aac60148",
-          "title": "对人工智能的依赖将导致编程专业技能的崩溃 / Coding expertise is going to collapse from AI reliance",
-          "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_en": "Coding expertise is going to collapse from AI reliance",
-          "title_original": "Coding expertise is going to collapse from AI reliance",
-          "summary": null,
-          "recommend_reason_zh": "JetBrains对初级开发者的实测显示，AI工具并未如参与者所想般充当私人导师；文章由此论证，依赖AI编码会绕开培养专长的摩擦过程，导致编程专长崩溃，新手陷入既需专家技能又被工具削弱技能的悖论。",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T15:52:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "larsfaye.com"
-      ],
-      "items": [
-        {
-          "id": "c470d353470cd4b0179cc9faf74c3c1e425922ff",
-          "title": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_en": null,
-          "title_original": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "summary": null,
-          "recommend_reason_zh": "本文引用JetBrains引述的研究指出，新手在AI辅助编程时误以为有私人导师，实则技能学习受损，揭示依赖AI导致专业能力崩溃的悖论。",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "larsfaye.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-24T18:45:40.784000Z"
-        },
-        {
-          "id": "5082ceb7eea1e01210cb70497d2dc0d6efe7da39",
-          "title": "依赖AI将导致编程专业技能崩溃 / Coding expertise is going to collapse from AI reliance",
-          "title_zh": "依赖AI将导致编程专业技能崩溃",
-          "title_en": "Coding expertise is going to collapse from AI reliance",
-          "title_original": "Coding expertise is going to collapse from AI reliance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49421554",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T16:37:31.237000Z"
-        },
-        {
-          "id": "279aab2d3ea86f8c4dc98fed09a833b4aac60148",
-          "title": "对人工智能的依赖将导致编程专业技能的崩溃 / Coding expertise is going to collapse from AI reliance",
-          "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
-          "title_en": "Coding expertise is going to collapse from AI reliance",
-          "title_original": "Coding expertise is going to collapse from AI reliance",
-          "summary": null,
-          "recommend_reason_zh": "JetBrains对初级开发者的实测显示，AI工具并未如参与者所想般充当私人导师；文章由此论证，依赖AI编码会绕开培养专长的摩擦过程，导致编程专长崩溃，新手陷入既需专家技能又被工具削弱技能的悖论。",
-          "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-24T15:52:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7566,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T15:52:33Z",
-      "latest_at": "2026-08-24T18:45:40.784000Z",
-      "primary_item": {
-        "id": "c470d353470cd4b0179cc9faf74c3c1e425922ff",
-        "title": "对人工智能的依赖将导致编程专业技能的崩溃",
-        "title_zh": "对人工智能的依赖将导致编程专业技能的崩溃",
-        "title_en": null,
-        "title_original": "对人工智能的依赖将导致编程专业技能的崩溃",
-        "summary": null,
-        "recommend_reason_zh": "本文引用JetBrains引述的研究指出，新手在AI辅助编程时误以为有私人导师，实则技能学习受损，揭示依赖AI导致专业能力崩溃的悖论。",
-        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "source": "larsfaye.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "观点文不产生代码，担心技能退化不如多写两行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-25T14:37:43.317167Z"
-      }
-    },
-    {
-      "story_id": "story_18ba3e730a24",
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://news.ycombinator.com/item?id=49432879",
-      "primary_url": "https://news.ycombinator.com/item?id=49432879",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "24620e97f3bd839f953aa50068fe7a0533dbf434",
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_zh": null,
-          "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_original": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49432879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T13:01:56.470000Z"
-        },
-        {
-          "id": "e044be3b447d0663b93fa66ab0b3b323250c94ce",
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_zh": null,
-          "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_original": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T12:33:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "24620e97f3bd839f953aa50068fe7a0533dbf434",
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_zh": null,
-          "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_original": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49432879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T13:01:56.470000Z"
-        },
-        {
-          "id": "e044be3b447d0663b93fa66ab0b3b323250c94ce",
-          "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_zh": null,
-          "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "title_original": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T12:33:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T12:33:00Z",
-      "latest_at": "2026-08-25T13:01:56.470000Z",
-      "primary_item": {
-        "id": "24620e97f3bd839f953aa50068fe7a0533dbf434",
-        "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-        "title_zh": null,
-        "title_en": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-        "title_original": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49432879",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "scored_at": "2026-08-25T15:32:27.826483Z"
       }
     }
   ]
