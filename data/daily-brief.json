@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:50:25.664446Z",
+  "generated_at": "2026-08-26T07:09:10.938810Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8876,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.831,
+      "importance": 0.831,
+      "importance_score": 0.831,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8099,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8687,
+        "recency": 0.8524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,122 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
-      }
-    },
-    {
-      "story_id": "story_b95e33dbd1e9",
-      "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "primary_url": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
-          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T07:00:00Z"
-        },
-        {
-          "id": "41a3b35044428ad51fdf46c06a544e2679420c47",
-          "title": "Jalapeño 的结果显示，其 AI 推理速度和效率处于行业领先水平。 / Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_zh": "Jalapeño 的结果显示，其 AI 推理速度和效率处于行业领先水平。",
-          "title_en": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测显示，在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能提高2.1至4.1倍。",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:33:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
-          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T07:00:00Z"
-        },
-        {
-          "id": "41a3b35044428ad51fdf46c06a544e2679420c47",
-          "title": "Jalapeño 的结果显示，其 AI 推理速度和效率处于行业领先水平。 / Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_zh": "Jalapeño 的结果显示，其 AI 推理速度和效率处于行业领先水平。",
-          "title_en": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测显示，在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能提高2.1至4.1倍。",
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:33:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.719,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:00:00Z",
-      "latest_at": "2026-08-25T14:33:46Z",
-      "primary_item": {
-        "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-        "title": "Jalapeño 首批结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "title_zh": "Jalapeño 首批结果：AI 推理速度与效率行业领先",
-        "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI自研推理芯片Jalapeño实测数据亮眼：在GPT-OSS 120B、DeepSeek R1、Kimi K2.5 1T上，每瓦AI工作量提升1.5至1.9倍，端到端延迟降低1.7至3.6倍，交互负载性能达2.1至4.1倍。",
-        "url": "https://openai.com/index/jalapeno-first-results",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "只是官方晒基准，没有 API 和开源，暂时用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -418,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8188,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -590,15 +475,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7921,
+        "recency": 0.7772,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -627,7 +512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -675,15 +560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8073,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -760,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8204,
-      "importance": 0.8204,
-      "importance_score": 0.8204,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8687,
+        "recency": 0.8524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -797,115 +682,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
-      "story_id": "story_6e67842f0f7e",
-      "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "primary_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c11537df89677eb075157ecdbf835a264160de84",
-          "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
-          "title_zh": "海量智能背后的全栈技术",
-          "title_en": "The full stack behind abundant intelligence",
-          "title_original": "The full stack behind abundant intelligence",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T07:05:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c11537df89677eb075157ecdbf835a264160de84",
-          "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
-          "title_zh": "海量智能背后的全栈技术",
-          "title_en": "The full stack behind abundant intelligence",
-          "title_original": "The full stack behind abundant intelligence",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T07:05:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7199,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:05:00Z",
-      "latest_at": "2026-08-25T07:05:00Z",
-      "primary_item": {
-        "id": "c11537df89677eb075157ecdbf835a264160de84",
-        "title": "海量智能背后的全栈技术 / The full stack behind abundant intelligence",
-        "title_zh": "海量智能背后的全栈技术",
-        "title_en": "The full stack behind abundant intelligence",
-        "title_original": "The full stack behind abundant intelligence",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI CFO Sarah Friar详解自研推理芯片Jalapeño实测：在InferenceX基准上处理GPT-OSS 120B，每千瓦峰值吞吐更高、token延迟更低，并兼顾DeepSeek R1和Kimi K2。",
-        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "讲了基础设施思路，没有新工具，暂不用行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
-      }
-    },
-    {
-      "story_id": "story_5ea876d9989b",
-      "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-      "url": "https://www.aibase.com/news/30628",
-      "primary_url": "https://www.aibase.com/news/30628",
+      "story_id": "story_c1e51b9fd34f",
+      "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+      "url": "https://www.aibase.com/news/30632",
+      "primary_url": "https://www.aibase.com/news/30632",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "title_zh": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
+          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
           "title_en": null,
-          "title_original": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "summary": null,
-          "recommend_reason_zh": "xAI为Grok Bot新增模板共享、多账户切换及Chrome导入功能，模板支持一键分享与复用预设角色。Grok Bot于8月11日公测，8月21日扩展到SuperGrok Plus（$100/月）与Cursor Pro+订阅者，持续完善企业级Agent生态。",
-          "url": "https://www.aibase.com/news/30628",
+          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "summary": "Recently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nExplore AI Fronti",
+          "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
+          "url": "https://www.aibase.com/news/30632",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
+          "published_at": "2026-08-26T07:09:10.938810Z"
         }
       ],
       "source_count": 1,
@@ -914,31 +714,31 @@
       ],
       "items": [
         {
-          "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-          "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "title_zh": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
+          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
           "title_en": null,
-          "title_original": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-          "summary": null,
-          "recommend_reason_zh": "xAI为Grok Bot新增模板共享、多账户切换及Chrome导入功能，模板支持一键分享与复用预设角色。Grok Bot于8月11日公测，8月21日扩展到SuperGrok Plus（$100/月）与Cursor Pro+订阅者，持续完善企业级Agent生态。",
-          "url": "https://www.aibase.com/news/30628",
+          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+          "summary": "Recently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nExplore AI Fronti",
+          "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
+          "url": "https://www.aibase.com/news/30632",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
+          "published_at": "2026-08-26T07:09:10.938810Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9871,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -946,27 +746,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T04:56:28.890980Z",
-      "latest_at": "2026-08-26T04:56:28.890980Z",
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
       "primary_item": {
-        "id": "43097d1d0b498c334c16b60a6661514cfde4d50d",
-        "title": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-        "title_zh": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
+        "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
+        "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+        "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
         "title_en": null,
-        "title_original": "xAI深化Grok Bot功能演进:将支持模板共享、多账户切换与网络出口路由",
-        "summary": null,
-        "recommend_reason_zh": "xAI为Grok Bot新增模板共享、多账户切换及Chrome导入功能，模板支持一键分享与复用预设角色。Grok Bot于8月11日公测，8月21日扩展到SuperGrok Plus（$100/月）与Cursor Pro+订阅者，持续完善企业级Agent生态。",
-        "url": "https://www.aibase.com/news/30628",
+        "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
+        "summary": "Recently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nRecently, Jiemeng AI officially launched the film and television content brand \"Jiemeng Studio,\" offering support for long-form AI film and series projects to c\nExplore AI Fronti",
+        "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
+        "url": "https://www.aibase.com/news/30632",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "功能还在规划中，等真开放了再上手，现在不用动。",
+      "persona_score": 50,
+      "persona_review": "S级扶持门槛高，普通开发者蹭不上，做影视项目的可留意申报。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1014,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7691,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1051,7 +851,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1099,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8508,
+        "recency": 0.8348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1136,7 +936,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
+      }
+    },
+    {
+      "story_id": "story_4d241a9569b8",
+      "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+      "url": "https://www.aibase.com/news/30631",
+      "primary_url": "https://www.aibase.com/news/30631",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
+          "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "title_en": null,
+          "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "summary": "According to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nExplore AI Fronti",
+          "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
+          "url": "https://www.aibase.com/news/30631",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
+          "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "title_en": null,
+          "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+          "summary": "According to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nExplore AI Fronti",
+          "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
+          "url": "https://www.aibase.com/news/30631",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
+      "primary_item": {
+        "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
+        "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+        "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+        "title_en": null,
+        "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
+        "summary": "According to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nAccording to reports, SoftBank Group is in talks with investment banks to issue bonds worth $10 billion to $20 billion to help refinance its loans related to in\nExplore AI Fronti",
+        "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
+        "url": "https://www.aibase.com/news/30631",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "资本运作不写代码，等看钱投到哪再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1184,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8144,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,91 +1103,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
-      }
-    },
-    {
-      "story_id": "story_11bec0384688",
-      "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-      "url": "https://www.aibase.com/news/30629",
-      "primary_url": "https://www.aibase.com/news/30629",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
-          "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "title_zh": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "title_en": null,
-          "title_original": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "summary": null,
-          "recommend_reason_zh": "汤道生8月25日在腾讯内部刊物发文，承认算力不足拖累混元大模型迭代，但强调AI竞争是马拉松，熬得久比起得早更重要。",
-          "url": "https://www.aibase.com/news/30629",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
-          "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "title_zh": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "title_en": null,
-          "title_original": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-          "summary": null,
-          "recommend_reason_zh": "汤道生8月25日在腾讯内部刊物发文，承认算力不足拖累混元大模型迭代，但强调AI竞争是马拉松，熬得久比起得早更重要。",
-          "url": "https://www.aibase.com/news/30629",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T04:56:28.890980Z",
-      "latest_at": "2026-08-26T04:56:28.890980Z",
-      "primary_item": {
-        "id": "ff8054689882d8afe563c059cfc2ade52b2a827c",
-        "title": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-        "title_zh": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-        "title_en": null,
-        "title_original": "汤道生内部发文回应\"腾讯 AI 慢了\"：竞争是马拉松，熬得久比起得早更重要",
-        "summary": null,
-        "recommend_reason_zh": "汤道生8月25日在腾讯内部刊物发文，承认算力不足拖累混元大模型迭代，但强调AI竞争是马拉松，熬得久比起得早更重要。",
-        "url": "https://www.aibase.com/news/30629",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "口水战回应不写代码，等有产品再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1351,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8388,
+        "recency": 0.8231,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1388,7 +1188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1436,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8461,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1471,7 +1271,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
@@ -1519,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1554,30 +1354,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
-      "story_id": "story_932822d6d7e0",
-      "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-      "url": "https://www.aibase.com/news/30630",
-      "primary_url": "https://www.aibase.com/news/30630",
+      "story_id": "story_8189acba560d",
+      "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+      "url": "https://www.aibase.com/news/30634",
+      "primary_url": "https://www.aibase.com/news/30634",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "416dfa02ba27fee16ac0d6f6579414103dbd6765",
-          "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-          "title_zh": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
+          "id": "b8bf181cf0d5e1aabf2181be8a267dcf2ad97b5e",
+          "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+          "title_zh": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
           "title_en": null,
-          "title_original": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-          "summary": null,
-          "recommend_reason_zh": "M6芯片首秀2纳米制程，配备双16核神经引擎，在LM Studio中处理大模型提示速度比M1快13.5倍、比M4快4.8倍；M5 Ultra四Die架构则专为极限AI负载打造。",
-          "url": "https://www.aibase.com/news/30630",
+          "title_original": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+          "summary": "Stanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nExplore AI Fronti",
+          "recommend_reason_zh": "斯坦福Digital Economy Lab基于ADP数百万美国工人数据发现，生成式AI冲击集中在22-25岁职场新人，高影响岗位就业率落后约19%（2025年仅13%），资深员工就业反而稳定，高等教育成缓冲阀。",
+          "url": "https://www.aibase.com/news/30634",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
+          "published_at": "2026-08-26T07:09:10.938810Z"
         }
       ],
       "source_count": 1,
@@ -1586,31 +1386,31 @@
       ],
       "items": [
         {
-          "id": "416dfa02ba27fee16ac0d6f6579414103dbd6765",
-          "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-          "title_zh": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
+          "id": "b8bf181cf0d5e1aabf2181be8a267dcf2ad97b5e",
+          "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+          "title_zh": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
           "title_en": null,
-          "title_original": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-          "summary": null,
-          "recommend_reason_zh": "M6芯片首秀2纳米制程，配备双16核神经引擎，在LM Studio中处理大模型提示速度比M1快13.5倍、比M4快4.8倍；M5 Ultra四Die架构则专为极限AI负载打造。",
-          "url": "https://www.aibase.com/news/30630",
+          "title_original": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+          "summary": "Stanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nExplore AI Fronti",
+          "recommend_reason_zh": "斯坦福Digital Economy Lab基于ADP数百万美国工人数据发现，生成式AI冲击集中在22-25岁职场新人，高影响岗位就业率落后约19%（2025年仅13%），资深员工就业反而稳定，高等教育成缓冲阀。",
+          "url": "https://www.aibase.com/news/30634",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T04:56:28.890980Z"
+          "published_at": "2026-08-26T07:09:10.938810Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9871,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1618,195 +1418,390 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T04:56:28.890980Z",
-      "latest_at": "2026-08-26T04:56:28.890980Z",
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
       "primary_item": {
-        "id": "416dfa02ba27fee16ac0d6f6579414103dbd6765",
-        "title": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-        "title_zh": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
+        "id": "b8bf181cf0d5e1aabf2181be8a267dcf2ad97b5e",
+        "title": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+        "title_zh": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
         "title_en": null,
-        "title_original": "苹果王炸芯片登场！M6首秀2纳米，M5 Ultra四Die架构狂飙AI极限",
-        "summary": null,
-        "recommend_reason_zh": "M6芯片首秀2纳米制程，配备双16核神经引擎，在LM Studio中处理大模型提示速度比M1快13.5倍、比M4快4.8倍；M5 Ultra四Die架构则专为极限AI负载打造。",
-        "url": "https://www.aibase.com/news/30630",
+        "title_original": "斯坦福研究：22~25 岁职场新人受 AI 冲击最大，高等教育成缓冲阀",
+        "summary": "Stanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nStanford Digital Economy Lab updated a paper on August 12, using high-frequency data from payroll service ADP covering millions of American workers to reveal th\nExplore AI Fronti",
+        "recommend_reason_zh": "斯坦福Digital Economy Lab基于ADP数百万美国工人数据发现，生成式AI冲击集中在22-25岁职场新人，高影响岗位就业率落后约19%（2025年仅13%），资深员工就业反而稳定，高等教育成缓冲阀。",
+        "url": "https://www.aibase.com/news/30634",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "对择业有点参考，但没具体工具或对策，看完该干嘛干嘛。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T07:39:32.682990Z"
+      }
+    },
+    {
+      "story_id": "story_f345affd90c8",
+      "title": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+      "url": "https://www.aibase.com/news/30636",
+      "primary_url": "https://www.aibase.com/news/30636",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "808e5a61f07219da81f28f5b9f00fdb9eedb551b",
+          "title": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "title_zh": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "title_en": null,
+          "title_original": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "summary": "AI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nExplore AI Fronti",
+          "recommend_reason_zh": "Manus宣告服务全面恢复，数据恢复功能正式开放且无时间限制，并为受此前故障影响的账号提供回归奖励，同时升级了恢复系统处理能力。",
+          "url": "https://www.aibase.com/news/30636",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "808e5a61f07219da81f28f5b9f00fdb9eedb551b",
+          "title": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "title_zh": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "title_en": null,
+          "title_original": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+          "summary": "AI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nExplore AI Fronti",
+          "recommend_reason_zh": "Manus宣告服务全面恢复，数据恢复功能正式开放且无时间限制，并为受此前故障影响的账号提供回归奖励，同时升级了恢复系统处理能力。",
+          "url": "https://www.aibase.com/news/30636",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
+      "primary_item": {
+        "id": "808e5a61f07219da81f28f5b9f00fdb9eedb551b",
+        "title": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+        "title_zh": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+        "title_en": null,
+        "title_original": "服务恢复后再发福利，Manus开放数据恢复并推出回归奖励",
+        "summary": "AI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nAI Assistant Platform Manus announced today that the platform services have been fully restored and are running stably, and the data recovery feature is now off\nExplore AI Fronti",
+        "recommend_reason_zh": "Manus宣告服务全面恢复，数据恢复功能正式开放且无时间限制，并为受此前故障影响的账号提供回归奖励，同时升级了恢复系统处理能力。",
+        "url": "https://www.aibase.com/news/30636",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "服务恢复后的补偿措施，无关工具能力，看看就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T07:39:32.682990Z"
+      }
+    },
+    {
+      "story_id": "story_2fe9fa794256",
+      "title": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+      "url": "https://www.aibase.com/news/30633",
+      "primary_url": "https://www.aibase.com/news/30633",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c63d0b1a0d899872b1ae54698e2a42a64230bf9f",
+          "title": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "title_zh": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "title_en": null,
+          "title_original": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "summary": "At a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nExplore AI Fronti",
+          "recommend_reason_zh": "MIIT在国新办发布会上披露，中国开源大模型全球累计下载量已超100亿次，这一数字印证了国产AI在开源生态中的影响力与落地规模。",
+          "url": "https://www.aibase.com/news/30633",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c63d0b1a0d899872b1ae54698e2a42a64230bf9f",
+          "title": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "title_zh": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "title_en": null,
+          "title_original": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+          "summary": "At a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nExplore AI Fronti",
+          "recommend_reason_zh": "MIIT在国新办发布会上披露，中国开源大模型全球累计下载量已超100亿次，这一数字印证了国产AI在开源生态中的影响力与落地规模。",
+          "url": "https://www.aibase.com/news/30633",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
+      "primary_item": {
+        "id": "c63d0b1a0d899872b1ae54698e2a42a64230bf9f",
+        "title": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+        "title_zh": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+        "title_en": null,
+        "title_original": "百亿次下载！中国人工智能开源大模型交出亮眼“十五五”开局答卷",
+        "summary": "At a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nAt a press conference held today by the State Council Information Office on the theme of \"Laying a Solid Foundation for the 14th Five-Year Plan,\" officials from\nExplore AI Fronti",
+        "recommend_reason_zh": "MIIT在国新办发布会上披露，中国开源大模型全球累计下载量已超100亿次，这一数字印证了国产AI在开源生态中的影响力与落地规模。",
+        "url": "https://www.aibase.com/news/30633",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "宏观成绩单，与今天写代码无关，等具体模型发布再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T07:39:32.682990Z"
+      }
+    },
+    {
+      "story_id": "story_dc2274af9c69",
+      "title": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+      "url": "https://www.aibase.com/news/30635",
+      "primary_url": "https://www.aibase.com/news/30635",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e9c88959c055a8034f6e8a129c48a8db41254083",
+          "title": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "title_zh": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "title_en": null,
+          "title_original": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "summary": "recently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nExplore AI Frontiers",
+          "recommend_reason_zh": "Tang Daosheng在《Running with AI》中回应腾讯AI“步调偏慢”质疑，称大模型竞赛是马拉松，下半场刚开始，并以Nokia和BlackBerry为例提醒先发未必胜出。",
+          "url": "https://www.aibase.com/news/30635",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e9c88959c055a8034f6e8a129c48a8db41254083",
+          "title": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "title_zh": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "title_en": null,
+          "title_original": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+          "summary": "recently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nExplore AI Frontiers",
+          "recommend_reason_zh": "Tang Daosheng在《Running with AI》中回应腾讯AI“步调偏慢”质疑，称大模型竞赛是马拉松，下半场刚开始，并以Nokia和BlackBerry为例提醒先发未必胜出。",
+          "url": "https://www.aibase.com/news/30635",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T07:09:10.938810Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T07:09:10.938810Z",
+      "latest_at": "2026-08-26T07:09:10.938810Z",
+      "primary_item": {
+        "id": "e9c88959c055a8034f6e8a129c48a8db41254083",
+        "title": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+        "title_zh": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+        "title_en": null,
+        "title_original": "直面腾讯AI“步调偏慢”质疑，汤道生交出大模型下半场长跑底牌",
+        "summary": "recently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nrecently, Tang Daosheng, Senior Executive Vice President of Tencent Group and CEO of the Cloud and Intelligent Industry Business Group, published a signed arti\nExplore AI Frontiers",
+        "recommend_reason_zh": "Tang Daosheng在《Running with AI》中回应腾讯AI“步调偏慢”质疑，称大模型竞赛是马拉松，下半场刚开始，并以Nokia和BlackBerry为例提醒先发未必胜出。",
+        "url": "https://www.aibase.com/news/30635",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "苹果芯片再强，AI训练主流还是NVIDIA，本地推理可等实机上市再考虑。",
+      "persona_review": "高管表态无新货，等具体产品和接口出来再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     },
     {
-      "story_id": "story_ca9e0be58fae",
-      "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-      "url": "https://www.aibase.com/news/30627",
-      "primary_url": "https://www.aibase.com/news/30627",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_97f565872705",
+      "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "primary_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-          "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_en": null,
-          "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "summary": null,
-          "recommend_reason_zh": "Stability AI完成7600万美元B轮融资，EA与Sony Music、Universal Music、Warner Music三大唱片及AMD风投共同押注，印证AI公司与内容版权方从对抗走向共存。",
-          "url": "https://www.aibase.com/news/30627",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:18:51.028094Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple新款M6芯片配备更多核心，AI算力更强 / Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片配备更多核心，AI算力更强",
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-          "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_en": null,
-          "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
+          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+          "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
+          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
           "summary": null,
-          "recommend_reason_zh": "Stability AI完成7600万美元B轮融资，EA与Sony Music、Universal Music、Warner Music三大唱片及AMD风投共同押注，印证AI公司与内容版权方从对抗走向共存。",
-          "url": "https://www.aibase.com/news/30627",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:18:51.028094Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-25T13:00:00Z"
+        },
+        {
+          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
+          "title": "Apple新款M6芯片配备更多核心，AI算力更强 / Apple’s new M6 chip gets more cores and more AI compute",
+          "title_zh": "Apple新款M6芯片配备更多核心，AI算力更强",
+          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
+          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
+          "summary": null,
+          "recommend_reason_zh": "Apple发布首款2nm的M6芯片，配备12核CPU、12核GPU与双16核神经引擎，支持32GB内存；同时“最强大”M5 Ultra最多80核GPU、512GB内存，随新Mac Studio于9月22日发售。",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-25T13:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5823,
+      "importance": 0.5823,
+      "importance_score": 0.5823,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9642,
-        "story_heat": 0.0
+        "editorial": 0.504,
+        "source_tier": 0.58,
+        "ai_relevance": 0.7,
+        "recency": 0.7694,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-26T03:18:51.028094Z",
-      "latest_at": "2026-08-26T03:18:51.028094Z",
+      "earliest_at": "2026-08-25T13:00:00Z",
+      "latest_at": "2026-08-25T13:00:00Z",
       "primary_item": {
-        "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-        "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-        "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-        "title_en": null,
-        "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
+        "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
+        "title": "Apple新款M6芯片核心更多，AI算力更强 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_zh": "Apple新款M6芯片核心更多，AI算力更强",
+        "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
+        "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
         "summary": null,
-        "recommend_reason_zh": "Stability AI完成7600万美元B轮融资，EA与Sony Music、Universal Music、Warner Music三大唱片及AMD风投共同押注，印证AI公司与内容版权方从对抗走向共存。",
-        "url": "https://www.aibase.com/news/30627",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "融资新闻，不开放产品，跟开发者没关系。",
+      "persona_score": 50,
+      "persona_review": "芯片迭代对本地跑模型的开发者是利好，但没具体规格和发售日，不用急着换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
-      }
-    },
-    {
-      "story_id": "story_9910593f328e",
-      "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-      "url": "https://www.aibase.com/news/30625",
-      "primary_url": "https://www.aibase.com/news/30625",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "title_zh": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "title_en": null,
-          "title_original": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "summary": null,
-          "recommend_reason_zh": "Generalist估值达30亿美元，8VC领投2亿美元使B轮累计6亿美元；其1.5代模型让机器人观看3至12秒视频演示即可学会新任务，创始团队来自Google DeepMind与Boston Dynamics。",
-          "url": "https://www.aibase.com/news/30625",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:18:51.028094Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-          "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "title_zh": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "title_en": null,
-          "title_original": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-          "summary": null,
-          "recommend_reason_zh": "Generalist估值达30亿美元，8VC领投2亿美元使B轮累计6亿美元；其1.5代模型让机器人观看3至12秒视频演示即可学会新任务，创始团队来自Google DeepMind与Boston Dynamics。",
-          "url": "https://www.aibase.com/news/30625",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:18:51.028094Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9642,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T03:18:51.028094Z",
-      "latest_at": "2026-08-26T03:18:51.028094Z",
-      "primary_item": {
-        "id": "b61d57d1b1b12c8780f90dd26923afc3e8c95321",
-        "title": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-        "title_zh": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-        "title_en": null,
-        "title_original": "机器人初创公司 Generalist 完成新一轮融资，估值达30亿美元",
-        "summary": null,
-        "recommend_reason_zh": "Generalist估值达30亿美元，8VC领投2亿美元使B轮累计6亿美元；其1.5代模型让机器人观看3至12秒视频演示即可学会新任务，创始团队来自Google DeepMind与Boston Dynamics。",
-        "url": "https://www.aibase.com/news/30625",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "融资数字听听就行，没产品没接口，动手党无需关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T06:07:05.594803Z"
+        "scored_at": "2026-08-26T07:39:32.682990Z"
       }
     }
   ]
