@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:59:59.325090Z",
+  "generated_at": "2026-08-26T19:18:47.252973Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
           "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": null,
           "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nIn effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nIn effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nA pro-Israel messaging website badged with the name of a think",
+          "summary": null,
           "recommend_reason_zh": "这家不存在的“智库”Hanover Institute被曝9天内炮制124篇、超56万词报告，伪装成中立研究，目的是引导ChatGPT等聊天机器人亲以色列，其背后由Piro Inc为以色列政府分发内容。",
           "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
           "source": "www.theguardian.com",
@@ -96,7 +96,7 @@
           "title_zh": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
           "title_en": null,
           "title_original": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-          "summary": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nIn effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nIn effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows\nA pro-Israel messaging website badged with the name of a think",
+          "summary": null,
           "recommend_reason_zh": "这家不存在的“智库”Hanover Institute被曝9天内炮制124篇、超56万词报告，伪装成中立研究，目的是引导ChatGPT等聊天机器人亲以色列，其背后由Piro Inc为以色列政府分发内容。",
           "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
           "source": "www.theguardian.com",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.9274,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -203,13 +203,27 @@
           "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
           "title_en": null,
           "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "Qwen3.8-Flash-Next架构聚焦成本效益，正文详述Qwen Studio支持聊天、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及artifacts等综合功能。",
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
           "source": "qwen.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-26T14:05:28.714000Z"
+        },
+        {
+          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next",
+          "title_original": "Qwen3.8-Flash-Next",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "本篇内容聚焦Qwen Studio，涵盖聊天、图像视频理解、图像生成、文档处理、联网搜索、工具调用与artifacts，功能全面，值得一读。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
         },
         {
           "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
@@ -226,7 +240,7 @@
           "published_at": "2026-08-26T12:52:12Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
@@ -253,13 +267,27 @@
           "title_zh": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
           "title_en": null,
           "title_original": "Qwen3.8-Flash-Next：一种新架构，迈向极致的成本效益",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "Qwen3.8-Flash-Next架构聚焦成本效益，正文详述Qwen Studio支持聊天、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及artifacts等综合功能。",
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
           "source": "qwen.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-08-26T14:05:28.714000Z"
+        },
+        {
+          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next",
+          "title_original": "Qwen3.8-Flash-Next",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "本篇内容聚焦Qwen Studio，涵盖聊天、图像视频理解、图像生成、文档处理、联网搜索、工具调用与artifacts，功能全面，值得一读。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
         },
         {
           "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
@@ -276,18 +304,18 @@
           "published_at": "2026-08-26T12:52:12Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8587,
+      "importance": 0.8587,
+      "importance_score": 0.8587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
-        "story_heat": 0.5
+        "recency": 0.9063,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -315,7 +343,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_93586c9b901c",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "primary_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nAug 26, 2026\nOur latest speech-to-text model designed for precise and intelligent real-time transcription.\nDiego Melendo Casado\nSenior Director, Engineering, Gemini Audio\nLuke Leonhard\nChief of Staff, Gemini Audio, on behalf of Ge",
+          "recommend_reason_zh": "Google发布Gemini 3.5 Transcribe，相比前代Chirp 3，最终转录时间缩短70%，FLEURS基准非流式WER达5.04%，支持多说话人归因和词级时间戳，助力开发者构建语音助手、实时字幕等应用。",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T17:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nAug 26, 2026\nOur latest speech-to-text model designed for precise and intelligent real-time transcription.\nDiego Melendo Casado\nSenior Director, Engineering, Gemini Audio\nLuke Leonhard\nChief of Staff, Gemini Audio, on behalf of Ge",
+          "recommend_reason_zh": "Google发布Gemini 3.5 Transcribe，相比前代Chirp 3，最终转录时间缩短70%，FLEURS基准非流式WER达5.04%，支持多说话人归因和词级时间戳，助力开发者构建语音助手、实时字幕等应用。",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T17:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9674,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T17:01:00Z",
+      "latest_at": "2026-08-26T17:01:00Z",
+      "primary_item": {
+        "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+        "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+        "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nNow you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.\nAug 26, 2026\nOur latest speech-to-text model designed for precise and intelligent real-time transcription.\nDiego Melendo Casado\nSenior Director, Engineering, Gemini Audio\nLuke Leonhard\nChief of Staff, Gemini Audio, on behalf of Ge",
+        "recommend_reason_zh": "Google发布Gemini 3.5 Transcribe，相比前代Chirp 3，最终转录时间缩短70%，FLEURS基准非流式WER达5.04%，支持多说话人归因和词级时间戳，助力开发者构建语音助手、实时字幕等应用。",
+        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "实时转写多了个强选项，测下延迟和准确率再换不迟。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_6b30649509f4",
+      "title": "将ChatGPT for Teachers推广至更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+          "title": "将ChatGPT for Teachers推广至更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_zh": "将ChatGPT for Teachers推广至更多美国学区",
+          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nAugust 26, 2026\nNew partnerships with school di",
+          "recommend_reason_zh": "ChatGPT for Teachers扩展到55个美国学区、惠及超10万名教育工作者，并首推覆盖16州的数据隐私协议，助力K–12学校安全采用AI。",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+          "title": "将ChatGPT for Teachers推广至更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_zh": "将ChatGPT for Teachers推广至更多美国学区",
+          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nAugust 26, 2026\nNew partnerships with school di",
+          "recommend_reason_zh": "ChatGPT for Teachers扩展到55个美国学区、惠及超10万名教育工作者，并首推覆盖16州的数据隐私协议，助力K–12学校安全采用AI。",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T10:00:00Z",
+      "latest_at": "2026-08-26T10:00:00Z",
+      "primary_item": {
+        "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+        "title": "将ChatGPT for Teachers推广至更多美国学区 / Bringing ChatGPT for Teachers to more U.S. school districts",
+        "title_zh": "将ChatGPT for Teachers推广至更多美国学区",
+        "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.\nAugust 26, 2026\nNew partnerships with school di",
+        "recommend_reason_zh": "ChatGPT for Teachers扩展到55个美国学区、惠及超10万名教育工作者，并首推覆盖16州的数据隐私协议，助力K–12学校安全采用AI。",
+        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "面向教师的产品推广，不涉及新 API 或工具，从业者不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -363,15 +561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9346,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,7 +598,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -448,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7823,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,92 +683,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_4346047ee8ea",
-      "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "primary_url": "https://openai.com/index/loveholidays",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
-          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
-          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
-          "title_en": "How loveholidays is making everyone a builder with Codex",
-          "title_original": "How loveholidays is making everyone a builder with Codex",
-          "summary": null,
-          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
-          "url": "https://openai.com/index/loveholidays",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
-          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
-          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
-          "title_en": "How loveholidays is making everyone a builder with Codex",
-          "title_original": "How loveholidays is making everyone a builder with Codex",
-          "summary": null,
-          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
-          "url": "https://openai.com/index/loveholidays",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T00:00:00Z",
-      "latest_at": "2026-08-26T00:00:00Z",
-      "primary_item": {
-        "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
-        "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
-        "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
-        "title_en": "How loveholidays is making everyone a builder with Codex",
-        "title_original": "How loveholidays is making everyone a builder with Codex",
-        "summary": null,
-        "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
-        "url": "https://openai.com/index/loveholidays",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "案例软文，没新API没工具，对开发者没啥用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -618,15 +731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7555,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,7 +768,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_716a4067630f",
+      "title": "学习永不停歇：AI 如何让学习持续不断 / Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "primary_url": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+          "title": "学习永不停歇：AI 如何让学习持续不断 / Learning never stops: How AI makes learning continuous",
+          "title_zh": "学习永不停歇：AI 如何让学习持续不断",
+          "title_en": "Learning never stops: How AI makes learning continuous",
+          "title_original": "Learning never stops: How AI makes learning continuous",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nAugust 26, 2026\nAs students head back to school, O",
+          "recommend_reason_zh": "OpenAI新报告显示，全年龄用户每周与ChatGPT进行多达7000万次测验式对话，美国学年期间课堂作业相关提示词每周超4.6亿条，揭示AI如何让学习突破课堂限制。",
+          "url": "https://openai.com/index/learning-never-stops",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+          "title": "学习永不停歇：AI 如何让学习持续不断 / Learning never stops: How AI makes learning continuous",
+          "title_zh": "学习永不停歇：AI 如何让学习持续不断",
+          "title_en": "Learning never stops: How AI makes learning continuous",
+          "title_original": "Learning never stops: How AI makes learning continuous",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nAugust 26, 2026\nAs students head back to school, O",
+          "recommend_reason_zh": "OpenAI新报告显示，全年龄用户每周与ChatGPT进行多达7000万次测验式对话，美国学年期间课堂作业相关提示词每周超4.6亿条，揭示AI如何让学习突破课堂限制。",
+          "url": "https://openai.com/index/learning-never-stops",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T10:00:00Z",
+      "latest_at": "2026-08-26T10:00:00Z",
+      "primary_item": {
+        "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+        "title": "学习永不停歇：AI 如何让学习持续不断 / Learning never stops: How AI makes learning continuous",
+        "title_zh": "学习永不停歇：AI 如何让学习持续不断",
+        "title_en": "Learning never stops: How AI makes learning continuous",
+        "title_original": "Learning never stops: How AI makes learning continuous",
+        "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nOpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.\nAugust 26, 2026\nAs students head back to school, O",
+        "recommend_reason_zh": "OpenAI新报告显示，全年龄用户每周与ChatGPT进行多达7000万次测验式对话，美国学年期间课堂作业相关提示词每周超4.6亿条，揭示AI如何让学习突破课堂限制。",
+        "url": "https://openai.com/index/learning-never-stops",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "理念文章，没有新工具或API，动手党不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -703,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,7 +937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -787,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -823,7 +1021,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -871,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7394,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -908,7 +1106,260 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_a3eb56560645",
+      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "primary_url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22af8ad13634d242eac2b6750476413f3696325a",
+          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+          "title_zh": "Claude in Chrome 正式全面上线",
+          "title_en": "Claude in Chrome is generally available",
+          "title_original": "Claude in Chrome is generally available",
+          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+          "recommend_reason_zh": "Claude in Chrome正式全面上线，所有付费计划用户可在浏览器中自主完成任务而无需逐步批准，每个操作都有安全分类器校验，并经过prompt注入攻击测试。",
+          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T18:02:41.262000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "22af8ad13634d242eac2b6750476413f3696325a",
+          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+          "title_zh": "Claude in Chrome 正式全面上线",
+          "title_en": "Claude in Chrome is generally available",
+          "title_original": "Claude in Chrome is generally available",
+          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+          "recommend_reason_zh": "Claude in Chrome正式全面上线，所有付费计划用户可在浏览器中自主完成任务而无需逐步批准，每个操作都有安全分类器校验，并经过prompt注入攻击测试。",
+          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T18:02:41.262000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9819,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T18:02:41.262000Z",
+      "latest_at": "2026-08-26T18:02:41.262000Z",
+      "primary_item": {
+        "id": "22af8ad13634d242eac2b6750476413f3696325a",
+        "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+        "title_zh": "Claude in Chrome 正式全面上线",
+        "title_en": "Claude in Chrome is generally available",
+        "title_original": "Claude in Chrome is generally available",
+        "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+        "recommend_reason_zh": "Claude in Chrome正式全面上线，所有付费计划用户可在浏览器中自主完成任务而无需逐步批准，每个操作都有安全分类器校验，并经过prompt注入攻击测试。",
+        "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "Chrome 里直接调 Claude，省去切换窗口，日常写代码查资料今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_4346047ee8ea",
+      "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "primary_url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": null,
+          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": null,
+          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7566,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T00:00:00Z",
+      "latest_at": "2026-08-26T00:00:00Z",
+      "primary_item": {
+        "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+        "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+        "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+        "title_en": "How loveholidays is making everyone a builder with Codex",
+        "title_original": "How loveholidays is making everyone a builder with Codex",
+        "summary": null,
+        "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "案例软文，没新API没工具，对开发者没啥用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
+      }
+    },
+    {
+      "story_id": "story_809ef9d986bc",
+      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "primary_url": "https://www.anthropic.com/research/enabling-independent-research",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+          "title_en": "Enabling independent research on how people use Claude",
+          "title_original": "Enabling independent research on how people use Claude",
+          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+          "recommend_reason_zh": "Anthropic 开放隐私保护工具 Anthropic Insights，让 Stanford、Oxford、METR 三组外部研究者分析约 25 万次真实 Claude 对话，独立研究 AI 使用模式。",
+          "url": "https://www.anthropic.com/research/enabling-independent-research",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T17:30:30.074000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+          "title_en": "Enabling independent research on how people use Claude",
+          "title_original": "Enabling independent research on how people use Claude",
+          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+          "recommend_reason_zh": "Anthropic 开放隐私保护工具 Anthropic Insights，让 Stanford、Oxford、METR 三组外部研究者分析约 25 万次真实 Claude 对话，独立研究 AI 使用模式。",
+          "url": "https://www.anthropic.com/research/enabling-independent-research",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T17:30:30.074000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T17:30:30.074000Z",
+      "latest_at": "2026-08-26T17:30:30.074000Z",
+      "primary_item": {
+        "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+        "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+        "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+        "title_en": "Enabling independent research on how people use Claude",
+        "title_original": "Enabling independent research on how people use Claude",
+        "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+        "recommend_reason_zh": "Anthropic 开放隐私保护工具 Anthropic Insights，让 Stanford、Oxford、METR 三组外部研究者分析约 25 万次真实 Claude 对话，独立研究 AI 使用模式。",
+        "url": "https://www.anthropic.com/research/enabling-independent-research",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "数据开放利于学术研究，做应用的短期用不上，知道就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -956,21 +1407,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-26T13:56:55.513000Z",
       "latest_at": "2026-08-26T13:56:55.513000Z",
@@ -992,7 +1442,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -1040,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.9072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,7 +1526,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -1124,21 +1574,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9152,
+        "recency": 0.8851,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-26T10:51:40.773415Z",
       "latest_at": "2026-08-26T10:51:40.773415Z",
@@ -1160,7 +1609,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -1208,15 +1657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,7 +1693,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -1292,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8839,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1776,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     },
     {
@@ -1375,15 +1824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7394,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1412,428 +1861,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_8d6ab5e53d6a",
-      "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4810573b947190f73ba986cd181cfff47ec62bd",
-          "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "title_zh": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "title_en": null,
-          "title_original": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T08:04:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "c4810573b947190f73ba986cd181cfff47ec62bd",
-          "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "title_zh": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "title_en": null,
-          "title_original": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-          "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-26T08:04:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.879,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-26T08:04:03Z",
-      "latest_at": "2026-08-26T08:04:03Z",
-      "primary_item": {
-        "id": "c4810573b947190f73ba986cd181cfff47ec62bd",
-        "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-        "title_zh": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-        "title_en": null,
-        "title_original": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-        "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "端侧翻译压到440MB有参考价值，但没开源，只能自己复现。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_b2c58e34aaf2",
-      "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-      "url": "https://www.aibase.com/news/30643",
-      "primary_url": "https://www.aibase.com/news/30643",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
-          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "title_en": null,
-          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "summary": null,
-          "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
-          "url": "https://www.aibase.com/news/30643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T09:57:41.982743Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
-          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "title_en": null,
-          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-          "summary": null,
-          "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
-          "url": "https://www.aibase.com/news/30643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T09:57:41.982743Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9034,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T09:57:41.982743Z",
-      "latest_at": "2026-08-26T09:57:41.982743Z",
-      "primary_item": {
-        "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
-        "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-        "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-        "title_en": null,
-        "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
-        "summary": null,
-        "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
-        "url": "https://www.aibase.com/news/30643",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "物流优化场景落地，非通用工具，做相关方向可参考思路。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_0536ff6c73c5",
-      "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "从安全公告中直接屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": null,
-          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "从安全公告中直接屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
-          "summary": null,
-          "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
-      "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "从安全公告中直接屏蔽用户 / Block users directly from security advisories",
-        "title_zh": "从安全公告中直接屏蔽用户",
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
-        "summary": null,
-        "recommend_reason_zh": "GitHub security advisory 页面新增直接拉黑功能，适用组织与个人公共仓库。组织仓库仅版主或管理员可操作，个人仓库仅所有者可用，省去跳转步骤。",
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "省一次跳转的小改进，维护者顺手能用，不必特别关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_c84a4b0b7ec0",
-      "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-      "url": "https://www.aibase.com/news/30644",
-      "primary_url": "https://www.aibase.com/news/30644",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_en": null,
-          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30644",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T09:57:41.982743Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "title_en": null,
-          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30644",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T09:57:41.982743Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9034,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T09:57:41.982743Z",
-      "latest_at": "2026-08-26T09:57:41.982743Z",
-      "primary_item": {
-        "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
-        "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "title_en": null,
-        "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30644",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "财报预测不影响写代码，AI板块波动是资本游戏。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
-      }
-    },
-    {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
-      "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-        "title_zh": "规则集中的推送规则现支持路径例外",
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
-        "summary": null,
-        "recommend_reason_zh": "GitHub的push rules现支持在rulesets中配置路径例外，可豁免特定文件路径，该功能处于公开预览，现有两种push rules支持此功能。",
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "仓库规则能按路径豁免了，CI/CD 卡点配置更细，今天就能改。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T17:28:14.277273Z"
+        "scored_at": "2026-08-26T19:48:08.867900Z"
       }
     }
   ]
