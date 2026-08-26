@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d00dceec4346|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "现有Assistant集成要迁移，尽早检查Gemini兼容性和接口变更。",
-      "title_hash": "89ced6e1",
-      "scored_at": "2026-08-05T12:39:11.965368Z"
-    },
-    "story_e2cae4e7f2b3|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "购物智能体回归亚马逊，对开发者无直接接口价值，关注后续 API 再说。",
-      "title_hash": "e4bb0707",
-      "scored_at": "2026-08-05T12:39:13.756455Z"
-    },
-    "story_5e8e5c7c94d4|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "省token的实操技巧，跑Codex和Claude Code任务的可直接参考。",
-      "title_hash": "b80de7f7",
-      "scored_at": "2026-08-05T12:39:16.926729Z"
-    },
-    "story_f70d268aa3c8|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "法规先行，L3落地有据可依，但离量产上车还远，做相关开发的可以盯细则。",
-      "title_hash": "c37d7052",
-      "scored_at": "2026-08-05T12:39:20.099852Z"
-    },
-    "story_788cae258ab4|cynic|f4237a62": {
-      "score": 68,
-      "review": "3B 单卡能跑是真本事，'开源 SOTA'记得标注是自家榜单的 SOTA。",
-      "title_hash": "8a053ed5",
-      "scored_at": "2026-08-05T12:39:34.452942Z"
-    },
-    "story_788cae258ab4|paper-police|966065bf": {
-      "score": 10,
-      "review": "只有官方宣称，无论文无代码无第三方评测，开源SOTA无从验证。",
-      "title_hash": "8a053ed5",
-      "scored_at": "2026-08-05T12:39:36.180061Z"
-    },
     "story_880f77f03b61|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "开放平台框架值得看，但没给接入细节前先别改架构。",
@@ -6396,6 +6360,48 @@
       "review": "收入数据对开发者无直接用处，不写代码就不必管。",
       "title_hash": "a6fd0a0e",
       "scored_at": "2026-08-26T11:22:15.370842Z"
+    },
+    "story_7cf7f5b5f125|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新架构开源可直接试，跑推理能省成本，模型部署可先看文档。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:48:09.299245Z"
+    },
+    "story_4996502bb406|pragmatic|0a5c5b24": {
+      "score": 87,
+      "review": "开放权重可直接下载试，多模态 MoE 新架构，适合今天就跑个 demo。",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:48:11.702214Z"
+    },
+    "story_6d44adafc2ce|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "芯片算力提升对跑本地模型是利好，但等真机上市再预算。",
+      "title_hash": "994bb6ca",
+      "scored_at": "2026-08-26T13:48:14.967167Z"
+    },
+    "story_7cf7f5b5f125|cynic|f4237a62": {
+      "score": 70,
+      "review": "'极致成本效率'是自封的，开源见真章，但'早期预览'留足了退路。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:48:24.497221Z"
+    },
+    "story_7cf7f5b5f125|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客有架构细节但代码未开源，等仓库放出跑分再定论。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:48:27.167617Z"
+    },
+    "story_4996502bb406|cynic|f4237a62": {
+      "score": 55,
+      "review": "架构预览就敢开源权重，是让大伙儿帮你测bug？",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:48:31.405549Z"
+    },
+    "story_4996502bb406|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方X预告，无论文无代码无评测，open-weights需实证。",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:48:33.791273Z"
     }
   }
 }
