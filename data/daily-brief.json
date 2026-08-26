@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-26T09:02:26.665859Z",
+  "generated_at": "2026-08-26T09:57:41.982743Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4346047ee8ea",
+      "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "primary_url": "https://openai.com/index/loveholidays",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nAugust 26, 2026\nThe online travel company is",
+          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+          "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+          "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+          "title_en": "How loveholidays is making everyone a builder with Codex",
+          "title_original": "How loveholidays is making everyone a builder with Codex",
+          "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nAugust 26, 2026\nThe online travel company is",
+          "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+          "url": "https://openai.com/index/loveholidays",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.866,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T00:00:00Z",
+      "latest_at": "2026-08-26T00:00:00Z",
+      "primary_item": {
+        "id": "14383b7f92a78efa35f12af8bae47555ed7c2a55",
+        "title": "loveholidays 如何借助 Codex 让每个人都成为开发者 / How loveholidays is making everyone a builder with Codex",
+        "title_zh": "loveholidays 如何借助 Codex 让每个人都成为开发者",
+        "title_en": "How loveholidays is making everyone a builder with Codex",
+        "title_original": "How loveholidays is making everyone a builder with Codex",
+        "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nDiscover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.\nAugust 26, 2026\nThe online travel company is",
+        "recommend_reason_zh": "loveholidays用OpenAI Codex让非工程师也能开发上线，AI辅助代码变更一年从7%增至79%，部署频率提升73%，数据平台成功率升至93%。",
+        "url": "https://openai.com/index/loveholidays",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "案例软文，没新API没工具，对开发者没啥用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T10:26:59.617228Z"
+      }
+    },
     {
       "story_id": "story_4b7b151c884e",
       "title": "生产前如何评估LLM？ / How to evaluate LLMs before production",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8475,
+        "recency": 0.8364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7733,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8294,
+        "recency": 0.8185,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -303,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7819,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -475,15 +560,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.7463,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -512,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -560,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7708,
+        "recency": 0.7607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -597,7 +682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -645,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8295,
+        "recency": 0.8185,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,30 +767,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
-      "story_id": "story_04e4cb4fff13",
-      "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-      "url": "https://www.aibase.com/news/30641",
-      "primary_url": "https://www.aibase.com/news/30641",
+      "story_id": "story_b2c58e34aaf2",
+      "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+      "url": "https://www.aibase.com/news/30643",
+      "primary_url": "https://www.aibase.com/news/30643",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "title_en": null,
-          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "summary": "AI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nExplore AI Fronti",
-          "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
-          "url": "https://www.aibase.com/news/30641",
+          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "summary": "On August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nExplore AI Fronti",
+          "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
+          "url": "https://www.aibase.com/news/30643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:02:26.665859Z"
+          "published_at": "2026-08-26T09:57:41.982743Z"
         }
       ],
       "source_count": 1,
@@ -714,18 +799,18 @@
       ],
       "items": [
         {
-          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+          "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
           "title_en": null,
-          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-          "summary": "AI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nExplore AI Fronti",
-          "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
-          "url": "https://www.aibase.com/news/30641",
+          "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+          "summary": "On August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nExplore AI Fronti",
+          "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
+          "url": "https://www.aibase.com/news/30643",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:02:26.665859Z"
+          "published_at": "2026-08-26T09:57:41.982743Z"
         }
       ],
       "item_count": 1,
@@ -746,27 +831,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:02:26.665859Z",
-      "latest_at": "2026-08-26T09:02:26.665859Z",
+      "earliest_at": "2026-08-26T09:57:41.982743Z",
+      "latest_at": "2026-08-26T09:57:41.982743Z",
       "primary_item": {
-        "id": "ed095435e215db2390cfbd254edfd2016a91de88",
-        "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-        "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "id": "e7e32fb7f0eab15151de74bb45858e7c92d2819c",
+        "title": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+        "title_zh": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
         "title_en": null,
-        "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
-        "summary": "AI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nAI evaluation organization Artificial Analysis released a blog post on August 24, collaborating with Liquid AI to launch a local AI performance benchmark for mo\nExplore AI Fronti",
-        "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
-        "url": "https://www.aibase.com/news/30641",
+        "title_original": "京东发布“超脑”大模型3.0，亿级包裹路径规划提速至秒级",
+        "summary": "On August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nOn August 26th, JD.com officially launched its \"Super Brain\" large model 3.0 at the 18th International Transportation Technology and Equipment Exhibition. Compa\nExplore AI Fronti",
+        "recommend_reason_zh": "京东发布“Super Brain”大模型3.0，将亿级包裹端到端最优路径规划从分钟级压缩至秒级，并首次实现仓储到配送全流程AI一体化调度，堪称物流行业规模最大的供应链大模型应用。",
+        "url": "https://www.aibase.com/news/30643",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "端侧模型跑分实测，移动端部署选型可参考，但别只看单一指标。",
+      "persona_score": 55,
+      "persona_review": "物流优化场景落地，非通用工具，做相关方向可参考思路。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -814,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7343,
+        "recency": 0.7246,
         "story_heat": 0.0
       },
       "category": "official",
@@ -851,7 +936,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -899,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8124,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,30 +1021,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
-      "story_id": "story_6ec774358beb",
-      "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-      "url": "https://www.aibase.com/news/30642",
-      "primary_url": "https://www.aibase.com/news/30642",
+      "story_id": "story_c84a4b0b7ec0",
+      "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+      "url": "https://www.aibase.com/news/30644",
+      "primary_url": "https://www.aibase.com/news/30644",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
-          "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-          "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "title_en": null,
-          "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-          "summary": "Yuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nExplore AI Fronti",
-          "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
-          "url": "https://www.aibase.com/news/30642",
+          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "summary": "NVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:02:26.665859Z"
+          "published_at": "2026-08-26T09:57:41.982743Z"
         }
       ],
       "source_count": 1,
@@ -968,18 +1053,18 @@
       ],
       "items": [
         {
-          "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
-          "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-          "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+          "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
           "title_en": null,
-          "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-          "summary": "Yuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nExplore AI Fronti",
-          "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
-          "url": "https://www.aibase.com/news/30642",
+          "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+          "summary": "NVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30644",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T09:02:26.665859Z"
+          "published_at": "2026-08-26T09:57:41.982743Z"
         }
       ],
       "item_count": 1,
@@ -1000,27 +1085,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T09:02:26.665859Z",
-      "latest_at": "2026-08-26T09:02:26.665859Z",
+      "earliest_at": "2026-08-26T09:57:41.982743Z",
+      "latest_at": "2026-08-26T09:57:41.982743Z",
       "primary_item": {
-        "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
-        "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-        "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+        "id": "635fad4f1a3dfd8bdc6b528bf144f2c457a53192",
+        "title": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+        "title_zh": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
         "title_en": null,
-        "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
-        "summary": "Yuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nYuezhitan is engaged in in-depth negotiations with the three major American cloud computing giants, Microsoft, Amazon, and Google, aiming to allow these platfor\nExplore AI Fronti",
-        "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
-        "url": "https://www.aibase.com/news/30642",
+        "title_original": "华尔街关注等英伟达二季报：能否继续扛旗 AI 板块成焦点",
+        "summary": "NVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nNVIDIA will unveil its second-quarter results on the 26th local time, closing this round of tech earnings season. As the most closely watched chip company in th\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30644",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "商业分成谈判离代码远，开发者暂无需行动，看后续产品兼容性。",
+      "persona_score": 20,
+      "persona_review": "财报预测不影响写代码，AI板块波动是资本游戏。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1068,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1151,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.801,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1188,7 +1273,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
+      }
+    },
+    {
+      "story_id": "story_04e4cb4fff13",
+      "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+      "url": "https://www.aibase.com/news/30641",
+      "primary_url": "https://www.aibase.com/news/30641",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_en": null,
+          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "summary": null,
+          "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
+          "url": "https://www.aibase.com/news/30641",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T09:02:26.665859Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+          "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "title_en": null,
+          "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+          "summary": null,
+          "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
+          "url": "https://www.aibase.com/news/30641",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T09:02:26.665859Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T09:02:26.665859Z",
+      "latest_at": "2026-08-26T09:02:26.665859Z",
+      "primary_item": {
+        "id": "ed095435e215db2390cfbd254edfd2016a91de88",
+        "title": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "title_zh": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "title_en": null,
+        "title_original": "Artificial Analysis 联手 Liquid AI 发手机端 AI 跑分：iPhone 17 Pro 跑 8GB 内模型座次出炉",
+        "summary": null,
+        "recommend_reason_zh": "Artificial Analysis与Liquid AI合作，在iPhone 17 Pro上对4-bit量化后8GB内的模型做本地跑分，涵盖函数调用等五类基准。16K上下文下Nanbeige4.2-3B与LFM2.5-2.6B平均分最高；限时1分钟则LFM2.5-8B-A1B居首。",
+        "url": "https://www.aibase.com/news/30641",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "端侧模型跑分实测，移动端部署选型可参考，但别只看单一指标。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T10:26:59.617228Z"
+      }
+    },
+    {
+      "story_id": "story_6ec774358beb",
+      "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+      "url": "https://www.aibase.com/news/30642",
+      "primary_url": "https://www.aibase.com/news/30642",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
+          "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "title_en": null,
+          "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "summary": null,
+          "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
+          "url": "https://www.aibase.com/news/30642",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T09:02:26.665859Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
+          "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "title_en": null,
+          "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+          "summary": null,
+          "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
+          "url": "https://www.aibase.com/news/30642",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T09:02:26.665859Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T09:02:26.665859Z",
+      "latest_at": "2026-08-26T09:02:26.665859Z",
+      "primary_item": {
+        "id": "4fdc09e33404fe440223712200ab0692b8cad3a8",
+        "title": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+        "title_zh": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+        "title_en": null,
+        "title_original": "中国AI出海杀入巨头腹地，月之暗面携Kimi K3洽谈美云巨头30%分成",
+        "summary": null,
+        "recommend_reason_zh": "Yuezhitan正与Microsoft、Amazon、Google谈判，以30%分成方式托管开源模型Kimi K3，若达成将成为中国AI公司与美国云巨头首个重大分成合作，值得关注。",
+        "url": "https://www.aibase.com/news/30642",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "商业分成谈判离代码远，开发者暂无需行动，看后续产品兼容性。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1205,7 +1458,7 @@
           "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
           "title_en": null,
           "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-          "summary": "Mei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Mei O宣布小红书2026年渠道战略聚焦行业深耕等四个维度，向代理商开放覆盖全流程的AI能力，推动其从广告投放升级为行业经营伙伴。",
           "url": "https://www.aibase.com/news/30640",
           "source": "AIbase",
@@ -1225,7 +1478,7 @@
           "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
           "title_en": null,
           "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-          "summary": "Mei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Mei O宣布小红书2026年渠道战略聚焦行业深耕等四个维度，向代理商开放覆盖全流程的AI能力，推动其从广告投放升级为行业经营伙伴。",
           "url": "https://www.aibase.com/news/30640",
           "source": "AIbase",
@@ -1236,15 +1489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,7 +1513,7 @@
         "title_zh": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
         "title_en": null,
         "title_original": "小红书开放代理商全流程 AI 能力，押注\"行业经营伙伴\"升级",
-        "summary": "Mei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nMei O, General Manager of Xiaohongshu's Commercial Channel Division, announced the strategic direction for channels in 2026, clearly stating that the next year\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": "Mei O宣布小红书2026年渠道战略聚焦行业深耕等四个维度，向代理商开放覆盖全流程的AI能力，推动其从广告投放升级为行业经营伙伴。",
         "url": "https://www.aibase.com/news/30640",
         "source": "AIbase",
@@ -1272,7 +1525,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1320,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,7 +1609,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1404,15 +1657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,175 +1693,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
-      }
-    },
-    {
-      "story_id": "story_c1e51b9fd34f",
-      "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-      "url": "https://www.aibase.com/news/30632",
-      "primary_url": "https://www.aibase.com/news/30632",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "summary": null,
-          "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
-          "url": "https://www.aibase.com/news/30632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:09:10.938810Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-          "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "title_en": null,
-          "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-          "summary": null,
-          "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
-          "url": "https://www.aibase.com/news/30632",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:09:10.938810Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9731,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T07:09:10.938810Z",
-      "latest_at": "2026-08-26T07:09:10.938810Z",
-      "primary_item": {
-        "id": "e9fb2c1a118c0982ace594dafe84ef40c95626e6",
-        "title": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "title_zh": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "title_en": null,
-        "title_original": "即梦AI推出影视厂牌“即梦片场”，S级项目算力积分全额扶持",
-        "summary": null,
-        "recommend_reason_zh": "Jiemeng AI推出Jiemeng Studio厂牌，电影项目时长不少于90分钟，S级算力积分全额无上限，A级每分钟最高25万积分；剧集总长约100分钟，S级同样全额扶持。",
-        "url": "https://www.aibase.com/news/30632",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "S级扶持门槛高，普通开发者蹭不上，做影视项目的可留意申报。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
-      }
-    },
-    {
-      "story_id": "story_4d241a9569b8",
-      "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-      "url": "https://www.aibase.com/news/30631",
-      "primary_url": "https://www.aibase.com/news/30631",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
-          "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "title_en": null,
-          "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "summary": null,
-          "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
-          "url": "https://www.aibase.com/news/30631",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:09:10.938810Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
-          "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "title_en": null,
-          "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-          "summary": null,
-          "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
-          "url": "https://www.aibase.com/news/30631",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:09:10.938810Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9731,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T07:09:10.938810Z",
-      "latest_at": "2026-08-26T07:09:10.938810Z",
-      "primary_item": {
-        "id": "d6659e49a764e5b6acb0c2af9cc6dd3970a2f782",
-        "title": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-        "title_zh": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-        "title_en": null,
-        "title_original": "押注OpenAI后再融资，软银筹划200亿美元债券发行",
-        "summary": null,
-        "recommend_reason_zh": "SoftBank正洽谈发行100亿至200亿美元债券，最早9月启动，部分资金用于偿还其投资OpenAI所获的40亿美元过桥贷款，展现其优化AI投资资金结构的布局。",
-        "url": "https://www.aibase.com/news/30631",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "资本运作不写代码，等看钱投到哪再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     },
     {
@@ -1684,15 +1769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5786,
-      "importance": 0.5786,
-      "importance_score": 0.5786,
+      "score": 0.5768,
+      "importance": 0.5768,
+      "importance_score": 0.5768,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.7487,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1719,177 +1804,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
-      }
-    },
-    {
-      "story_id": "story_8acadb205621",
-      "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fbe7f96e9de0daaf22a969d1aa1e3cf2e1b0efd1",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": null,
-          "title_original": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因保安公司Allied Universal员工可能罢工，要求旧金山员工周一、周二居家办公；工会SEIU称未发起罢工投票，自4月起的合同谈判仍陷僵局。",
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T18:29:21.233000Z"
-        },
-        {
-          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
-          "title": "Anthropic 因安全团队可能罢工，通知员工居家办公。 / Anthropic tells staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，通知员工居家办公。",
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
-          "url": "https://news.ycombinator.com/item?id=49434291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T15:06:08.849000Z"
-        },
-        {
-          "id": "b8f21912dc528abb19acd0fff013269c73457c8c",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因安保服务商Allied Universal可能罢工，要求旧金山员工周一、周二居家办公；但代表其安保人员的SEIU回应称尚未发起罢工投票，消息令他们意外。",
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:00:27Z"
-        },
-        {
-          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T09:11:11Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Business Insider",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "fbe7f96e9de0daaf22a969d1aa1e3cf2e1b0efd1",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": null,
-          "title_original": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因保安公司Allied Universal员工可能罢工，要求旧金山员工周一、周二居家办公；工会SEIU称未发起罢工投票，自4月起的合同谈判仍陷僵局。",
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T18:29:21.233000Z"
-        },
-        {
-          "id": "8eb947b5e8c61f90fe84c0d590bded51f6ab966c",
-          "title": "Anthropic 因安全团队可能罢工，通知员工居家办公。 / Anthropic tells staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，通知员工居家办公。",
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因安全团队可能罢工，紧急通知员工居家办公，显示科技公司核心设施安保的脆弱性，也引发对AI研发连续性及劳资关系的讨论。",
-          "url": "https://news.ycombinator.com/item?id=49434291",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T15:06:08.849000Z"
-        },
-        {
-          "id": "b8f21912dc528abb19acd0fff013269c73457c8c",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": "Anthropic tells staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic因安保服务商Allied Universal可能罢工，要求旧金山员工周一、周二居家办公；但代表其安保人员的SEIU回应称尚未发起罢工投票，消息令他们意外。",
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:00:27Z"
-        },
-        {
-          "id": "ca7d0b029a72ec809eba110780a8732b36292770",
-          "title": "Anthropic 因安全团队可能罢工，要求员工居家办公 / Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-          "title_en": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "title_original": "Anthropic tells San Francisco staff to work from home due to possible security team strike",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T09:11:11Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8105,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T09:11:11Z",
-      "latest_at": "2026-08-25T18:29:21.233000Z",
-      "primary_item": {
-        "id": "fbe7f96e9de0daaf22a969d1aa1e3cf2e1b0efd1",
-        "title": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-        "title_zh": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-        "title_en": null,
-        "title_original": "Anthropic 因安全团队可能罢工，要求员工居家办公",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic因保安公司Allied Universal员工可能罢工，要求旧金山员工周一、周二居家办公；工会SEIU称未发起罢工投票，自4月起的合同谈判仍陷僵局。",
-        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "公司内部人事波动，不改变 API 和模型，开发照常。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-26T09:27:38.104708Z"
+        "scored_at": "2026-08-26T10:26:59.617228Z"
       }
     }
   ]
