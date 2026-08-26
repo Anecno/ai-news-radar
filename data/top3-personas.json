@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:34:16.056045Z",
+  "generated_at": "2026-08-26T16:32:16.735797Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_7cf7f5b5f125",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "story_id": "story_ddd2368b2c0c",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "'极致成本效率'是自封的，开源见真章，但'早期预览'留足了退路。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客有架构细节但代码未开源，等仓库放出跑分再定论。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "新架构开源可直接试，跑推理能省成本，模型部署可先看文档。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "规则集中的推送规则现支持路径例外 / Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "路径例外这功能不稀奇，但规则集总算补上短板，没吹水就是好消息。"
-        },
-        "paper-police": {
-          "score": 50,
-          "review": "官方更新有细节，但无代码和独立验证，功能能否落地待实测。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "仓库规则能按路径豁免了，CI/CD 卡点配置更细，今天就能改。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4996502bb406",
-      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
-      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "架构预览就敢开源权重，是让大伙儿帮你测bug？"
+          "review": "开源和API是实锤，但架构预览又是张饼，跑分见真章。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅官方X预告，无论文无代码无评测，open-weights需实证。"
+          "review": "官方推文称开源但无仓库链接和评测数据，无法验证真伪。"
         },
         "pragmatic": {
-          "score": 87,
-          "review": "开放权重可直接下载试，多模态 MoE 新架构，适合今天就跑个 demo。"
+          "score": 92,
+          "review": "新模型已开源且API上线，可直接clone或调用，跑推理的今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_4ff4202e3dc7",
+      "title": "用 Sentence Transformers 训练与微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 90,
+          "review": "官方手把手教程，比只喊口号的实在，但多向量又成新卷点。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方教程给了方法和代码片段，但无benchmark复现，等第三方验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接照着练手，多向量嵌入有官方教程了。"
+        }
+      }
+    },
+    {
+      "story_id": "story_741a74c53da2",
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 60,
+          "review": "只报总参数不提激活数，AA指数57是自己定的吧？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅公众号宣称开源，无论文无代码无第三方评测，数字无法验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "开源可跑，价格仅为 Opus 1/40，直接替换低成本推理方案。"
         }
       }
     }
