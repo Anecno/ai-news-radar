@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:12:12.142933Z",
+  "generated_at": "2026-08-27T20:57:08.246614Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_ddd2368b2c0c",
-      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "开源和API是实锤，但架构预览又是张饼，跑分见真章。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方推文称开源但无仓库链接和评测数据，无法验证真伪。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "新模型已开源且API上线，可直接clone或调用，跑推理的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_436604b0f1e6",
       "title": "唐杰宣布GLM-5.3 Flash AA登顶OpenRouter / Ox Alpha = GLM-5.3 Flash AA = 57 ， 1/100 frontier price， Powered by pure Chinese chips. Delivered…",
       "url": "https://x.com/jietang/status/2092850258573471936",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_a3eb56560645",
-      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "story_id": "story_f91eb53884bc",
+      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "“更强控制”是比上一版快10%还是换了API名？没给基线数，只能按牙膏挤算。"
+        },
+        "paper-police": {
+          "score": 50,
+          "review": "仅有官方博客评测数字，无代码无论文，等第三方复现。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "新模型已上线，视频生成控制更强，做多模态的可以直接试 API。"
+        }
+      }
+    },
+    {
+      "story_id": "story_7dd36eb939fe",
+      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "扩展谈不上全面，也就Chrome用户多算个优势。"
+          "score": 60,
+          "review": "SSIM 0.76 也配叫无损？加速比专挑低质量档报，话术比视频生成还快。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客发布即可用，但无第三方独立评测，证据单薄。"
+          "score": 55,
+          "review": "博客有具体数字和测试设置，但无论文无代码，缺独立复现。"
         },
         "pragmatic": {
-          "score": 92,
-          "review": "Chrome 里直接调 Claude，省去切换窗口，日常写代码查资料今天就能用。"
+          "score": 82,
+          "review": "SGLang 优化方案可抄，无损加速 1.95× 实用，有损 6× 需看质量接受度。"
         }
       }
     }
