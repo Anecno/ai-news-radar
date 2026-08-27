@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_be2586b7721a|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "演示模型生成游戏的能力，但未见开放接口或可复现代码，暂时不用行动。",
-      "title_hash": "ee1f45d6",
-      "scored_at": "2026-08-05T20:55:07.415169Z"
-    },
-    "story_d7b19b7f654d|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "平台审核漏洞，对开发者无直接工具影响，但涉合规风险需留意。",
-      "title_hash": "9d17f7ed",
-      "scored_at": "2026-08-05T22:42:42.364353Z"
-    },
-    "story_0e6536a40e43|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "用Rovo的团队今天就要检查权限配置，别等补丁。",
-      "title_hash": "0a238809",
-      "scored_at": "2026-08-05T22:42:44.737747Z"
-    },
-    "story_ad49186cedfd|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开源工具可直接跑，做广告预算归因的团队能上手试。",
-      "title_hash": "f8640b36",
-      "scored_at": "2026-08-05T22:42:47.287119Z"
-    },
     "story_671b284df7c7|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "安全传闻，没官方细节，短期不影响选型，先观望。",
@@ -6438,6 +6414,42 @@
       "review": "官方博客发布即可用，但无第三方独立评测，证据单薄。",
       "title_hash": "1ce83a4a",
       "scored_at": "2026-08-26T19:48:34.998298Z"
+    },
+    "story_719767637d52|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "官方教程，照着配就能自动分拣Dependabot PR，省点事但需动手。",
+      "title_hash": "320aae05",
+      "scored_at": "2026-08-27T00:02:35.814197Z"
+    },
+    "story_6e7dda5dd069|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "模型策略新功能上线，做企业级AI治理的可以看看，一般开发用不上。",
+      "title_hash": "a1d6442a",
+      "scored_at": "2026-08-27T00:02:37.901142Z"
+    },
+    "story_d972f6cbefbd|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "安全事件复盘报告，对普通开发者无直接行动项。",
+      "title_hash": "c73861d6",
+      "scored_at": "2026-08-27T00:02:39.817384Z"
+    },
+    "story_ba30f7c14e84|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "模型发了但没说开放，先查 API 再动手，别急着换。",
+      "title_hash": "51e073f6",
+      "scored_at": "2026-08-27T00:02:43.823314Z"
+    },
+    "story_8368ac600900|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "研究进展但无API可调，做医疗AI的可以留意，其他人不用动。",
+      "title_hash": "bb241b80",
+      "scored_at": "2026-08-27T00:02:46.782595Z"
+    },
+    "story_f3aa89b80469|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "财报数字再大也不写代码，持币的看一眼，干活的继续。",
+      "title_hash": "3638e3d6",
+      "scored_at": "2026-08-27T00:02:49.557044Z"
     }
   }
 }
