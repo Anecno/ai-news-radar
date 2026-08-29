@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T18:31:28.568498Z",
+  "generated_at": "2026-08-29T21:44:37.343014Z",
   "window_hours": 24,
   "total_items": 14,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7653,
+        "recency": 0.7305,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,177 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
-      }
-    },
-    {
-      "story_id": "story_68a34bcc53e0",
-      "title": "Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update",
-          "title_zh": "Visual Studio 中 GitHub Copilot 的八月更新",
-          "title_en": "GitHub Copilot in Visual Studio — August update",
-          "title_original": "GitHub Copilot in Visual Studio — August update",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍GitHub Copilot在Visual Studio 2026的八月更新，新增对推理、模型选择、团队共享专用代理及代码审查时机的控制，并覆盖包括Copilot Free、Pro、Pro+、Max、Business和Enterprise在内的所有计划。",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update",
-          "title_zh": "Visual Studio 中 GitHub Copilot 的八月更新",
-          "title_en": "GitHub Copilot in Visual Studio — August update",
-          "title_original": "GitHub Copilot in Visual Studio — August update",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍GitHub Copilot在Visual Studio 2026的八月更新，新增对推理、模型选择、团队共享专用代理及代码审查时机的控制，并覆盖包括Copilot Free、Pro、Pro+、Max、Business和Enterprise在内的所有计划。",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7266,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:24:20Z",
-      "latest_at": "2026-08-28T20:24:20Z",
-      "primary_item": {
-        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-        "title": "Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update",
-        "title_zh": "Visual Studio 中 GitHub Copilot 的八月更新",
-        "title_en": "GitHub Copilot in Visual Studio — August update",
-        "title_original": "GitHub Copilot in Visual Studio — August update",
-        "summary": null,
-        "recommend_reason_zh": "本文介绍GitHub Copilot在Visual Studio 2026的八月更新，新增对推理、模型选择、团队共享专用代理及代码审查时机的控制，并覆盖包括Copilot Free、Pro、Pro+、Max、Business和Enterprise在内的所有计划。",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "官方月度更新，先读更新日志再决定是否升级。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
-      }
-    },
-    {
-      "story_id": "story_1f83857579b6",
-      "title": "GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24",
-          "title_zh": "GitHub Copilot 每周更新 — 8月24日",
-          "title_en": "GitHub Copilot weekly releases — August 24",
-          "title_original": "GitHub Copilot weekly releases — August 24",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot本周更新聚焦更精细的控制：支持在Slack和Teams里开团队会话，还能在app、CLI和IDE中自定义；此外VS Code 1.135与最新Visual Studio也同步适配。",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24",
-          "title_zh": "GitHub Copilot 每周更新 — 8月24日",
-          "title_en": "GitHub Copilot weekly releases — August 24",
-          "title_original": "GitHub Copilot weekly releases — August 24",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot本周更新聚焦更精细的控制：支持在Slack和Teams里开团队会话，还能在app、CLI和IDE中自定义；此外VS Code 1.135与最新Visual Studio也同步适配。",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7247,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:13:22Z",
-      "latest_at": "2026-08-28T20:13:22Z",
-      "primary_item": {
-        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-        "title": "GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24",
-        "title_zh": "GitHub Copilot 每周更新 — 8月24日",
-        "title_en": "GitHub Copilot weekly releases — August 24",
-        "title_original": "GitHub Copilot weekly releases — August 24",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot本周更新聚焦更精细的控制：支持在Slack和Teams里开团队会话，还能在app、CLI和IDE中自定义；此外VS Code 1.135与最新Visual Studio也同步适配。",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "每周例行更新，具体改动要看 changelog，有需要的功能再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -303,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -338,7 +168,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -415,15 +245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7854,
+        "recency": 0.7497,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -451,7 +281,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -499,15 +329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -534,7 +364,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -582,15 +412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -617,148 +447,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
-      "story_id": "story_89873725e085",
-      "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://news.ycombinator.com/item?id=49489982",
-      "primary_url": "https://news.ycombinator.com/item?id=49489982",
+      "story_id": "story_39fb2b2dec50",
+      "title": "好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://news.ycombinator.com/item?id=49491568",
+      "primary_url": "https://news.ycombinator.com/item?id=49491568",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "reply\nAll project contributions must be submitted by *identifiable human participants* who accept full responsibility for their content. Automated agents, bots, or autonomous AI systems *may not* independently submit issues, pull requests, or other contributions.\n   Contributors may use software tools, including AI-assisted tools, but the submitting contributor *must:\\*\n    - Fully understand the contribution.\n    - Be able to explain design and implementation decisions without the use of AI.\n  ",
-          "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
-          "url": "https://news.ycombinator.com/item?id=49489982",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "好的文化才是最大的生产力提升秘诀，而非AI",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": "But, and maybe I'm just a curmudgeon, but I kind of wonder why we write articles like this. Like if a culture is bad, is it likely a CEO is going to be looking for random blog posts for constructive criticism? Or even managers? I look at the market forces at play, and I just don't think many (any?) organization successfully create an incentive structure where performance on intangibles (specifically management) can be assessed well enough to make a bad culture into a better culture. I've worked ",
+          "recommend_reason_zh": "本文直言CEO缺乏管理“人机”的训练，指出员工从不相信匿名敬业度调查，并质疑激励结构无法改善坏文化——用具体职场现实反驳“AI赋能”式空谈。",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T18:06:30.175000Z"
+          "published_at": "2026-08-29T21:44:58.700000Z"
         },
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
           "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "summary": "The results of the Debian general-resolution vote on the use of large language models have been [...]\nDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that r",
-          "recommend_reason_zh": "Debian通过决议，既不禁止也不支持生成式AI，但要求贡献者须为AI输出负责；两个极端反AI提案（改社会契约与行为准则）均未击败‘以上皆非’，约30%选民仍支持禁用，最终维持现状。",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "summary": "AI definitely helps with productivity, but only when you have the right culture in place first!\nAI definitely helps with productivity, but only when you have the right culture in place first!\nAI definitely helps with productivity, but only when you have the right culture in place first!\nThis newsletter is sponsored by Unblocked .\n[Webinar] How to stop babysitting your agents\nAgents can generate code. Getting it right for your system, team conventions, and past decisions is the hard part. You end",
+          "recommend_reason_zh": "作者基于13年工程管理经验直言，AI工具并非效率关键，良好文化才是最大秘诀；并引用Conway定律说明组织沟通结构决定系统设计，强调“AI会取代你”这类话只会摧毁心理安全感。",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-29T20:20:15.528000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "The results of the Debian general-resolution vote on the use of large language models have been [...]\nDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that r",
-          "recommend_reason_zh": "Debian投票允许负责任地使用生成式AI，既不背书也不禁止；贡献者仍须审查修正。两项反AI提案未过NOTA被否决，约30%选民支持无AI。",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T14:02:10Z"
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": "13年工程生涯见证：没有好文化，AI工具再强也难提效。本文用Conway's law解释为何组织沟通结构决定生产力，而非AI本身。",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "lwn.net"
+        "newsletter.eng-leadership.com"
       ],
       "items": [
         {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "reply\nAll project contributions must be submitted by *identifiable human participants* who accept full responsibility for their content. Automated agents, bots, or autonomous AI systems *may not* independently submit issues, pull requests, or other contributions.\n   Contributors may use software tools, including AI-assisted tools, but the submitting contributor *must:\\*\n    - Fully understand the contribution.\n    - Be able to explain design and implementation decisions without the use of AI.\n  ",
-          "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
-          "url": "https://news.ycombinator.com/item?id=49489982",
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "好的文化才是最大的生产力提升秘诀，而非AI",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": "But, and maybe I'm just a curmudgeon, but I kind of wonder why we write articles like this. Like if a culture is bad, is it likely a CEO is going to be looking for random blog posts for constructive criticism? Or even managers? I look at the market forces at play, and I just don't think many (any?) organization successfully create an incentive structure where performance on intangibles (specifically management) can be assessed well enough to make a bad culture into a better culture. I've worked ",
+          "recommend_reason_zh": "本文直言CEO缺乏管理“人机”的训练，指出员工从不相信匿名敬业度调查，并质疑激励结构无法改善坏文化——用具体职场现实反驳“AI赋能”式空谈。",
+          "url": "https://news.ycombinator.com/item?id=49491568",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T18:06:30.175000Z"
+          "published_at": "2026-08-29T21:44:58.700000Z"
         },
         {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
           "title_en": null,
-          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "summary": "The results of the Debian general-resolution vote on the use of large language models have been [...]\nDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that r",
-          "recommend_reason_zh": "Debian通过决议，既不禁止也不支持生成式AI，但要求贡献者须为AI输出负责；两个极端反AI提案（改社会契约与行为准则）均未击败‘以上皆非’，约30%选民仍支持禁用，最终维持现状。",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
+          "title_original": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "summary": "AI definitely helps with productivity, but only when you have the right culture in place first!\nAI definitely helps with productivity, but only when you have the right culture in place first!\nAI definitely helps with productivity, but only when you have the right culture in place first!\nThis newsletter is sponsored by Unblocked .\n[Webinar] How to stop babysitting your agents\nAgents can generate code. Getting it right for your system, team conventions, and past decisions is the hard part. You end",
+          "recommend_reason_zh": "作者基于13年工程管理经验直言，AI工具并非效率关键，良好文化才是最大秘诀；并引用Conway定律说明组织沟通结构决定系统设计，强调“AI会取代你”这类话只会摧毁心理安全感。",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
+          "published_at": "2026-08-29T20:20:15.528000Z"
         },
         {
-          "id": "2a5b872c692789f050919e55f7152de4f368099b",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
-          "summary": "The results of the Debian general-resolution vote on the use of large language models have been [...]\nDebian neither endorses nor prohibits the use of generative AI\n\ttools in the development, maintenance, or documentation of\n\tsoftware, packaging, documentation, and other media published\n\twithin the Debian Project. We recognize that such tools can\n\tsubstantially improve the productivity of contributors when used\n\tresponsibly, allowing volunteers to spend more of their limited\n\ttime on work that r",
-          "recommend_reason_zh": "Debian投票允许负责任地使用生成式AI，既不背书也不禁止；贡献者仍须审查修正。两项反AI提案未过NOTA被否决，约30%选民支持无AI。",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T14:02:10Z"
+          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_zh": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "summary": null,
+          "recommend_reason_zh": "13年工程生涯见证：没有好文化，AI工具再强也难提效。本文用Conway's law解释为何组织沟通结构决定生产力，而非AI本身。",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T17:19:47Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T14:02:10Z",
-      "latest_at": "2026-08-29T18:06:30.175000Z",
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T21:44:58.700000Z",
       "primary_item": {
-        "id": "530b878515479cfee39827671c67e698af01cd81",
-        "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
-        "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
-        "title_en": "Debian votes to allow \"responsible use of generative AI\"",
-        "title_original": "Debian votes to allow \"responsible use of generative AI\"",
-        "summary": "reply\nAll project contributions must be submitted by *identifiable human participants* who accept full responsibility for their content. Automated agents, bots, or autonomous AI systems *may not* independently submit issues, pull requests, or other contributions.\n   Contributors may use software tools, including AI-assisted tools, but the submitting contributor *must:\\*\n    - Fully understand the contribution.\n    - Be able to explain design and implementation decisions without the use of AI.\n  ",
-        "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
-        "url": "https://news.ycombinator.com/item?id=49489982",
+        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+        "title": "好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI",
+        "title_zh": "好的文化才是最大的生产力提升秘诀，而非AI",
+        "title_en": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "title_original": "Good Culture Is the Biggest Productivity Hack, Not AI",
+        "summary": "But, and maybe I'm just a curmudgeon, but I kind of wonder why we write articles like this. Like if a culture is bad, is it likely a CEO is going to be looking for random blog posts for constructive criticism? Or even managers? I look at the market forces at play, and I just don't think many (any?) organization successfully create an incentive structure where performance on intangibles (specifically management) can be assessed well enough to make a bad culture into a better culture. I've worked ",
+        "recommend_reason_zh": "本文直言CEO缺乏管理“人机”的训练，指出员工从不相信匿名敬业度调查，并质疑激励结构无法改善坏文化——用具体职场现实反驳“AI赋能”式空谈。",
+        "url": "https://news.ycombinator.com/item?id=49491568",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "政策风向标，具体条款没出来前不改变你用 AI 的方式。",
+      "persona_score": 20,
+      "persona_review": "文化鸡汤不写代码，等有落地案例再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -789,8 +619,8 @@
           "title_zh": "StemDeck：免费、开源的本地 AI 音轨分离器",
           "title_en": "StemDeck, a free, open-source and local AI stem separator",
           "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "That’s because it uses mel_band_roformer and bs_roformer which are really great stem separation models (i haven’t heard anything better yet). Their page about stem separation quality is a nice place to start if you want to dive into these types of models: https://docs.nuo-stems.com/docs/stems-separation-quality\nTheir page about stem separation quality is a nice place to start if you want to dive into these types of models: https://docs.nuo-stems.com/docs/stems-separation-quality\nreply\nreply\nComp",
+          "recommend_reason_zh": "StemDeck是一款免费开源的本地AI分轨工具，采用mel_band_roformer和bs_roformer模型实现高质量人声与伴奏分离，无需联网上传音频，保护隐私，值得一试。",
           "url": "https://news.ycombinator.com/item?id=49486081",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -803,8 +633,8 @@
           "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "title_en": "StemDeck, a free, open-source and local AI stem separator",
           "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...\nStemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface - stemdeckapp/stemdeck\nStemdeck is an moder",
+          "recommend_reason_zh": "StemDeck是免费开源且完全本地运行的AI分轨工具，基于Demucs htdemucs_6s能将音频拆成6个音轨，支持YouTube与本地文件，无需上传，是Moises和LALAL.AI的免费替代。",
           "url": "https://github.com/stemdeckapp/stemdeck",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -839,8 +669,8 @@
           "title_zh": "StemDeck：免费、开源的本地 AI 音轨分离器",
           "title_en": "StemDeck, a free, open-source and local AI stem separator",
           "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "That’s because it uses mel_band_roformer and bs_roformer which are really great stem separation models (i haven’t heard anything better yet). Their page about stem separation quality is a nice place to start if you want to dive into these types of models: https://docs.nuo-stems.com/docs/stems-separation-quality\nTheir page about stem separation quality is a nice place to start if you want to dive into these types of models: https://docs.nuo-stems.com/docs/stems-separation-quality\nreply\nreply\nComp",
+          "recommend_reason_zh": "StemDeck是一款免费开源的本地AI分轨工具，采用mel_band_roformer和bs_roformer模型实现高质量人声与伴奏分离，无需联网上传音频，保护隐私，值得一试。",
           "url": "https://news.ycombinator.com/item?id=49486081",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -853,8 +683,8 @@
           "title_zh": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
           "title_en": "StemDeck, a free, open-source and local AI stem separator",
           "title_original": "StemDeck, a free, open-source and local AI stem separator",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative ...\nStemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface - stemdeckapp/stemdeck\nStemdeck is an moder",
+          "recommend_reason_zh": "StemDeck是免费开源且完全本地运行的AI分轨工具，基于Demucs htdemucs_6s能将音频拆成6个音轨，支持YouTube与本地文件，无需上传，是Moises和LALAL.AI的免费替代。",
           "url": "https://github.com/stemdeckapp/stemdeck",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -864,15 +694,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8868,
+        "recency": 0.8465,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -899,7 +729,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -930,8 +760,8 @@
           "title_zh": "我无意中把LLM记忆变成了程序分析",
           "title_en": "I accidentally turned LLM memory into program analysis",
           "title_original": "I accidentally turned LLM memory into program analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "1. User request understanding: natural language -> a more rigorous representation, in my case Datalog. 2. Result interpretation: facts and derived facts -> natural language. Between those terminals, the work should be mechanical reasoning over some ontology or formal knowledge structure. That connects to another principle I've been thinking about, which I call Weathering: useful reasoning should change the shape of the system. If an LLM has already had to infer a relation, mapping, rule, or abst",
+          "recommend_reason_zh": "本文介绍作者将LLM的记忆机制意外转化为程序分析实践，用Datalog作为中间表示，并提出Weathering原则：让重复推理固化为可复用结构，从而降低认知的边际成本。",
           "url": "https://news.ycombinator.com/item?id=49485416",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -944,8 +774,8 @@
           "title_zh": "我不小心把LLM内存变成了程序分析",
           "title_en": "I accidentally turned LLM memory into program analysis",
           "title_original": "I accidentally turned LLM memory into program analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus what happened when I benchmarked it on LongMemEval and LoCoMo.\nWhy I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus w",
+          "recommend_reason_zh": "作者放弃给LLM代理加记忆，转而构建Datalog引擎Lemmalog，将知识维护为带溯源、撤回和增量求值的分析状态，并在LongMemEval和LoCoMo上完成基准测试。",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -980,8 +810,8 @@
           "title_zh": "我无意中把LLM记忆变成了程序分析",
           "title_en": "I accidentally turned LLM memory into program analysis",
           "title_original": "I accidentally turned LLM memory into program analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "1. User request understanding: natural language -> a more rigorous representation, in my case Datalog. 2. Result interpretation: facts and derived facts -> natural language. Between those terminals, the work should be mechanical reasoning over some ontology or formal knowledge structure. That connects to another principle I've been thinking about, which I call Weathering: useful reasoning should change the shape of the system. If an LLM has already had to infer a relation, mapping, rule, or abst",
+          "recommend_reason_zh": "本文介绍作者将LLM的记忆机制意外转化为程序分析实践，用Datalog作为中间表示，并提出Weathering原则：让重复推理固化为可复用结构，从而降低认知的边际成本。",
           "url": "https://news.ycombinator.com/item?id=49485416",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -994,8 +824,8 @@
           "title_zh": "我不小心把LLM内存变成了程序分析",
           "title_en": "I accidentally turned LLM memory into program analysis",
           "title_original": "I accidentally turned LLM memory into program analysis",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus what happened when I benchmarked it on LongMemEval and LoCoMo.\nWhy I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus w",
+          "recommend_reason_zh": "作者放弃给LLM代理加记忆，转而构建Datalog引擎Lemmalog，将知识维护为带溯源、撤回和增量求值的分析状态，并在LongMemEval和LoCoMo上完成基准测试。",
           "url": "https://pwning.systems/posts/llm-memory-program-analysis",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -1005,15 +835,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8435,
+        "recency": 0.8052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1040,119 +870,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
-      "story_id": "story_7c1d44ff3ca2",
-      "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-      "url": "https://news.ycombinator.com/item?id=49491282",
-      "primary_url": "https://news.ycombinator.com/item?id=49491282",
+      "story_id": "story_89873725e085",
+      "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://news.ycombinator.com/item?id=49489982",
+      "primary_url": "https://news.ycombinator.com/item?id=49489982",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
-          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-          "title_zh": "Claude 将每周限额永久提高25%",
-          "title_en": "Claude permanently raising weekly limits by 25%",
-          "title_original": "Claude permanently raising weekly limits by 25%",
-          "summary": "The mirror is missing the next post: \"Compared to today, this works out to a 17% reduction in weekly limits on Claude Code\"\nreply\nreply\nBut I do understand that it's a little hard to characterize the amount of compute they're selling while obfuscating the business model enough that it still works. Demand, costs, supply, capabilities, competition change wildly week to week. Selling a standardized \"token\" via the API with gas-like pricing works a lot better for transparency. But I think there's a ",
-          "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
-          "url": "https://news.ycombinator.com/item?id=49491282",
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
+          "url": "https://news.ycombinator.com/item?id=49489982",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-29T18:06:30.175000Z"
         },
         {
-          "id": "4feea7015be41ca23134e7ff92b1f7ae445e71c8",
-          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-          "title_zh": "Claude 将每周限额永久提高25%",
-          "title_en": "Claude permanently raising weekly limits by 25%",
-          "title_original": "Claude permanently raising weekly limits by 25%",
-          "summary": "Starting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will stay in place until Sept 13.\nStarting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will stay in place until Sept 13.\nStarting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-b",
-          "recommend_reason_zh": "Anthropic从9月14日起永久上调Pro、Max、Team和seat-based Enterprise计划的每周标准限额，幅度为25%；此前50%的临时上调则沿用至9月13日。",
-          "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "summary": null,
+          "recommend_reason_zh": "Debian通过决议，既不禁止也不支持生成式AI，但要求贡献者须为AI输出负责；两个极端反AI提案（改社会契约与行为准则）均未击败‘以上皆非’，约30%选民仍支持禁用，最终维持现状。",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "recommend_reason_zh": "Debian投票允许负责任地使用生成式AI，既不背书也不禁止；贡献者仍须审查修正。两项反AI提案未过NOTA被否决，约30%选民支持无AI。",
+          "url": "https://lwn.net/Articles/1091231",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T16:37:05Z"
+          "published_at": "2026-08-29T14:02:10Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "hackernews"
+        "hackernews",
+        "lwn.net"
       ],
       "items": [
         {
-          "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
-          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-          "title_zh": "Claude 将每周限额永久提高25%",
-          "title_en": "Claude permanently raising weekly limits by 25%",
-          "title_original": "Claude permanently raising weekly limits by 25%",
-          "summary": "The mirror is missing the next post: \"Compared to today, this works out to a 17% reduction in weekly limits on Claude Code\"\nreply\nreply\nBut I do understand that it's a little hard to characterize the amount of compute they're selling while obfuscating the business model enough that it still works. Demand, costs, supply, capabilities, competition change wildly week to week. Selling a standardized \"token\" via the API with gas-like pricing works a lot better for transparency. But I think there's a ",
-          "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
-          "url": "https://news.ycombinator.com/item?id=49491282",
+          "id": "530b878515479cfee39827671c67e698af01cd81",
+          "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
+          "url": "https://news.ycombinator.com/item?id=49489982",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-29T18:06:30.175000Z"
         },
         {
-          "id": "4feea7015be41ca23134e7ff92b1f7ae445e71c8",
-          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-          "title_zh": "Claude 将每周限额永久提高25%",
-          "title_en": "Claude permanently raising weekly limits by 25%",
-          "title_original": "Claude permanently raising weekly limits by 25%",
-          "summary": "Starting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will stay in place until Sept 13.\nStarting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-based Enterprise plans. Until then, the current 50% increase will stay in place until Sept 13.\nStarting Sept 14, we're permanently raising standard weekly limits by 25% for Pro, Max, Team, and seat-b",
-          "recommend_reason_zh": "Anthropic从9月14日起永久上调Pro、Max、Team和seat-based Enterprise计划的每周标准限额，幅度为25%；此前50%的临时上调则沿用至9月13日。",
-          "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": null,
+          "title_original": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "summary": null,
+          "recommend_reason_zh": "Debian通过决议，既不禁止也不支持生成式AI，但要求贡献者须为AI输出负责；两个极端反AI提案（改社会契约与行为准则）均未击败‘以上皆非’，约30%选民仍支持禁用，最终维持现状。",
+          "url": "https://lwn.net/Articles/1091231",
+          "source": "lwn.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T15:16:20.593000Z"
+        },
+        {
+          "id": "2a5b872c692789f050919e55f7152de4f368099b",
+          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
+          "title_zh": "Debian 投票通过允许“负责任地使用生成式人工智能”",
+          "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+          "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+          "summary": null,
+          "recommend_reason_zh": "Debian投票允许负责任地使用生成式AI，既不背书也不禁止；贡献者仍须审查修正。两项反AI提案未过NOTA被否决，约30%选民支持无AI。",
+          "url": "https://lwn.net/Articles/1091231",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T16:37:05Z"
+          "published_at": "2026-08-29T14:02:10Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
-        "story_heat": 0.25
+        "recency": 0.9489,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T16:37:05Z",
+      "earliest_at": "2026-08-29T14:02:10Z",
       "latest_at": "2026-08-29T18:06:30.175000Z",
       "primary_item": {
-        "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
-        "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
-        "title_zh": "Claude 将每周限额永久提高25%",
-        "title_en": "Claude permanently raising weekly limits by 25%",
-        "title_original": "Claude permanently raising weekly limits by 25%",
-        "summary": "The mirror is missing the next post: \"Compared to today, this works out to a 17% reduction in weekly limits on Claude Code\"\nreply\nreply\nBut I do understand that it's a little hard to characterize the amount of compute they're selling while obfuscating the business model enough that it still works. Demand, costs, supply, capabilities, competition change wildly week to week. Selling a standardized \"token\" via the API with gas-like pricing works a lot better for transparency. But I think there's a ",
-        "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
-        "url": "https://news.ycombinator.com/item?id=49491282",
+        "id": "530b878515479cfee39827671c67e698af01cd81",
+        "title": "Debian 投票通过允许负责任地使用生成式 AI / Debian votes to allow \"responsible use of generative AI\"",
+        "title_zh": "Debian 投票通过允许负责任地使用生成式 AI",
+        "title_en": "Debian votes to allow \"responsible use of generative AI\"",
+        "title_original": "Debian votes to allow \"responsible use of generative AI\"",
+        "summary": null,
+        "recommend_reason_zh": "Debian投票通过决议，允许在负责任前提下使用生成式AI：贡献者须理解并维护AI辅助代码，AI不得独立提交，须注明模型；审阅者抱怨每月收到数百个补丁。",
+        "url": "https://news.ycombinator.com/item?id=49489982",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "每周用量多两成半，跑长任务不用卡着算额度。",
+      "persona_score": 55,
+      "persona_review": "政策风向标，具体条款没出来前不改变你用 AI 的方式。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -1169,7 +1028,7 @@
           "title_zh": "关于Cursor被SpaceX收购后的决定",
           "title_en": null,
           "title_original": "关于Cursor被SpaceX收购后的决定",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "source": "openai.com",
@@ -1204,7 +1063,7 @@
           "title_zh": "关于Cursor被SpaceX收购后的决定",
           "title_en": null,
           "title_original": "关于Cursor被SpaceX收购后的决定",
-          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "source": "openai.com",
@@ -1229,15 +1088,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8023,
+        "recency": 0.7659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1252,7 +1111,7 @@
         "title_zh": "关于Cursor被SpaceX收购后的决定",
         "title_en": null,
         "title_original": "关于Cursor被SpaceX收购后的决定",
-        "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nOur decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.\nAugust 28, 2026\nToday, we notified SpaceX that we intend to wind down our contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026. T",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
         "source": "openai.com",
@@ -1264,7 +1123,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -1281,7 +1140,7 @@
           "title_zh": "OpenAI 和 Anthropic 正在毁掉旧金山",
           "title_en": "OpenAI and Anthropic are ruining San Francisco",
           "title_original": "OpenAI and Anthropic are ruining San Francisco",
-          "summary": "Please enable JavaScript to proceed.",
+          "summary": null,
           "recommend_reason_zh": "这篇评论以犀利的笔触指出OpenAI和Anthropic正在毁掉San Francisco，深入探讨两家AI巨头对城市生态的负面作用，视角独特，值得一读。",
           "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
           "source": "HN Algolia · AI 24h",
@@ -1295,8 +1154,8 @@
           "title_zh": "OpenAI 和 Anthropic 正在毁掉旧金山",
           "title_en": "OpenAI and Anthropic are ruining San Francisco",
           "title_original": "OpenAI and Anthropic are ruining San Francisco",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Please enable JavaScript to proceed.",
+          "recommend_reason_zh": "标题即论点：OpenAI and Anthropic are ruining San Francisco。文章宣称两家AI公司正在毁掉旧金山，读者可审视其论证与证据。",
           "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1316,7 +1175,7 @@
           "title_zh": "OpenAI 和 Anthropic 正在毁掉旧金山",
           "title_en": "OpenAI and Anthropic are ruining San Francisco",
           "title_original": "OpenAI and Anthropic are ruining San Francisco",
-          "summary": "Please enable JavaScript to proceed.",
+          "summary": null,
           "recommend_reason_zh": "这篇评论以犀利的笔触指出OpenAI和Anthropic正在毁掉San Francisco，深入探讨两家AI巨头对城市生态的负面作用，视角独特，值得一读。",
           "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
           "source": "HN Algolia · AI 24h",
@@ -1330,8 +1189,8 @@
           "title_zh": "OpenAI 和 Anthropic 正在毁掉旧金山",
           "title_en": "OpenAI and Anthropic are ruining San Francisco",
           "title_original": "OpenAI and Anthropic are ruining San Francisco",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Please enable JavaScript to proceed.",
+          "recommend_reason_zh": "标题即论点：OpenAI and Anthropic are ruining San Francisco。文章宣称两家AI公司正在毁掉旧金山，读者可审视其论证与证据。",
           "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php?link_source=ta_first_comment&taid=6a91be8eb9a1130001896fd8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1341,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7986,
+        "recency": 0.7624,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1364,7 +1223,7 @@
         "title_zh": "OpenAI 和 Anthropic 正在毁掉旧金山",
         "title_en": "OpenAI and Anthropic are ruining San Francisco",
         "title_original": "OpenAI and Anthropic are ruining San Francisco",
-        "summary": "Please enable JavaScript to proceed.",
+        "summary": null,
         "recommend_reason_zh": "这篇评论以犀利的笔触指出OpenAI和Anthropic正在毁掉San Francisco，深入探讨两家AI巨头对城市生态的负面作用，视角独特，值得一读。",
         "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
         "source": "HN Algolia · AI 24h",
@@ -1376,7 +1235,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
+      }
+    },
+    {
+      "story_id": "story_4af064afb2f5",
+      "title": "LLMs让我不再精明，却敢闯未知领域",
+      "url": "https://news.ycombinator.com/item?id=49492184",
+      "primary_url": "https://news.ycombinator.com/item?id=49492184",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs让我不再精明，却敢闯未知领域",
+          "title_zh": "LLMs让我不再精明，却敢闯未知领域",
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": "Of course there are errors and gaffes and weird bits all over, but that helps keep me in the loop and understanding it better. I can now (more) boldly go where I feared to tread before.\nI can now (more) boldly go where I feared to tread before.\nreply\nreply\nreply\nreply\nreply\nreply\nWriting things down and then arguing with an agent that constantly gets things wrong is just a new kind of Rubber Duck. Are Rubber Ducks offloading thinking? These are more like search plus memory tools. Memory loss is ",
+          "recommend_reason_zh": "这篇评论将LLM比作“资深结对程序员”，指出它比橡皮鸭更顺从，不会像后者那样八成时间指出你的错误，导致大脑失去重新评估的“暂停”信号。",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:44:58.700000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "开发者称LLMs让软件开发不再有趣",
+          "title_zh": "开发者称LLMs让软件开发不再有趣",
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": "Things are getting boring - using LLMs is making software development not fun anymore\nThings are getting boring - using LLMs is making software development not fun anymore\nThings are getting boring - using LLMs is making software development not fun anymore\nI don’t know what’s going on. I always wanted to solve problems and create things, but now that I have access to a tool that’s able to speed up the whole design and development process… I’m just bored.\nI don’t feel the passion of building any",
+          "recommend_reason_zh": "一位有5年计算机工程背景的开发者写道，用LLMs开发只剩“prompt、评估、调整”的循环，失去了亲手构建的乐趣，还担忧这会造成无尽的技术债务。",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs让我不再精明，却敢闯未知领域",
+          "title_zh": "LLMs让我不再精明，却敢闯未知领域",
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": "Of course there are errors and gaffes and weird bits all over, but that helps keep me in the loop and understanding it better. I can now (more) boldly go where I feared to tread before.\nI can now (more) boldly go where I feared to tread before.\nreply\nreply\nreply\nreply\nreply\nreply\nWriting things down and then arguing with an agent that constantly gets things wrong is just a new kind of Rubber Duck. Are Rubber Ducks offloading thinking? These are more like search plus memory tools. Memory loss is ",
+          "recommend_reason_zh": "这篇评论将LLM比作“资深结对程序员”，指出它比橡皮鸭更顺从，不会像后者那样八成时间指出你的错误，导致大脑失去重新评估的“暂停”信号。",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:44:58.700000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "开发者称LLMs让软件开发不再有趣",
+          "title_zh": "开发者称LLMs让软件开发不再有趣",
+          "title_en": "LLMs are making me lose my savviness",
+          "title_original": "LLMs are making me lose my savviness",
+          "summary": "Things are getting boring - using LLMs is making software development not fun anymore\nThings are getting boring - using LLMs is making software development not fun anymore\nThings are getting boring - using LLMs is making software development not fun anymore\nI don’t know what’s going on. I always wanted to solve problems and create things, but now that I have access to a tool that’s able to speed up the whole design and development process… I’m just bored.\nI don’t feel the passion of building any",
+          "recommend_reason_zh": "一位有5年计算机工程背景的开发者写道，用LLMs开发只剩“prompt、评估、调整”的循环，失去了亲手构建的乐趣，还担忧这会造成无尽的技术债务。",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T18:38:52Z",
+      "latest_at": "2026-08-29T21:44:58.700000Z",
+      "primary_item": {
+        "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+        "title": "LLMs让我不再精明，却敢闯未知领域",
+        "title_zh": "LLMs让我不再精明，却敢闯未知领域",
+        "title_en": "LLMs are making me lose my savviness",
+        "title_original": "LLMs are making me lose my savviness",
+        "summary": "Of course there are errors and gaffes and weird bits all over, but that helps keep me in the loop and understanding it better. I can now (more) boldly go where I feared to tread before.\nI can now (more) boldly go where I feared to tread before.\nreply\nreply\nreply\nreply\nreply\nreply\nWriting things down and then arguing with an agent that constantly gets things wrong is just a new kind of Rubber Duck. Are Rubber Ducks offloading thinking? These are more like search plus memory tools. Memory loss is ",
+        "recommend_reason_zh": "这篇评论将LLM比作“资深结对程序员”，指出它比橡皮鸭更顺从，不会像后者那样八成时间指出你的错误，导致大脑失去重新评估的“暂停”信号。",
+        "url": "https://news.ycombinator.com/item?id=49492184",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "个人感悟没干货，不写代码不送方案，浪费时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-29T21:59:05.326141Z"
+      }
+    },
+    {
+      "story_id": "story_7c1d44ff3ca2",
+      "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+      "url": "https://news.ycombinator.com/item?id=49491282",
+      "primary_url": "https://news.ycombinator.com/item?id=49491282",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
+          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+          "title_zh": "Claude 将每周限额永久提高25%",
+          "title_en": "Claude permanently raising weekly limits by 25%",
+          "title_original": "Claude permanently raising weekly limits by 25%",
+          "summary": null,
+          "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
+          "url": "https://news.ycombinator.com/item?id=49491282",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:06:30.175000Z"
+        },
+        {
+          "id": "4feea7015be41ca23134e7ff92b1f7ae445e71c8",
+          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+          "title_zh": "Claude 将每周限额永久提高25%",
+          "title_en": "Claude permanently raising weekly limits by 25%",
+          "title_original": "Claude permanently raising weekly limits by 25%",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic从9月14日起永久上调Pro、Max、Team和seat-based Enterprise计划的每周标准限额，幅度为25%；此前50%的临时上调则沿用至9月13日。",
+          "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:37:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
+          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+          "title_zh": "Claude 将每周限额永久提高25%",
+          "title_en": "Claude permanently raising weekly limits by 25%",
+          "title_original": "Claude permanently raising weekly limits by 25%",
+          "summary": null,
+          "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
+          "url": "https://news.ycombinator.com/item?id=49491282",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T18:06:30.175000Z"
+        },
+        {
+          "id": "4feea7015be41ca23134e7ff92b1f7ae445e71c8",
+          "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+          "title_zh": "Claude 将每周限额永久提高25%",
+          "title_en": "Claude permanently raising weekly limits by 25%",
+          "title_original": "Claude permanently raising weekly limits by 25%",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic从9月14日起永久上调Pro、Max、Team和seat-based Enterprise计划的每周标准限额，幅度为25%；此前50%的临时上调则沿用至9月13日。",
+          "url": "https://bsky.app/profile/anthropicbot.bsky.social/post/3muaaxs5nx424",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:37:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9489,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T16:37:05Z",
+      "latest_at": "2026-08-29T18:06:30.175000Z",
+      "primary_item": {
+        "id": "b2ef21d080c28e84e20e151cbfb7acb2a5369663",
+        "title": "Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%",
+        "title_zh": "Claude 将每周限额永久提高25%",
+        "title_en": "Claude permanently raising weekly limits by 25%",
+        "title_original": "Claude permanently raising weekly limits by 25%",
+        "summary": null,
+        "recommend_reason_zh": "Claude宣布每周使用上限永久提高25%，但相比此前的150%额度实际降了17%；文中还讨论了订阅定价模糊与API透明定价的利弊。",
+        "url": "https://news.ycombinator.com/item?id=49491282",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "每周用量多两成半，跑长任务不用卡着算额度。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     },
     {
@@ -1407,8 +1490,8 @@
           "title_zh": "用 AI 识别假冒化妆品",
           "title_en": "Identifying fake cosmetics using AI",
           "title_original": "Identifying fake cosmetics using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we’re always on the lookout for other types of fakes that we can go after....\nDepartment of Bioengineering, University of California, Riverside\nAug 26, 2026\nMy lab develops low-cost and easy-to-use tools for identifying fake medicines , but we’re always on the lookout for other types of fakes that we can go after.  For example, the cosmetics industry has a massive problem with counterfeit products.  Studies estima",
+          "recommend_reason_zh": "用Gemini 3.6 Flash给Rhode Peptide Lip Tint拍六张照片，AI能分辨eBay上约两成假货？本文实测三件包装，逐条核验AI判断真伪的准确度。",
           "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1442,8 +1525,8 @@
           "title_zh": "用 AI 识别假冒化妆品",
           "title_en": "Identifying fake cosmetics using AI",
           "title_original": "Identifying fake cosmetics using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "My lab develops low-cost and easy-to-use tools for identifying fake medicines, but we’re always on the lookout for other types of fakes that we can go after....\nDepartment of Bioengineering, University of California, Riverside\nAug 26, 2026\nMy lab develops low-cost and easy-to-use tools for identifying fake medicines , but we’re always on the lookout for other types of fakes that we can go after.  For example, the cosmetics industry has a massive problem with counterfeit products.  Studies estima",
+          "recommend_reason_zh": "用Gemini 3.6 Flash给Rhode Peptide Lip Tint拍六张照片，AI能分辨eBay上约两成假货？本文实测三件包装，逐条核验AI判断真伪的准确度。",
           "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1453,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7902,
+        "recency": 0.7543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1488,7 +1571,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-29T18:46:55.695405Z"
+        "scored_at": "2026-08-29T21:59:05.326141Z"
       }
     }
   ]
