@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:27:34.428542Z",
+  "generated_at": "2026-08-29T14:48:17.636044Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f32fc9a9ab68",
-      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
-      "url": "https://www.aibase.com/news/30698",
+      "story_id": "story_1df6423d9095",
+      "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器",
+      "url": "https://github.com/stemdeckapp/stemdeck",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "参数和上下文实打实，但性能对比没给全，先看评测再说。"
+          "score": 75,
+          "review": "开源本地化是好事，但分离效果和采样率别藏着，拉出来遛遛。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "新闻称开源但缺具体仓库和评测，数字待验证。"
+          "score": 55,
+          "review": "代码开源可自查，但无论文和基准测试，效果待验证。"
         },
         "pragmatic": {
-          "score": 86,
-          "review": "开源可下载，长文本任务有新选择，先查许可证和显存需求。"
+          "score": 82,
+          "review": "开源本地可跑，做音频工具链的今天就能集成，省云费用。"
         }
       }
     }
