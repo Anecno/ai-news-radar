@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 29 Aug 2026 02:12:29 +0000</lastBuildDate>
+<lastBuildDate>Sat, 29 Aug 2026 09:04:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Visual Studio 中 GitHub Copilot 的八月更新 / GitHub Copilot in Visual Studio — August update</title>
@@ -16,12 +16,12 @@
 <pubDate>Fri, 28 Aug 2026 20:24:20 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险 / Our decision on Cursor following its acquisition by SpaceX</title>
-<link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-<guid isPermaLink="true">https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</guid>
-<description>对多数开发者无直接冲击，但用 Cursor 的得找替代方案了。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Fri, 28 Aug 2026 06:00:00 +0000</pubDate>
+<title>开放世界多智能体环境中的自主数学发现</title>
+<link>https://arxiv.org/abs/2608.23691</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2608.23691</guid>
+<description>研究向进展，暂无直接落地工具，做 Agent 研究的可围观。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Sat, 29 Aug 2026 07:32:16 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 每周更新 — 8月24日 / GitHub Copilot weekly releases — August 24</title>
@@ -32,20 +32,28 @@
 <pubDate>Fri, 28 Aug 2026 20:13:22 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …</title>
+<link>https://x.com/thsottiaux/status/2093515916076343774</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2093515916076343774</guid>
+<description>Cursor 用户 11 月起得换模型，提前测好替代方案别耽误交付。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 29 Aug 2026 01:47:44 +0000</pubDate>
+</item>
+<item>
+<title>智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御</title>
+<link>https://www.ithome.com/0/995/896.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/995/896.htm</guid>
+<description>权重开源可下载，智能体编程场景直接可用，不用等排期。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 29 Aug 2026 04:31:21 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 让 Claude 自主训练模型以缓解对齐失败 / Automated researchers can reliably mitigate alignment failures</title>
 <link>https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</link>
 <guid isPermaLink="true">https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures</guid>
 <description>研究进展，不是现成工具，等封装成框架再动手。（Anthropic：Research（发表成果 · 网页））</description>
 <category>行业动态</category>
 <pubDate>Fri, 28 Aug 2026 17:25:56 +0000</pubDate>
-</item>
-<item>
-<title>Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体</title>
-<link>https://www.terminal-bench-science.ai/announcement</link>
-<guid isPermaLink="true">https://www.terminal-bench-science.ai/announcement</guid>
-<description>科研场景智能体测评来了，跑分前先看任务定义是否贴合你的工作流。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>行业动态</category>
-<pubDate>Fri, 28 Aug 2026 12:04:47 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 政策和计费即将迎来调整 / Upcoming changes to GitHub Copilot policies and billing</title>
@@ -56,20 +64,12 @@
 <pubDate>Fri, 28 Aug 2026 11:37:19 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 终止与 Cursor 合作，11 月 12 日生效 / We unfortunately have decided that we cannot continue providing access to our models through Cursor …</title>
-<link>https://x.com/thsottiaux/status/2093515916076343774</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2093515916076343774</guid>
-<description>Cursor 用户 11 月起得换模型，提前测好替代方案别耽误交付。（X：Tibo (@thsottiaux)）</description>
+<title>在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据</title>
+<link>https://terminalbytes.com/run-qwen-3-8-27b-locally</link>
+<guid isPermaLink="true">https://terminalbytes.com/run-qwen-3-8-27b-locally</guid>
+<description>Mac Studio 跑 27B 的实测数据，有硬件的直接照抄配置。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>行业动态</category>
-<pubDate>Sat, 29 Aug 2026 01:47:44 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元发布 Hy4 preview：770B 总参数、1M 上下文，开源上线</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498484&amp;idx=1&amp;sn=0db140a12b8e18601ac933788045c831</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&amp;mid=2247498484&amp;idx=1&amp;sn=0db140a12b8e18601ac933788045c831</guid>
-<description>开源可下载，1M 上下文直接上手测，长文本场景省心。（公众号：腾讯混元）</description>
-<category>行业动态</category>
-<pubDate>Fri, 28 Aug 2026 06:03:48 +0000</pubDate>
+<pubDate>Sat, 29 Aug 2026 07:00:22 +0000</pubDate>
 </item>
 <item>
 <title>联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法 / Trump blacklisting of "woke" Anthropic deemed illegal by federal judge</title>
@@ -96,14 +96,6 @@
 <pubDate>Fri, 28 Aug 2026 13:34:29 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 攻击 Hugging Face 事件的 5 个教训 / 5 lessons from the OpenAI / Hugging Face incident</title>
-<link>https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging</link>
-<guid isPermaLink="true">https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging</guid>
-<description>事件本身是行业摩擦，对日常开发无直接帮助，围观即可。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 28 Aug 2026 18:24:05 +0000</pubDate>
-</item>
-<item>
 <title>腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队</title>
 <link>https://www.aibase.com/news/30698</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30698</guid>
@@ -112,12 +104,12 @@
 <pubDate>Fri, 28 Aug 2026 15:43:30 +0000</pubDate>
 </item>
 <item>
-<title>AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具</title>
-<link>https://github.com/calmrocks/ai-engineer-notebooks</link>
-<guid isPermaLink="true">https://github.com/calmrocks/ai-engineer-notebooks</guid>
-<description>开源notebook直接跑RAG和agent，Colab免费可用，想快速上手的现在就能抄。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体</title>
+<link>https://www.terminal-bench-science.ai/announcement</link>
+<guid isPermaLink="true">https://www.terminal-bench-science.ai/announcement</guid>
+<description>科研场景智能体测评来了，跑分前先看任务定义是否贴合你的工作流。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>行业动态</category>
-<pubDate>Fri, 28 Aug 2026 08:36:31 +0000</pubDate>
+<pubDate>Fri, 28 Aug 2026 12:04:47 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元大模型王炸升级:770B旗舰新版Hy4preview震撼开源，直奔开源第一梯队</title>
@@ -166,6 +158,14 @@
 <description>AI 造假案例，平台治理信号，与开发选型无关。（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Fri, 28 Aug 2026 14:43:30 +0000</pubDate>
+</item>
+<item>
+<title>我不小心把LLM内存变成了程序分析</title>
+<link>https://pwning.systems/posts/llm-memory-program-analysis</link>
+<guid isPermaLink="true">https://pwning.systems/posts/llm-memory-program-analysis</guid>
+<description>偏研究向的脑洞，暂无现成工具，不用急着动手。（pwning.systems）</description>
+<category>多源热议</category>
+<pubDate>Sat, 29 Aug 2026 06:44:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
