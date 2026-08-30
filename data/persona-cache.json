@@ -1,47 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_9e861a3d88aa|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "个人学习法分享，无新工具无新接口，可参考思路但不必急着上手。",
-      "title_hash": "b5d39531",
-      "scored_at": "2026-08-09T20:58:04.623110Z"
-    },
-    "story_7742a97ea427|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "默认开自动模式，升级后先盯紧 agent 行为，别让它乱改代码。",
-      "title_hash": "34f3754e",
-      "scored_at": "2026-08-09T20:58:02.600832Z"
-    },
-    "story_b435d77dc108|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "巨头被AI账单逼到省钱，选型时记得算算推理成本。",
-      "title_hash": "8d1e2af8",
-      "scored_at": "2026-08-09T20:58:06.951870Z"
-    },
-    "story_7742a97ea427|cynic|f4237a62": {
-      "score": 70,
-      "review": "默认开启自动模式？先问问用户敢不敢让代码自己跑。",
-      "title_hash": "34f3754e",
-      "scored_at": "2026-08-09T20:58:09.936664Z"
-    },
-    "story_7742a97ea427|paper-police|966065bf": {
-      "score": 25,
-      "review": "媒体转述官方默认设置，无技术细节无评测数据，等实际体验验证。",
-      "title_hash": "34f3754e",
-      "scored_at": "2026-08-09T20:58:11.713482Z"
-    },
     "story_4ce0c388aa43|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "宏观评论，无工具无API，不影响今天写代码。",
       "title_hash": "10c135b7",
       "scored_at": "2026-08-10T06:49:29.980989Z"
-    },
-    "story_117aef884c19|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "社会话题不写代码，跟选型无关，不用浪费时间。",
-      "title_hash": "dc5469ac",
-      "scored_at": "2026-08-09T21:54:39.102603Z"
     },
     "story_74d6609f6ca6|pragmatic|0a5c5b24": {
       "score": 25,
@@ -6144,6 +6108,30 @@
       "review": "复盘报告给了细节但缺独立验证，等社区核实再定论。",
       "title_hash": "b114ae01",
       "scored_at": "2026-08-30T20:03:16.936859Z"
+    },
+    "story_8672a4a6bc9e|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "LLM生成教学视频的实验，内容制作者可参考，普通开发者不必动手。",
+      "title_hash": "3a2ee158",
+      "scored_at": "2026-08-30T23:42:12.743714Z"
+    },
+    "story_40b94c960751|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "扩散模型做语言生成还在论文阶段，等开源或API再看，今天用不上。",
+      "title_hash": "8aebbf24",
+      "scored_at": "2026-08-30T23:42:14.514558Z"
+    },
+    "story_8672a4a6bc9e|cynic|f4237a62": {
+      "score": 52,
+      "review": "生成视频不稀罕，放三节完整课验验成色再吹不迟。",
+      "title_hash": "3a2ee158",
+      "scored_at": "2026-08-30T23:42:16.465768Z"
+    },
+    "story_8672a4a6bc9e|paper-police|966065bf": {
+      "score": 15,
+      "review": "只在HN上展示，无论文无代码无评测，空口说白话。",
+      "title_hash": "3a2ee158",
+      "scored_at": "2026-08-30T23:42:19.161982Z"
     }
   }
 }
