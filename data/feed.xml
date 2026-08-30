@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 30 Aug 2026 15:20:34 +0000</lastBuildDate>
+<lastBuildDate>Sun, 30 Aug 2026 19:50:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude / Sony and Warner sue Anthropic over "one of the largest and most blatant ongoing thefts of intellectual property in history"</title>
@@ -32,12 +32,28 @@
 <pubDate>Sun, 30 Aug 2026 04:21:04 +0000</pubDate>
 </item>
 <item>
-<title>Claude 会话 URL 默认附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default</title>
-<link>https://news.ycombinator.com/item?id=49498201</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49498201</guid>
-<description>提交信息多了 URL，团队协作留意隐私，可查配置关掉。（hackernews）</description>
+<title>METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告</title>
+<link>https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</link>
+<guid isPermaLink="true">https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</guid>
+<description>安全复盘有价值，但没给新工具，搞安全的可以翻翻，其他人不用管。（thezvi.wordpress.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 30 Aug 2026 19:31:43 +0000</pubDate>
+</item>
+<item>
+<title>默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中</title>
+<link>https://github.com/anthropics/claude-code/issues/66504</link>
+<guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/66504</guid>
+<description>能改善协作追溯，但只是 issue 讨论，等落地再看。（github.com）</description>
+<category>多源热议</category>
+<pubDate>Sun, 30 Aug 2026 16:35:36 +0000</pubDate>
+</item>
+<item>
+<title>软件团队每周五禁用AI编码助手以防技能退化</title>
+<link>https://noaifridays.com</link>
+<guid isPermaLink="true">https://noaifridays.com</guid>
+<description>团队自定规则，不影响工具生态，看看即可。（noaifridays.com）</description>
 <category>值得关注</category>
-<pubDate>Sun, 30 Aug 2026 13:48:19 +0000</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:15:25 +0000</pubDate>
 </item>
 <item>
 <title>公平工作委员会谴责“完全错误”的AI法律建议 / Fair Work Commission condemns 'plain wrong' AI legal advice</title>
@@ -46,30 +62,6 @@
 <description>监管层提醒AI法律建议不可靠，做法律相关产品的得自查合规，无直接影响。（hackernews）</description>
 <category>值得关注</category>
 <pubDate>Sun, 30 Aug 2026 13:48:19 +0000</pubDate>
-</item>
-<item>
-<title>好的文化才是最大的生产力提升秘诀，而非AI / Good Culture Is the Biggest Productivity Hack, Not AI</title>
-<link>https://news.ycombinator.com/item?id=49491568</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49491568</guid>
-<description>文化鸡汤不写代码，等有落地案例再看。（hackernews）</description>
-<category>多源热议</category>
-<pubDate>Sat, 29 Aug 2026 21:44:58 +0000</pubDate>
-</item>
-<item>
-<title>LLMs让我不再精明，却敢闯未知领域 / LLMs are making me lose my savviness</title>
-<link>https://news.ycombinator.com/item?id=49492184</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49492184</guid>
-<description>个人感悟没干货，不写代码不送方案，浪费时间。（hackernews）</description>
-<category>值得关注</category>
-<pubDate>Sat, 29 Aug 2026 21:44:58 +0000</pubDate>
-</item>
-<item>
-<title>Claude 将每周限额永久提高25% / Claude permanently raising weekly limits by 25%</title>
-<link>https://news.ycombinator.com/item?id=49491282</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49491282</guid>
-<description>每周用量多两成半，跑长任务不用卡着算额度。（hackernews）</description>
-<category>值得关注</category>
-<pubDate>Sat, 29 Aug 2026 18:06:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
