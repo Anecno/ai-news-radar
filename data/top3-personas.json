@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:32:20.852668Z",
+  "generated_at": "2026-08-31T20:30:44.124444Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_aa0326d1aa66",
-      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-      "url": "https://www.aibase.com/news/30709",
+      "story_id": "story_bd6dbcbcc36a",
+      "title": "VS Code 版 GitHub Copilot 2026 年 8 月更新 / GitHub Copilot in VS Code, August 2026 releases",
+      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "上调25%和每周上限降17%同时出现，数学学得真好。"
+          "score": 67,
+          "review": "例行更新，无对比数据，性能提升全靠脑补。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "无官方公告无代码，单方媒体报道的数字没法验证，等官方文档再算。"
+          "score": 50,
+          "review": "官方changelog有具体更新细节，但无第三方验证，等实测反馈再定。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "额度明升暗降，跑批量任务的先算好每周预算。"
+          "score": 70,
+          "review": "例行月度更新，看看新特性是否影响你的提交流程，一般不用急着升级。"
         }
       }
     }
