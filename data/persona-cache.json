@@ -1,83 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_895e60ee83c3|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源可自部署，本地多模态智能体，直接上手试。",
-      "title_hash": "ca2c4dbd",
-      "scored_at": "2026-08-10T12:14:49.523305Z"
-    },
-    "story_376615090e56|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "开源权重即将放出，可提前评估接入，但别急着改代码。",
-      "title_hash": "1639a359",
-      "scored_at": "2026-08-10T12:14:53.278040Z"
-    },
-    "story_3711c7beb745|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "SGLang 当天支持 Muse Glimmer，跑本地 agent 工作流的可以直接上手。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:14:55.580305Z"
-    },
-    "story_3711c7beb745|cynic|f4237a62": {
-      "score": 55,
-      "review": "Day-0支持成了标配，优化的延迟和吞吐数据呢？别只发贺电。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:14:59.417606Z"
-    },
-    "story_3711c7beb745|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有合作博客，无评测细节和开源代码，性能存疑待验证。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:15:02.498030Z"
-    },
-    "story_88c4bb049e16|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。",
-      "title_hash": "b20dacb9",
-      "scored_at": "2026-08-10T13:58:48.131565Z"
-    },
-    "story_d49cfe84ff4f|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "用该订阅的得提前找替代，不用则忽略。",
-      "title_hash": "efa487d5",
-      "scored_at": "2026-08-10T13:58:54.969181Z"
-    },
     "story_1ad67226f47b|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "政策游说信，不涉及API或工具变化，做开发的当行业动向了解即可。",
       "title_hash": "73ccb8f2",
       "scored_at": "2026-08-11T04:50:09.694836Z"
-    },
-    "story_3a4cba53dc81|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "营销工具更新，搞广告投放的可以看，做模型开发的不用管。",
-      "title_hash": "1a4de303",
-      "scored_at": "2026-08-10T15:29:44.326424Z"
-    },
-    "story_31e648a68ad9|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "若用tl;dv马上改密，否则警惕同类会议工具漏洞。",
-      "title_hash": "2d769870",
-      "scored_at": "2026-08-10T15:29:54.273376Z"
-    },
-    "story_6fad64e0197b|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "数据报告提供参考基准，但无直接工具可上手，看结论即可。",
-      "title_hash": "08c35b5c",
-      "scored_at": "2026-08-10T15:29:56.324107Z"
-    },
-    "story_88c4bb049e16|cynic|f4237a62": {
-      "score": 45,
-      "review": "官方通稿没给对比基线，'更高效'是跟谁比？",
-      "title_hash": "b20dacb9",
-      "scored_at": "2026-08-10T15:29:59.724243Z"
-    },
-    "story_88c4bb049e16|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方新闻无论文无代码，绩效数字未公开，等评测出来再说。",
-      "title_hash": "b20dacb9",
-      "scored_at": "2026-08-10T15:30:01.389844Z"
     },
     "story_ea01cc68f0f3|pragmatic|0a5c5b24": {
       "score": 62,
@@ -6162,6 +6090,36 @@
       "review": "博客自说自话，无论文无代码无评测，HN讨论不算数。",
       "title_hash": "7e23cdcb",
       "scored_at": "2026-08-31T12:00:04.792896Z"
+    },
+    "story_b5eed0f3b98c|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "商业数据而已，不影响开发，等具体广告 API 再说。",
+      "title_hash": "374d8da0",
+      "scored_at": "2026-08-31T15:32:10.010875Z"
+    },
+    "story_5f8cb23153f3|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "多模态开源模型可直接跑，想上 Agent 任务的今天就能试。",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T15:32:11.437774Z"
+    },
+    "story_1820ecd798ef|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "像是工具清单参考，用到时再查，不急着动手。",
+      "title_hash": "85d79df7",
+      "scored_at": "2026-08-31T15:32:14.921298Z"
+    },
+    "story_5f8cb23153f3|cynic|f4237a62": {
+      "score": 55,
+      "review": "开源了但没晒数据和训练细节，'接近 Opus-4.8'的基准呢？",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T15:32:17.307766Z"
+    },
+    "story_5f8cb23153f3|paper-police|966065bf": {
+      "score": 20,
+      "review": "声称开源却无仓库链接，性能对比无数据，等代码和评测。",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T15:32:20.852564Z"
     }
   }
 }

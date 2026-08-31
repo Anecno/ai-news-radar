@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 31 Aug 2026 11:36:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 31 Aug 2026 15:09:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI</title>
+<link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+<guid isPermaLink="true">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
+<description>商业数据而已，不影响开发，等具体广告 API 再说。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Mon, 31 Aug 2026 04:00:00 +0000</pubDate>
+</item>
 <item>
 <title>理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同 / Understanding ChatGPT Work</title>
 <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work</link>
@@ -14,6 +22,14 @@
 <description>概念科普不用急着懂，等它开放API再上手不迟。（Simon Willison 博客）</description>
 <category>行业动态</category>
 <pubDate>Mon, 31 Aug 2026 05:07:13 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8</title>
+<link>https://www.ithome.com/0/996/637.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/996/637.htm</guid>
+<description>多模态开源模型可直接跑，想上 Agent 任务的今天就能试。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 11:35:24 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发安全警报：信息窃取木马盗走部分用户 Claude 登录会话</title>
@@ -104,12 +120,12 @@
 <pubDate>Mon, 31 Aug 2026 11:36:36 +0000</pubDate>
 </item>
 <item>
-<title>Meta 安全研究员的 AI Agent 误删了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
-<link>https://news.ycombinator.com/item?id=49506655</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49506655</guid>
-<description>提醒做 Agent 自动化前先设权限边界和回滚，别拿生产环境当实验场。（hackernews）</description>
+<title>ChatGPT 工作工具与技能参考 / ChatGPT Work Tool and Skill Reference</title>
+<link>https://news.ycombinator.com/item?id=49510000</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49510000</guid>
+<description>像是工具清单参考，用到时再查，不急着动手。（hackernews）</description>
 <category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 11:18:43 +0000</pubDate>
+<pubDate>Mon, 31 Aug 2026 14:49:38 +0000</pubDate>
 </item>
 <item>
 <title>解析扩散式语言模型构建：从遮蔽扩散到变长生成</title>
@@ -128,22 +144,6 @@
 <pubDate>Mon, 31 Aug 2026 10:27:50 +0000</pubDate>
 </item>
 <item>
-<title>METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告</title>
-<link>https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</link>
-<guid isPermaLink="true">https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack</guid>
-<description>安全复盘有价值，但没给新工具，搞安全的可以翻翻，其他人不用管。（thezvi.wordpress.com）</description>
-<category>多源热议</category>
-<pubDate>Sun, 30 Aug 2026 19:31:43 +0000</pubDate>
-</item>
-<item>
-<title>默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中</title>
-<link>https://github.com/anthropics/claude-code/issues/66504</link>
-<guid isPermaLink="true">https://github.com/anthropics/claude-code/issues/66504</guid>
-<description>能改善协作追溯，但只是 issue 讨论，等落地再看。（github.com）</description>
-<category>多源热议</category>
-<pubDate>Sun, 30 Aug 2026 16:35:36 +0000</pubDate>
-</item>
-<item>
 <title>AI"已读乱回"要担责、外卖包装"瘦身"，一批新规 9 月起施行</title>
 <link>https://www.aibase.com/news/30719</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30719</guid>
@@ -152,20 +152,20 @@
 <pubDate>Mon, 31 Aug 2026 07:04:16 +0000</pubDate>
 </item>
 <item>
-<title>重磅：Claude Code Opus 5 自动模式发布 / Breaking Claude Code Opus 5 Auto Mode</title>
-<link>https://news.ycombinator.com/item?id=49506819</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49506819</guid>
-<description>自动模式若已开放，编码提速明显，先跑通再迁移。（hackernews）</description>
+<title>Meta 安全研究员的 AI Agent 误删了她的邮件 / Meta Security Researcher's AI Agent Accidentally Deleted Her Emails</title>
+<link>https://news.ycombinator.com/item?id=49506655</link>
+<guid isPermaLink="true">https://news.ycombinator.com/item?id=49506655</guid>
+<description>提醒做 Agent 自动化前先设权限边界和回滚，别拿生产环境当实验场。（hackernews）</description>
 <category>值得关注</category>
 <pubDate>Mon, 31 Aug 2026 11:18:43 +0000</pubDate>
 </item>
 <item>
-<title>软件团队每周五禁用AI编码助手以防技能退化</title>
-<link>https://noaifridays.com</link>
-<guid isPermaLink="true">https://noaifridays.com</guid>
-<description>团队自定规则，不影响工具生态，看看即可。（noaifridays.com）</description>
-<category>值得关注</category>
-<pubDate>Sun, 30 Aug 2026 15:15:25 +0000</pubDate>
+<title>Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%</title>
+<link>https://www.aibase.com/news/30709</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30709</guid>
+<description>额度明升暗降，跑批量任务的先算好每周预算。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 07:04:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
