@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d21fb74b185b|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "JetBrains 用户能接 Ollama 本地模型和记忆了，IDE 里直接玩，值得升级体验。",
-      "title_hash": "efa88adb",
-      "scored_at": "2026-08-11T22:20:25.364428Z"
-    },
-    "story_8bee042859df|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "多角色视频生成已上线，做短片可直接上手试。",
-      "title_hash": "ae02c697",
-      "scored_at": "2026-08-11T21:23:53.378405Z"
-    },
-    "story_8a4c14a3381a|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "用户规模反映生态成熟度，选型可参考，但今天没有可上手的动作。",
-      "title_hash": "c5592b0b",
-      "scored_at": "2026-08-11T21:23:55.520239Z"
-    },
-    "story_f4f6d73ecb41|pragmatic|0a5c5b24": {
-      "score": 68,
-      "review": "自托管企业用户可提前测试新特性，生产环境建议等正式版。",
-      "title_hash": "8187d19a",
-      "scored_at": "2026-08-11T21:23:58.211097Z"
-    },
-    "story_3e367c2a90f0|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "省了手动迁移规则集的功夫，仓库多的团队今天就能少踩坑。",
-      "title_hash": "4236958d",
-      "scored_at": "2026-08-11T21:23:59.833504Z"
-    },
-    "story_8bee042859df|cynic|f4237a62": {
-      "score": 45,
-      "review": "五十个角色参考听着唬人，渲染时长和实际效果敢晒出来吗？",
-      "title_hash": "ae02c697",
-      "scored_at": "2026-08-11T21:24:03.908965Z"
-    },
-    "story_8bee042859df|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅官方推文宣称，无论文代码评测，等独立验证。",
-      "title_hash": "ae02c697",
-      "scored_at": "2026-08-11T21:24:06.532360Z"
-    },
-    "story_761a27a82638|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "AWS 用户可直接调用，省去自建部署，适合现有云工作流团队。",
-      "title_hash": "6a575b24",
-      "scored_at": "2026-08-11T22:20:28.169785Z"
-    },
     "story_0655dcabfd8f|pragmatic|0a5c5b24": {
       "score": 48,
       "review": "宏观规划不写代码，等具体项目落地再动手。",
@@ -6174,6 +6126,66 @@
       "review": "官方公告无技术细节和验证，等实际接入后独立测试再定。",
       "title_hash": "4738ed57",
       "scored_at": "2026-09-01T20:22:50.760063Z"
+    },
+    "story_94cad6318b8f|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "基准有效性讨论，不改变今天选型，做评估研究可参考。",
+      "title_hash": "0a14d057",
+      "scored_at": "2026-09-01T23:47:17.218413Z"
+    },
+    "story_0ce11be79fc0|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "受限发布等于普通开发者碰不到，等公开接口再评估。",
+      "title_hash": "395f2f86",
+      "scored_at": "2026-09-01T23:47:20.570812Z"
+    },
+    "story_730fa9d1ab54|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "PR审批能自动化了，审查流程少一步手工，今天就能配。",
+      "title_hash": "f2dfe933",
+      "scored_at": "2026-09-01T23:47:22.470490Z"
+    },
+    "story_842216100d96|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "迁移上云更顺滑，GHES用户今天就能用，省去手工搬家。",
+      "title_hash": "4d47414d",
+      "scored_at": "2026-09-01T23:47:24.610664Z"
+    },
+    "story_8fd24e2f72d6|pragmatic|0a5c5b24": {
+      "score": 48,
+      "review": "官方汇总帖，没具体细节；点进去看有没有开放 API 再决定行动。",
+      "title_hash": "8045b156",
+      "scored_at": "2026-09-01T23:47:26.738638Z"
+    },
+    "story_f7b63d022353|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "常规版本号更新，无新功能或API变化，不用花时间。",
+      "title_hash": "33326c8b",
+      "scored_at": "2026-09-01T23:47:32.968683Z"
+    },
+    "story_392cc5c32bd1|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新模型更强但贵20%，跑批量任务前先算账，不急换。",
+      "title_hash": "9fc4acf2",
+      "scored_at": "2026-09-01T23:47:35.280336Z"
+    },
+    "story_5de5820ec3a1|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "给预算设过期时间，团队开销管理更省心，管理员今天就能配。",
+      "title_hash": "75dad4c7",
+      "scored_at": "2026-09-01T23:47:37.532312Z"
+    },
+    "story_730fa9d1ab54|cynic|f4237a62": {
+      "score": 72,
+      "review": "批准PR这步终于补上，但别指望它比人审更懂业务逻辑。",
+      "title_hash": "f2dfe933",
+      "scored_at": "2026-09-01T23:47:39.962492Z"
+    },
+    "story_730fa9d1ab54|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方 changelog 宣称能力，无代码无评测，待独立验证。",
+      "title_hash": "f2dfe933",
+      "scored_at": "2026-09-01T23:47:42.059063Z"
     }
   }
 }

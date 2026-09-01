@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:22:50.760113Z",
+  "generated_at": "2026-09-01T23:47:42.059154Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_08b8473c055e",
-      "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-      "url": "https://www.aibase.com/news/30755",
+      "story_id": "story_730fa9d1ab54",
+      "title": "Copilot 代码审查现在可以批准 pull requests 了 / Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开源值得点赞，但“不给人类看图”这话说得，好像人类以前看图是靠它似的。"
+          "review": "批准PR这步终于补上，但别指望它比人审更懂业务逻辑。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "缺论文缺代码缺评测，新闻说开源但无仓库链接。"
+          "score": 25,
+          "review": "官方 changelog 宣称能力，无代码无评测，待独立验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "Agent直接加视觉，开源可clone，今天就能上手试。"
+          "score": 88,
+          "review": "PR审批能自动化了，审查流程少一步手工，今天就能配。"
         }
       }
     },
