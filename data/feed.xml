@@ -5,8 +5,48 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 01 Sep 2026 15:28:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 01 Sep 2026 19:56:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace</title>
+<link>https://blog.google/products-and-platforms/products/workspace/google-pics</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/workspace/google-pics</guid>
+<description>官方图编工具进 Workspace，日常文档配图能少切一个窗口。（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
+<link>https://huggingface.co/blog/webgpu-kernels</link>
+<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
+<description>开源内核即拿即用，浏览器端跑模型性能直接提升。（Hugging Face Blog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini</title>
+<link>https://deepmind.google/blog/introducing-agentic-video-in-gemini</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-agentic-video-in-gemini</guid>
+<description>功能官方展示了，但API是否开放没细说，做视频Agent的先观望。（Google DeepMind）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 17:08:51 +0000</pubDate>
+</item>
+<item>
+<title>AI原生公司如何将工作流程转化为运营能力 / How AI-native companies turn workflows into operating capability</title>
+<link>https://openai.com/index/ai-native-company-workflows</link>
+<guid isPermaLink="true">https://openai.com/index/ai-native-company-workflows</guid>
+<description>讲理念的官方文章，没给具体工具或接口，从业者扫一眼即可。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>在个人仓库中阻止用户评论讨论 / Block users from discussion comments in personal repositories</title>
+<link>https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories</guid>
+<description>个人仓库可以拉黑评论者了，开源维护者省心一点，小功能但能用。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 01 Sep 2026 16:30:01 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.152.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -16,20 +56,12 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>推出 @huggingface/kernels：200+ WebGPU 内核，支持本地 AI / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</title>
-<link>https://huggingface.co/blog/webgpu-kernels</link>
-<guid isPermaLink="true">https://huggingface.co/blog/webgpu-kernels</guid>
-<description>200+ WebGPU 内核直接可调，浏览器里跑本地模型省心事，值得立刻上手。（Hugging Face Blog）</description>
+<title>医疗保健组织现在可以将电子病历和更多行业数据连接到ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+<link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</guid>
+<description>医疗行业API接入开放，做健康应用的可以研究，其他领域暂无关。（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Team 计划的 Copilot 模型访问权限更新 / Copilot model access update for GitHub Team plans</title>
-<link>https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</guid>
-<description>Team 计划模型权限变了，先查你的组织是否受影响，再决定要不要调配置。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Mon, 31 Aug 2026 21:58:46 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts</title>
@@ -38,6 +70,22 @@
 <description>安全改进偏内部流程，API 用户无需立即行动，观望即可。（Anthropic：Newsroom（网页））</description>
 <category>官方更新</category>
 <pubDate>Mon, 31 Aug 2026 23:00:05 +0000</pubDate>
+</item>
+<item>
+<title>Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …</title>
+<link>https://x.com/rohanpaul_ai/status/2094873718237565197</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2094873718237565197</guid>
+<description>安全披露有参考价值，但没新工具可上手，安全团队可留意，普通开发不用动。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 19:43:09 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Team 计划的 Copilot 模型访问权限更新 / Copilot model access update for GitHub Team plans</title>
+<link>https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans</guid>
+<description>Team 计划模型权限变了，先查你的组织是否受影响，再决定要不要调配置。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 31 Aug 2026 21:58:46 +0000</pubDate>
 </item>
 <item>
 <title>路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治</title>
@@ -56,12 +104,28 @@
 <pubDate>Tue, 01 Sep 2026 15:28:08 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控</title>
+<link>https://www.ithome.com/0/996/711.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/996/711.htm</guid>
+<description>安全事件复盘值得读，自建部署的该检查沙箱隔离了。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 31 Aug 2026 23:55:44 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 研究：训练一个错位的奖励寻求者模型 / New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…</title>
 <link>https://x.com/AnthropicAI/status/2094577944056430865</link>
 <guid isPermaLink="true">https://x.com/AnthropicAI/status/2094577944056430865</guid>
 <description>研究性进展，暂无工具落地，关注后续应用。（X：Anthropic (@AnthropicAI)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 00:07:51 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Claude Platform release notes - September 1， 2026</title>
+<link>https://platform.claude.com/docs/en/release-notes/overview</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/overview</guid>
+<description>小版本更新，先看模型卡和 API 变更，现有项目不急升。（Claude Platform：开发者版本说明（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相</title>
@@ -102,70 +166,6 @@
 <description>股价和参数量对写代码没用，等API放开再说。（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Tue, 01 Sep 2026 10:06:47 +0000</pubDate>
-</item>
-<item>
-<title>Runway发布首个界面世界模型Solaris，实时逐帧生成动态交互界面</title>
-<link>https://www.aibase.com/news/30756</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30756</guid>
-<description>方向有意思，但没开放 API 前不用急着上手，先看样例。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:06:47 +0000</pubDate>
-</item>
-<item>
-<title>EFF 敦促法院：勿因 AI 炒作改写版权法 / EFF to Courts: Don't Rewrite Copyright over AI Hype</title>
-<link>https://news.ycombinator.com/item?id=49521315</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49521315</guid>
-<description>法律辩论离代码太远，等判例落地再评估影响。（hackernews）</description>
-<category>多源热议</category>
-<pubDate>Tue, 01 Sep 2026 15:12:28 +0000</pubDate>
-</item>
-<item>
-<title>Debian 不会禁止 AI 代码进入其 Linux 发行版 / Debian won&amp;#8217;t ban AI code from its Linux distribution</title>
-<link>https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy</guid>
-<description>政策表态，现有流程不受影响，不用调整部署。（The Verge）</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 15:34:58 +0000</pubDate>
-</item>
-<item>
-<title>炮轰车企AI体验太垃圾！罗永浩：为什么不直接接入豆包、千问和Kimi？</title>
-<link>https://www.aibase.com/news/30759</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30759</guid>
-<description>名人吐槽而已，看看就好，等车企真改了再说。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:06:47 +0000</pubDate>
-</item>
-<item>
-<title>在人工智能时代，最安全的职业可能是写作</title>
-<link>http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</link>
-<guid isPermaLink="true">http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html</guid>
-<description>观点文，无工具无代码，当行业谈资看即可。（muratbuffalo.blogspot.com）</description>
-<category>多源热议</category>
-<pubDate>Tue, 01 Sep 2026 01:21:40 +0000</pubDate>
-</item>
-<item>
-<title>人工智能也能让你更快变差</title>
-<link>https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</link>
-<guid isPermaLink="true">https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too</guid>
-<description>观点文章不提供工具或方案，等有具体验证再说。（www.hermit-tech.com）</description>
-<category>值得关注</category>
-<pubDate>Tue, 01 Sep 2026 11:45:30 +0000</pubDate>
-</item>
-<item>
-<title>韩国押上史上最大规模预算：821 万亿韩元砸向 AI 与芯片，半导体税收撑起扩张底气</title>
-<link>https://www.aibase.com/news/30758</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30758</guid>
-<description>政府预算不直接改接口，做半导体的留意补贴风向。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Tue, 01 Sep 2026 10:06:47 +0000</pubDate>
-</item>
-<item>
-<title>Apple 被 Mac Mini 和 Mac Studio 的 AI 需求打了个措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio</title>
-<link>https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio</link>
-<guid isPermaLink="true">https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio</guid>
-<description>供应紧张可能影响近期采购，但无关技术选型，开发者不急可等。（Slashdot）</description>
-<category>值得关注</category>
-<pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
