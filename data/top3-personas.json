@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:12:19.053440Z",
+  "generated_at": "2026-09-01T06:38:53.709421Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_0e86c779cdf8",
-      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-      "url": "https://www.aibase.com/news/30735",
+      "story_id": "story_18a954a364e8",
+      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+      "url": "https://www.aibase.com/news/30749",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "参数够大，但“对标顶尖”的对比基线呢？别又挑自家擅长的榜。"
+          "score": 45,
+          "review": "百万上下文端侧？先跑起来看看速度和功耗，别只晒个截图。"
         },
         "paper-police": {
-          "score": 70,
-          "review": "开源代码可查但缺论文和第三方评测，先复现再定标杆。"
+          "score": 10,
+          "review": "仅新闻宣称开源，无仓库无评测，证据不足不可复现。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可下载，但3050亿参数部署门槛高，小团队先看技术报告，别急着跑。"
+          "score": 85,
+          "review": "开源可直下，百万上下文端侧是卖点，先看硬件门槛再上手。"
         }
       }
     },

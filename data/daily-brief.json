@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-01T01:49:47.831864Z",
+  "generated_at": "2026-09-01T06:16:08.507025Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_946b48cdca28",
+      "title": "Codex CLI 0.152.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.152.0",
+          "title_original": "Codex CLI 0.152.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+          "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.152.0",
+          "title_original": "Codex CLI 0.152.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+          "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9134,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+        "title": "Codex CLI 0.152.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.152.0",
+        "title_original": "Codex CLI 0.152.0",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+        "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "常规迭代，看日志确认是否影响现有工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-01T06:38:18.617521Z"
+      }
+    },
     {
       "story_id": "story_b69e2792fc70",
       "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "official",
@@ -84,7 +169,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -132,15 +217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7805,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -169,7 +254,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
+      }
+    },
+    {
+      "story_id": "story_7683f9125002",
+      "title": "OpenAI支持加州推进青少年AI安全的法案 / OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "primary_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+          "title": "OpenAI支持加州推进青少年AI安全的法案 / OpenAI supports California’s bill to advance youth AI safety",
+          "title_zh": "OpenAI支持加州推进青少年AI安全的法案",
+          "title_en": "OpenAI supports California’s bill to advance youth AI safety",
+          "title_original": "OpenAI supports California’s bill to advance youth AI safety",
+          "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nAugust 31, 2026\nBy Ann O’Leary, ",
+          "recommend_reason_zh": "OpenAI表态支持加州SB 1119，为13至17岁青少年自动启用AI安全保护，并援引近九成 teens 每周用ChatGPT学习的数据，兼顾安全与探索。",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+          "title": "OpenAI支持加州推进青少年AI安全的法案 / OpenAI supports California’s bill to advance youth AI safety",
+          "title_zh": "OpenAI支持加州推进青少年AI安全的法案",
+          "title_en": "OpenAI supports California’s bill to advance youth AI safety",
+          "title_original": "OpenAI supports California’s bill to advance youth AI safety",
+          "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nAugust 31, 2026\nBy Ann O’Leary, ",
+          "recommend_reason_zh": "OpenAI表态支持加州SB 1119，为13至17岁青少年自动启用AI安全保护，并援引近九成 teens 每周用ChatGPT学习的数据，兼顾安全与探索。",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7146,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "0a3dd40e84f8dc0f373ecec40652c9aa2efa1294",
+        "title": "OpenAI支持加州推进青少年AI安全的法案 / OpenAI supports California’s bill to advance youth AI safety",
+        "title_zh": "OpenAI支持加州推进青少年AI安全的法案",
+        "title_en": "OpenAI supports California’s bill to advance youth AI safety",
+        "title_original": "OpenAI supports California’s bill to advance youth AI safety",
+        "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nOpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.\nAugust 31, 2026\nBy Ann O’Leary, ",
+        "recommend_reason_zh": "OpenAI表态支持加州SB 1119，为13至17岁青少年自动启用AI安全保护，并援引近九成 teens 每周用ChatGPT学习的数据，兼顾安全与探索。",
+        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "政策表态，无实际接口或工具变化，开发暂不受影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -186,7 +356,7 @@
           "title_zh": "Polimill 构建日本下一代公共AI基础设施",
           "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
           "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
-          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+          "summary": null,
           "recommend_reason_zh": "Polimill 基于 OpenAI GPT 与 Codex 构建 QommonsAI，服务日本约 1050 个地方政府和 55 万公务员，开发时间缩短 3 至 5 倍。",
           "url": "https://openai.com/index/polimill",
           "source": "OpenAI News",
@@ -206,7 +376,7 @@
           "title_zh": "Polimill 构建日本下一代公共AI基础设施",
           "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
           "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
-          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+          "summary": null,
           "recommend_reason_zh": "Polimill 基于 OpenAI GPT 与 Codex 构建 QommonsAI，服务日本约 1050 个地方政府和 55 万公务员，开发时间缩短 3 至 5 倍。",
           "url": "https://openai.com/index/polimill",
           "source": "OpenAI News",
@@ -217,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7619,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -242,7 +412,7 @@
         "title_zh": "Polimill 构建日本下一代公共AI基础设施",
         "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
         "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
-        "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+        "summary": null,
         "recommend_reason_zh": "Polimill 基于 OpenAI GPT 与 Codex 构建 QommonsAI，服务日本约 1050 个地方政府和 55 万公务员，开发时间缩短 3 至 5 倍。",
         "url": "https://openai.com/index/polimill",
         "source": "OpenAI News",
@@ -254,115 +424,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_b5eed0f3b98c",
-      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "primary_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-          "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-          "title_en": "A milestone in expanding access to AI",
-          "title_original": "A milestone in expanding access to AI",
-          "summary": null,
-          "recommend_reason_zh": "上线不足200天，ChatGPT Ads年化收入即达10亿美元，现已覆盖40多国并扩展至印度、欧洲、中东及北非，支撑ChatGPT超10亿周活用户的免费访问。",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-          "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-          "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-          "title_en": "A milestone in expanding access to AI",
-          "title_original": "A milestone in expanding access to AI",
-          "summary": null,
-          "recommend_reason_zh": "上线不足200天，ChatGPT Ads年化收入即达10亿美元，现已覆盖40多国并扩展至印度、欧洲、中东及北非，支撑ChatGPT超10亿周活用户的免费访问。",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-31T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7296,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T04:00:00Z",
-      "latest_at": "2026-08-31T04:00:00Z",
-      "primary_item": {
-        "id": "88e48842cea729ff8d2bde26ed7cb4667f3f9a5c",
-        "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展 / A milestone in expanding access to AI",
-        "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-        "title_en": "A milestone in expanding access to AI",
-        "title_original": "A milestone in expanding access to AI",
-        "summary": null,
-        "recommend_reason_zh": "上线不足200天，ChatGPT Ads年化收入即达10亿美元，现已覆盖40多国并扩展至印度、欧洲、中东及北非，支撑ChatGPT超10亿周活用户的免费访问。",
-        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "商业数据而已，不影响开发，等具体广告 API 再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
-      }
-    },
-    {
-      "story_id": "story_0eca5e8307df",
-      "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-      "url": "https://www.aibase.com/news/30731",
-      "primary_url": "https://www.aibase.com/news/30731",
+      "story_id": "story_d31c62ca0cca",
+      "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+      "url": "https://www.aibase.com/news/30745",
+      "primary_url": "https://www.aibase.com/news/30745",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "title_zh": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "title_zh": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
           "title_en": null,
-          "title_original": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "summary": "Recently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic与Lambda签下最高350亿美元云协议，数据中心由Hut8建于德州Nueces County，NVIDIA持有租赁权，三方分工如何支撑其算力扩张？",
-          "url": "https://www.aibase.com/news/30731",
+          "title_original": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "summary": "Manus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nExplore AI Fronti",
+          "recommend_reason_zh": "Manus 在经历近八个月被 Meta 收购与剥离的波折后，正式恢复独立运营，创始团队继续领导，重申将专注打造更强的通用人工智能代理产品。",
+          "url": "https://www.aibase.com/news/30745",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -371,18 +456,18 @@
       ],
       "items": [
         {
-          "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-          "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "title_zh": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+          "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+          "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "title_zh": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
           "title_en": null,
-          "title_original": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-          "summary": "Recently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic与Lambda签下最高350亿美元云协议，数据中心由Hut8建于德州Nueces County，NVIDIA持有租赁权，三方分工如何支撑其算力扩张？",
-          "url": "https://www.aibase.com/news/30731",
+          "title_original": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+          "summary": "Manus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nExplore AI Fronti",
+          "recommend_reason_zh": "Manus 在经历近八个月被 Meta 收购与剥离的波折后，正式恢复独立运营，创始团队继续领导，重申将专注打造更强的通用人工智能代理产品。",
+          "url": "https://www.aibase.com/news/30745",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -403,27 +488,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "b1ef7988e81fc8e3accf84dec6fcace25548e4f8",
-        "title": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-        "title_zh": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
+        "id": "ebd7891564d0d58bc3bfd0ced77676324c194b26",
+        "title": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+        "title_zh": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
         "title_en": null,
-        "title_original": "Anthropic豪掷350亿美元联手Lambda加码云端算力",
-        "summary": "Recently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nRecently, Anthropic has formally signed a cloud computing agreement worth up to $35 billion with Lambda, a cloud service provider supported by NVIDIA, equivalen\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic与Lambda签下最高350亿美元云协议，数据中心由Hut8建于德州Nueces County，NVIDIA持有租赁权，三方分工如何支撑其算力扩张？",
-        "url": "https://www.aibase.com/news/30731",
+        "title_original": "AI 代理实验室 Manus 正式恢复独立运营 开启通用智能体新阶段",
+        "summary": "Manus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nManus, the leading general artificial intelligence agent platform, officially announced the resumption of independent operations today. After nearly eight month\nExplore AI Fronti",
+        "recommend_reason_zh": "Manus 在经历近八个月被 Meta 收购与剥离的波折后，正式恢复独立运营，创始团队继续领导，重申将专注打造更强的通用人工智能代理产品。",
+        "url": "https://www.aibase.com/news/30745",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 28,
-      "persona_review": "巨头砸钱买算力，跟开发者今天能用的东西无关，等后续价格或能力变化再说。",
+      "persona_score": 40,
+      "persona_review": "恢复运营是公司层面的事，没有新能力或接口变化，暂不用行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -471,15 +556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -507,7 +592,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
+      }
+    },
+    {
+      "story_id": "story_8fd2f4035342",
+      "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+      "url": "https://www.aibase.com/news/30747",
+      "primary_url": "https://www.aibase.com/news/30747",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "96d288338f75e896213c1b6a05f8585077b74913",
+          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "title_zh": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "title_en": null,
+          "title_original": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "summary": "NVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nExplore AI Fronti",
+          "recommend_reason_zh": "NVIDIA向MediaTek注资35亿美元可转债，双方合作打造覆盖AI工厂、本地计算与汽车的下一代平台，MediaTek将采用NVLink Fusion，值得关注。",
+          "url": "https://www.aibase.com/news/30747",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "96d288338f75e896213c1b6a05f8585077b74913",
+          "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "title_zh": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "title_en": null,
+          "title_original": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+          "summary": "NVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nExplore AI Fronti",
+          "recommend_reason_zh": "NVIDIA向MediaTek注资35亿美元可转债，双方合作打造覆盖AI工厂、本地计算与汽车的下一代平台，MediaTek将采用NVLink Fusion，值得关注。",
+          "url": "https://www.aibase.com/news/30747",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
+      "primary_item": {
+        "id": "96d288338f75e896213c1b6a05f8585077b74913",
+        "title": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+        "title_zh": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+        "title_en": null,
+        "title_original": "​35 亿美元押注联发科：英伟达联手打造覆盖 AI 工厂到 PC 的下一代计算平台",
+        "summary": "NVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nNVIDIA and MediaTek announced on August 31st to deepen their long-term collaboration, with both companies working together to create the next-generation AI comp\nExplore AI Fronti",
+        "recommend_reason_zh": "NVIDIA向MediaTek注资35亿美元可转债，双方合作打造覆盖AI工厂、本地计算与汽车的下一代平台，MediaTek将采用NVLink Fusion，值得关注。",
+        "url": "https://www.aibase.com/news/30747",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "战略合作离产品还远，芯片没落地前不用改选型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -555,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.7636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -590,30 +759,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_0e86c779cdf8",
-      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-      "url": "https://www.aibase.com/news/30735",
-      "primary_url": "https://www.aibase.com/news/30735",
+      "story_id": "story_080bc9896870",
+      "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+      "url": "https://www.aibase.com/news/30743",
+      "primary_url": "https://www.aibase.com/news/30743",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
-          "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-          "title_zh": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "title_zh": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
           "title_en": null,
-          "title_original": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-          "summary": "DeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek开源V4系列首个视觉实验模型DeepSeek-V4-Flash-Vision-Exp，305亿参数融合视觉模块，在纯文本agent任务上与V4-Flash持平，多模态测试接近行业顶尖水平。",
-          "url": "https://www.aibase.com/news/30735",
+          "title_original": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "summary": "Hunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nExplore AI Fronti",
+          "recommend_reason_zh": "国内首部AIGC长剧《后西游记》第一季8月31日开播即夺省级卫视同时段收视第一，Mango TV出品，30集每集40分钟，改编自明末清初同名神魔小说。",
+          "url": "https://www.aibase.com/news/30743",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -622,18 +791,18 @@
       ],
       "items": [
         {
-          "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
-          "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-          "title_zh": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+          "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+          "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "title_zh": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
           "title_en": null,
-          "title_original": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-          "summary": "DeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek开源V4系列首个视觉实验模型DeepSeek-V4-Flash-Vision-Exp，305亿参数融合视觉模块，在纯文本agent任务上与V4-Flash持平，多模态测试接近行业顶尖水平。",
-          "url": "https://www.aibase.com/news/30735",
+          "title_original": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+          "summary": "Hunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nExplore AI Fronti",
+          "recommend_reason_zh": "国内首部AIGC长剧《后西游记》第一季8月31日开播即夺省级卫视同时段收视第一，Mango TV出品，30集每集40分钟，改编自明末清初同名神魔小说。",
+          "url": "https://www.aibase.com/news/30743",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -654,50 +823,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "bdb4b03081d3a9650092f36ad911c26482f26ac3",
-        "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-        "title_zh": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+        "id": "b115e881d08f3a343ecfe685f6aab741eba8a727",
+        "title": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+        "title_zh": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
         "title_en": null,
-        "title_original": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-        "summary": "DeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nDeepSeek has officially open-sourced the first experimental multimodal model of its V4 series - DeepSeek-V4-Flash-Vision-Exp. This model is deeply integrated wi\nExplore AI Fronti",
-        "recommend_reason_zh": "DeepSeek开源V4系列首个视觉实验模型DeepSeek-V4-Flash-Vision-Exp，305亿参数融合视觉模块，在纯文本agent任务上与V4-Flash持平，多模态测试接近行业顶尖水平。",
-        "url": "https://www.aibase.com/news/30735",
+        "title_original": "​AI 造剧也能拿收视第一：国内首部 AIGC 长剧《后西游记》开播即飘红",
+        "summary": "Hunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nHunan TV announced on September 1 that the mythological serial drama \"After Journey to the West\" Season 1, \"The Chapter of Flower Fruit Mountain,\" was first bro\nExplore AI Fronti",
+        "recommend_reason_zh": "国内首部AIGC长剧《后西游记》第一季8月31日开播即夺省级卫视同时段收视第一，Mango TV出品，30集每集40分钟，改编自明末清初同名神魔小说。",
+        "url": "https://www.aibase.com/news/30743",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "开源可下载，但3050亿参数部署门槛高，小团队先看技术报告，别急着跑。",
+      "persona_score": 52,
+      "persona_review": "AIGC 长剧跑通商业路径对内容从业者有风向意义，但没开放工具和方案，开发者暂不需行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_f3938deafa58",
-      "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-      "url": "https://www.aibase.com/news/30733",
-      "primary_url": "https://www.aibase.com/news/30733",
+      "story_id": "story_18a954a364e8",
+      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+      "url": "https://www.aibase.com/news/30749",
+      "primary_url": "https://www.aibase.com/news/30749",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "841e769a59c4dbe64086aa689d16066676394d25",
-          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "title_en": null,
-          "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
-          "recommend_reason_zh": "Instagram在2026年8月31日将“AI Creator”标签更名“AI-Generated Profiles”，未明确标注的AI账号将遭降权限流，但仅用AI修图润色不受影响，聚焦治理AI虚拟医生等虚假账号危机。",
-          "url": "https://www.aibase.com/news/30733",
+          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "summary": "On September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -706,18 +875,18 @@
       ],
       "items": [
         {
-          "id": "841e769a59c4dbe64086aa689d16066676394d25",
-          "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+          "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+          "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
           "title_en": null,
-          "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-          "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
-          "recommend_reason_zh": "Instagram在2026年8月31日将“AI Creator”标签更名“AI-Generated Profiles”，未明确标注的AI账号将遭降权限流，但仅用AI修图润色不受影响，聚焦治理AI虚拟医生等虚假账号危机。",
-          "url": "https://www.aibase.com/news/30733",
+          "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+          "summary": "On September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -738,50 +907,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "841e769a59c4dbe64086aa689d16066676394d25",
-        "title": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-        "title_zh": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
+        "id": "aafe723be9b968f91776e8c7d2d73bfdf9f013b1",
+        "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+        "title_zh": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
         "title_en": null,
-        "title_original": "Instagram推AI个人资料新规:未公开标注将面临降权限流",
-        "summary": "Instagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nInstagram announced governance regulations on August 31, 2026, officially renaming the \"AI Creator\" label to \"AI-Generated Profiles\" and implementing coverage r\nExplore AI Fronti",
-        "recommend_reason_zh": "Instagram在2026年8月31日将“AI Creator”标签更名“AI-Generated Profiles”，未明确标注的AI账号将遭降权限流，但仅用AI修图润色不受影响，聚焦治理AI虚拟医生等虚假账号危机。",
-        "url": "https://www.aibase.com/news/30733",
+        "title_original": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+        "summary": "On September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nOn September 1st, iFLYTEK's wholly-owned subsidiary, Ciyuan Xinghuo, officially launched and open-sourced two edge-side general large models: Xinghuo X2.5-4B an\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30749",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源可直下，百万上下文端侧是卖点，先看硬件门槛再上手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-01T06:38:18.617521Z"
+      }
+    },
+    {
+      "story_id": "story_175ffde23042",
+      "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+      "url": "https://www.aibase.com/news/30750",
+      "primary_url": "https://www.aibase.com/news/30750",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_en": null,
+          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "summary": "The Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nExplore AI Fronti",
+          "recommend_reason_zh": "8月31日，中科院大连化学物理研究所联合iFLYTEK、Alibaba Cloud发布化工行业首个大模型3.0 Pro，实现从“会答”到“会干”的跨越，成为能规划、执行、验证的智能工程伙伴。",
+          "url": "https://www.aibase.com/news/30750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+          "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "title_en": null,
+          "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+          "summary": "The Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nExplore AI Fronti",
+          "recommend_reason_zh": "8月31日，中科院大连化学物理研究所联合iFLYTEK、Alibaba Cloud发布化工行业首个大模型3.0 Pro，实现从“会答”到“会干”的跨越，成为能规划、执行、验证的智能工程伙伴。",
+          "url": "https://www.aibase.com/news/30750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
+      "primary_item": {
+        "id": "f80b3cfa1eda766b953a027c15bafca0965bcf32",
+        "title": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "title_zh": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "title_en": null,
+        "title_original": "中国化工行业首个大模型3.0 Pro重磅发布，从“会答”迈向“会干”",
+        "summary": "The Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nThe Chinese chemical industry has achieved a milestone breakthrough in intelligent transformation. On August 31, the Dalian Institute of Chemical Physics of the\nExplore AI Fronti",
+        "recommend_reason_zh": "8月31日，中科院大连化学物理研究所联合iFLYTEK、Alibaba Cloud发布化工行业首个大模型3.0 Pro，实现从“会答”到“会干”的跨越，成为能规划、执行、验证的智能工程伙伴。",
+        "url": "https://www.aibase.com/news/30750",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "做社媒运营的得改流程，AI内容不标注会被限流。",
+      "persona_review": "行业首个噱头大于实用，没开源没 API，观望即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_42d18a658a2b",
-      "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-      "url": "https://www.aibase.com/news/30732",
-      "primary_url": "https://www.aibase.com/news/30732",
+      "story_id": "story_da8da4cba27e",
+      "title": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+      "url": "https://www.aibase.com/news/30740",
+      "primary_url": "https://www.aibase.com/news/30740",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
-          "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-          "title_zh": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+          "id": "0e5cd858d33aa1af5605bef627d2e745432556c5",
+          "title": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+          "title_zh": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
           "title_en": null,
-          "title_original": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-          "summary": "According to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nExplore AI Frontiers",
-          "recommend_reason_zh": "Anthropic 与 Lambda 签下 350 亿美元云计算协议，算力却来自英伟达预租的 Hut 8 德州数据中心，英伟达转身做“算力房东”，揭示 AI 巨头算力争夺的新玩法。",
-          "url": "https://www.aibase.com/news/30732",
+          "title_original": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+          "summary": "Recently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nExplore AI Fronti",
+          "recommend_reason_zh": "Dalian Institute of Chemical Physics携iFLYTEK、Alibaba Cloud发布3.0 Pro，中国化工行业首个大模型突破问答，迈向规划、执行、验证的深度应用。",
+          "url": "https://www.aibase.com/news/30740",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -790,18 +1043,18 @@
       ],
       "items": [
         {
-          "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
-          "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-          "title_zh": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+          "id": "0e5cd858d33aa1af5605bef627d2e745432556c5",
+          "title": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+          "title_zh": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
           "title_en": null,
-          "title_original": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-          "summary": "According to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nExplore AI Frontiers",
-          "recommend_reason_zh": "Anthropic 与 Lambda 签下 350 亿美元云计算协议，算力却来自英伟达预租的 Hut 8 德州数据中心，英伟达转身做“算力房东”，揭示 AI 巨头算力争夺的新玩法。",
-          "url": "https://www.aibase.com/news/30732",
+          "title_original": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+          "summary": "Recently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nExplore AI Fronti",
+          "recommend_reason_zh": "Dalian Institute of Chemical Physics携iFLYTEK、Alibaba Cloud发布3.0 Pro，中国化工行业首个大模型突破问答，迈向规划、执行、验证的深度应用。",
+          "url": "https://www.aibase.com/news/30740",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -822,50 +1075,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "744a23b8900ad27df849c9b116dac016ed262b2d",
-        "title": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-        "title_zh": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
+        "id": "0e5cd858d33aa1af5605bef627d2e745432556c5",
+        "title": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+        "title_zh": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
         "title_en": null,
-        "title_original": "​手握算力当“房东”：英伟达转手出租数据中心，Anthropic 350 亿美元买单",
-        "summary": "According to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nAccording to a September 1 report by The Wall Street Journal, AI company Anthropic has signed a $35 billion (approximately RMB 235.752 billion) cloud computing\nExplore AI Frontiers",
-        "recommend_reason_zh": "Anthropic 与 Lambda 签下 350 亿美元云计算协议，算力却来自英伟达预租的 Hut 8 德州数据中心，英伟达转身做“算力房东”，揭示 AI 巨头算力争夺的新玩法。",
-        "url": "https://www.aibase.com/news/30732",
+        "title_original": "中国科学院大连化物所携手科大讯飞、阿里云发布3.0 Pro",
+        "summary": "Recently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nRecently, the intelligent chemical industry large model 3.0 Pro, jointly developed by the Dalian Institute of Chemical Physics of the Chinese Academy of Science\nExplore AI Fronti",
+        "recommend_reason_zh": "Dalian Institute of Chemical Physics携iFLYTEK、Alibaba Cloud发布3.0 Pro，中国化工行业首个大模型突破问答，迈向规划、执行、验证的深度应用。",
+        "url": "https://www.aibase.com/news/30740",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "大厂算力买卖，跟开发者日常没直接关系，看后续产能变化再说。",
+      "persona_score": 50,
+      "persona_review": "没给接口和性能细节，先观望，出了 demo 再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_b1bdc3f806e9",
-      "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-      "url": "https://www.aibase.com/news/30734",
-      "primary_url": "https://www.aibase.com/news/30734",
+      "story_id": "story_6d2e3e826e05",
+      "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+      "url": "https://www.aibase.com/news/30746",
+      "primary_url": "https://www.aibase.com/news/30746",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "488100fdc84a1da75565bde83f15f903e2e90430",
-          "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-          "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "title_zh": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
           "title_en": null,
-          "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-          "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
-          "recommend_reason_zh": "苹果追加指控OpenAI窃密：前工程师Chang Liu离职后下载数十份含电路原理图的机密文件，用OpenAI提供的MacBook运行仿真软件并训练AI代理，还试图重置设备销毁证据，诉讼已扩大至11名前员工。",
-          "url": "https://www.aibase.com/news/30734",
+          "title_original": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "summary": "On September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nExplore AI Fronti",
+          "recommend_reason_zh": "开学季Qwen APP免费升级学习功能：新增教材同步作文辅导，通过提问引导而非给范文；初中语数课本精讲，互动讲解扩至高中大学数理化，全部免费可用。",
+          "url": "https://www.aibase.com/news/30746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -874,18 +1127,18 @@
       ],
       "items": [
         {
-          "id": "488100fdc84a1da75565bde83f15f903e2e90430",
-          "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-          "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+          "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+          "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "title_zh": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
           "title_en": null,
-          "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-          "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
-          "recommend_reason_zh": "苹果追加指控OpenAI窃密：前工程师Chang Liu离职后下载数十份含电路原理图的机密文件，用OpenAI提供的MacBook运行仿真软件并训练AI代理，还试图重置设备销毁证据，诉讼已扩大至11名前员工。",
-          "url": "https://www.aibase.com/news/30734",
+          "title_original": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+          "summary": "On September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nExplore AI Fronti",
+          "recommend_reason_zh": "开学季Qwen APP免费升级学习功能：新增教材同步作文辅导，通过提问引导而非给范文；初中语数课本精讲，互动讲解扩至高中大学数理化，全部免费可用。",
+          "url": "https://www.aibase.com/news/30746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -906,111 +1159,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "488100fdc84a1da75565bde83f15f903e2e90430",
-        "title": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-        "title_zh": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
+        "id": "927c247b5360449d57984b36e9d02aa21055f01f",
+        "title": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+        "title_zh": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
         "title_en": null,
-        "title_original": "一台MacBook引发的诉讼拉锯:苹果追加指控OpenAI硬件业务窃密",
-        "summary": "Apple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nApple submitted new supporting documents on the 31st, adding several key pieces of evidence in its trade secret lawsuit against OpenAI, accusing the latter of u\nExplore AI Fronti",
-        "recommend_reason_zh": "苹果追加指控OpenAI窃密：前工程师Chang Liu离职后下载数十份含电路原理图的机密文件，用OpenAI提供的MacBook运行仿真软件并训练AI代理，还试图重置设备销毁证据，诉讼已扩大至11名前员工。",
-        "url": "https://www.aibase.com/news/30734",
+        "title_original": "千问学习功能升级:新增教材同步作文辅导，互动讲解扩展至高中大学数理化，全部免费",
+        "summary": "On September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nOn September 1st, the school season, Alibaba Qwen's AI assistant, Qwen APP, announced an upgrade to its learning features, adding unit writing guidance synchron\nExplore AI Fronti",
+        "recommend_reason_zh": "开学季Qwen APP免费升级学习功能：新增教材同步作文辅导，通过提问引导而非给范文；初中语数课本精讲，互动讲解扩至高中大学数理化，全部免费可用。",
+        "url": "https://www.aibase.com/news/30746",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "诉讼口水战，跟写代码没关系，看个乐子就行。",
+      "persona_score": 60,
+      "persona_review": "免费学习辅导，教育类产品可抄作业，日常开发与此无关。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
-      }
-    },
-    {
-      "story_id": "story_8bab37d38a63",
-      "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-      "url": "https://www.aibase.com/news/30739",
-      "primary_url": "https://www.aibase.com/news/30739",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e28f21a91c83b415cdb087d5dcb4b69b825d2a72",
-          "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "title_zh": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "title_en": null,
-          "title_original": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "summary": "Tencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nExplore AI Fronti",
-          "recommend_reason_zh": "Tencent WorkBuddy于9月1日启动开学季AI普惠专项，全国高校师生经认证可免费领取1000积分，覆盖信息检索、备考、论文写作等高频校园场景。",
-          "url": "https://www.aibase.com/news/30739",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e28f21a91c83b415cdb087d5dcb4b69b825d2a72",
-          "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "title_zh": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "title_en": null,
-          "title_original": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-          "summary": "Tencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nExplore AI Fronti",
-          "recommend_reason_zh": "Tencent WorkBuddy于9月1日启动开学季AI普惠专项，全国高校师生经认证可免费领取1000积分，覆盖信息检索、备考、论文写作等高频校园场景。",
-          "url": "https://www.aibase.com/news/30739",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
-      "primary_item": {
-        "id": "e28f21a91c83b415cdb087d5dcb4b69b825d2a72",
-        "title": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-        "title_zh": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-        "title_en": null,
-        "title_original": "腾讯 WorkBuddy 启动开学季 AI 普惠专项，师生可免费领取1000积分",
-        "summary": "Tencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nTencent WorkBuddy launched the \"Back-to-School AI Inclusive Special\" on September 1st, offering free AI credits to college teachers and students nationwide to i\nExplore AI Fronti",
-        "recommend_reason_zh": "Tencent WorkBuddy于9月1日启动开学季AI普惠专项，全国高校师生经认证可免费领取1000积分，覆盖信息检索、备考、论文写作等高频校园场景。",
-        "url": "https://www.aibase.com/news/30739",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "营销活动，对开发工作无实际帮助，不用特意关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -1086,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5907,
-      "importance": 0.5907,
-      "importance_score": 0.5907,
+      "score": 0.5811,
+      "importance": 0.5811,
+      "importance_score": 0.5811,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8625,
+        "recency": 0.8089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1121,91 +1290,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
-      }
-    },
-    {
-      "story_id": "story_df333cabf281",
-      "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-      "url": "https://www.aibase.com/news/30738",
-      "primary_url": "https://www.aibase.com/news/30738",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
-          "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "title_en": null,
-          "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
-          "recommend_reason_zh": "Apple诉OpenAI案获重大进展：前工程师Chang Liu的MacBook中查出四项关键证据，包括利用漏洞下载机密电路图并在OpenAI工作中使用，还指使同事销毁证据。这篇文章披露这些内幕。",
-          "url": "https://www.aibase.com/news/30738",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
-          "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "title_en": null,
-          "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-          "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
-          "recommend_reason_zh": "Apple诉OpenAI案获重大进展：前工程师Chang Liu的MacBook中查出四项关键证据，包括利用漏洞下载机密电路图并在OpenAI工作中使用，还指使同事销毁证据。这篇文章披露这些内幕。",
-          "url": "https://www.aibase.com/news/30738",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
-      "primary_item": {
-        "id": "e0e74aa15f14f7aa8b6415c57c9b38a0484efa0c",
-        "title": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-        "title_zh": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-        "title_en": null,
-        "title_original": "苹果诉OpenAI迎来重磅证据：前员工MacBook被查出非法窃取与AI代理训练内幕",
-        "summary": "Apple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nApple has recently made significant progress in its trade secret lawsuit against OpenAI. While Apple has been continuously requesting the court to expedite the\nExplore AI Frontiers",
-        "recommend_reason_zh": "Apple诉OpenAI案获重大进展：前工程师Chang Liu的MacBook中查出四项关键证据，包括利用漏洞下载机密电路图并在OpenAI工作中使用，还指使同事销毁证据。这篇文章披露这些内幕。",
-        "url": "https://www.aibase.com/news/30738",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "打官司的事，跟手头代码没关系，等判了再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -1311,15 +1396,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9933,
+        "recency": 0.9316,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1346,30 +1431,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
-      "story_id": "story_6d138fa7fc64",
-      "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-      "url": "https://www.aibase.com/news/30737",
-      "primary_url": "https://www.aibase.com/news/30737",
+      "story_id": "story_42d36f72ff93",
+      "title": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+      "url": "https://www.aibase.com/news/30742",
+      "primary_url": "https://www.aibase.com/news/30742",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
-          "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-          "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "id": "2f940ab0b312bcabbd97e4f085d922c0e370f6d0",
+          "title": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+          "title_zh": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
           "title_en": null,
-          "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-          "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+          "title_original": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+          "summary": "Are there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30737",
+          "url": "https://www.aibase.com/news/30742",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "source_count": 1,
@@ -1378,18 +1463,18 @@
       ],
       "items": [
         {
-          "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
-          "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-          "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+          "id": "2f940ab0b312bcabbd97e4f085d922c0e370f6d0",
+          "title": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+          "title_zh": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
           "title_en": null,
-          "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-          "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+          "title_original": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+          "summary": "Are there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30737",
+          "url": "https://www.aibase.com/news/30742",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T01:49:47.831864Z"
+          "published_at": "2026-09-01T06:16:08.507025Z"
         }
       ],
       "item_count": 1,
@@ -1410,27 +1495,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T01:49:47.831864Z",
-      "latest_at": "2026-09-01T01:49:47.831864Z",
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
       "primary_item": {
-        "id": "3f3a5a57928f37c6b9fa328a53b4bf55d6a7b8a9",
-        "title": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-        "title_zh": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
+        "id": "2f940ab0b312bcabbd97e4f085d922c0e370f6d0",
+        "title": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+        "title_zh": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
         "title_en": null,
-        "title_original": "营收超越去年全年!智谱MaaS业务爆发，Token调用量飙升40倍",
-        "summary": "On the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nOn the evening of August 31, Zhipu officially announced its mid-2026 performance, showing a significant acceleration in the company's commercialization process.\nExplore AI Fronti",
+        "title_original": "大模型没有独门秘笈：腾讯混元4如何靠开源生态与顶尖人才实现逆袭？",
+        "summary": "Are there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nAre there really hidden technical barriers to large models? Recently, Yao Shunyu, who was transferred from OpenAI to Tencent, once said, \"There's no real secret\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30737",
+        "url": "https://www.aibase.com/news/30742",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "MaaS 增长证明需求在，但不影响你今天选型，观望即可。",
+      "persona_score": 48,
+      "persona_review": "战略分析无代码可抄，等混元4开源或API上线再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -1536,15 +1621,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8848,
+        "recency": 0.8299,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1571,7 +1656,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
+      }
+    },
+    {
+      "story_id": "story_7850ce014765",
+      "title": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+      "url": "https://www.aibase.com/news/30744",
+      "primary_url": "https://www.aibase.com/news/30744",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "323232d92836bba2d26d611add0964843911a4e9",
+          "title": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "title_zh": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "title_en": null,
+          "title_original": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "summary": "China has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nExplore AI Fronti",
+          "recommend_reason_zh": "Huantian Smart Technology发布总投资6000万元的卫星遥感大模型中试基地招标公告，目标开发超百亿参数大模型和亿级样本库。",
+          "url": "https://www.aibase.com/news/30744",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "323232d92836bba2d26d611add0964843911a4e9",
+          "title": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "title_zh": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "title_en": null,
+          "title_original": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+          "summary": "China has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nExplore AI Fronti",
+          "recommend_reason_zh": "Huantian Smart Technology发布总投资6000万元的卫星遥感大模型中试基地招标公告，目标开发超百亿参数大模型和亿级样本库。",
+          "url": "https://www.aibase.com/news/30744",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-01T06:16:08.507025Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T06:16:08.507025Z",
+      "latest_at": "2026-09-01T06:16:08.507025Z",
+      "primary_item": {
+        "id": "323232d92836bba2d26d611add0964843911a4e9",
+        "title": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+        "title_zh": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+        "title_en": null,
+        "title_original": "总投资6000万！环天智慧重磅发布卫星遥感大模型中试基地招标公告",
+        "summary": "China has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nChina has made new progress in the infrastructure construction of large models in vertical fields. Recently, Huantian Smart Technology Co., Ltd. officially rele\nExplore AI Fronti",
+        "recommend_reason_zh": "Huantian Smart Technology发布总投资6000万元的卫星遥感大模型中试基地招标公告，目标开发超百亿参数大模型和亿级样本库。",
+        "url": "https://www.aibase.com/news/30744",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "招标公告离产品落地还早，等模型开放或API再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     },
     {
@@ -1588,7 +1757,7 @@
           "title_zh": "Apple 被 Mac Mini 和 Mac Studio 的 AI 需求打了个措手不及",
           "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "summary": "According to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI workloads. MacRumors reports:  Apple normally releases new Mac models in the autumn, closer to October or N...\nAccording to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI wor",
+          "summary": null,
           "recommend_reason_zh": "Apple 因企业级 AI 负载需求远超预期，据 The Information 报道已提前发布新款 Mac mini 与 Mac Studio，而非原定的秋季档期。",
           "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
           "source": "Slashdot",
@@ -1623,7 +1792,7 @@
           "title_zh": "Apple 被 Mac Mini 和 Mac Studio 的 AI 需求打了个措手不及",
           "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
           "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "summary": "According to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI workloads. MacRumors reports:  Apple normally releases new Mac models in the autumn, closer to October or N...\nAccording to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI wor",
+          "summary": null,
           "recommend_reason_zh": "Apple 因企业级 AI 负载需求远超预期，据 The Information 报道已提前发布新款 Mac mini 与 Mac Studio，而非原定的秋季档期。",
           "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
           "source": "Slashdot",
@@ -1648,15 +1817,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9462,
+        "recency": 0.8874,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1671,7 +1840,7 @@
         "title_zh": "Apple 被 Mac Mini 和 Mac Studio 的 AI 需求打了个措手不及",
         "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
         "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-        "summary": "According to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI workloads. MacRumors reports:  Apple normally releases new Mac models in the autumn, closer to October or N...\nAccording to The Information (paywalled), Apple reportedly moved up the release of new Mac mini and Mac Studio models after unexpectedly strong enterprise demand for Macs capable of running AI wor",
+        "summary": null,
         "recommend_reason_zh": "Apple 因企业级 AI 负载需求远超预期，据 The Information 报道已提前发布新款 Mac mini 与 Mac Studio，而非原定的秋季档期。",
         "url": "https://hardware.slashdot.org/story/26/08/31/2133202/apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio",
         "source": "Slashdot",
@@ -1683,231 +1852,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
-      }
-    },
-    {
-      "story_id": "story_3dbd0aa14092",
-      "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://news.ycombinator.com/item?id=49510632",
-      "primary_url": "https://news.ycombinator.com/item?id=49510632",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_zh": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道",
-          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "summary": null,
-          "recommend_reason_zh": "Hebbian Robotics 推出 HFlow，用 MCAP、Airflow 3、Parquet 和 DuckDB 构建可复现的机器人数据管道，解决时间戳漂移、黑帧等质检难题，并生成版本固定的数据集清单。",
-          "url": "https://news.ycombinator.com/item?id=49510632",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
-        },
-        {
-          "id": "881002355a645dfd981d916377ff513010543cf6",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_zh": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道",
-          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "summary": null,
-          "recommend_reason_zh": "HFlow是Hebbian Robotics推出的开源SDK，用MCAP格式处理机器人多模态数据，内置质量检查、 provenance追踪和DuckDB可查询目录，帮小团队构建可复现的数据管道。",
-          "url": "https://github.com/Hebbian-Robotics/hflow",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:02:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_zh": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道",
-          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "summary": null,
-          "recommend_reason_zh": "Hebbian Robotics 推出 HFlow，用 MCAP、Airflow 3、Parquet 和 DuckDB 构建可复现的机器人数据管道，解决时间戳漂移、黑帧等质检难题，并生成版本固定的数据集清单。",
-          "url": "https://news.ycombinator.com/item?id=49510632",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T19:49:07.264000Z"
-        },
-        {
-          "id": "881002355a645dfd981d916377ff513010543cf6",
-          "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_zh": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道",
-          "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-          "summary": null,
-          "recommend_reason_zh": "HFlow是Hebbian Robotics推出的开源SDK，用MCAP格式处理机器人多模态数据，内置质量检查、 provenance追踪和DuckDB可查询目录，帮小团队构建可复现的数据管道。",
-          "url": "https://github.com/Hebbian-Robotics/hflow",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T15:02:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9169,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T15:02:41Z",
-      "latest_at": "2026-08-31T19:49:07.264000Z",
-      "primary_item": {
-        "id": "5b4b242a692f3129e2ee58fdca46a5df24067632",
-        "title": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道 / Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-        "title_zh": "Launch HN: Hebbian Robotics (YC S26) – 构建可扩展的机器人数据管道",
-        "title_en": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-        "title_original": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-        "summary": null,
-        "recommend_reason_zh": "Hebbian Robotics 推出 HFlow，用 MCAP、Airflow 3、Parquet 和 DuckDB 构建可复现的机器人数据管道，解决时间戳漂移、黑帧等质检难题，并生成版本固定的数据集清单。",
-        "url": "https://news.ycombinator.com/item?id=49510632",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "创业项目没产品没代码，对开发没实际用处，等开放再看不迟。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
-      }
-    },
-    {
-      "story_id": "story_33e3871730ab",
-      "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "primary_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-      "source": "www.macrumors.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": null,
-          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "summary": null,
-          "recommend_reason_zh": "苹果因企业AI硬件需求意外强劲，提前发布Mac mini和Mac Studio，却缺乏企业AI战略，甚至拒绝Private Cloud Compute购买请求，内存短缺致高端配置缺货，部分客户转向Nvidia DGX Spark。",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "summary": null,
-          "recommend_reason_zh": "The Information报道称，Apple因企业AI硬件需求激增罕见提前发布Mac mini和Mac Studio，并支持多机联动运行大型模型，但缺货导致部分客户转向Nvidia DGX Spark。",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.macrumors.com"
-      ],
-      "items": [
-        {
-          "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": null,
-          "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "summary": null,
-          "recommend_reason_zh": "苹果因企业AI硬件需求意外强劲，提前发布Mac mini和Mac Studio，却缺乏企业AI战略，甚至拒绝Private Cloud Compute购买请求，内存短缺致高端配置缺货，部分客户转向Nvidia DGX Spark。",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "www.macrumors.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T18:41:20.531000Z"
-        },
-        {
-          "id": "2ae1255494504151ccb7d599cc8ae71bb439e89c",
-          "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及 / Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "title_en": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "title_original": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio",
-          "summary": null,
-          "recommend_reason_zh": "The Information报道称，Apple因企业AI硬件需求激增罕见提前发布Mac mini和Mac Studio，并支持多机联动运行大型模型，但缺货导致部分客户转向Nvidia DGX Spark。",
-          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-31T12:41:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.902,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-31T12:41:22Z",
-      "latest_at": "2026-08-31T18:41:20.531000Z",
-      "primary_item": {
-        "id": "d41c9cf568fc7cdabd62520cd3848217b93b03de",
-        "title": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "title_en": null,
-        "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "summary": null,
-        "recommend_reason_zh": "苹果因企业AI硬件需求意外强劲，提前发布Mac mini和Mac Studio，却缺乏企业AI战略，甚至拒绝Private Cloud Compute购买请求，内存短缺致高端配置缺货，部分客户转向Nvidia DGX Spark。",
-        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
-        "source": "www.macrumors.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "想买 Mac 跑 AI 的先查发货时间，赶项目别被供货拖死。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T02:11:38.719781Z"
+        "scored_at": "2026-09-01T06:38:18.617521Z"
       }
     }
   ]
