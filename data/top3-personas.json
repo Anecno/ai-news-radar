@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:15:12.045967Z",
+  "generated_at": "2026-09-01T02:12:19.053440Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_14ea3c1dc9f0",
-      "title": "Claude遭大规模盗号，大批账号被强制注销",
-      "url": "https://www.aibase.com/news/30722",
+      "story_id": "story_0e86c779cdf8",
+      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+      "url": "https://www.aibase.com/news/30735",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "账号被盗不是AI进步，是安全团队该醒醒了。"
+          "score": 72,
+          "review": "参数够大，但“对标顶尖”的对比基线呢？别又挑自家擅长的榜。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "单一媒体爆料，无官方确认与数据支撑，数额不明，暂不可信。"
+          "score": 70,
+          "review": "开源代码可查但缺论文和第三方评测，先复现再定标杆。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "账号安全风险，抓紧开二次验证，别等被注销再哭。"
+          "score": 82,
+          "review": "开源可下载，但3050亿参数部署门槛高，小团队先看技术报告，别急着跑。"
         }
       }
     },
