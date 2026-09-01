@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_4ea5136decec|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "对溯源合规有帮助，但API用户感知不强，先确认是否影响现有生成结果。",
-      "title_hash": "0d5e4a5f",
-      "scored_at": "2026-08-11T07:59:04.723134Z"
-    },
-    "story_a5ebfc1b3422|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "模型路线图猜测，没开放API前不影响选型，等实锤。",
-      "title_hash": "f5484396",
-      "scored_at": "2026-08-11T07:59:08.324308Z"
-    },
-    "story_2e9310d5724c|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "Claude 输出自动带隐形水印，做内容溯源的今天就能用，但注意服务端处理。",
-      "title_hash": "1f51ef75",
-      "scored_at": "2026-08-11T09:30:29.891197Z"
-    },
-    "story_4beb0dde8446|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数学研究离工程落地远，开发者不用行动。",
-      "title_hash": "fc8dd95b",
-      "scored_at": "2026-08-11T09:30:32.513884Z"
-    },
-    "story_2ce1fd385677|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源可 clone，1.3B 参数直接跑真实任务，低资源场景今天就能试。",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:44.402759Z"
-    },
-    "story_2ce1fd385677|cynic|f4237a62": {
-      "score": 48,
-      "review": "1.3B激活参数听着省，怎么不报总参数？开源链接和基准呢？",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:49.423383Z"
-    },
-    "story_2ce1fd385677|paper-police|966065bf": {
-      "score": 25,
-      "review": "只看到公众号宣称开源，无代码无benchmark，无法验证。",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:52.956870Z"
-    },
     "story_025a725a5231|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "数学能力再强也没开放API，短期不影响开发，关注后续产品化。",
@@ -6180,6 +6138,78 @@
       "review": "仅新闻宣称开源，无仓库无评测，证据不足不可复现。",
       "title_hash": "53d47241",
       "scored_at": "2026-09-01T06:38:53.709344Z"
+    },
+    "story_faa62a90bef8|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "安全风险提醒但不给缓解方案，暂不用改代码，留意后续修复。",
+      "title_hash": "4b9539fc",
+      "scored_at": "2026-09-01T10:30:24.902539Z"
+    },
+    "story_738e46a2b277|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "AI导航翻车是社会新闻，不涉及工具或接口，开发者不用管。",
+      "title_hash": "be164f4b",
+      "scored_at": "2026-09-01T10:30:26.620173Z"
+    },
+    "story_a7f053021921|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "广告收入跟你写代码无关，除非做投放，否则看看就行。",
+      "title_hash": "f3e974a6",
+      "scored_at": "2026-09-01T10:30:28.515476Z"
+    },
+    "story_08b8473c055e|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "Agent直接加视觉，开源可clone，今天就能上手试。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T10:30:33.624046Z"
+    },
+    "story_34e1bbef1d56|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "股价和参数量对写代码没用，等API放开再说。",
+      "title_hash": "b8d32979",
+      "scored_at": "2026-09-01T10:30:36.325946Z"
+    },
+    "story_d50e38f3313d|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "方向有意思，但没开放 API 前不用急着上手，先看样例。",
+      "title_hash": "410734c5",
+      "scored_at": "2026-09-01T10:30:39.034845Z"
+    },
+    "story_c51d67ee2678|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "名人吐槽而已，看看就好，等车企真改了再说。",
+      "title_hash": "0eec7238",
+      "scored_at": "2026-09-01T10:30:40.737374Z"
+    },
+    "story_00a15fcdfcdb|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "政府预算不直接改接口，做半导体的留意补贴风向。",
+      "title_hash": "bc15a5a0",
+      "scored_at": "2026-09-01T10:30:42.754388Z"
+    },
+    "story_08b8473c055e|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源值得点赞，但“不给人类看图”这话说得，好像人类以前看图是靠它似的。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T10:30:57.608450Z"
+    },
+    "story_08b8473c055e|paper-police|966065bf": {
+      "score": 8,
+      "review": "缺论文缺代码缺评测，新闻说开源但无仓库链接。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T10:31:00.386693Z"
+    },
+    "story_946b48cdca28|cynic|f4237a62": {
+      "score": 40,
+      "review": "版本号倒是勤快，改动说明敢不敢贴出来？",
+      "title_hash": "c32bdf57",
+      "scored_at": "2026-09-01T10:31:03.053729Z"
+    },
+    "story_946b48cdca28|paper-police|966065bf": {
+      "score": 60,
+      "review": "官方变更日志有细节，代码开源，但无独立benchmark验证。",
+      "title_hash": "c32bdf57",
+      "scored_at": "2026-09-01T10:31:14.884457Z"
     }
   }
 }
