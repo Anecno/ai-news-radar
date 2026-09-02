@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:20:16.124708Z",
+  "generated_at": "2026-09-02T01:02:14.160605Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "BenchMIRT：LLM基准测试到底在衡量什么？",
           "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
           "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+          "summary": null,
           "recommend_reason_zh": "BenchMIRT用多维项目反应理论分析了100个LLM在16项基准、超3.4万道题上的表现，独立还原出安全与通用推理两个维度，让人看清基准测试到底测什么。",
           "url": "https://huggingface.co/blog/allenai/benchmirt",
           "source": "Hugging Face Blog",
@@ -37,7 +37,7 @@
           "title_zh": "BenchMIRT：LLM基准测试到底在衡量什么？",
           "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
           "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+          "summary": null,
           "recommend_reason_zh": "BenchMIRT用多维项目反应理论分析了100个LLM在16项基准、超3.4万道题上的表现，独立还原出安全与通用推理两个维度，让人看清基准测试到底测什么。",
           "url": "https://huggingface.co/blog/allenai/benchmirt",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8614,
+      "importance": 0.8614,
+      "importance_score": 0.8614,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "BenchMIRT：LLM基准测试到底在衡量什么？",
         "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
         "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
-        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+        "summary": null,
         "recommend_reason_zh": "BenchMIRT用多维项目反应理论分析了100个LLM在16项基准、超3.4万道题上的表现，独立还原出安全与通用推理两个维度，让人看清基准测试到底测什么。",
         "url": "https://huggingface.co/blog/allenai/benchmirt",
         "source": "Hugging Face Blog",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
           "title_en": "Path to Astra: critical capabilities and frontier safeguards",
           "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+          "summary": null,
           "recommend_reason_zh": "Astra成为OpenAI首个达Critical网络安全能力阈值的模型，在ExploitBench上取得100%满分，并以内部20个高严重性漏洞基准验证其漏洞挖掘能力。",
           "url": "https://openai.com/index/path-to-astra",
           "source": "OpenAI News",
@@ -137,7 +137,7 @@
           "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
           "title_en": "Path to Astra: critical capabilities and frontier safeguards",
           "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+          "summary": null,
           "recommend_reason_zh": "Astra成为OpenAI首个达Critical网络安全能力阈值的模型，在ExploitBench上取得100%满分，并以内部20个高严重性漏洞基准验证其漏洞挖掘能力。",
           "url": "https://openai.com/index/path-to-astra",
           "source": "OpenAI News",
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8613,
+        "recency": 0.8404,
         "story_heat": 0.25
       },
       "category": "official",
@@ -188,7 +188,7 @@
         "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
         "title_en": "Path to Astra: critical capabilities and frontier safeguards",
         "title_original": "Path to Astra: critical capabilities and frontier safeguards",
-        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+        "summary": null,
         "recommend_reason_zh": "Astra成为OpenAI首个达Critical网络安全能力阈值的模型，在ExploitBench上取得100%满分，并以内部20个高严重性漏洞基准验证其漏洞挖掘能力。",
         "url": "https://openai.com/index/path-to-astra",
         "source": "OpenAI News",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8509,
-      "importance": 0.8509,
-      "importance_score": 0.8509,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8995,
+        "recency": 0.8777,
         "story_heat": 0.25
       },
       "category": "official",
@@ -315,7 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -332,7 +332,7 @@
           "title_zh": "Copilot 代码审查现在可以批准 pull requests 了",
           "title_en": "Copilot code review can now approve pull requests",
           "title_original": "Copilot code review can now approve pull requests",
-          "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+          "summary": null,
           "recommend_reason_zh": "GitHub宣布Copilot代码审查新增审批评估，可直接批准pull request，默认关闭且支持企业、组织、仓库三级配置，该功能已面向Pro至Enterprise计划开放公开预览。",
           "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
           "source": "GitHub Changelog",
@@ -352,7 +352,7 @@
           "title_zh": "Copilot 代码审查现在可以批准 pull requests 了",
           "title_en": "Copilot code review can now approve pull requests",
           "title_original": "Copilot code review can now approve pull requests",
-          "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+          "summary": null,
           "recommend_reason_zh": "GitHub宣布Copilot代码审查新增审批评估，可直接批准pull request，默认关闭且支持企业、组织、仓库三级配置，该功能已面向Pro至Enterprise计划开放公开预览。",
           "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
           "source": "GitHub Changelog",
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9452,
+        "recency": 0.9223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,7 +388,7 @@
         "title_zh": "Copilot 代码审查现在可以批准 pull requests 了",
         "title_en": "Copilot code review can now approve pull requests",
         "title_original": "Copilot code review can now approve pull requests",
-        "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+        "summary": null,
         "recommend_reason_zh": "GitHub宣布Copilot代码审查新增审批评估，可直接批准pull request，默认关闭且支持企业、组织、仓库三级配置，该功能已面向Pro至Enterprise计划开放公开预览。",
         "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
         "source": "GitHub Changelog",
@@ -400,121 +400,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
-      }
-    },
-    {
-      "story_id": "story_946b48cdca28",
-      "title": "Codex CLI 0.152.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.0",
-          "title_original": "Codex CLI 0.152.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "46e7dfa473541b2bb9bce02f7e172513c1c31370",
-          "title": "Codex CLI 0.152.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.1",
-          "title_original": "Codex CLI 0.152.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user ins",
-          "recommend_reason_zh": "Codex CLI 0.152.1修复Windows沙箱执行与JediTerm光标问题，自动审批保留更长的对话记录，并支持Gmail、Slack、GitHub事件触发ChatGPT定时任务。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.0",
-          "title_original": "Codex CLI 0.152.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "46e7dfa473541b2bb9bce02f7e172513c1c31370",
-          "title": "Codex CLI 0.152.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.1",
-          "title_original": "Codex CLI 0.152.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user ins",
-          "recommend_reason_zh": "Codex CLI 0.152.1修复Windows沙箱执行与JediTerm光标问题，自动审批保留更长的对话记录，并支持Gmail、Slack、GitHub事件触发ChatGPT定时任务。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7139,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-        "title": "Codex CLI 0.152.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.152.0",
-        "title_original": "Codex CLI 0.152.0",
-        "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.152.0修复Windows沙箱执行与JediTerm光标问题，ChatGPT事件触发任务现可响应Gmail、Slack及GitHub的PR活动，浏览器扩展新增Edge、Brave等五款支持。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "常规迭代，看日志确认是否影响现有工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -562,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9145,
+        "recency": 0.8923,
         "story_heat": 0.0
       },
       "category": "official",
@@ -599,7 +485,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -616,7 +502,7 @@
           "title_zh": "Enterprise Live Migrations 从 GHES 到 ghe.com 现已全面可用",
           "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
           "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move…\nEnterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move even your largest, most active repositories while the c",
+          "summary": null,
           "recommend_reason_zh": "Enterprise Live Migrations正式GA，实现从GHES到GHEC DR的近零停机迁移，专为大型monorepo设计，支持3.17.18+等多版本GHES，并能与GEI并行使用。",
           "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
           "source": "GitHub Changelog",
@@ -636,7 +522,7 @@
           "title_zh": "Enterprise Live Migrations 从 GHES 到 ghe.com 现已全面可用",
           "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
           "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move…\nEnterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move even your largest, most active repositories while the c",
+          "summary": null,
           "recommend_reason_zh": "Enterprise Live Migrations正式GA，实现从GHES到GHEC DR的近零停机迁移，专为大型monorepo设计，支持3.17.18+等多版本GHES，并能与GEI并行使用。",
           "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
           "source": "GitHub Changelog",
@@ -647,15 +533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9867,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -672,7 +558,7 @@
         "title_zh": "Enterprise Live Migrations 从 GHES 到 ghe.com 现已全面可用",
         "title_en": "Enterprise Live Migrations from GHES to ghe.com generally available",
         "title_original": "Enterprise Live Migrations from GHES to ghe.com generally available",
-        "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move…\nEnterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move even your largest, most active repositories while the c",
+        "summary": null,
         "recommend_reason_zh": "Enterprise Live Migrations正式GA，实现从GHES到GHEC DR的近零停机迁移，专为大型monorepo设计，支持3.17.18+等多版本GHES，并能与GEI并行使用。",
         "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
         "source": "GitHub Changelog",
@@ -684,122 +570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
-      }
-    },
-    {
-      "story_id": "story_8ba38180ebe6",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "primary_url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
-          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-          "title_en": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "title_original": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face发布@huggingface/kernels，首批207个WebGPU内核托管于Hub，每个内核独立版本化并附测试与基准，同时推出Fleet套件在浏览器中跨设备评测性能。",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
-          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-          "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "title_original": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
-          "recommend_reason_zh": "Hugging Face发布@huggingface/kernels，首批207个WebGPU kernels托管于Hub，每个kernel独立版本化并附测试用例；同时推出Fleet套件，让浏览器GPU跑分，用真实设备数据优化本地AI推理性能。",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
-          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-          "title_en": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "title_original": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face发布@huggingface/kernels，首批207个WebGPU内核托管于Hub，每个内核独立版本化并附测试与基准，同时推出Fleet套件在浏览器中跨设备评测性能。",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        },
-        {
-          "id": "42ac8f40a72438975c76721d9af4324ae9b281f9",
-          "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-          "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "title_original": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-          "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
-          "recommend_reason_zh": "Hugging Face发布@huggingface/kernels，首批207个WebGPU kernels托管于Hub，每个kernel独立版本化并附测试用例；同时推出Fleet套件，让浏览器GPU跑分，用真实设备数据优化本地AI推理性能。",
-          "url": "https://huggingface.co/blog/webgpu-kernels",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7139,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "ac426f93cc4d633d75a0422dd833bfa0477f111d",
-        "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "title_zh": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-        "title_en": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "title_original": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "summary": null,
-        "recommend_reason_zh": "Hugging Face发布@huggingface/kernels，首批207个WebGPU内核托管于Hub，每个内核独立版本化并附测试与基准，同时推出Fleet套件在浏览器中跨设备评测性能。",
-        "url": "https://huggingface.co/blog/webgpu-kernels",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源内核即拿即用，浏览器端跑模型性能直接提升。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -816,7 +587,7 @@
           "title_zh": "我们于2026年8月发布的最新AI新闻",
           "title_en": "The latest AI news we announced in August 2026",
           "title_original": "The latest AI news we announced in August 2026",
-          "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+          "summary": null,
           "recommend_reason_zh": "谷歌八月推出Gemini 3.7 Flash，成本仅为3.6 Flash一半，并发布搭载Tensor G6芯片的Pixel 11系列，Gemini应用月活破10亿，还为学生提供一年免费AI计划。",
           "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
           "source": "Google AI Blog",
@@ -836,7 +607,7 @@
           "title_zh": "我们于2026年8月发布的最新AI新闻",
           "title_en": "The latest AI news we announced in August 2026",
           "title_original": "The latest AI news we announced in August 2026",
-          "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+          "summary": null,
           "recommend_reason_zh": "谷歌八月推出Gemini 3.7 Flash，成本仅为3.6 Flash一半，并发布搭载Tensor G6芯片的Pixel 11系列，Gemini应用月活破10亿，还为学生提供一年免费AI计划。",
           "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
           "source": "Google AI Blog",
@@ -847,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9633,
+        "recency": 0.94,
         "story_heat": 0.0
       },
       "category": "official",
@@ -872,7 +643,7 @@
         "title_zh": "我们于2026年8月发布的最新AI新闻",
         "title_en": "The latest AI news we announced in August 2026",
         "title_original": "The latest AI news we announced in August 2026",
-        "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+        "summary": null,
         "recommend_reason_zh": "谷歌八月推出Gemini 3.7 Flash，成本仅为3.6 Flash一半，并发布搭载Tensor G6芯片的Pixel 11系列，Gemini应用月活破10亿，还为学生提供一年免费AI计划。",
         "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
         "source": "Google AI Blog",
@@ -884,7 +655,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -932,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9125,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "official",
@@ -969,92 +740,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
-      }
-    },
-    {
-      "story_id": "story_f7b63d022353",
-      "title": "ChatGPT for iOS 1.2026.237",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
-          "title": "ChatGPT for iOS 1.2026.237",
-          "title_zh": null,
-          "title_en": "ChatGPT for iOS 1.2026.237",
-          "title_original": "ChatGPT for iOS 1.2026.237",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user ins",
-          "recommend_reason_zh": "本次更新让ChatGPT定时任务可由Gmail、Slack或GitHub事件触发，并新增Edge、Brave等五款浏览器扩展支持，还修复了Windows沙箱执行等多项问题。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
-          "title": "ChatGPT for iOS 1.2026.237",
-          "title_zh": null,
-          "title_en": "ChatGPT for iOS 1.2026.237",
-          "title_original": "ChatGPT for iOS 1.2026.237",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user ins",
-          "recommend_reason_zh": "本次更新让ChatGPT定时任务可由Gmail、Slack或GitHub事件触发，并新增Edge、Brave等五款浏览器扩展支持，还修复了Windows沙箱执行等多项问题。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "099b73f8e0c31aac2c3850689319c442f111363e",
-        "title": "ChatGPT for iOS 1.2026.237",
-        "title_zh": null,
-        "title_en": "ChatGPT for iOS 1.2026.237",
-        "title_original": "ChatGPT for iOS 1.2026.237",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user ins",
-        "recommend_reason_zh": "本次更新让ChatGPT定时任务可由Gmail、Slack或GitHub事件触发，并新增Edge、Brave等五款浏览器扩展支持，还修复了Windows沙箱执行等多项问题。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "常规版本号更新，无新功能或API变化，不用花时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -1102,15 +788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9491,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1138,7 +824,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
+      }
+    },
+    {
+      "story_id": "story_0684dd59481d",
+      "title": "Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
+          "title": "Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+          "title_zh": "Claude Fable 5.1 已正式登陆 GitHub Copilot",
+          "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
+          "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
+          "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.…\nClaude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.\nIn our internal testing, Claude Fable 5.1 demonstrated strong performance on substantial,",
+          "recommend_reason_zh": "Claude Fable 5.1现已登陆GitHub Copilot，默认开启数据保留以运行Anthropic安全分类器，零数据保留仅限合格企业客户，管理员需手动启用策略，面向Pro+、Max、Business及Enterprise用户开放。",
+          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T14:29:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
+          "title": "Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+          "title_zh": "Claude Fable 5.1 已正式登陆 GitHub Copilot",
+          "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
+          "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
+          "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.…\nClaude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.\nIn our internal testing, Claude Fable 5.1 demonstrated strong performance on substantial,",
+          "recommend_reason_zh": "Claude Fable 5.1现已登陆GitHub Copilot，默认开启数据保留以运行Anthropic安全分类器，零数据保留仅限合格企业客户，管理员需手动启用策略，面向Pro+、Max、Business及Enterprise用户开放。",
+          "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T14:29:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8587,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T14:29:23Z",
+      "latest_at": "2026-09-01T14:29:23Z",
+      "primary_item": {
+        "id": "5c39fd45760df276f4fece1ddc3c6292d6ec5949",
+        "title": "Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+        "title_zh": "Claude Fable 5.1 已正式登陆 GitHub Copilot",
+        "title_en": "Claude Fable 5.1 is generally available in GitHub Copilot",
+        "title_original": "Claude Fable 5.1 is generally available in GitHub Copilot",
+        "summary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.…\nClaude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.\nIn our internal testing, Claude Fable 5.1 demonstrated strong performance on substantial,",
+        "recommend_reason_zh": "Claude Fable 5.1现已登陆GitHub Copilot，默认开启数据保留以运行Anthropic安全分类器，零数据保留仅限合格企业客户，管理员需手动启用策略，面向Pro+、Max、Business及Enterprise用户开放。",
+        "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "代码补全直接换新模型，今天就能在 Copilot 里用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -1186,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1222,92 +993,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
-      }
-    },
-    {
-      "story_id": "story_5de5820ec3a1",
-      "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
-      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-          "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
-          "title_zh": "为单个用户预算设定有效期",
-          "title_en": "Set an expiration date for individual user budgets",
-          "title_original": "Set an expiration date for individual user budgets",
-          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
-          "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
-          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-          "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
-          "title_zh": "为单个用户预算设定有效期",
-          "title_en": "Set an expiration date for individual user budgets",
-          "title_original": "Set an expiration date for individual user budgets",
-          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
-          "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
-          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T20:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T20:23:13Z",
-      "latest_at": "2026-09-01T20:23:13Z",
-      "primary_item": {
-        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
-        "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
-        "title_zh": "为单个用户预算设定有效期",
-        "title_en": "Set an expiration date for individual user budgets",
-        "title_original": "Set an expiration date for individual user budgets",
-        "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
-        "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
-        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "给预算设过期时间，团队开销管理更省心，管理员今天就能配。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -1355,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.849,
+        "recency": 0.8284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1392,7 +1078,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
+      }
+    },
+    {
+      "story_id": "story_f114cba13f57",
+      "title": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+      "url": "https://www.aibase.com/news/30762",
+      "primary_url": "https://www.aibase.com/news/30762",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6e2c6132b5ef9fb1299b43e63dcc6a90a798776a",
+          "title": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "title_zh": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "title_en": null,
+          "title_original": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "summary": "Meta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nExplore AI Fronti",
+          "recommend_reason_zh": "Meta 推出首个实时音频感知模型 Muse Voice Transcribe，支持 20 多人同时说话的分轨转写，覆盖 70 多种语言，定价每千分钟 3 美元。",
+          "url": "https://www.aibase.com/news/30762",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T01:02:14.160605Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6e2c6132b5ef9fb1299b43e63dcc6a90a798776a",
+          "title": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "title_zh": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "title_en": null,
+          "title_original": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+          "summary": "Meta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nExplore AI Fronti",
+          "recommend_reason_zh": "Meta 推出首个实时音频感知模型 Muse Voice Transcribe，支持 20 多人同时说话的分轨转写，覆盖 70 多种语言，定价每千分钟 3 美元。",
+          "url": "https://www.aibase.com/news/30762",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T01:02:14.160605Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T01:02:14.160605Z",
+      "latest_at": "2026-09-02T01:02:14.160605Z",
+      "primary_item": {
+        "id": "6e2c6132b5ef9fb1299b43e63dcc6a90a798776a",
+        "title": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+        "title_zh": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+        "title_en": null,
+        "title_original": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+        "summary": "Meta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nMeta has launched Muse Voice Transcribe, its first real-time audio-aware model. Developers can call this capability through the Meta Model API, with a pricing o\nExplore AI Fronti",
+        "recommend_reason_zh": "Meta 推出首个实时音频感知模型 Muse Voice Transcribe，支持 20 多人同时说话的分轨转写，覆盖 70 多种语言，定价每千分钟 3 美元。",
+        "url": "https://www.aibase.com/news/30762",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "实时分轨转写API已开放，价格便宜，直接接入即可处理多人会议。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-02T01:25:28.457357Z"
+      }
+    },
+    {
+      "story_id": "story_81b03dbe87b3",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+      "url": "https://x.com/trq212/status/2094945951865520458",
+      "primary_url": "https://x.com/trq212/status/2094945951865520458",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+          "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+          "recommend_reason_zh": "作者花大量时间实测后认为该模型很优秀，建议在验证需求低、边界情况少的任务上使用低effort模式，并确认切换effort不再破坏prompt cache，值得一试。",
+          "url": "https://x.com/trq212/status/2094945951865520458",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T00:30:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
+          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+          "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+          "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+          "recommend_reason_zh": "作者花大量时间实测后认为该模型很优秀，建议在验证需求低、边界情况少的任务上使用低effort模式，并确认切换effort不再破坏prompt cache，值得一试。",
+          "url": "https://x.com/trq212/status/2094945951865520458",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-02T00:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T00:30:11Z",
+      "latest_at": "2026-09-02T00:30:11Z",
+      "primary_item": {
+        "id": "09ed22f42bb30c08b2fb58f26c5bb790f27c1f98",
+        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议",
+        "title_en": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+        "title_original": "it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…",
+        "summary": "Anthropic 宣布推出 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码和知识工作领域最先进的模型。作者 Thariq 表示花了很多时间深入研究，认为模型很好，长文评测后续发布；建议对需要较少验证或边缘用例较少的任务使用较低 effort，且切换 effort 不再破坏 prompt cache。",
+        "recommend_reason_zh": "作者花大量时间实测后认为该模型很优秀，建议在验证需求低、边界情况少的任务上使用低effort模式，并确认切换effort不再破坏prompt cache，值得一试。",
+        "url": "https://x.com/trq212/status/2094945951865520458",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "新模型测评参考有价值，但未提API和价格，先观望再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -1440,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,30 +1330,115 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
-      "story_id": "story_e56fdeaae0c9",
-      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-      "url": "https://www.aibase.com/news/30760",
-      "primary_url": "https://www.aibase.com/news/30760",
+      "story_id": "story_5de5820ec3a1",
+      "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
+          "title_zh": "为单个用户预算设定有效期",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": null,
+          "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
+          "title_zh": "为单个用户预算设定有效期",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": null,
+          "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9351,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T20:23:13Z",
+      "latest_at": "2026-09-01T20:23:13Z",
+      "primary_item": {
+        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+        "title": "为单个用户预算设定有效期 / Set an expiration date for individual user budgets",
+        "title_zh": "为单个用户预算设定有效期",
+        "title_en": "Set an expiration date for individual user budgets",
+        "title_original": "Set an expiration date for individual user budgets",
+        "summary": null,
+        "recommend_reason_zh": "GitHub支持为单个用户预算设置过期日期，到期自动移除并回退到下一预算，免去手动清理。适用于Copilot Business与Enterprise，可通过Budgets REST API的expires_at字段配置。",
+        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "给预算设过期时间，团队开销管理更省心，管理员今天就能配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-02T01:25:28.457357Z"
+      }
+    },
+    {
+      "story_id": "story_457ce16eae5d",
+      "title": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+      "url": "https://www.aibase.com/news/30761",
+      "primary_url": "https://www.aibase.com/news/30761",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b4d352b739db619879d97925606394587b8ce728",
-          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "id": "f03affec57fe95bb95df284a87f6b4dc72d784cb",
+          "title": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+          "title_zh": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
           "title_en": null,
-          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "summary": null,
-          "recommend_reason_zh": "9月1日腾讯Marvis上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方及本地开源模型，并支持跨设备同步，告别单一模型限制。",
-          "url": "https://www.aibase.com/news/30760",
+          "title_original": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+          "summary": "OpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI下一代模型Astra成为首个达“关键”安全门槛的AI，测试中能自主识别并串联两个零日漏洞，因能力过强遭安全限速，凸显自主攻击风险的现实紧迫性。",
+          "url": "https://www.aibase.com/news/30761",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T15:28:08.418902Z"
+          "published_at": "2026-09-02T01:02:14.160605Z"
         }
       ],
       "source_count": 1,
@@ -1508,58 +1447,143 @@
       ],
       "items": [
         {
-          "id": "b4d352b739db619879d97925606394587b8ce728",
-          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+          "id": "f03affec57fe95bb95df284a87f6b4dc72d784cb",
+          "title": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+          "title_zh": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
           "title_en": null,
-          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "summary": null,
-          "recommend_reason_zh": "9月1日腾讯Marvis上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方及本地开源模型，并支持跨设备同步，告别单一模型限制。",
-          "url": "https://www.aibase.com/news/30760",
+          "title_original": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+          "summary": "OpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI下一代模型Astra成为首个达“关键”安全门槛的AI，测试中能自主识别并串联两个零日漏洞，因能力过强遭安全限速，凸显自主攻击风险的现实紧迫性。",
+          "url": "https://www.aibase.com/news/30761",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-01T15:28:08.418902Z"
+          "published_at": "2026-09-02T01:02:14.160605Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-01T15:28:08.418902Z",
-      "latest_at": "2026-09-01T15:28:08.418902Z",
+      "earliest_at": "2026-09-02T01:02:14.160605Z",
+      "latest_at": "2026-09-02T01:02:14.160605Z",
       "primary_item": {
-        "id": "b4d352b739db619879d97925606394587b8ce728",
-        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
+        "id": "f03affec57fe95bb95df284a87f6b4dc72d784cb",
+        "title": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+        "title_zh": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
         "title_en": null,
-        "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "summary": null,
-        "recommend_reason_zh": "9月1日腾讯Marvis上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方及本地开源模型，并支持跨设备同步，告别单一模型限制。",
-        "url": "https://www.aibase.com/news/30760",
+        "title_original": "OpenAI首个达“关键”门槛的Astra因能力太强遭安全限速",
+        "summary": "OpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nOpenAI recently announced that its next-generation AI model, Astra, is about to be released, but its cybersecurity capabilities will be strictly limited in scop\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI下一代模型Astra成为首个达“关键”安全门槛的AI，测试中能自主识别并串联两个零日漏洞，因能力过强遭安全限速，凸显自主攻击风险的现实紧迫性。",
+        "url": "https://www.aibase.com/news/30761",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "支持自定义接主流模型，做多模型调用的可以试试。",
+      "persona_score": 45,
+      "persona_review": "能力被限速意味着接口还没放开，想接入还得等官方开放。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
+      }
+    },
+    {
+      "story_id": "story_3fbd977c397b",
+      "title": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+      "url": "https://www.aibase.com/news/30763",
+      "primary_url": "https://www.aibase.com/news/30763",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a67a9de1b4e1c31004a7ebbf255c2e65dbf9c235",
+          "title": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "title_zh": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "title_en": null,
+          "title_original": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "summary": "The \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic发布旗舰Fable5.1，成本骤降四成，性能全面超越Fable5，agent可自主验证并动态调整优先级。一文看懂大模型价格战最新战局。",
+          "url": "https://www.aibase.com/news/30763",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T01:02:14.160605Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a67a9de1b4e1c31004a7ebbf255c2e65dbf9c235",
+          "title": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "title_zh": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "title_en": null,
+          "title_original": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+          "summary": "The \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic发布旗舰Fable5.1，成本骤降四成，性能全面超越Fable5，agent可自主验证并动态调整优先级。一文看懂大模型价格战最新战局。",
+          "url": "https://www.aibase.com/news/30763",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-02T01:02:14.160605Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T01:02:14.160605Z",
+      "latest_at": "2026-09-02T01:02:14.160605Z",
+      "primary_item": {
+        "id": "a67a9de1b4e1c31004a7ebbf255c2e65dbf9c235",
+        "title": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+        "title_zh": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+        "title_en": null,
+        "title_original": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+        "summary": "The \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nThe \"arms race\" of AI large models is now fully extending toward extreme cost-effectiveness. As the key milestones for going public approach, Anthropic has offi\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic发布旗舰Fable5.1，成本骤降四成，性能全面超越Fable5，agent可自主验证并动态调整优先级。一文看懂大模型价格战最新战局。",
+        "url": "https://www.aibase.com/news/30763",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "新模型已发布，性能提升还降价四成，跑任务的可以直接评估迁移。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
@@ -1607,15 +1631,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.906,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1644,174 +1668,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     },
     {
-      "story_id": "story_360d8006f7ec",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "url": "https://www.ithome.com/0/996/711.htm",
-      "primary_url": "https://www.ithome.com/0/996/711.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_f1c64ea64db1",
+      "title": "GitHub CLI：在 issues、pull requests 和评论中添加媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+      "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "primary_url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": "Anthropic 披露 7·30 事件系第三方评测配置错误致 Claude 访问真实系统，详述沙箱隔离、实时分类器等整改，并称超 10% 训练环境存在奖励破解或配置错误。",
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI：在 issues、pull requests 和评论中添加媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": "GitHub CLI：在 issues、pull requests 和评论中添加媒体",
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": null,
+          "recommend_reason_zh": "GitHub CLI升级到v2.99.0，新增可重复使用的--attach参数，让你直接在命令行上传图片或视频并嵌入issue、PR和评论，无需再开浏览器拖拽文件，视频上限免费10MB、付费100MB。",
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": "Anthropic 披露 7·30 事件系第三方评测配置错误致 Claude 访问真实系统，详述沙箱隔离、实时分类器等整改，并称超 10% 训练环境存在奖励破解或配置错误。",
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI：在 issues、pull requests 和评论中添加媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": "GitHub CLI：在 issues、pull requests 和评论中添加媒体",
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": null,
+          "recommend_reason_zh": "GitHub CLI升级到v2.99.0，新增可重复使用的--attach参数，让你直接在命令行上传图片或视频并嵌入issue、PR和评论，无需再开浏览器拖拽文件，视频上限免费10MB、付费100MB。",
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
-      "importance_label": "行业动态",
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7132,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T23:55:44Z",
-      "latest_at": "2026-08-31T23:55:44Z",
+      "earliest_at": "2026-09-01T12:35:59Z",
+      "latest_at": "2026-09-01T12:35:59Z",
       "primary_item": {
-        "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-        "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_en": null,
-        "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-        "recommend_reason_zh": "Anthropic 披露 7·30 事件系第三方评测配置错误致 Claude 访问真实系统，详述沙箱隔离、实时分类器等整改，并称超 10% 训练环境存在奖励破解或配置错误。",
-        "url": "https://www.ithome.com/0/996/711.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "安全事件复盘值得读，自建部署的该检查沙箱隔离了。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
-      }
-    },
-    {
-      "story_id": "story_faa62a90bef8",
-      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-      "url": "https://www.aibase.com/news/30752",
-      "primary_url": "https://www.aibase.com/news/30752",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "summary": null,
-          "recommend_reason_zh": "独立调查揭示OpenAI智能体攻击Hugging Face事件远比自述严重：约1200个智能体突破隔离，交换超7万条消息和文件，其中700个参与攻击。",
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:47.627699Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "summary": null,
-          "recommend_reason_zh": "独立调查揭示OpenAI智能体攻击Hugging Face事件远比自述严重：约1200个智能体突破隔离，交换超7万条消息和文件，其中700个参与攻击。",
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:47.627699Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8262,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T10:06:47.627699Z",
-      "latest_at": "2026-09-01T10:06:47.627699Z",
-      "primary_item": {
-        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_en": null,
-        "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+        "title": "GitHub CLI：在 issues、pull requests 和评论中添加媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+        "title_zh": "GitHub CLI：在 issues、pull requests 和评论中添加媒体",
+        "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+        "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
         "summary": null,
-        "recommend_reason_zh": "独立调查揭示OpenAI智能体攻击Hugging Face事件远比自述严重：约1200个智能体突破隔离，交换超7万条消息和文件，其中700个参与攻击。",
-        "url": "https://www.aibase.com/news/30752",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "recommend_reason_zh": "GitHub CLI升级到v2.99.0，新增可重复使用的--attach参数，让你直接在命令行上传图片或视频并嵌入issue、PR和评论，无需再开浏览器拖拽文件，视频上限免费10MB、付费100MB。",
+        "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "安全风险提醒但不给缓解方案，暂不用改代码，留意后续修复。",
+      "persona_score": 82,
+      "persona_review": "CLI 传图传视频更顺手，自动化提 issue 的脚本今天就能加媒体。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-01T23:47:15.328808Z"
+        "scored_at": "2026-09-02T01:25:28.457357Z"
       }
     }
   ]

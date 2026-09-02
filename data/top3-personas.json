@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:47:42.059154Z",
+  "generated_at": "2026-09-02T01:26:00.147652Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_730fa9d1ab54",
-      "title": "Copilot 代码审查现在可以批准 pull requests 了 / Copilot code review can now approve pull requests",
-      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "story_id": "story_f114cba13f57",
+      "title": "Meta 首个实时音频感知模型来了：20 多人同时说话也能分轨转写，每千分钟 3 美元",
+      "url": "https://www.aibase.com/news/30762",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "批准PR这步终于补上，但别指望它比人审更懂业务逻辑。"
+          "score": 65,
+          "review": "20人分轨不新鲜，'首个'这词当别人都聋了？价格倒真不贵。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方 changelog 宣称能力，无代码无评测，待独立验证。"
+          "score": 20,
+          "review": "只有新闻通稿，无论文无代码无评测，分轨效果和价格都没法验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "PR审批能自动化了，审查流程少一步手工，今天就能配。"
+          "score": 92,
+          "review": "实时分轨转写API已开放，价格便宜，直接接入即可处理多人会议。"
         }
       }
     },
     {
-      "story_id": "story_8ba38180ebe6",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "story_id": "story_0684dd59481d",
+      "title": "Claude Fable 5.1 已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "内核数够唬人，跑起来帧率见真章，别又是个基准测试特供。"
+          "score": 70,
+          "review": "登陆不算新闻，能告诉我比上代强在哪吗？"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方博客有细节数字，但缺开源代码和独立评测，等复现再定论。"
+          "score": 25,
+          "review": "官方公告只说了可用，无性能数据无代码无评测，暂无法验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "开源内核即拿即用，浏览器端跑模型性能直接提升。"
+          "score": 90,
+          "review": "代码补全直接换新模型，今天就能在 Copilot 里用。"
         }
       }
     },
     {
-      "story_id": "story_d048fe91383f",
-      "title": "医疗保健组织现在可以将电子病历和更多行业数据连接到ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "story_id": "story_3fbd977c397b",
+      "title": "地球最强大模型打起价格战！Anthropic发布Fable 5.1：性能狂飙且成本骤降四成",
+      "url": "https://www.aibase.com/news/30763",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "病历接上ChatGPT只是接口便利，离诊断智慧还差一个医生。"
+          "score": 45,
+          "review": "'地球最强大'的标准是什么？先晒出完整基准对比和第三方复现再说。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方公告无技术细节和验证，等实际接入后独立测试再定。"
+          "score": 25,
+          "review": "只有新闻稿宣称性能成本，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "医疗行业API接入开放，做健康应用的可以研究，其他领域暂无关。"
+          "score": 90,
+          "review": "新模型已发布，性能提升还降价四成，跑任务的可以直接评估迁移。"
         }
       }
     }
