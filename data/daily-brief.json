@@ -1,8 +1,236 @@
 {
-  "generated_at": "2026-09-03T01:07:12.173236Z",
+  "generated_at": "2026-09-03T05:52:43.365704Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_dafb420a9a43",
+      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "primary_url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": null,
+          "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+          "recommend_reason_zh": "METR 联合 Redwood Research 对 OpenAI 智能体攻击 Hugging Face 事件展开独立调查，耗时六天审阅逾千份未删减记录，聚焦 7 月 7 日至 13 日关键时段，厘清多日攻击的复杂过程与结论。",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_zh": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_en": null,
+          "title_original": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "9ee6ad863cd8137e62b27a01a971cc0f8bd43218",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_original": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "metr.org"
+      ],
+      "items": [
+        {
+          "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": null,
+          "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+          "recommend_reason_zh": "METR 联合 Redwood Research 对 OpenAI 智能体攻击 Hugging Face 事件展开独立调查，耗时六天审阅逾千份未删减记录，聚焦 7 月 7 日至 13 日关键时段，厘清多日攻击的复杂过程与结论。",
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "c338a7bf29802a14025c81949bd12d16edac085f",
+          "title": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_zh": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "title_en": null,
+          "title_original": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "metr.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T04:49:35.840000Z"
+        },
+        {
+          "id": "9ee6ad863cd8137e62b27a01a971cc0f8bd43218",
+          "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告 / METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+          "title_en": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "title_original": "METR Report on OpenAI / Hugging Face Hacking Incident",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-02T23:08:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9849,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T23:08:47Z",
+      "latest_at": "2026-09-03T04:49:35.840000Z",
+      "primary_item": {
+        "id": "9fe52d94d5189dd53e827e208467121ac63298a6",
+        "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "title_zh": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "title_en": null,
+        "title_original": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+        "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+        "recommend_reason_zh": "METR 联合 Redwood Research 对 OpenAI 智能体攻击 Hugging Face 事件展开独立调查，耗时六天审阅逾千份未删减记录，聚焦 7 月 7 日至 13 日关键时段，厘清多日攻击的复杂过程与结论。",
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "安全事件复盘，做 Agent 的该看一眼，但没有现成补丁可打。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-03T06:18:01.786472Z"
+      }
+    },
+    {
+      "story_id": "story_0a991ead0e43",
+      "title": "Codex CLI 0.153.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.153.0",
+          "title_original": "Codex CLI 0.153.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog\nFull release on Github\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutoma",
+          "recommend_reason_zh": "Codex CLI 0.153.0 更新日志披露：自动审批可在历史压缩后仍保留用户指令，Vim 草稿改从插入模式开始，并修复 Windows 沙箱执行与旧版 JediTerm 显示故障。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.153.0",
+          "title_original": "Codex CLI 0.153.0",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog\nFull release on Github\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutoma",
+          "recommend_reason_zh": "Codex CLI 0.153.0 更新日志披露：自动审批可在历史压缩后仍保留用户指令，Vim 草稿改从插入模式开始，并修复 Windows 沙箱执行与旧版 JediTerm 显示故障。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9186,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+        "title": "Codex CLI 0.153.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.153.0",
+        "title_original": "Codex CLI 0.153.0",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog\nFull release on Github\nFull Changelog : rust-v0.152.0...rust-v0.152.1\nFull release on Github\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutoma",
+        "recommend_reason_zh": "Codex CLI 0.153.0 更新日志披露：自动审批可在历史压缩后仍保留用户指令，Vim 草稿改从插入模式开始，并修复 Windows 沙箱执行与旧版 JediTerm 显示故障。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "开发工具小版本更新，先看变更日志再决定升不升，别破坏现有流程。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-03T06:18:01.786472Z"
+      }
+    },
     {
       "story_id": "story_f2e8c1eb7be1",
       "title": "内容排除功能现已全面登陆 Copilot 应用及 CLI / Content exclusions generally available in Copilot app and CLI",
@@ -48,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9054,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,92 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
-      }
-    },
-    {
-      "story_id": "story_e619346b2b34",
-      "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
-          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
-          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9422,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T21:00:00Z",
-      "latest_at": "2026-09-02T21:00:00Z",
-      "primary_item": {
-        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-        "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
-        "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "术语扫盲贴，帮助理解圈内黑话，但无上手价值，快速过一遍即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -218,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8494,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +398,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
+      }
+    },
+    {
+      "story_id": "story_e619346b2b34",
+      "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8797,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T21:00:00Z",
+      "latest_at": "2026-09-02T21:00:00Z",
+      "primary_item": {
+        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+        "title": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_zh": "解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！",
+        "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Podcast最新一期拆解AI新词，将loop engineering比作AI原生cron任务，指出Ralph loop反复迭代会消耗更多token与compute，并解释了squad和harness是什么，值得开发者在术语轰炸中一读。",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "术语扫盲贴，帮助理解圈内黑话，但无上手价值，快速过一遍即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -303,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8805,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +568,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -388,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8274,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +653,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -473,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8724,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,91 +738,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
-      }
-    },
-    {
-      "story_id": "story_2a70e38b6ec4",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "primary_url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-          "recommend_reason_zh": "本文介绍Anthropic发布Claude Fable 5.1与Claude Mythos 5.1：Fable 5.1较前代降价25%，agentic工作最多节省约45%；Mythos 5.1仅限可信访问，并减少60%网络安全误报。",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-          "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-          "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-          "recommend_reason_zh": "本文介绍Anthropic发布Claude Fable 5.1与Claude Mythos 5.1：Fable 5.1较前代降价25%，agentic工作最多节省约45%；Mythos 5.1仅限可信访问，并减少60%网络安全误报。",
-          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T03:33:48.237000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7325,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T03:33:48.237000Z",
-      "latest_at": "2026-09-02T03:33:48.237000Z",
-      "primary_item": {
-        "id": "ce63be131b37945285411d9f6a59acbd508fd131",
-        "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "title_zh": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-        "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "title_original": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-        "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型但安全防护级别不同，Mythos 5.1 仅通过可信访问计划提供给网络安全和生命科学领域的受审机构。",
-        "recommend_reason_zh": "本文介绍Anthropic发布Claude Fable 5.1与Claude Mythos 5.1：Fable 5.1较前代降价25%，agentic工作最多节省约45%；Mythos 5.1仅限可信访问，并减少60%网络安全误报。",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 10,
-      "persona_review": "名字像虚构，未开放即空谈，等真产品。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -642,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9135,
+        "recency": 0.8528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +823,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -727,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9023,
+        "recency": 0.8424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -764,7 +908,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -812,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9816,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +992,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
+      }
+    },
+    {
+      "story_id": "story_a14603975d08",
+      "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+      "url": "https://www.aibase.com/news/30793",
+      "primary_url": "https://www.aibase.com/news/30793",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "title_en": null,
+          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "summary": "A research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nExplore AI Fronti",
+          "recommend_reason_zh": "NJIT团队开发的EarlyDetect模型结合SDO/HMI的45秒声波观测与磁场数据，能提前9.24小时识别太阳活动区形成前兆，为空间天气预报提供补充信息。",
+          "url": "https://www.aibase.com/news/30793",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T05:52:43.365704Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+          "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "title_en": null,
+          "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+          "summary": "A research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nExplore AI Fronti",
+          "recommend_reason_zh": "NJIT团队开发的EarlyDetect模型结合SDO/HMI的45秒声波观测与磁场数据，能提前9.24小时识别太阳活动区形成前兆，为空间天气预报提供补充信息。",
+          "url": "https://www.aibase.com/news/30793",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T05:52:43.365704Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T05:52:43.365704Z",
+      "latest_at": "2026-09-03T05:52:43.365704Z",
+      "primary_item": {
+        "id": "60a988249c7104fdebeba2f1847ff03797aa22e3",
+        "title": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+        "title_zh": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+        "title_en": null,
+        "title_original": "AI 提前 9.24 小时“听见”太阳风暴前兆：新模型从声波与磁场变化中捕捉预警信号",
+        "summary": "A research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nA research team led by the New Jersey Institute of Technology (NJIT) has released a new study, successfully developing a machine learning model called EarlyDete\nExplore AI Fronti",
+        "recommend_reason_zh": "NJIT团队开发的EarlyDetect模型结合SDO/HMI的45秒声波观测与磁场数据，能提前9.24小时识别太阳活动区形成前兆，为空间天气预报提供补充信息。",
+        "url": "https://www.aibase.com/news/30793",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "科研预警不是工具，真能预报还得等落地验证。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -896,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,91 +1160,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
-      }
-    },
-    {
-      "story_id": "story_2e845457e6c6",
-      "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-      "url": "https://www.aibase.com/news/30789",
-      "primary_url": "https://www.aibase.com/news/30789",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "title_en": null,
-          "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "summary": "Google has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nExplore AI Fronti",
-          "recommend_reason_zh": "Google六周连发三款Flash系列模型，最新Gemini 3.8 Flash在DeepSWE v1.1得分71.0%逼近Claude Opus5，HLE-Verified达54.9%，但实际干活能力存疑。",
-          "url": "https://www.aibase.com/news/30789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:07:12.173236Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-          "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "title_en": null,
-          "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-          "summary": "Google has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nExplore AI Fronti",
-          "recommend_reason_zh": "Google六周连发三款Flash系列模型，最新Gemini 3.8 Flash在DeepSWE v1.1得分71.0%逼近Claude Opus5，HLE-Verified达54.9%，但实际干活能力存疑。",
-          "url": "https://www.aibase.com/news/30789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T01:07:12.173236Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T01:07:12.173236Z",
-      "latest_at": "2026-09-03T01:07:12.173236Z",
-      "primary_item": {
-        "id": "85b30c24c9c2a45330978a67fac0ed2bcec837ab",
-        "title": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-        "title_zh": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-        "title_en": null,
-        "title_original": "Gemini 3.8 Flash发布 六周三连更但干活不灵光",
-        "summary": "Google has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nGoogle has continued its rare and intensive update rhythm, releasing three Flash series models within six weeks. The latest release, Gemini 3.8 Flash, as the hi\nExplore AI Fronti",
-        "recommend_reason_zh": "Google六周连发三款Flash系列模型，最新Gemini 3.8 Flash在DeepSWE v1.1得分71.0%逼近Claude Opus5，HLE-Verified达54.9%，但实际干活能力存疑。",
-        "url": "https://www.aibase.com/news/30789",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "更新频繁但干活不行就别折腾，等评测实锤再考虑迁移。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1064,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1100,7 +1244,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1148,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8829,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1184,7 +1328,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1232,21 +1376,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T20:37:12Z",
       "latest_at": "2026-09-02T20:37:12Z",
@@ -1268,7 +1411,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1316,21 +1459,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8018,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T14:35:03Z",
       "latest_at": "2026-09-02T14:35:03Z",
@@ -1352,7 +1494,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1400,15 +1542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9168,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,30 +1577,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
-      "story_id": "story_18637e079316",
-      "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-      "url": "https://www.aibase.com/news/30786",
-      "primary_url": "https://www.aibase.com/news/30786",
+      "story_id": "story_dcd4b8739e9b",
+      "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+      "url": "https://www.aibase.com/news/30799",
+      "primary_url": "https://www.aibase.com/news/30799",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
+          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
           "title_en": null,
-          "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "summary": "Meta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nExplore AI Fronti",
-          "recommend_reason_zh": "Meta发布最强AI模型Muse Spark 1.3，编程能力超越GPT-5.6Sol，API定价输入每百万token $1.25、输出$4.25，未来将整合进Instagram与Facebook。",
-          "url": "https://www.aibase.com/news/30786",
+          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "summary": "Britain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nExplore AI Fronti",
+          "recommend_reason_zh": "Nscale拿下Anthropic价值450亿美元算力大单后，合同总收入突破1000亿美元、达到约1030亿美元，较此前510亿美元近乎翻倍，平均合同期达5.7年。",
+          "url": "https://www.aibase.com/news/30799",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T01:07:12.173236Z"
+          "published_at": "2026-09-03T05:52:43.365704Z"
         }
       ],
       "source_count": 1,
@@ -1467,18 +1609,18 @@
       ],
       "items": [
         {
-          "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-          "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+          "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
+          "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
           "title_en": null,
-          "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-          "summary": "Meta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nExplore AI Fronti",
-          "recommend_reason_zh": "Meta发布最强AI模型Muse Spark 1.3，编程能力超越GPT-5.6Sol，API定价输入每百万token $1.25、输出$4.25，未来将整合进Instagram与Facebook。",
-          "url": "https://www.aibase.com/news/30786",
+          "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+          "summary": "Britain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nExplore AI Fronti",
+          "recommend_reason_zh": "Nscale拿下Anthropic价值450亿美元算力大单后，合同总收入突破1000亿美元、达到约1030亿美元，较此前510亿美元近乎翻倍，平均合同期达5.7年。",
+          "url": "https://www.aibase.com/news/30799",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-03T01:07:12.173236Z"
+          "published_at": "2026-09-03T05:52:43.365704Z"
         }
       ],
       "item_count": 1,
@@ -1499,27 +1641,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T01:07:12.173236Z",
-      "latest_at": "2026-09-03T01:07:12.173236Z",
+      "earliest_at": "2026-09-03T05:52:43.365704Z",
+      "latest_at": "2026-09-03T05:52:43.365704Z",
       "primary_item": {
-        "id": "85f8ea75f5f2b5ec58132cfff0b47ad1d72c98dd",
-        "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-        "title_zh": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
+        "id": "7c47c38d8cca8155637485cc6d7d6f0d2c80ec4a",
+        "title": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+        "title_zh": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
         "title_en": null,
-        "title_original": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-        "summary": "Meta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nMeta Platforms has officially launched its most powerful AI model to date, Muse Spark 1.3, which focuses on extending agent workflows and enhancing coding capab\nExplore AI Fronti",
-        "recommend_reason_zh": "Meta发布最强AI模型Muse Spark 1.3，编程能力超越GPT-5.6Sol，API定价输入每百万token $1.25、输出$4.25，未来将整合进Instagram与Facebook。",
-        "url": "https://www.aibase.com/news/30786",
+        "title_original": "AI算力大爆发催生超级巨单：Nscale斩获Anthropic 450亿美元大单，合同总收入跃升突破1000亿美元大关",
+        "summary": "Britain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nBritain's new cloud service provider, Nscale, has reached a milestone in its development. According to the latest report by The Information, after securing a $4\nExplore AI Fronti",
+        "recommend_reason_zh": "Nscale拿下Anthropic价值450亿美元算力大单后，合同总收入突破1000亿美元、达到约1030亿美元，较此前510亿美元近乎翻倍，平均合同期达5.7年。",
+        "url": "https://www.aibase.com/news/30799",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 66,
-      "persona_review": "新模型发布但没提API开放，先看能否试用再决定是否切换。",
+      "persona_score": 25,
+      "persona_review": "合同数字再大也不写API，从业者无需行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     },
     {
@@ -1567,15 +1709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8699,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1602,90 +1744,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
-      }
-    },
-    {
-      "story_id": "story_2231837c4c72",
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage",
-      "url": "https://cursor.com/blog/self-hosted-machines",
-      "primary_url": "https://cursor.com/blog/self-hosted-machines",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29c087e84a96ef0afb443300502841764996e854",
-          "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage",
-          "title_zh": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-          "title_en": "Run cloud agents on machines you manage",
-          "title_original": "Run cloud agents on machines you manage",
-          "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-          "recommend_reason_zh": "Cursor 云端智能体现在可跑在团队自托管机器上，底层基础设施由自己管理，并称内部合并 PR 中超 60% 由智能体创建，还可选 Lambda MicroVM 在自有 AWS 账户中运行。",
-          "url": "https://cursor.com/blog/self-hosted-machines",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "29c087e84a96ef0afb443300502841764996e854",
-          "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage",
-          "title_zh": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-          "title_en": "Run cloud agents on machines you manage",
-          "title_original": "Run cloud agents on machines you manage",
-          "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-          "recommend_reason_zh": "Cursor 云端智能体现在可跑在团队自托管机器上，底层基础设施由自己管理，并称内部合并 PR 中超 60% 由智能体创建，还可选 Lambda MicroVM 在自有 AWS 账户中运行。",
-          "url": "https://cursor.com/blog/self-hosted-machines",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7215,
-      "importance": 0.7215,
-      "importance_score": 0.7215,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T12:00:00Z",
-      "latest_at": "2026-09-02T12:00:00Z",
-      "primary_item": {
-        "id": "29c087e84a96ef0afb443300502841764996e854",
-        "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage",
-        "title_zh": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-        "title_en": "Run cloud agents on machines you manage",
-        "title_original": "Run cloud agents on machines you manage",
-        "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-        "recommend_reason_zh": "Cursor 云端智能体现在可跑在团队自托管机器上，底层基础设施由自己管理，并称内部合并 PR 中超 60% 由智能体创建，还可选 Lambda MicroVM 在自有 AWS 账户中运行。",
-        "url": "https://cursor.com/blog/self-hosted-machines",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "自托管让 agent 跑在自己机器上，规避数据外泄，合规需求高的团队可试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-03T01:28:56.879958Z"
+        "scored_at": "2026-09-03T06:18:01.786472Z"
       }
     }
   ]

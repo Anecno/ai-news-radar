@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:29:04.401886Z",
+  "generated_at": "2026-09-03T06:18:14.854123Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_2231837c4c72",
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage",
-      "url": "https://cursor.com/blog/self-hosted-machines",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "自托管不新鲜，但智能体跑在私有机器上总算给企业留了点安全感。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "仅有官方博客描述，无开源无第三方验证，缺实际部署证据。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "自托管让 agent 跑在自己机器上，规避数据外泄，合规需求高的团队可试。"
-        }
-      }
-    },
-    {
       "story_id": "story_0fd4fc0249e5",
       "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "新模型今天能上手测，跑任务先看定价和限流，别急着改线上。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bbd546f9bbd7",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 68,
+          "review": "后台操作听着酷，先演示个不翻车的真实任务再吹。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方推特说法，无技术文档或演示，后台操作能力未经验证。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "后台操作电脑能挂自动化任务，但先确认权限边界和安全限制。"
         }
       }
     }

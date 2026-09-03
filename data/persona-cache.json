@@ -1,72 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_40f7961c06b7|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "多智能体系统踩坑总结，做Agent编排前值得一读，但没有可上手的新工具。",
-      "title_hash": "5ca32dd1",
-      "scored_at": "2026-08-13T03:03:59.234452Z"
-    },
-    "story_8f837c453dea|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "融资数字不产生API，等产品迭代再看不迟。",
-      "title_hash": "82ac7fdd",
-      "scored_at": "2026-08-13T03:04:01.492076Z"
-    },
-    "story_5a3ae58e0902|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "行业诚信丑闻，对开发者无直接行动价值，看个热闹就行。",
-      "title_hash": "65bdc2e9",
-      "scored_at": "2026-08-13T03:04:03.817134Z"
-    },
-    "story_2ac97bec3be9|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "新社交产品而已，没开放API，开发者别急着跟进。",
-      "title_hash": "b963b94a",
-      "scored_at": "2026-08-13T03:04:06.230129Z"
-    },
-    "story_ccf9d5d6e58f|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "加水印不影响输出质量，介意就去查官方说明，否则不用管。",
-      "title_hash": "deceafc4",
-      "scored_at": "2026-08-13T03:04:08.744212Z"
-    },
-    "story_c169917dbb00|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "还没上线不用急，等真能提升审查效率再上手。",
-      "title_hash": "ab9e3fef",
-      "scored_at": "2026-08-13T03:04:11.152749Z"
-    },
-    "story_40432760e961|pragmatic|0a5c5b24": {
-      "score": 28,
-      "review": "融资估值与写代码无关，等有产品更新或降价再关注。",
-      "title_hash": "9921f83e",
-      "scored_at": "2026-08-13T05:17:58.869806Z"
-    },
-    "story_f9c6869f48c8|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "远程控制是刚需，但得看是否开放实测，先观望。",
-      "title_hash": "eaf51b52",
-      "scored_at": "2026-08-13T05:18:01.515181Z"
-    },
-    "story_64d25f747362|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "收购传闻对写代码没直接影响，等落地再看。",
-      "title_hash": "009935e4",
-      "scored_at": "2026-08-13T05:18:04.135301Z"
-    },
-    "story_317fc4ca9217|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "寄件场景的专属Agent，不搞物流集成的话与你无关。",
-      "title_hash": "07b6ef9c",
-      "scored_at": "2026-08-13T05:18:06.975297Z"
-    },
-    "story_096686012a3e|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "开源模型可能被纳入审查，出海开发者留意合规，但政策未落地不急。",
-      "title_hash": "c0f762f9",
-      "scored_at": "2026-08-13T05:18:09.396099Z"
-    },
     "story_9d6996b57c59|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "当行业反思看，别当行动指南，真提升得靠流程改造。",
@@ -6246,6 +6180,42 @@
       "review": "新模型发布但没提API开放，先看能否试用再决定是否切换。",
       "title_hash": "5cfe955f",
       "scored_at": "2026-09-03T01:29:04.401743Z"
+    },
+    "story_dafb420a9a43|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "安全事件复盘，做 Agent 的该看一眼，但没有现成补丁可打。",
+      "title_hash": "eb0426b8",
+      "scored_at": "2026-09-03T06:18:03.512355Z"
+    },
+    "story_0a991ead0e43|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "开发工具小版本更新，先看变更日志再决定升不升，别破坏现有流程。",
+      "title_hash": "30b83cce",
+      "scored_at": "2026-09-03T06:18:06.880731Z"
+    },
+    "story_a14603975d08|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "科研预警不是工具，真能预报还得等落地验证。",
+      "title_hash": "4299a3cf",
+      "scored_at": "2026-09-03T06:18:08.396837Z"
+    },
+    "story_dcd4b8739e9b|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "合同数字再大也不写API，从业者无需行动。",
+      "title_hash": "bdd42c22",
+      "scored_at": "2026-09-03T06:18:10.525132Z"
+    },
+    "story_bbd546f9bbd7|cynic|f4237a62": {
+      "score": 68,
+      "review": "后台操作听着酷，先演示个不翻车的真实任务再吹。",
+      "title_hash": "519448c5",
+      "scored_at": "2026-09-03T06:18:13.077654Z"
+    },
+    "story_bbd546f9bbd7|paper-police|966065bf": {
+      "score": 25,
+      "review": "仅官方推特说法，无技术文档或演示，后台操作能力未经验证。",
+      "title_hash": "519448c5",
+      "scored_at": "2026-09-03T06:18:14.854070Z"
     }
   }
 }
