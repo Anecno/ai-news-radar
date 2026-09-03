@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cab5ba4e8224|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源 TTS 可直接 clone 跑推理，做语音合成的今天就能上手试。",
-      "title_hash": "b26c93b5",
-      "scored_at": "2026-08-13T10:46:42.542041Z"
-    },
-    "story_9fd2d6d4a7de|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接换，便宜六成性能不输，跑量任务立省成本。",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:44.625078Z"
-    },
-    "story_fe80c6938485|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "小版本更新，功能局限在其产品内，非通用工具，看看就好。",
-      "title_hash": "bf2e7271",
-      "scored_at": "2026-08-13T10:46:48.054593Z"
-    },
-    "story_f803e81923df|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "模型延期影响排期，但没给你可用的东西，观望即可。",
-      "title_hash": "b6789663",
-      "scored_at": "2026-08-13T10:46:50.136637Z"
-    },
-    "story_9fd2d6d4a7de|cynic|f4237a62": {
-      "score": 22,
-      "review": "性价比榜谁排的？智能指数敢晒测试集吗？便宜一半先发货再说。",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:52.353077Z"
-    },
-    "story_9fd2d6d4a7de|paper-police|966065bf": {
-      "score": 8,
-      "review": "只有媒体宣称，无论文无代码无评测报告，性价比榜是谁排的？",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:54.054835Z"
-    },
     "story_804890f5e6d9|pragmatic|0a5c5b24": {
       "score": 92,
       "review": "新模型已上线，Agent任务今天就能升级调用，先测兼容性再切流量。",
@@ -6150,6 +6114,12 @@
       "review": "AI辅助移植案例，思路可参考，但没有能直接复用的工具。",
       "title_hash": "dc39e3a1",
       "scored_at": "2026-09-03T10:21:25.377672Z"
+    },
+    "story_76c94f0602dc|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "记忆模块可自托管，今天就能给 agent 接上私有上下文。",
+      "title_hash": "fde2d873",
+      "scored_at": "2026-09-03T11:54:54.556580Z"
     }
   }
 }

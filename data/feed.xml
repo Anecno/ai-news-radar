@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 03 Sep 2026 09:50:56 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 11:21:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告</title>
@@ -64,20 +64,20 @@
 <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
+<title>给你的 Coding Agents 添上你说了算的记忆 / Give Your Coding Agents a Memory You Own</title>
+<link>https://huggingface.co/blog/funes</link>
+<guid isPermaLink="true">https://huggingface.co/blog/funes</guid>
+<description>记忆模块可自托管，今天就能给 agent 接上私有上下文。（Hugging Face Blog）</description>
+<category>官方更新</category>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
 <title>为政府与企业打造主动式网络防御 / Proactive cyber defense for governments and enterprises</title>
 <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program</guid>
 <description>官方安全项目宣发，无具体工具或API，暂时不用行动。（Google AI Blog）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 15:40:00 +0000</pubDate>
-</item>
-<item>
-<title>在 Confluent 上使用 IBM 时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent</title>
-<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
-<description>特定平台集成教程，做 Kafka 流式预测的能抄作业，其余人不用动。（Hugging Face Blog）</description>
-<category>官方更新</category>
-<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
 </item>
 <item>
 <title>企业托管设置支持任意默认模型 / Enterprise-managed settings support any default model</title>
@@ -120,6 +120,14 @@
 <pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
 </item>
 <item>
+<title>在 Confluent 上使用 IBM 时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent</title>
+<link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/real-time-intelligence</guid>
+<description>特定平台集成教程，做 Kafka 流式预测的能抄作业，其余人不用动。（Hugging Face Blog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 02 Sep 2026 13:49:14 +0000</pubDate>
+</item>
+<item>
 <title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
 <link>https://x.com/claudeai/status/2095226833293685100</link>
 <guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
@@ -158,14 +166,6 @@
 <description>法律纠纷离代码远，等判决影响商业模式再关心。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
-</item>
-<item>
-<title>AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D</title>
-<link>https://www.aibase.com/news/30806</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30806</guid>
-<description>AI辅助移植案例，思路可参考，但没有能直接复用的工具。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Thu, 03 Sep 2026 09:50:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
