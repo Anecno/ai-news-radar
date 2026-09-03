@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 02 Sep 2026 23:20:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 03 Sep 2026 01:07:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>内容排除功能现已全面登陆 Copilot 应用及 CLI / Content exclusions generally available in Copilot app and CLI</title>
@@ -16,10 +16,10 @@
 <pubDate>Wed, 02 Sep 2026 18:14:23 +0000</pubDate>
 </item>
 <item>
-<title>Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
+<title>解读新的AI行话：Loops、harnesses、squads、hill climbing……我的天！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!</title>
 <link>https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my</guid>
-<description>科普文章，扫一眼术语即可，没有新工具或改动，不用行动。（GitHub AI &amp; ML）</description>
+<description>术语扫盲贴，帮助理解圈内黑话，但无上手价值，快速过一遍即可。（GitHub AI &amp; ML）</description>
 <category>官方更新</category>
 <pubDate>Wed, 02 Sep 2026 21:00:00 +0000</pubDate>
 </item>
@@ -80,12 +80,28 @@
 <pubDate>Wed, 02 Sep 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
+<title>美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用</title>
+<link>https://www.ithome.com/0/997/732.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/0/997/732.htm</guid>
+<description>法律风向影响未来合规成本，但今天写代码不用改。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 02 Sep 2026 23:50:05 +0000</pubDate>
+</item>
+<item>
 <title>Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…</title>
 <link>https://x.com/kimmonismus/status/2095265444999410146</link>
 <guid isPermaLink="true">https://x.com/kimmonismus/status/2095265444999410146</guid>
 <description>分数接近但没超，暂不影响选型；真要换等正式发布或 API 再说。（X：Kim (@kimmonismus)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 21:39:44 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 3.8 Flash发布 六周三连更但干活不灵光</title>
+<link>https://www.aibase.com/news/30789</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30789</guid>
+<description>更新频繁但干活不行就别折腾，等评测实锤再考虑迁移。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 01:07:12 +0000</pubDate>
 </item>
 <item>
 <title>美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用 / The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…</title>
@@ -120,20 +136,20 @@
 <pubDate>Wed, 02 Sep 2026 14:35:03 +0000</pubDate>
 </item>
 <item>
-<title>Plaud与腾讯WorkBuddy达成生态合作:无缝接入工作流，让对话即为生产力</title>
-<link>https://www.aibase.com/news/30783</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30783</guid>
-<description>生态合作还没落地，等具体接口和场景再动手。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 18:20:29 +0000</pubDate>
-</item>
-<item>
 <title>Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…</title>
 <link>https://x.com/claudeai/status/2095226833293685100</link>
 <guid isPermaLink="true">https://x.com/claudeai/status/2095226833293685100</guid>
 <description>后台操作电脑能挂自动化任务，但先确认权限边界和安全限制。（X：Claude (@claudeai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 19:06:19 +0000</pubDate>
+</item>
+<item>
+<title>Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol</title>
+<link>https://www.aibase.com/news/30786</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30786</guid>
+<description>新模型发布但没提API开放，先看能否试用再决定是否切换。（AIbase）</description>
+<category>行业动态</category>
+<pubDate>Thu, 03 Sep 2026 01:07:12 +0000</pubDate>
 </item>
 <item>
 <title>什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环 / What is harness engineering and why should I care？</title>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 02 Sep 2026 15:28:05 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1，作者实测分享使用建议 / it's a very good model， I spent a lot of time diving into it- longer write up coming but try it on…</title>
-<link>https://x.com/trq212/status/2094945951865520458</link>
-<guid isPermaLink="true">https://x.com/trq212/status/2094945951865520458</guid>
-<description>新模型测评参考有价值，但未提API和价格，先观望再动手。（X：Thariq (@trq212)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 00:30:11 +0000</pubDate>
-</item>
-<item>
 <title>Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行 / Run cloud agents on machines you manage</title>
 <link>https://cursor.com/blog/self-hosted-machines</link>
 <guid isPermaLink="true">https://cursor.com/blog/self-hosted-machines</guid>
 <description>自托管让 agent 跑在自己机器上，规避数据外泄，合规需求高的团队可试。（Cursor Blog）</description>
 <category>行业动态</category>
 <pubDate>Wed, 02 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起</title>
-<link>https://www.aibase.com/news/30785</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30785</guid>
-<description>对开发没用，个人订阅渠道拓宽而已，买套餐还是官网方便。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Wed, 02 Sep 2026 18:20:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
