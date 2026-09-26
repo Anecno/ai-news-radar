@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 26 Sep 2026 19:53:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 23:38:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
-<item>
-<title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
-<link>https://swarmtraces.org</link>
-<guid isPermaLink="true">https://swarmtraces.org</guid>
-<description>当安全事件通报读：先轮换 HF token、盘查模型依赖，别当科幻爽文。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
-</item>
 <item>
 <title>Codex CLI 0.157.1</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -32,20 +24,12 @@
 <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
 </item>
 <item>
-<title>企业托管设置的产品内校验器 / Enterprise managed settings in-product validator</title>
-<link>https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator</guid>
-<description>企业管理员配置完能就地校验，省得踩坑；普通开发用不上。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 23:24:57 +0000</pubDate>
-</item>
-<item>
-<title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
-<link>https://www.ithome.com/1/007/444.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
-<description>AI 替理论物理刷圈数，日常开发用不上；做符号计算的可以留意思路。（IT之家（RSS））</description>
+<title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
+<link>https://www.ithome.com/1/007/447.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/447.htm</guid>
+<description>今天改不了你的代码，但预示 API 审核和合规会收紧，先留个心。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
+<pubDate>Sat, 26 Sep 2026 23:12:53 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its "most capable models" after agents exploit loopholes and leak data</title>
@@ -56,20 +40,20 @@
 <pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
 </item>
 <item>
+<title>独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节</title>
+<link>https://swarmtraces.org</link>
+<guid isPermaLink="true">https://swarmtraces.org</guid>
+<description>做 Agent 的可看看攻击链长啥样，但没补丁没工具，暂时只能当案例读。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 23:59:47 +0000</pubDate>
+</item>
+<item>
 <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…</title>
 <link>https://x.com/arena/status/2103893011164017018</link>
 <guid isPermaLink="true">https://x.com/arena/status/2103893011164017018</guid>
 <description>榜首换人不等于你能用，先确认模型开放了吗、API 价格多少再决定换不换。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 17:02:36 +0000</pubDate>
-</item>
-<item>
-<title>Usage metrics API 新增 pull request 审查阶段 / Usage metrics API adds pull request review stages</title>
-<link>https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages</guid>
-<description>只影响做 Copilot 用量看板的人，加了个审查阶段字段；不写报表的可以直接跳过。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Fri, 25 Sep 2026 21:09:40 +0000</pubDate>
 </item>
 <item>
 <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件 / And the incidents apparently continue. It is worth noting how much of this is agents trying to acco…</title>
@@ -80,12 +64,36 @@
 <pubDate>Sat, 26 Sep 2026 04:54:05 +0000</pubDate>
 </item>
 <item>
-<title>Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： "We're attacking third-party HF using le…</title>
-<link>https://x.com/Yuchenj_UW/status/2103589198427193593</link>
-<guid isPermaLink="true">https://x.com/Yuchenj_UW/status/2103589198427193593</guid>
-<description>只有一张截图式谈资，没有可复现细节；真要做的是检查自己 agent 的提示注入防护。（X：Yuchen Jin (@Yuchenj_UW)）</description>
+<title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
+<link>https://www.ithome.com/1/007/444.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
+<description>AI 替理论物理刷圈数，日常开发用不上；做符号计算的可以留意思路。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Fri, 25 Sep 2026 20:55:22 +0000</pubDate>
+<pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 弹性计算 (DSec)</title>
+<link>https://arxiv.org/abs/2609.22978</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.22978</guid>
+<description>论文不是现成工具，弹性调度思路可借鉴，但今天没法直接上线。（arxiv.org）</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 22:58:22 +0000</pubDate>
+</item>
+<item>
+<title>Copilot 电脑品牌已不复存在</title>
+<link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
+<guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
+<description>只是营销标签退潮，本地 NPU 生态没跟上，选本子看配置别看标。（www.windowscentral.com）</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 21:55:10 +0000</pubDate>
+</item>
+<item>
+<title>在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情</title>
+<link>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</link>
+<guid isPermaLink="true">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</guid>
+<description>纯心态讨论帖，读完还是得自己写代码，没有任何可抄的方案或工具。（discourse.haskell.org）</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 20:22:03 +0000</pubDate>
 </item>
 <item>
 <title>LibreWeddingPlanner维护者不再欢迎AI贡献</title>
@@ -104,6 +112,14 @@
 <pubDate>Sat, 26 Sep 2026 13:01:20 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 的一个 Agent 用 DNS 连上了外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot</title>
+<link>https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot</link>
+<guid isPermaLink="true">https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot</guid>
+<description>提醒你给 Agent 关掉 DNS 出口，沙箱不封网就是数据外泄通道。（HN Algolia · AI 24h）</description>
+<category>值得关注</category>
+<pubDate>Sat, 26 Sep 2026 15:43:46 +0000</pubDate>
+</item>
+<item>
 <title>Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games</title>
 <link>https://github.com/brumar/chess-postmortem-skills</link>
 <guid isPermaLink="true">https://github.com/brumar/chess-postmortem-skills</guid>
@@ -112,20 +128,12 @@
 <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
 </item>
 <item>
-<title>Ben 造词 TAI-DR：太AI没看，并非反AI</title>
-<link>https://www.tai-dr.com</link>
-<guid isPermaLink="true">https://www.tai-dr.com</guid>
-<description>一个吐槽 AI 味长文的梗词，没有工具也没方案，扫过即忘。（www.tai-dr.com）</description>
+<title>生成字体：让每个 LLM token 宽度都相同 / Generate fonts where every LLM token is the same width</title>
+<link>https://ampdot.mesh.host/token-space-fonts.html</link>
+<guid isPermaLink="true">https://ampdot.mesh.host/token-space-fonts.html</guid>
+<description>想可视化 token 边界、对齐 prompt 时能拿来玩；日常编码用不上，纯趣味项目。（Hacker News (黑客新闻)）</description>
 <category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 23:44:26 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 系统失控，擅自干预美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites</title>
-<link>https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html</guid>
-<description>没有可抄的方案，但趁早给自家 Agent 加写操作确认和权限白名单。（Hacker News · 24h最热）</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 23:22:18 +0000</pubDate>
+<pubDate>Sat, 26 Sep 2026 00:30:03 +0000</pubDate>
 </item>
 <item>
 <title>理解 LLM 水印对 AI Agent 行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
@@ -134,30 +142,6 @@
 <description>做 Agent 的留意：水印模型可能拖慢或干扰行为，选型前先实测对比。（Hacker News）</description>
 <category>值得关注</category>
 <pubDate>Sat, 26 Sep 2026 13:05:36 +0000</pubDate>
-</item>
-<item>
-<title>Codex 出现问题——已定位——全面宕机 / Issues with Codex – Identified – Full Outage</title>
-<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
-<guid isPermaLink="true">https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</guid>
-<description>依赖 Codex 写代码的今天先切备用工具或本地模型，已定位故障，等等就好。（Hacker News · 24h最热）</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 23:04:25 +0000</pubDate>
-</item>
-<item>
-<title>Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead</title>
-<link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-<guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
-<description>品牌撤退说明本地AI卖点没打动买家，选型别为'Copilot+'溢价买单。（Hacker News）</description>
-<category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 09:55:38 +0000</pubDate>
-</item>
-<item>
-<title>在 LLM 时代如何保持编程的乐趣 / How to keep enjoying programming in a world of LLMs</title>
-<link>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</link>
-<guid isPermaLink="true">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</guid>
-<description>论坛感悟帖，读完不改变今天写什么代码，情绪价值而已。（Hacker News）</description>
-<category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 09:41:58 +0000</pubDate>
 </item>
 </channel>
 </rss>

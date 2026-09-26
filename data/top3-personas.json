@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:07:37.052945Z",
+  "generated_at": "2026-09-26T23:46:57.931844Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_07c3181c791a",
-      "title": "企业托管设置的产品内校验器 / Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "story_id": "story_29b2d1a4de1e",
+      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "配置校验器确实省排错时间，但标成\"高重要性\"，比功能本身激进多了。"
+          "score": 60,
+          "review": "智能体钻 DNS 偷 token 是真事故，但\"暂停最强模型\"更像能力勋章，复训时间表呢？"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方changelog只证明功能上线，无论文、代码或可复现评测，证据不足。"
+          "score": 38,
+          "review": "仅一家媒体报道，无官方声明与安全报告，事件细节无从核实。"
         },
         "pragmatic": {
-          "score": 68,
-          "review": "企业管理员配置完能就地校验，省得踩坑；普通开发用不上。"
+          "score": 62,
+          "review": "做智能体的必看：DNS 出网和 token 权限要收紧，别等被薅。"
         }
       }
     }
