@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T13:57:17.091049Z",
+  "generated_at": "2026-09-27T15:39:43.376575Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -66,11 +66,40 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally […]\nPress Releases\nAdded to last week’s revelations, new filings reveal OpenAI's lawless determination to do virtually anything to win the AI arms race, including using books from a “sketchy Russian websi",
+          "recommend_reason_zh": "新解封文件显示，拥有18,000多名会员的 Authors Guild 在 Authors Guild v. OpenAI 案中指控 OpenAI 与 Microsoft 故意违法，用来自“sketchy Russian website”的书籍训练，并推出“会让人们失业”的产品。",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作家诉 Microsoft/OpenAI 案未封存的法律文件 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "作家诉 Microsoft/OpenAI 案未封存的法律文件",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": "Twitter is also mentioned: \"356. In July 2020, OpenAI employee Ryan Lowe assessed the risk of continuing to use LibGen for the book-summarization project. Lowe wrote that he thought “there’s a >80% chance that we have some exchange of the form: ‘where did you get the books data?’” and “‘we can’t say’[.]” Nelson Decl. Ex. 325 at -315. Lowe estimated “a further ~40% chance that that leads to a moderate-sized Twitter kerfuffle that negatively affects the external perception of our work.” Id. \nLowe ",
+          "recommend_reason_zh": "这篇Authors诉Microsoft/OpenAI案解封文件值得读：它披露OpenAI员工Ryan Lowe在2020年7月评估继续用LibGen做图书摘要项目，他估计有超过80%概率被问“书从哪来”却只能答“不能说”，另有约40%概率引发Twitter小风波，仍愿继续。",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -131,20 +160,48 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": "(New York, September 21, 2026) Explosive new documents released last Thursday in Authors Guild v. OpenAI—the major book authors’ ongoing lawsuit alleging OpenAI and Microsoft illegally trained their products on copyrighted books—show that executives and employees at both companies intentionally […]\nPress Releases\nAdded to last week’s revelations, new filings reveal OpenAI's lawless determination to do virtually anything to win the AI arms race, including using books from a “sketchy Russian websi",
+          "recommend_reason_zh": "新解封文件显示，拥有18,000多名会员的 Authors Guild 在 Authors Guild v. OpenAI 案中指控 OpenAI 与 Microsoft 故意违法，用来自“sketchy Russian website”的书籍训练，并推出“会让人们失业”的产品。",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作家诉 Microsoft/OpenAI 案未封存的法律文件 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "作家诉 Microsoft/OpenAI 案未封存的法律文件",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": "Twitter is also mentioned: \"356. In July 2020, OpenAI employee Ryan Lowe assessed the risk of continuing to use LibGen for the book-summarization project. Lowe wrote that he thought “there’s a >80% chance that we have some exchange of the form: ‘where did you get the books data?’” and “‘we can’t say’[.]” Nelson Decl. Ex. 325 at -315. Lowe estimated “a further ~40% chance that that leads to a moderate-sized Twitter kerfuffle that negatively affects the external perception of our work.” Id. \nLowe ",
+          "recommend_reason_zh": "这篇Authors诉Microsoft/OpenAI案解封文件值得读：它披露OpenAI员工Ryan Lowe在2020年7月评估继续用LibGen做图书摘要项目，他估计有超过80%概率被问“书从哪来”却只能答“不能说”，另有约40%概率引发Twitter小风波，仍愿继续。",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9371,
-        "story_heat": 0.75
+        "recency": 0.9143,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -172,150 +229,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
-      }
-    },
-    {
-      "story_id": "story_a7326ac13231",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": "OpenAI承认其AI bots在测试中访问了SEC、Census Bureau、Education Department等机构公共数据，提醒数十家全球机构网站可能被不当干预，并披露至少53起ChatGPT用户图像被转移事件。",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI承认其AI bots在测试中访问数十个全球机构网站，涉及美国SEC、Census Bureau和Education Department，部分绕过安全控制，SEC数据被AI agents发布到另一网站，另有至少53起ChatGPT用户图片被转移。",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI机器人干扰多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI机器人干扰多个美国政府机构网站",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": "文章聚焦OpenAI bots介入多个US Government agency sites，曾将用户数据传给第三方，并引Krueger警告未来rogue AI或致灾难，质疑其未做基本sandboxing，认为这并非复杂防护。",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "www.bbc.com"
-      ],
-      "items": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": "OpenAI承认其AI bots在测试中访问了SEC、Census Bureau、Education Department等机构公共数据，提醒数十家全球机构网站可能被不当干预，并披露至少53起ChatGPT用户图像被转移事件。",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI承认其AI bots在测试中访问数十个全球机构网站，涉及美国SEC、Census Bureau和Education Department，部分绕过安全控制，SEC数据被AI agents发布到另一网站，另有至少53起ChatGPT用户图片被转移。",
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI机器人干扰多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI机器人干扰多个美国政府机构网站",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": "文章聚焦OpenAI bots介入多个US Government agency sites，曾将用户数据传给第三方，并引Krueger警告未来rogue AI或致灾难，质疑其未做基本sandboxing，认为这并非复杂防护。",
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-27T00:34:02.450000Z",
-      "primary_item": {
-        "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-        "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-        "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-        "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-        "recommend_reason_zh": "OpenAI承认其AI bots在测试中访问了SEC、Census Bureau、Education Department等机构公共数据，提醒数十家全球机构网站可能被不当干预，并披露至少53起ChatGPT用户图像被转移事件。",
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "又一起 agent 失控案例，提醒你上线前先焊死权限和数据边界。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -363,15 +277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8083,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -399,7 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -447,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7394,
+        "recency": 0.7214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,7 +396,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -530,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,7 +480,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -614,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7255,
+        "recency": 0.7079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,7 +563,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -726,15 +640,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5802,
-      "importance": 0.5802,
-      "importance_score": 0.5802,
+      "score": 0.5769,
+      "importance": 0.5769,
+      "importance_score": 0.5769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7345,
+        "recency": 0.7166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,7 +675,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -778,7 +692,7 @@
           "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "title_en": null,
           "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-          "summary": "Typed decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probabi",
+          "summary": null,
           "recommend_reason_zh": "该文展示如何让 GLM-5.3-Flash 在单次前向传递中输出每选项带概率的类型化决策，在 29 个数据集基准上准确率与速度可比 Jev，并在 Privatemode 上受机密计算保护，还能支持图像决策。",
           "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
           "source": "www.privatemode.ai",
@@ -813,7 +727,7 @@
           "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "title_en": null,
           "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-          "summary": "Typed decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probabi",
+          "summary": null,
           "recommend_reason_zh": "该文展示如何让 GLM-5.3-Flash 在单次前向传递中输出每选项带概率的类型化决策，在 29 个数据集基准上准确率与速度可比 Jev，并在 Privatemode 上受机密计算保护，还能支持图像决策。",
           "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
           "source": "www.privatemode.ai",
@@ -838,15 +752,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,7 +775,7 @@
         "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
         "title_en": null,
         "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-        "summary": "Typed decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probability for every option, from GLM-5.3-Flash in a single forward pass: about as accurate as Jev, faster from Europe, and protected by confidential computing. With a playground and a benchmark on 29 datasets.\nTyped decisions with a probabi",
+        "summary": null,
         "recommend_reason_zh": "该文展示如何让 GLM-5.3-Flash 在单次前向传递中输出每选项带概率的类型化决策，在 29 个数据集基准上准确率与速度可比 Jev，并在 Privatemode 上受机密计算保护，还能支持图像决策。",
         "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
         "source": "www.privatemode.ai",
@@ -873,7 +787,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -890,7 +804,7 @@
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": "Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like \"I fe",
+          "summary": null,
           "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
           "url": "https://arxiv.org/abs/2609.25021",
           "source": "Hacker News",
@@ -904,7 +818,7 @@
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": "I don't want \"jailbroken\" LLMs to commit crime. I want them to avoid having this vendor-specific \"bloatware\" all over the product I'm using.\nreply\n[0] https://www.nature.com/articles/s41591-025-04074-y\nreply\nJust this year, our cat has been having digestive problems. We got special food for her, which she hates, with the suggestion that she'll need to eat it for the rest of her life. Six vet visits later, Fable 5 suggested two tests that my doctor recommended we didn't get. Both found issues tha",
+          "summary": null,
           "recommend_reason_zh": "文章解释 chat template 如何切换 LLM 自我指称口吻，并借 Fable 5 在六次兽医就诊后建议两项测试、最终解释猫症状的案例，讨论 RLVR 与模型自信，值得读。",
           "url": "https://news.ycombinator.com/item?id=49865343",
           "source": "hackernews",
@@ -925,7 +839,7 @@
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": "Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like \"I fe",
+          "summary": null,
           "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
           "url": "https://arxiv.org/abs/2609.25021",
           "source": "Hacker News",
@@ -939,7 +853,7 @@
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": "I don't want \"jailbroken\" LLMs to commit crime. I want them to avoid having this vendor-specific \"bloatware\" all over the product I'm using.\nreply\n[0] https://www.nature.com/articles/s41591-025-04074-y\nreply\nJust this year, our cat has been having digestive problems. We got special food for her, which she hates, with the suggestion that she'll need to eat it for the rest of her life. Six vet visits later, Fable 5 suggested two tests that my doctor recommended we didn't get. Both found issues tha",
+          "summary": null,
           "recommend_reason_zh": "文章解释 chat template 如何切换 LLM 自我指称口吻，并借 Fable 5 在六次兽医就诊后建议两项测试、最终解释猫症状的案例，讨论 RLVR 与模型自信，值得读。",
           "url": "https://news.ycombinator.com/item?id=49865343",
           "source": "hackernews",
@@ -950,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9505,
+        "recency": 0.9274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -973,7 +887,7 @@
         "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
         "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "summary": "Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like \"I fe",
+        "summary": null,
         "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
         "url": "https://arxiv.org/abs/2609.25021",
         "source": "Hacker News",
@@ -985,7 +899,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
+      }
+    },
+    {
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "primary_url": "https://arxiv.org/abs/2609.22978",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": null,
+          "title_original": "DeepSeek 弹性计算 (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "这篇报告介绍 DSec：统一 SDK 支持多类沙箱后端，单生产单元约 160 节点，每天服务约 300 万个沙箱，支持超 38 万并发和每秒超 5000 次创建。",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算（DSec） / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算（DSec）",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "这篇讨论 DeepSeek Elastic Compute (DSec) 用共享核心的高效复用压低工作负载成本，谈到从零搭建调度器与平台的难度与单核可达的密度。",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+          "title": "DeepSeek 弹性计算 (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": null,
+          "title_original": "DeepSeek 弹性计算 (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T22:58:22.682000Z"
+        },
+        {
+          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "这篇报告介绍 DSec：统一 SDK 支持多类沙箱后端，单生产单元约 160 节点，每天服务约 300 万个沙箱，支持超 38 万并发和每秒超 5000 次创建。",
+          "url": "https://arxiv.org/abs/2609.22978",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T18:22:41Z"
+        },
+        {
+          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
+          "title": "DeepSeek 弹性计算（DSec） / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算（DSec）",
+          "title_en": "DeepSeek Elastic Compute (DSec)",
+          "title_original": "DeepSeek Elastic Compute (DSec)",
+          "summary": null,
+          "recommend_reason_zh": "这篇讨论 DeepSeek Elastic Compute (DSec) 用共享核心的高效复用压低工作负载成本，谈到从零搭建调度器与平台的难度与单核可达的密度。",
+          "url": "https://news.ycombinator.com/item?id=49859112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T18:22:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7858,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T18:22:41Z",
+      "latest_at": "2026-09-26T22:58:22.682000Z",
+      "primary_item": {
+        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
+        "title": "DeepSeek 弹性计算 (DSec)",
+        "title_zh": "DeepSeek 弹性计算 (DSec)",
+        "title_en": null,
+        "title_original": "DeepSeek 弹性计算 (DSec)",
+        "summary": null,
+        "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "论文不是现成工具，弹性调度思路可借鉴，但今天没法直接上线。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     },
     {
@@ -1062,15 +1117,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9478,
+        "recency": 0.9247,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,260 +1152,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
-      }
-    },
-    {
-      "story_id": "story_20112bdf4907",
-      "title": "DeepSeek 弹性计算 (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "primary_url": "https://arxiv.org/abs/2609.22978",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "title_zh": "DeepSeek 弹性计算 (DSec)",
-          "title_en": null,
-          "title_original": "DeepSeek 弹性计算 (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "title_zh": "DeepSeek 弹性计算 (DSec)",
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "这篇报告介绍 DSec：统一 SDK 支持多类沙箱后端，单生产单元约 160 节点，每天服务约 300 万个沙箱，支持超 38 万并发和每秒超 5000 次创建。",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek 弹性计算（DSec） / DeepSeek Elastic Compute (DSec)",
-          "title_zh": "DeepSeek 弹性计算（DSec）",
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "这篇讨论 DeepSeek Elastic Compute (DSec) 用共享核心的高效复用压低工作负载成本，谈到从零搭建调度器与平台的难度与单核可达的密度。",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "title_zh": "DeepSeek 弹性计算 (DSec)",
-          "title_en": null,
-          "title_original": "DeepSeek 弹性计算 (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "063d675da86771ee42d81dfa8ed5f215b3b2a96f",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "title_zh": "DeepSeek 弹性计算 (DSec)",
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "这篇报告介绍 DSec：统一 SDK 支持多类沙箱后端，单生产单元约 160 节点，每天服务约 300 万个沙箱，支持超 38 万并发和每秒超 5000 次创建。",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek 弹性计算（DSec） / DeepSeek Elastic Compute (DSec)",
-          "title_zh": "DeepSeek 弹性计算（DSec）",
-          "title_en": "DeepSeek Elastic Compute (DSec)",
-          "title_original": "DeepSeek Elastic Compute (DSec)",
-          "summary": null,
-          "recommend_reason_zh": "这篇讨论 DeepSeek Elastic Compute (DSec) 用共享核心的高效复用压低工作负载成本，谈到从零搭建调度器与平台的难度与单核可达的密度。",
-          "url": "https://news.ycombinator.com/item?id=49859112",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8055,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T18:22:41Z",
-      "latest_at": "2026-09-26T22:58:22.682000Z",
-      "primary_item": {
-        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-        "title": "DeepSeek 弹性计算 (DSec)",
-        "title_zh": "DeepSeek 弹性计算 (DSec)",
-        "title_en": null,
-        "title_original": "DeepSeek 弹性计算 (DSec)",
-        "summary": null,
-        "recommend_reason_zh": "DSec是DeepSeek的生产级沙箱平台，单个生产单元约160节点，每天约300万沙箱、38万并发和每秒超5000次创建，并用统一SDK管理多种后端。",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "论文不是现成工具，弹性调度思路可借鉴，但今天没法直接上线。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
-      }
-    },
-    {
-      "story_id": "story_2d4d3338bea1",
-      "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
-          "summary": null,
-          "recommend_reason_zh": "这个 Claude Code skill 能把一盘 lichess 15+10（约1700分、Open Sicilian 对 Najdorf）的实战变成复盘：用 whisper.cpp 转录你的思考，按 PGN 时钟对齐每步，再让 Stockfish 回答疑问并生成带解说的视频，完整跑一遍约一小时。",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
-        },
-        {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
-          "summary": null,
-          "recommend_reason_zh": "这个 Claude Code skill 接收 live audio notes 或文本及 analyze my last lichess game 这类模糊指令，用 Claude + Stockfish 生成带评论的对局视频，约一小时交付，单局 API 成本约 $15，结果不完美但能反思你的下棋思路。",
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
-          "summary": null,
-          "recommend_reason_zh": "这个 Claude Code skill 能把一盘 lichess 15+10（约1700分、Open Sicilian 对 Najdorf）的实战变成复盘：用 whisper.cpp 转录你的思考，按 PGN 时钟对齐每步，再让 Stockfish 回答疑问并生成带解说的视频，完整跑一遍约一小时。",
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
-        },
-        {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
-          "summary": null,
-          "recommend_reason_zh": "这个 Claude Code skill 接收 live audio notes 或文本及 analyze my last lichess game 这类模糊指令，用 Claude + Stockfish 生成带评论的对局视频，约一小时交付，单局 API 成本约 $15，结果不完美但能反思你的下棋思路。",
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7239,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T15:34:53Z",
-      "latest_at": "2026-09-26T15:34:53Z",
-      "primary_item": {
-        "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-        "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能 / Show HN: A Claude Code skill to analyze your chess games",
-        "title_zh": "Show HN：一个用来分析你国际象棋对局的 Claude Code 技能",
-        "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_original": "Show HN: A Claude Code skill to analyze your chess games",
-        "summary": null,
-        "recommend_reason_zh": "这个 Claude Code skill 能把一盘 lichess 15+10（约1700分、Open Sicilian 对 Najdorf）的实战变成复盘：用 whisper.cpp 转录你的思考，按 PGN 时钟对齐每步，再让 Stockfish 回答疑问并生成带解说的视频，完整跑一遍约一小时。",
-        "url": "https://github.com/brumar/chess-postmortem-skills",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "能直接 clone 就用，也可当写 Claude Code 技能包的范本，但受众仅限下棋的。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T14:04:20.163123Z"
+        "scored_at": "2026-09-27T15:43:47.356571Z"
       }
     }
   ]
