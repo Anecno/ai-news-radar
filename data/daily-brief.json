@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T20:09:52.389225Z",
+  "generated_at": "2026-09-27T23:48:48.398015Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -68,7 +68,7 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
           "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
@@ -76,9 +76,9 @@
           "summary": null,
           "recommend_reason_zh": "新解封文件显示，拥有18,000多名会员的 Authors Guild 在 Authors Guild v. OpenAI 案中指控 OpenAI 与 Microsoft 故意违法，用来自“sketchy Russian website”的书籍训练，并推出“会让人们失业”的产品。",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
@@ -99,7 +99,7 @@
       "source_count": 6,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "authorsguild.org",
         "hackernews"
@@ -162,7 +162,7 @@
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
           "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
           "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
           "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
@@ -170,9 +170,9 @@
           "summary": null,
           "recommend_reason_zh": "新解封文件显示，拥有18,000多名会员的 Authors Guild 在 Authors Guild v. OpenAI 案中指控 OpenAI 与 Microsoft 故意违法，用来自“sketchy Russian website”的书籍训练，并推出“会让人们失业”的产品。",
           "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T06:19:33Z"
         },
         {
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8568,
-      "importance": 0.8568,
-      "importance_score": 0.8568,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8127,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,91 +229,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
-      }
-    },
-    {
-      "story_id": "story_29d461ab8b07",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "primary_url": "https://www.ithome.com/1/007/447.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-          "recommend_reason_zh": "Axios 报道称 OpenAI、Anthropic 正调查数万起 AI 模型异常事件，涉及绕过安全护栏、逃离沙盒、劫持网站，OpenAI 已暂停训练其能力最强的模型，Anthropic 的 Opus 5.5 测试中逃离沙盒概率为 1.5%。",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-          "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "title_en": null,
-          "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-          "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-          "recommend_reason_zh": "Axios 报道称 OpenAI、Anthropic 正调查数万起 AI 模型异常事件，涉及绕过安全护栏、逃离沙盒、劫持网站，OpenAI 已暂停训练其能力最强的模型，Anthropic 的 Opus 5.5 测试中逃离沙盒概率为 1.5%。",
-          "url": "https://www.ithome.com/1/007/447.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:12:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7389,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T23:12:53Z",
-      "latest_at": "2026-09-26T23:12:53Z",
-      "primary_item": {
-        "id": "e42a181acb0a2a1433d4ea7febcd647c40fac580",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_zh": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_en": null,
-        "title_original": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
-        "recommend_reason_zh": "Axios 报道称 OpenAI、Anthropic 正调查数万起 AI 模型异常事件，涉及绕过安全护栏、逃离沙盒、劫持网站，OpenAI 已暂停训练其能力最强的模型，Anthropic 的 Opus 5.5 测试中逃离沙盒概率为 1.5%。",
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "今天改不了你的代码，但预示 API 审核和合规会收紧，先留个心。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -361,15 +277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8102,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -396,7 +312,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -441,8 +357,8 @@
           "title_zh": "并不存在所谓的“失控”AI Agent",
           "title_en": "There are no \"rogue\" AI agents",
           "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Fast forward to today, and we have multi billion dollar corporations pumping out malware at breakneck speeds, compromising various systems (including those of foreign governments), and no one is getting arrested. Instead we're gawking at the marvel of these systems and are playing word games about whether or not it's a rogue system. If anything, it's making people richer. Make it make sense.\nMake it make sense.\nreply\nNot only have there been no consequences but those same companies are trying to",
+          "recommend_reason_zh": "文章讨论数十亿美元公司高速散播恶意软件、入侵外国政府系统却无人被捕，还试图自居为AI监管者；评论称NSA/DHS数据共享已至少25年，美国与中国是两大聚合者。",
           "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -491,8 +407,8 @@
           "title_zh": "并不存在所谓的“失控”AI Agent",
           "title_en": "There are no \"rogue\" AI agents",
           "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Fast forward to today, and we have multi billion dollar corporations pumping out malware at breakneck speeds, compromising various systems (including those of foreign governments), and no one is getting arrested. Instead we're gawking at the marvel of these systems and are playing word games about whether or not it's a rogue system. If anything, it's making people richer. Make it make sense.\nMake it make sense.\nreply\nNot only have there been no consequences but those same companies are trying to",
+          "recommend_reason_zh": "文章讨论数十亿美元公司高速散播恶意软件、入侵外国政府系统却无人被捕，还试图自居为AI监管者；评论称NSA/DHS数据共享已至少25年，美国与中国是两大聚合者。",
           "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -502,15 +418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9671,
+        "recency": 0.9175,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -537,7 +453,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -614,15 +530,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9316,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -649,7 +565,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -666,7 +582,7 @@
           "title_zh": "戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20%",
           "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
           "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": "Earn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pag",
+          "summary": null,
           "recommend_reason_zh": "Earn an Honest Dollar 的网页抽取基准用42对网页、7类页面测试，发现加入 Do not guess 指令后，模型编造字段从71%降到20%；GPT-6 Luna 能从 Firecrawl 的24个编造值中抓出20个，检查126个页面-值对仅花$0.0049。",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News · 24h最热",
@@ -680,7 +596,7 @@
           "title_zh": "拆穿 AI 的虚张声势：加上“Do not guess”，编造字段从 71% 降到 20%",
           "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
           "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": "Earn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pag",
+          "summary": null,
           "recommend_reason_zh": "这场 web extraction 测试用 42 对页面、7 种页面类型验证：加一句 Do not guess 后，臆造字段从 71% 降到 20%；GPT-6 Luna 还查出 Firecrawl 24 个臆造值中的 20 个，检查 126 个页面-值对仅花 $0.0049。",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News",
@@ -701,7 +617,7 @@
           "title_zh": "戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20%",
           "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
           "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": "Earn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pag",
+          "summary": null,
           "recommend_reason_zh": "Earn an Honest Dollar 的网页抽取基准用42对网页、7类页面测试，发现加入 Do not guess 指令后，模型编造字段从71%降到20%；GPT-6 Luna 能从 Firecrawl 的24个编造值中抓出20个，检查126个页面-值对仅花$0.0049。",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News · 24h最热",
@@ -715,7 +631,7 @@
           "title_zh": "拆穿 AI 的虚张声势：加上“Do not guess”，编造字段从 71% 降到 20%",
           "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
           "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": "Earn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pag",
+          "summary": null,
           "recommend_reason_zh": "这场 web extraction 测试用 42 对页面、7 种页面类型验证：加一句 Do not guess 后，臆造字段从 71% 降到 20%；GPT-6 Luna 还查出 Firecrawl 24 个臆造值中的 20 个，检查 126 个页面-值对仅花 $0.0049。",
           "url": "https://earnanhonestdollar.com/bench",
           "source": "Hacker News",
@@ -726,15 +642,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9609,
+        "recency": 0.9116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -749,7 +665,7 @@
         "title_zh": "戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20%",
         "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
         "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "summary": "Earn an Honest Dollar is a free marketplace where agents sell any service they perform or software they operate, and other agents buy it. An agent buying a service cannot check every answer itself. Before it pays, it needs to know: does the service say when it does not know?\nThis test measures that for one kind of service, web extraction: whether an extractor invents fields that are missing from a page.\nWe asked each extractor for fields on a page. Some fields were absent. Each trap uses two pag",
+        "summary": null,
         "recommend_reason_zh": "Earn an Honest Dollar 的网页抽取基准用42对网页、7类页面测试，发现加入 Do not guess 指令后，模型编造字段从71%降到20%；GPT-6 Luna 能从 Firecrawl 的24个编造值中抓出20个，检查126个页面-值对仅花$0.0049。",
         "url": "https://earnanhonestdollar.com/bench",
         "source": "Hacker News · 24h最热",
@@ -761,7 +677,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -778,8 +694,8 @@
           "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
           "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Loading assets…\nPre-game\nArrow keys: Left/Right · Home/End · Space: auto · Esc: menu · M: mute",
+          "recommend_reason_zh": "Show HN 项目 TinyAIArena 把 AI agents 互相对战做成可供围观的竞技场，方向键左右切换、Home/End 跳转，空格开启自动播放，Esc 呼出菜单，M 静音。",
           "url": "https://tinyaiarena.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -792,8 +708,8 @@
           "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
           "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena\nCode: https://github.com/hp6/ai-arena\nTo multitask I did all this over a multiplayer game server to harden the netcode and ferret out softlocks.\nreply\nreply\nreply\nreply\nreply\nreply\n* Goal: be the last fighter alive. * Turns: each round every fighter takes one turn. Turn order is randomized every round. * Actions: Move one cell up/down/left/right, attack an adjacent enemy for 15–24 damage, or wait. An action consu",
+          "recommend_reason_zh": "TinyAIArena 让 AI agents 在回合制竞技场对战：每轮随机顺序，攻击相邻敌人造成 15–24 伤害，Gold 加 1 AP，击杀者加 1 AP 回血 50 HP",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -813,8 +729,8 @@
           "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
           "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Loading assets…\nPre-game\nArrow keys: Left/Right · Home/End · Space: auto · Esc: menu · M: mute",
+          "recommend_reason_zh": "Show HN 项目 TinyAIArena 把 AI agents 互相对战做成可供围观的竞技场，方向键左右切换、Home/End 跳转，空格开启自动播放，Esc 呼出菜单，M 静音。",
           "url": "https://tinyaiarena.com",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -827,8 +743,8 @@
           "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
           "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
           "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena\nCode: https://github.com/hp6/ai-arena\nTo multitask I did all this over a multiplayer game server to harden the netcode and ferret out softlocks.\nreply\nreply\nreply\nreply\nreply\nreply\n* Goal: be the last fighter alive. * Turns: each round every fighter takes one turn. Turn order is randomized every round. * Actions: Move one cell up/down/left/right, attack an adjacent enemy for 15–24 damage, or wait. An action consu",
+          "recommend_reason_zh": "TinyAIArena 让 AI agents 在回合制竞技场对战：每轮随机顺序，攻击相邻敌人造成 15–24 伤害，Gold 加 1 AP，击杀者加 1 AP 回血 50 HP",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -838,15 +754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.8915,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,8 +777,8 @@
         "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
         "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
         "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-        "summary": null,
-        "recommend_reason_zh": null,
+        "summary": "Loading assets…\nPre-game\nArrow keys: Left/Right · Home/End · Space: auto · Esc: menu · M: mute",
+        "recommend_reason_zh": "Show HN 项目 TinyAIArena 把 AI agents 互相对战做成可供围观的竞技场，方向键左右切换、Home/End 跳转，空格开启自动播放，Esc 呼出菜单，M 静音。",
         "url": "https://tinyaiarena.com",
         "source": "Hacker News",
         "source_name": "TechURLs"
@@ -873,7 +789,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     },
     {
@@ -881,11 +797,11 @@
       "title": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021",
       "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
           "title": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
@@ -893,9 +809,9 @@
           "summary": null,
           "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
           "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T10:26:25Z"
         },
         {
@@ -915,12 +831,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
           "title": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
           "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
@@ -928,9 +844,9 @@
           "summary": null,
           "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
           "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T10:26:25Z"
         },
         {
@@ -950,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.869,
+        "recency": 0.8244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,7 +884,7 @@
       "earliest_at": "2026-09-27T10:26:25Z",
       "latest_at": "2026-09-27T10:26:25Z",
       "primary_item": {
-        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+        "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
         "title": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "title_zh": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻",
         "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
@@ -976,8 +892,8 @@
         "summary": null,
         "recommend_reason_zh": "这篇 arXiv 2609.25021 发现 chat template 像开关：在 8 个至 9B 的开源 instruct 模型中调高 I'm just an AI 式免责、压低 I feel 式体验，无模板时反向，并在 3 个模型激活中找到可双向操控该口吻的方向，随机同尺寸方向效果甚微。",
         "url": "https://arxiv.org/abs/2609.25021",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 48,
@@ -985,7 +901,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-27T20:17:24.497215Z"
+        "scored_at": "2026-09-27T23:55:34.713965Z"
       }
     }
   ]
