@@ -5688,6 +5688,30 @@
       "review": "arXiv 论文在，但无开源代码、无复现评测，且该编号需核实，先算半成品。",
       "title_hash": "c66be9eb",
       "scored_at": "2026-09-27T10:39:37.609682Z"
+    },
+    "story_34096525a703|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "蒸馏小模型做快速决策的思路可抄，但只是实验，没现成仓库，先收藏。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:04:22.033760Z"
+    },
+    "story_47a080855edb|pragmatic|0a5c5b24": {
+      "score": 48,
+      "review": "研究性发现，知道就行：换模板会改模型口吻，写 system prompt 时可参考，不必改代码。",
+      "title_hash": "6cbd1f48",
+      "scored_at": "2026-09-27T14:04:23.616516Z"
+    },
+    "story_34096525a703|cynic|f4237a62": {
+      "score": 48,
+      "review": "把快模型包装成'系统一'再起个 Jev 的名字，术语没定义、指标也没晒，先讲清楚这词啥意思。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:04:27.598106Z"
+    },
+    "story_34096525a703|paper-police|966065bf": {
+      "score": 32,
+      "review": "仅博客自述转换方法，无论文无开源代码，HN 讨论不等于复现。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:04:31.525842Z"
     }
   }
 }
