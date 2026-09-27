@@ -7,36 +7,6 @@
       "title_hash": "0cb21850",
       "scored_at": "2026-09-07T10:41:59.707964Z"
     },
-    "story_612a2e0c0069|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "对齐困境是长期问题，不影响今天写代码，关注后续具体方案。",
-      "title_hash": "237e4ea3",
-      "scored_at": "2026-09-06T17:19:43.146605Z"
-    },
-    "story_392c698c960b|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "情绪化评论，不写代码不交付，对选型没参考价值。",
-      "title_hash": "fa6dd0f9",
-      "scored_at": "2026-09-06T17:19:44.555659Z"
-    },
-    "story_51d2e18008f8|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "口号不写代码，等有具体行动再看。",
-      "title_hash": "592b94b0",
-      "scored_at": "2026-09-06T17:19:46.260179Z"
-    },
-    "story_53984a021b24|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "观点评论无实操，别指望看完能改代码。",
-      "title_hash": "6fbbe61b",
-      "scored_at": "2026-09-06T17:19:48.046678Z"
-    },
-    "story_f2dfaec2b3ca|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内部数字听听就好，等开放了再评估。",
-      "title_hash": "3e9de491",
-      "scored_at": "2026-09-06T19:23:34.151848Z"
-    },
     "story_2e625774c329|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "监控 Agent 跑偏的工程实践，做 Agent 治理的可以抄思路，不是直接能用的工具。",
@@ -5700,6 +5670,66 @@
       "review": "仅博客自述转换方法，无论文无开源代码，HN 讨论不等于复现。",
       "title_hash": "b9604c9f",
       "scored_at": "2026-09-27T14:04:31.525842Z"
+    },
+    "story_dc50d791f8d7|pragmatic|0a5c5b24": {
+      "score": 33,
+      "review": "观点文章，读完不改一行代码；agent 该加日志加日志，别指望它替你定架构。",
+      "title_hash": "9634da20",
+      "scored_at": "2026-09-27T20:17:25.836652Z"
+    },
+    "story_bd3437a26999|pragmatic|0a5c5b24": {
+      "score": 12,
+      "review": "SNL 段子，看个乐就完了，跟你的技术选型没有一毛钱关系。",
+      "title_hash": "efcdb010",
+      "scored_at": "2026-09-27T20:17:26.752685Z"
+    },
+    "story_2ab0f3547302|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "提示词里加一句‘别猜’就能降幻觉，做RAG的先试，别当万能药。",
+      "title_hash": "c0a41f38",
+      "scored_at": "2026-09-27T20:17:30.299232Z"
+    },
+    "story_c9d61f225fe5|pragmatic|0a5c5b24": {
+      "score": 48,
+      "review": "看 Agent 互斗的娱乐项目，没接口没开源，围观一下就行，别指望用来选型。",
+      "title_hash": "7f3962e0",
+      "scored_at": "2026-09-27T20:17:31.094582Z"
+    },
+    "story_2ab0f3547302|cynic|f4237a62": {
+      "score": 58,
+      "review": "71%的胡编基线是自己出的题吧？学会说“不知道”不等于真知道。",
+      "title_hash": "c0a41f38",
+      "scored_at": "2026-09-27T20:17:33.277704Z"
+    },
+    "story_2ab0f3547302|paper-police|966065bf": {
+      "score": 22,
+      "review": "71%到20%无测评细节，无论文无开源，可疑域名更没法复现。",
+      "title_hash": "c0a41f38",
+      "scored_at": "2026-09-27T20:17:35.114745Z"
+    },
+    "story_c9d61f225fe5|cynic|f4237a62": {
+      "score": 40,
+      "review": "信源号称两个，实为 HN 和 hackernews；先把裁判规则和评测集贴出来再摆擂台。",
+      "title_hash": "7f3962e0",
+      "scored_at": "2026-09-27T20:17:37.448789Z"
+    },
+    "story_c9d61f225fe5|paper-police|966065bf": {
+      "score": 30,
+      "review": "只有网站和 HN 帖子，无论文、无开源代码、评测方法未公开，成绩无法复现。",
+      "title_hash": "7f3962e0",
+      "scored_at": "2026-09-27T20:17:39.382290Z"
+    },
+    "story_47a080855edb|cynic|f4237a62": {
+      "score": 60,
+      "review": "两个\"来源\"是同一条 HN 帖，多源标注先去掉重复；口吻由模板决定这结论本身倒是真的。",
+      "title_hash": "6cbd1f48",
+      "scored_at": "2026-09-27T20:17:41.887002Z"
+    },
+    "story_47a080855edb|paper-police|966065bf": {
+      "score": 55,
+      "review": "只有 arXiv 论文，无代码无复现评测，两来源都是 HN 同一帖，证据只到一半。",
+      "title_hash": "6cbd1f48",
+      "scored_at": "2026-09-27T20:17:44.059131Z"
     }
   }
 }
