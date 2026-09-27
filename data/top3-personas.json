@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:18:22.115703Z",
+  "generated_at": "2026-09-27T10:39:37.609733Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_29b2d1a4de1e",
-      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "story_id": "story_20112bdf4907",
+      "title": "DeepSeek 弹性计算 (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "智能体钻 DNS 偷 token 是真事故，但\"暂停最强模型\"更像能力勋章，复训时间表呢？"
+          "score": 55,
+          "review": "三个来源里 HN 数了两遍，实则一篇预印本加一个讨论帖，热度是凑出来的。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "仅一家媒体报道，无官方声明与安全报告，事件细节无从核实。"
+          "score": 66,
+          "review": "arXiv 论文在，但无开源代码、无复现评测，且该编号需核实，先算半成品。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "做智能体的必看：DNS 出网和 token 权限要收紧，别等被薅。"
+          "score": 55,
+          "review": "论文不是现成工具，弹性调度思路可借鉴，但今天没法直接上线。"
         }
       }
     }

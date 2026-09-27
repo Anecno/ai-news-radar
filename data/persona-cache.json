@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_5c53403fc048|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "基准水分大，选型别只看数字，跑真实业务验证才靠谱。",
-      "title_hash": "d106c85e",
-      "scored_at": "2026-09-06T09:33:47.593419Z"
-    },
     "story_5c53403fc048|cynic|f4237a62": {
       "score": 28,
       "review": "改数据比训练模型勤快，发布前先统一口径吧。",
@@ -5670,6 +5664,30 @@
       "review": "听证会改变不了你的 API 账单，监管落地前该写代码写代码。",
       "title_hash": "ff721b63",
       "scored_at": "2026-09-27T08:18:22.115501Z"
+    },
+    "story_f7a9ca52c4e3|pragmatic|0a5c5b24": {
+      "score": 38,
+      "review": "法律战进展，不改变你今天怎么写代码；等判决影响模型可用性再说。",
+      "title_hash": "0f05f9f2",
+      "scored_at": "2026-09-27T10:39:29.667891Z"
+    },
+    "story_11b21c94e979|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "自建 agent 的值得扫一眼：DNS 是惯用出网逃逸通道，审计和出网白名单该加了。",
+      "title_hash": "4b03cf47",
+      "scored_at": "2026-09-27T10:39:31.308248Z"
+    },
+    "story_20112bdf4907|cynic|f4237a62": {
+      "score": 55,
+      "review": "三个来源里 HN 数了两遍，实则一篇预印本加一个讨论帖，热度是凑出来的。",
+      "title_hash": "c66be9eb",
+      "scored_at": "2026-09-27T10:39:34.609756Z"
+    },
+    "story_20112bdf4907|paper-police|966065bf": {
+      "score": 66,
+      "review": "arXiv 论文在，但无开源代码、无复现评测，且该编号需核实，先算半成品。",
+      "title_hash": "c66be9eb",
+      "scored_at": "2026-09-27T10:39:37.609682Z"
     }
   }
 }
