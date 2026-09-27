@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6b663a3b490f|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Git 原生记忆是个实在思路，但成熟度未知，先等仓库和文档。",
-      "title_hash": "d20e27ae",
-      "scored_at": "2026-09-06T01:09:14.357152Z"
-    },
-    "story_6b663a3b490f|cynic|f4237a62": {
-      "score": 45,
-      "review": "把Git当记忆库不新鲜，得看能不能真解决上下文丢失，别又是换个壳。",
-      "title_hash": "d20e27ae",
-      "scored_at": "2026-09-06T01:09:16.562913Z"
-    },
-    "story_6b663a3b490f|paper-police|966065bf": {
-      "score": 12,
-      "review": "就一个标题和HN链接，无论文无代码无评测，记忆效果无从验证。",
-      "title_hash": "d20e27ae",
-      "scored_at": "2026-09-06T01:09:18.892703Z"
-    },
-    "story_a23ce047f1f9|cynic|f4237a62": {
-      "score": 45,
-      "review": "教用户避开某些词，不如先把模型敏感度调好。",
-      "title_hash": "c346ae32",
-      "scored_at": "2026-09-06T01:09:20.930085Z"
-    },
-    "story_a23ce047f1f9|paper-police|966065bf": {
-      "score": 30,
-      "review": "只有官方提示词指南，无评测依据，性能真假等第三方验证。",
-      "title_hash": "c346ae32",
-      "scored_at": "2026-09-06T01:09:22.641438Z"
-    },
     "story_2c7dd97ccc7e|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "模型上机械臂离量产还远，等API开放再动手。",
@@ -5688,6 +5658,18 @@
       "review": "仅一家媒体报道，无官方声明与安全报告，事件细节无从核实。",
       "title_hash": "5660da34",
       "scored_at": "2026-09-26T23:46:57.931729Z"
+    },
+    "story_5bb17e238644|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "呼吁召回不落代码，自己给 agent 加权限白名单和审计日志更实在。",
+      "title_hash": "9afb0063",
+      "scored_at": "2026-09-27T01:30:03.894943Z"
+    },
+    "story_a21828da2aae|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "暂停训练不给你新工具，只说明下代模型发布可能延后，选型别押注未来版本。",
+      "title_hash": "9db9cd40",
+      "scored_at": "2026-09-27T01:30:06.015518Z"
     }
   }
 }
