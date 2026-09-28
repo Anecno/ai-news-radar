@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 11:41:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 15:34:16 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Holo4：为通用型 computer-use Agent 提供动力 / Holo4: powering generalist computer-use agents</title>
+<title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
 <link>https://huggingface.co/blog/Hcompany/holo4</link>
 <guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
-<description>computer-use 又多一个可跑的开源底座，先拿自家 UI 流程测点击准确率再决定换不换。（Hugging Face Blog）</description>
+<description>权重已放 HF，做 GUI 自动化的今天就能拉下来试跑，27B 本地也能部署。（Hugging Face Blog）</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
+<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
+<description>用 Opus 的今天就得改提示词：迁移模式照着调，不然行为差异会让你白调半天。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
 </item>
 <item>
 <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
@@ -152,20 +160,12 @@
 <pubDate>Mon, 28 Sep 2026 07:00:36 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: TinyAIArena：观看AI代理之间的激战</title>
-<link>https://tinyaiarena.com</link>
-<guid isPermaLink="true">https://tinyaiarena.com</guid>
-<description>看 AI 互殴图一乐；没开源和 API，对写代码没实际帮助。（tinyaiarena.com）</description>
+<title>人工智能公司竞相展示其对人类威胁最大的模型</title>
+<link>https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity</link>
+<guid isPermaLink="true">https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity</guid>
+<description>讽刺文，戳的是安全叙事泡沫，看完笑笑就行，没有一行能用。（thecivilian.co.nz）</description>
 <category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 02:12:19 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
-<link>https://www.aibase.com/news/31372</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31372</guid>
-<description>只是代号泄露加灰度传闻，没有开放接口和定价，今天动不了手。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 07:00:36 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 12:11:05 +0000</pubDate>
 </item>
 </channel>
 </rss>

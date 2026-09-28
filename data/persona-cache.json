@@ -5690,10 +5690,10 @@
       "scored_at": "2026-09-28T07:15:11.382486Z"
     },
     "story_299644506077|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "computer-use 又多一个可跑的开源底座，先拿自家 UI 流程测点击准确率再决定换不换。",
-      "title_hash": "5b1b9e10",
-      "scored_at": "2026-09-28T11:51:19.572515Z"
+      "score": 82,
+      "review": "权重已放 HF，做 GUI 自动化的今天就能拉下来试跑，27B 本地也能部署。",
+      "title_hash": "6a301c92",
+      "scored_at": "2026-09-28T15:45:03.803440Z"
     },
     "story_3622c48a5055|pragmatic|0a5c5b24": {
       "score": 50,
@@ -5798,16 +5798,40 @@
       "scored_at": "2026-09-28T11:51:54.361756Z"
     },
     "story_299644506077|cynic|f4237a62": {
-      "score": 64,
-      "review": "computer-use agent 满地都是，先把真机无脚本的成功率晒出来，再谈「通用」。",
-      "title_hash": "5b1b9e10",
-      "scored_at": "2026-09-28T11:51:56.913164Z"
+      "score": 60,
+      "review": "权重是真开源，但通用电脑操作这块地早有主，先拿榜单再吹。",
+      "title_hash": "6a301c92",
+      "scored_at": "2026-09-28T15:45:10.501050Z"
     },
     "story_299644506077|paper-police|966065bf": {
-      "score": 42,
-      "review": "官方博客宣告，未见论文、代码或可复现评测，等三件套再定论。",
-      "title_hash": "5b1b9e10",
-      "scored_at": "2026-09-28T11:51:58.974784Z"
+      "score": 58,
+      "review": "权重挂在 HF 可查，但无论文、无第三方评测，跑分数字尚待复现。",
+      "title_hash": "6a301c92",
+      "scored_at": "2026-09-28T15:45:12.811279Z"
+    },
+    "story_d7df3ea255b1|pragmatic|0a5c5b24": {
+      "score": 80,
+      "review": "用 Opus 的今天就得改提示词：迁移模式照着调，不然行为差异会让你白调半天。",
+      "title_hash": "5d9ae0e6",
+      "scored_at": "2026-09-28T15:45:05.232423Z"
+    },
+    "story_4fcc7fd9ef16|pragmatic|0a5c5b24": {
+      "score": 22,
+      "review": "讽刺文，戳的是安全叙事泡沫，看完笑笑就行，没有一行能用。",
+      "title_hash": "196ec8dd",
+      "scored_at": "2026-09-28T15:45:06.928936Z"
+    },
+    "story_d7df3ea255b1|cynic|f4237a62": {
+      "score": 68,
+      "review": "版本号一涨就要用户重写提示词，所谓升级的迁移成本倒是转移得很干净。",
+      "title_hash": "5d9ae0e6",
+      "scored_at": "2026-09-28T15:45:15.316031Z"
+    },
+    "story_d7df3ea255b1|paper-police|966065bf": {
+      "score": 60,
+      "review": "官方文档给出行为差异与迁移细节，可查但无论文、代码与benchmark，属使用指南非能力证据。",
+      "title_hash": "5d9ae0e6",
+      "scored_at": "2026-09-28T15:45:17.792719Z"
     }
   }
 }
