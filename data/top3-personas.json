@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:15:11.382557Z",
+  "generated_at": "2026-09-28T11:51:58.974834Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_85428ac91ad4",
-      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-      "url": "https://www.aibase.com/news/31383",
+      "story_id": "story_d0b08aebc6ad",
+      "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens",
+      "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 47,
-          "review": "带个 Preview 就公测，跑分、价格、上下文一样没给，先占个版本号。"
+          "score": 62,
+          "review": "省 40% token 听着香，可准确率和对比基线不提，省算力之前先省了评测。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅一条聚合稿称公测，无论文、无开源、无评测数字，复现无门。"
-        },
-        "pragmatic": {
-          "score": 84,
-          "review": "公测就能调，拿小流量试延迟和单价；preview 别直接上生产。"
-        }
-      }
-    },
-    {
-      "story_id": "story_1bb2feafc8a4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "用量承诺说撤就撤，替代方案只字不提，续费的用户只能靠猜。"
-        },
-        "paper-police": {
-          "score": 28,
-          "review": "单一聚合源，无 OpenAI 官方公告链接，价位变动靠转述，等官网截图再算数。"
+          "score": 35,
+          "review": "40%省token仅新闻稿一句话，论文、代码、评测全缺，复现无门。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "Pro 用量承诺取消，重排后得重新算账，重度用户先查新限额再续费。"
+          "review": "同一任务少烧四成 token，等于推理账单直接打折，用 Fireworks 的值得换模型实测。"
         }
       }
     },
     {
-      "story_id": "story_2ab0f3547302",
-      "title": "戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
+      "story_id": "story_2f15dd10fd58",
+      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 76,
+          "review": "开源沙箱管权限，方向对；但策略配错照样放行，别把运行时当保险箱。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "官方博客称开源，仓库可查算半个证据，但无评测数字与第三方复现。"
+        },
+        "pragmatic": {
+          "score": 80,
+          "review": "给 Agent 加沙箱和权限管控的开源件，跑不可信工具调用前值得先接进来试试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_299644506077",
+      "title": "Holo4：为通用型 computer-use Agent 提供动力 / Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "71%的胡编基线是自己出的题吧？学会说“不知道”不等于真知道。"
+          "score": 64,
+          "review": "computer-use agent 满地都是，先把真机无脚本的成功率晒出来，再谈「通用」。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "71%到20%无测评细节，无论文无开源，可疑域名更没法复现。"
+          "score": 42,
+          "review": "官方博客宣告，未见论文、代码或可复现评测，等三件套再定论。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "提示词里加一句‘别猜’就能降幻觉，做RAG的先试，别当万能药。"
+          "score": 78,
+          "review": "computer-use 又多一个可跑的开源底座，先拿自家 UI 流程测点击准确率再决定换不换。"
         }
       }
     }

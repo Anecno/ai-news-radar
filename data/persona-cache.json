@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cc153614bc7c|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "内部视角不写代码，等具体模型和 API 出来再动手。",
-      "title_hash": "0cb21850",
-      "scored_at": "2026-09-07T10:41:59.707964Z"
-    },
-    "story_002df950f741|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "与开发无关，没有API或工具变化，不用为此行动。",
-      "title_hash": "6b07554d",
-      "scored_at": "2026-09-07T10:41:36.646651Z"
-    },
-    "story_2ebcbcb9674f|pragmatic|0a5c5b24": {
-      "score": 58,
-      "review": "证明能力亮眼，但暂无产品化工具，数学研究者可留意后续。",
-      "title_hash": "d35d07f1",
-      "scored_at": "2026-09-07T10:41:38.320918Z"
-    },
-    "story_e75491e5f031|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "安全讨论不产生新接口，等落地政策再评估影响。",
-      "title_hash": "3d45cf3d",
-      "scored_at": "2026-09-07T10:41:40.262220Z"
-    },
-    "story_6576f701bc03|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "内部实验再长，没开放接口前跟你的业务无关，看看就行。",
-      "title_hash": "21d2b30a",
-      "scored_at": "2026-09-07T10:41:44.269744Z"
-    },
-    "story_c480607eabf3|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "安全披露框架还在规划，短期不影响现有Agent开发。",
-      "title_hash": "b80400ce",
-      "scored_at": "2026-09-07T10:41:46.346828Z"
-    },
-    "story_ba6959090466|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "榜单纯看热闹，调用量不等于产品力，动手前先看是不是自家统计口径。",
-      "title_hash": "eacacc06",
-      "scored_at": "2026-09-07T10:41:47.421549Z"
-    },
-    "story_fc8fc80cdf77|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "办公场景新功能，但没提API和开放时间，开发者先观望。",
-      "title_hash": "9a5778f8",
-      "scored_at": "2026-09-07T10:41:53.022762Z"
-    },
-    "story_a9beddb6a8eb|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "真实AI应用案例，但没新模型没方案，顶多算个故事。",
-      "title_hash": "1d4387af",
-      "scored_at": "2026-09-07T10:41:56.184910Z"
-    },
-    "story_8af0488e15ed|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "政策方向尚无落地细节，做反诈相关应用的可以留意后续配套。",
-      "title_hash": "d7c50219",
-      "scored_at": "2026-09-07T10:41:58.151856Z"
-    },
-    "story_875d6212892b|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内测产品没开放细节，等有实机演示或 API 再跟进。",
-      "title_hash": "94f440a1",
-      "scored_at": "2026-09-07T10:42:00.993714Z"
-    },
-    "story_fb302e7d3b11|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "世界模型是方向但没开放，先看论文是否带可跑的代码。",
-      "title_hash": "76a4d125",
-      "scored_at": "2026-09-07T10:42:02.827566Z"
-    },
-    "story_fb302e7d3b11|cynic|f4237a62": {
-      "score": 35,
-      "review": "'或成'二字用得妙，世界模型遍地走，先晒代码和数据再谈原语。",
-      "title_hash": "76a4d125",
-      "scored_at": "2026-09-07T10:42:05.657266Z"
-    },
-    "story_fb302e7d3b11|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅一篇新闻稿宣称推出，无论文代码基准，世界模型存疑。",
-      "title_hash": "76a4d125",
-      "scored_at": "2026-09-07T10:42:07.341473Z"
-    },
-    "story_2ebcbcb9674f|cynic|f4237a62": {
-      "score": 50,
-      "review": "11天是算上人类喂思路的时间吧？先把交互日志亮出来再谈里程碑。",
-      "title_hash": "d35d07f1",
-      "scored_at": "2026-09-07T10:42:09.901082Z"
-    },
-    "story_2ebcbcb9674f|paper-police|966065bf": {
-      "score": 22,
-      "review": "只有一个自媒体报道，无论文无代码，费马大定理证明无法核验。",
-      "title_hash": "d35d07f1",
-      "scored_at": "2026-09-07T10:42:11.172153Z"
-    },
     "story_89772b9cda52|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "用AMD GPU跑推理的可以看，推测性解码提速方案值得抄。",
@@ -5726,10 +5630,10 @@
       "scored_at": "2026-09-28T07:14:51.136912Z"
     },
     "story_ce201f4e3030|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "老论文谈概念，没代码没接口，对今天的工程活没直接帮助。",
-      "title_hash": "3acd9ab1",
-      "scored_at": "2026-09-28T07:14:52.927554Z"
+      "score": 35,
+      "review": "纯理论综述，没代码没数据可跑，扫眼摘要就行，别耽误干活。",
+      "title_hash": "5688b9d7",
+      "scored_at": "2026-09-28T11:51:43.343792Z"
     },
     "story_d9ee2b9f2468|pragmatic|0a5c5b24": {
       "score": 48,
@@ -5784,6 +5688,126 @@
       "review": "单一聚合源，无 OpenAI 官方公告链接，价位变动靠转述，等官网截图再算数。",
       "title_hash": "805f6a6b",
       "scored_at": "2026-09-28T07:15:11.382486Z"
+    },
+    "story_299644506077|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "computer-use 又多一个可跑的开源底座，先拿自家 UI 流程测点击准确率再决定换不换。",
+      "title_hash": "5b1b9e10",
+      "scored_at": "2026-09-28T11:51:19.572515Z"
+    },
+    "story_3622c48a5055|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "做 Agent 的早晚要补安全护栏，但眼下只是官宣，等仓库和接入文档出来再动手。",
+      "title_hash": "f521638f",
+      "scored_at": "2026-09-28T11:51:21.695221Z"
+    },
+    "story_bef5ab52913d|pragmatic|0a5c5b24": {
+      "score": 38,
+      "review": "做能自主访问外部系统的 Agent 要留意了：合规审查的风向在收紧，但今天没你什么事。",
+      "title_hash": "2bc39f64",
+      "scored_at": "2026-09-28T11:51:23.282250Z"
+    },
+    "story_e4e54fd17b80|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "智能体安全迟早要管，但这是企业级平台，个人开发者短期接不上，先记个方向。",
+      "title_hash": "f8281827",
+      "scored_at": "2026-09-28T11:51:25.005847Z"
+    },
+    "story_4f391ee4a3e0|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "采购还没落地，等真放开再算力玄学；国内团队先别按这规划训练预算。",
+      "title_hash": "fa1c7092",
+      "scored_at": "2026-09-28T11:51:26.665780Z"
+    },
+    "story_bdc6459bc2b0|pragmatic|0a5c5b24": {
+      "score": 34,
+      "review": "实验室配方突破，没放出模型或代码，做AI的今天用不上，等产品化再说。",
+      "title_hash": "15a8fad6",
+      "scored_at": "2026-09-28T11:51:28.293942Z"
+    },
+    "story_d0b08aebc6ad|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "同一任务少烧四成 token，等于推理账单直接打折，用 Fireworks 的值得换模型实测。",
+      "title_hash": "05fcf80b",
+      "scored_at": "2026-09-28T11:51:29.705951Z"
+    },
+    "story_abbedb558ed1|pragmatic|0a5c5b24": {
+      "score": 66,
+      "review": "做数字人直播的可以试试，音色分库和云引擎接入省自建成本，其他人不用管。",
+      "title_hash": "af3a286b",
+      "scored_at": "2026-09-28T11:51:31.209142Z"
+    },
+    "story_77b6e25d654a|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "还是参考架构，且绑自家芯片；普通开发者今天用不上，先收藏别动手。",
+      "title_hash": "1a5c9f65",
+      "scored_at": "2026-09-28T11:51:33.256941Z"
+    },
+    "story_939d4ba70b3b|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "C端功能整合，普通用户省事；开发者没新API，等开放接口再说。",
+      "title_hash": "ada8bb2a",
+      "scored_at": "2026-09-28T11:51:34.862283Z"
+    },
+    "story_2f15dd10fd58|pragmatic|0a5c5b24": {
+      "score": 80,
+      "review": "给 Agent 加沙箱和权限管控的开源件，跑不可信工具调用前值得先接进来试试。",
+      "title_hash": "6f371ea9",
+      "scored_at": "2026-09-28T11:51:36.489981Z"
+    },
+    "story_07f54f217147|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "面向夸克用户的便利功能，没开放 API 也没价格动作，开发者只能围观。",
+      "title_hash": "b5c49d87",
+      "scored_at": "2026-09-28T11:51:37.882470Z"
+    },
+    "story_0b17a2bb6448|pragmatic|0a5c5b24": {
+      "score": 50,
+      "review": "没工具可抄，但提醒你查下 API key 是否泄露、账单有没有异常调用。",
+      "title_hash": "045b5758",
+      "scored_at": "2026-09-28T11:51:39.966759Z"
+    },
+    "story_333b2456cba5|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "单源传闻没落地，定价再高也不改你今天的选型，等官宣再算账。",
+      "title_hash": "4111bf74",
+      "scored_at": "2026-09-28T11:51:41.563242Z"
+    },
+    "story_d0b08aebc6ad|cynic|f4237a62": {
+      "score": 62,
+      "review": "省 40% token 听着香，可准确率和对比基线不提，省算力之前先省了评测。",
+      "title_hash": "05fcf80b",
+      "scored_at": "2026-09-28T11:51:47.530466Z"
+    },
+    "story_d0b08aebc6ad|paper-police|966065bf": {
+      "score": 35,
+      "review": "40%省token仅新闻稿一句话，论文、代码、评测全缺，复现无门。",
+      "title_hash": "05fcf80b",
+      "scored_at": "2026-09-28T11:51:49.357093Z"
+    },
+    "story_2f15dd10fd58|cynic|f4237a62": {
+      "score": 76,
+      "review": "开源沙箱管权限，方向对；但策略配错照样放行，别把运行时当保险箱。",
+      "title_hash": "6f371ea9",
+      "scored_at": "2026-09-28T11:51:52.314592Z"
+    },
+    "story_2f15dd10fd58|paper-police|966065bf": {
+      "score": 55,
+      "review": "官方博客称开源，仓库可查算半个证据，但无评测数字与第三方复现。",
+      "title_hash": "6f371ea9",
+      "scored_at": "2026-09-28T11:51:54.361756Z"
+    },
+    "story_299644506077|cynic|f4237a62": {
+      "score": 64,
+      "review": "computer-use agent 满地都是，先把真机无脚本的成功率晒出来，再谈「通用」。",
+      "title_hash": "5b1b9e10",
+      "scored_at": "2026-09-28T11:51:56.913164Z"
+    },
+    "story_299644506077|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客宣告，未见论文、代码或可复现评测，等三件套再定论。",
+      "title_hash": "5b1b9e10",
+      "scored_at": "2026-09-28T11:51:58.974784Z"
     }
   }
 }
