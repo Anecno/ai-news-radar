@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_89772b9cda52|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "用AMD GPU跑推理的可以看，推测性解码提速方案值得抄。",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T20:58:46.687809Z"
-    },
-    "story_89772b9cda52|cynic|f4237a62": {
-      "score": 72,
-      "review": "推测性解码不是新词，AMD跑通值得写，但加速比和对比基线呢？",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T20:58:52.523569Z"
-    },
-    "story_89772b9cda52|paper-police|966065bf": {
-      "score": 22,
-      "review": "官方博客有细节但未开源代码，推测性解码效果需独立验证。",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T20:58:54.108515Z"
-    },
-    "story_d83ab5c62da4|pragmatic|0a5c5b24": {
-      "score": 28,
-      "review": "千亿算力合同离代码太远，不改变你今天的选型。",
-      "title_hash": "64f4bd5a",
-      "scored_at": "2026-09-07T20:58:44.310206Z"
-    },
-    "story_0d185dfe820c|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "Plus 用户高峰期又限 5 小时，跑长任务先查时段或备降级方案。",
-      "title_hash": "a3994abb",
-      "scored_at": "2026-09-07T20:58:47.929199Z"
-    },
-    "story_8b01a7e80019|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "宏观就业报告，不涉及具体工具或接口，开发者看看即可。",
-      "title_hash": "c2e530f6",
-      "scored_at": "2026-09-07T20:58:49.245979Z"
-    },
     "story_f0b41f3df1cc|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "GPT-6未发布，教程是编的，看了也用不上。",
@@ -5940,6 +5904,60 @@
       "review": "第三方跑分方法论公开，但缺官方公告与代码，数字暂难独立复核。",
       "title_hash": "a7703c84",
       "scored_at": "2026-09-28T20:52:39.275214Z"
+    },
+    "story_aa79f4494bfb|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型已上线还配了官方指南，今天就能拿现有 prompt 去跑对比，重点看价格和上下文变化。",
+      "title_hash": "f9e87ecd",
+      "scored_at": "2026-09-28T22:50:44.108646Z"
+    },
+    "story_ab1abbb94475|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "跑 Codex CLI 的顺手升级，小版本号多半是修 bug，没大改动。",
+      "title_hash": "d9f93943",
+      "scored_at": "2026-09-28T22:50:46.186067Z"
+    },
+    "story_c6c19c9c924b|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "82亿买团队不是买产品，开发者拿不到任何可调接口，围观即可。",
+      "title_hash": "6f4046f0",
+      "scored_at": "2026-09-28T22:50:46.986711Z"
+    },
+    "story_7009e35a2340|pragmatic|0a5c5b24": {
+      "score": 33,
+      "review": "人事和收购而已，AMD 的 AI 路线图落到 API 或芯片选型上还早，今天不用管。",
+      "title_hash": "bd5afcac",
+      "scored_at": "2026-09-28T22:50:48.220663Z"
+    },
+    "story_693509ac395b|pragmatic|0a5c5b24": {
+      "score": 32,
+      "review": "收购本身不改变你今天写代码，等World Labs的能力被塞进AMD芯片再说。",
+      "title_hash": "26d690f0",
+      "scored_at": "2026-09-28T22:50:49.176703Z"
+    },
+    "story_370e48a3b845|pragmatic|0a5c5b24": {
+      "score": 28,
+      "review": "厂商客户案例软文，看不到 API、价格或可复用的方案，读完也不知道自己该怎么用。",
+      "title_hash": "8bb90816",
+      "scored_at": "2026-09-28T22:50:50.936731Z"
+    },
+    "story_f6298057703f|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "选型多一个成本参照：$0.05/任务，但排名第23说明不是首选，观望即可。",
+      "title_hash": "82826187",
+      "scored_at": "2026-09-28T22:50:52.927068Z"
+    },
+    "story_aa79f4494bfb|cynic|f4237a62": {
+      "score": 48,
+      "review": "发布公告先推教程，跑分、价格、上下文一个没提——版本号涨得比参数快。",
+      "title_hash": "f9e87ecd",
+      "scored_at": "2026-09-28T22:50:55.322196Z"
+    },
+    "story_aa79f4494bfb|paper-police|966065bf": {
+      "score": 32,
+      "review": "仅一条官方推文加使用指南，无论文无基准跑分，复现无从谈起。",
+      "title_hash": "f9e87ecd",
+      "scored_at": "2026-09-28T22:50:56.996851Z"
     }
   }
 }
