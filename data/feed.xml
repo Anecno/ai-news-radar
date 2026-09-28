@@ -5,8 +5,32 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 15:34:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 20:33:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Claude Sonnet 5.5 in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</guid>
+<description>Copilot 里能直接切新模型，写代码的今天就能试，先拿小任务比一比质量和额度。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 18:03:57 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+<description>换模型就能省三成账单、快三成，今天跑一遍回归测试即可切换。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
+</item>
+<item>
+<title>观看 Future Vision XPRIZE 获奖预告片 The Gifted。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize</guid>
+<description>一支获奖预告片，没代码没API，扫早报直接跳过。（Google AI Blog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+</item>
 <item>
 <title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
 <link>https://huggingface.co/blog/Hcompany/holo4</link>
@@ -16,12 +40,52 @@
 <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
-<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
-<guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
-<description>用 Opus 的今天就得改提示词：迁移模式照着调，不然行为差异会让你白调半天。（Hacker News：AI 热帖）</description>
+<title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
+<link>https://x.com/ClaudeDevs/status/2104641318555353400</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2104641318555353400</guid>
+<description>新模型已可切，提速三成还省三成账单，Claude Code 额度立刻更耐用。（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 18:36:07 +0000</pubDate>
+</item>
+<item>
+<title>Lenfest Institute 获 OpenAI 扩大支持，里程碑项目再扩容 / The Lenfest Institute grows landmark program with expanded OpenAI support</title>
+<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
+<description>OpenAI 给新闻机构送钱送资源，跟写代码的没关系，等出工具再说。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Self-hosted runner 版本强制执行日期已变更 / Self-hosted runner version enforcement date has moved</title>
+<link>https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved</guid>
+<description>跑自托管 runner 的顺手记下新截止日，别到点被 GitHub 强制停掉。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 19:22:46 +0000</pubDate>
+</item>
+<item>
+<title>Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.</title>
+<link>https://x.com/rohanpaul_ai/status/2104649406536683789</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104649406536683789</guid>
+<description>价格没变，终端任务成功率从10%跳到70%，跑agent自动化的今天就能换。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 19:08:15 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
+<link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity</guid>
+<description>做 Agent 的把九起案例当威胁模型抄，沙盒和注入防护该补了；不做的人跳过。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 17:33:34 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
+<link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
+<description>Sonnet 逼近 Opus，大批 Opus 调用可直接降级，账单立省，今天就能换。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
 </item>
 <item>
 <title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
@@ -32,12 +96,52 @@
 <pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
 </item>
 <item>
-<title>澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.</title>
-<link>https://x.com/rohanpaul_ai/status/2104465759619715116</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104465759619715116</guid>
-<description>做能自主访问外部系统的 Agent 要留意了：合规审查的风向在收紧，但今天没你什么事。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<title>Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task</title>
+<link>https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task</link>
+<guid isPermaLink="true">https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task</guid>
+<description>基准逼近旗舰还便宜三成，主力模型可以直接换，换前跑一遍自家 eval 就行。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:58:30 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
+<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
+<description>新模型已能调，接口现成，拿自己的评测集跑一遍再决定换不换。（X：Anthropic (@AnthropicAI)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
+</item>
+<item>
+<title>UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026</title>
+<link>https://rdi.berkeley.edu/blog/trustworthy-benchmarks</link>
+<guid isPermaLink="true">https://rdi.berkeley.edu/blog/trustworthy-benchmarks</guid>
+<description>做评测或选模型的先自查：这些基准能刷满分，榜单数字别照抄。（Berkeley RDI：Blog（AI 安全与评测））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 20:33:40 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 暂停前沿模型训练，因多起智能体对齐事件 / OpenAI halts frontier-model training amid string of agent misalignment incidents</title>
+<link>https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents</guid>
+<description>新模型发布节奏可能被拖，做 Agent 上线的该把回滚和对齐防护补上了。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 16:43:18 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5</title>
+<link>https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</link>
+<guid isPermaLink="true">https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5</guid>
+<description>用 Opus 的今天就得改提示词：迁移模式照着调，不然行为差异会让你白调半天。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 10:51:57 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%</title>
+<link>https://x.com/dongxi_nlp/status/2104634260934054237</link>
+<guid isPermaLink="true">https://x.com/dongxi_nlp/status/2104634260934054237</guid>
+<description>快三成又便宜三成，API 一开就换默认模型，先小流量对比质量再全量。（X：马东锡 NLP (@dongxi_nlp)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:08:04 +0000</pubDate>
 </item>
 <item>
 <title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
@@ -48,124 +152,20 @@
 <pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
 </item>
 <item>
-<title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...</title>
-<link>https://x.com/thexpin/status/2104508227451027712</link>
-<guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
-<description>采购还没落地，等真放开再算力玄学；国内团队先别按这规划训练预算。（X：X.PIN (@thexpin)）</description>
+<title>Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...</title>
+<link>https://x.com/arena/status/2104617283679379704</link>
+<guid isPermaLink="true">https://x.com/arena/status/2104617283679379704</guid>
+<description>跑 Agent 的可以直接换 High 档，成本砍一半还排第二，先用小流量验证稳定性。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 17:00:36 +0000</pubDate>
 </item>
 <item>
-<title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures</title>
-<link>https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</link>
-<guid isPermaLink="true">https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</guid>
-<description>实验室配方突破，没放出模型或代码，做AI的今天用不上，等产品化再说。（MIT News（RSS））</description>
+<title>Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...</title>
+<link>https://x.com/trq212/status/2104660926373023830</link>
+<guid isPermaLink="true">https://x.com/trq212/status/2104660926373023830</guid>
+<description>快三成、省三成，若属实今天就能换模型降账单；但单一 X 爆料，先自测再切生产。（X：Thariq (@trq212)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens</title>
-<link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</guid>
-<description>同一任务少烧四成 token，等于推理账单直接打折，用 Fireworks 的值得换模型实测。（MarkTechPost（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
-</item>
-<item>
-<title>AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的</title>
-<link>https://www.aibase.com/news/31388</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31388</guid>
-<description>做数字人直播的可以试试，音色分库和云引擎接入省自建成本，其他人不用管。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 11:41:59 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</title>
-<link>https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</guid>
-<description>还是参考架构，且绑自家芯片；普通开发者今天用不上，先收藏别动手。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
-<category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
-<link>https://www.ithome.com/1/007/767.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/007/767.htm</guid>
-<description>消费级avatar更新，没有SDK或接口，开发者今天无事可做。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
-</item>
-<item>
-<title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
-<link>https://www.aibase.com/news/31386</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31386</guid>
-<description>C端功能整合，普通用户省事；开发者没新API，等开放接口再说。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 11:41:59 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell</title>
-<link>https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</link>
-<guid isPermaLink="true">https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</guid>
-<description>给 Agent 加沙箱和权限管控的开源件，跑不可信工具调用前值得先接进来试试。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
-<category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
-<link>https://www.aibase.com/news/31387</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31387</guid>
-<description>面向夸克用户的便利功能，没开放 API 也没价格动作，开发者只能围观。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 11:41:59 +0000</pubDate>
-</item>
-<item>
-<title>暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击</title>
-<link>https://www.aibase.com/news/31384</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31384</guid>
-<description>没工具可抄，但提醒你查下 API key 是否泄露、账单有没有异常调用。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 11:41:59 +0000</pubDate>
-</item>
-<item>
-<title>曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一</title>
-<link>https://www.aibase.com/news/31389</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31389</guid>
-<description>单源传闻没落地，定价再高也不改你今天的选型，等官宣再算账。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 11:41:59 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 资深员工悄然购置偏远土地，以防"AI 失控"举家撤离</title>
-<link>https://www.aibase.com/news/31369</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31369</guid>
-<description>员工买地避难属于个人八卦，跟你的代码和选型毫无关系，划走。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 07:00:36 +0000</pubDate>
-</item>
-<item>
-<title>研究称AI仍属窄AI，元认知有助理解人类智能</title>
-<link>https://arxiv.org/abs/2110.01834</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
-<description>纯理论综述，没代码没数据可跑，扫眼摘要就行，别耽误干活。（arxiv.org）</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 10:06:14 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra</title>
-<link>https://www.aibase.com/news/31368</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31368</guid>
-<description>偷跑爆料不是API，今天调不到也用不上，等官方开放和真实账单再谈。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 07:00:36 +0000</pubDate>
-</item>
-<item>
-<title>人工智能公司竞相展示其对人类威胁最大的模型</title>
-<link>https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity</link>
-<guid isPermaLink="true">https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity</guid>
-<description>讽刺文，戳的是安全叙事泡沫，看完笑笑就行，没有一行能用。（thecivilian.co.nz）</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 12:11:05 +0000</pubDate>
+<pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
 </item>
 </channel>
 </rss>

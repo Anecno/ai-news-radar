@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:45:17.792766Z",
+  "generated_at": "2026-09-28T20:52:39.275261Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_299644506077",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "story_id": "story_9c7e3615c5ec",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "权重是真开源，但通用电脑操作这块地早有主，先拿榜单再吹。"
+          "score": 67,
+          "review": "「最多降30%」——基准版本和任务分布都不提，省下的成本里有一半是营销部的。"
         },
         "paper-police": {
-          "score": 58,
-          "review": "权重挂在 HF 可查，但无论文、无第三方评测，跑分数字尚待复现。"
+          "score": 38,
+          "review": "只有官方页面自报增速降本，无论文无开源无第三方复现，HN 热议不等于验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "权重已放 HF，做 GUI 自动化的今天就能拉下来试跑，27B 本地也能部署。"
+          "score": 90,
+          "review": "换模型就能省三成账单、快三成，今天跑一遍回归测试即可切换。"
         }
       }
     },
     {
-      "story_id": "story_d0b08aebc6ad",
-      "title": "Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens",
-      "url": "https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens",
+      "story_id": "story_affa87113115",
+      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "省 40% token 听着香，可准确率和对比基线不提，省算力之前先省了评测。"
+          "score": 65,
+          "review": "「最多快30%、最多省30%」，两个「最多」都是自家上一代当基线，跑分表呢？"
         },
         "paper-police": {
-          "score": 35,
-          "review": "40%省token仅新闻稿一句话，论文、代码、评测全缺，复现无门。"
+          "score": 30,
+          "review": "官方推文只给了30%数字，无评测方法论、无第三方复现，等benchmark再算数。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "同一任务少烧四成 token，等于推理账单直接打折，用 Fireworks 的值得换模型实测。"
+          "score": 89,
+          "review": "新模型已可切，提速三成还省三成账单，Claude Code 额度立刻更耐用。"
         }
       }
     },
     {
-      "story_id": "story_d7df3ea255b1",
-      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "story_id": "story_4bbadd003175",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
+      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "版本号一涨就要用户重写提示词，所谓升级的迁移成本倒是转移得很干净。"
+          "score": 72,
+          "review": "只差自家旗舰2分是真本事，可先解释下 Opus 还贵在哪。"
         },
         "paper-police": {
           "score": 60,
-          "review": "官方文档给出行为差异与迁移细节，可查但无论文、代码与benchmark，属使用指南非能力证据。"
+          "review": "第三方跑分方法论公开，但缺官方公告与代码，数字暂难独立复核。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "用 Opus 的今天就得改提示词：迁移模式照着调，不然行为差异会让你白调半天。"
+          "score": 88,
+          "review": "Sonnet 逼近 Opus，大批 Opus 调用可直接降级，账单立省，今天就能换。"
         }
       }
     }
