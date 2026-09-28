@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:55:34.714117Z",
+  "generated_at": "2026-09-28T01:45:59.945498Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_7cbf1cb3c6f2",
+      "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+      "url": "https://www.aibase.com/news/31365",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 30,
+          "review": "官宣里最硬的数字是双倍积分，模型评测和上下文长度一个字没给。"
+        },
+        "paper-police": {
+          "score": 18,
+          "review": "只有上线通知和送额度，模型能力零数字、零评测、零代码，无法判断。"
+        },
+        "pragmatic": {
+          "score": 80,
+          "review": "新文本模型已可调，还送额度重置卡和双倍积分，正好白嫖压测对比再决定换不换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_93e932ee2580",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 52,
+          "review": "Playground 历来是给开发者试参数的，「普通人」进去第一件事还是得先充值拿 API key。"
+        },
+        "paper-police": {
+          "score": 24,
+          "review": "产品页升级，无论文无代码无跑分，仅转载官方说法，等实测再说。"
+        },
+        "pragmatic": {
+          "score": 73,
+          "review": "试 prompt 不用自己搭脚手架，省点调试时间；模型能力本身没变。"
+        }
+      }
+    },
+    {
       "story_id": "story_2ab0f3547302",
       "title": "戳破AI的虚张声势：加上“不要猜测”指令，编造说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
       "url": "https://earnanhonestdollar.com/bench",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "提示词里加一句‘别猜’就能降幻觉，做RAG的先试，别当万能药。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c9d61f225fe5",
-      "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 40,
-          "review": "信源号称两个，实为 HN 和 hackernews；先把裁判规则和评测集贴出来再摆擂台。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "只有网站和 HN 帖子，无论文、无开源代码、评测方法未公开，成绩无法复现。"
-        },
-        "pragmatic": {
-          "score": 48,
-          "review": "看 Agent 互斗的娱乐项目，没接口没开源，围观一下就行，别指望用来选型。"
-        }
-      }
-    },
-    {
-      "story_id": "story_47a080855edb",
-      "title": "As a Language Model”：Chat Template 切换 LLM 的自我指涉口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 60,
-          "review": "两个\"来源\"是同一条 HN 帖，多源标注先去掉重复；口吻由模板决定这结论本身倒是真的。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "只有 arXiv 论文，无代码无复现评测，两来源都是 HN 同一帖，证据只到一半。"
-        },
-        "pragmatic": {
-          "score": 48,
-          "review": "研究性发现，知道就行：换模板会改模型口吻，写 system prompt 时可参考，不必改代码。"
         }
       }
     }
