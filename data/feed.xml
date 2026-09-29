@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 19:25:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 21:24:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GPT-6.1 Sol 正式发布 / Introducing GPT-6.1 Sol</title>
@@ -16,14 +16,6 @@
 <pubDate>Tue, 29 Sep 2026 17:20:30 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.1 Sol in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
-<description>Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
-</item>
-<item>
 <title>圆点 / Introducing dots</title>
 <link>https://openai.com/index/introducing-dots</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
@@ -32,12 +24,28 @@
 <pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
 </item>
 <item>
+<title>GPT-6.1 Sol in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
+<description>Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
+</item>
+<item>
 <title>把源头搞对，而不只是把事实搞对：面向 MCP Agents 的源头感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
 <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
 <guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
 <description>验证思路值得读，但只是博客没开源代码，暂时抄不了，等项目落地再动手。（Hugging Face Blog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.159.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>Codex CLI 例行小版本，用的人扫一眼 changelog 就行，没踩旧 bug 不必急着升。（OpenAI Codex Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
@@ -54,14 +62,6 @@
 <description>新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.1 Sol in Codex and ChatGPT Work</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>新模型直接进 Codex，今天就能切过去跑一轮对比，看值不值得换默认。（OpenAI Codex Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
@@ -104,12 +104,20 @@
 <pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.159.0</title>
+<title>GPT-6.1 Sol 现已上线 Codex 和 ChatGPT Work / GPT-6.1 Sol in Codex and ChatGPT Work</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>Codex CLI 例行小版本，用的人扫一眼 changelog 就行，没踩旧 bug 不必急着升。（OpenAI Codex Changelog）</description>
+<description>Codex 里换模型即可上手，先拿真实任务比一下质量和延迟再决定迁移。（OpenAI Codex Changelog）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...</title>
+<link>https://x.com/rohanpaul_ai/status/2105017898343575731</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105017898343575731</guid>
+<description>融资估值再高也不改 API 价格，等你手上的账单降了再说。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 19:32:30 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:</title>
@@ -120,12 +128,20 @@
 <pubDate>Mon, 28 Sep 2026 21:40:50 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system</title>
-<link>https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system</link>
-<guid isPermaLink="true">https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system</guid>
-<description>企业协作和插件扩展算实打实，但具体权限与定价未明，先看清再接入。（The Decoder：AI News（RSS））</description>
+<title>英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor</title>
+<link>https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor</link>
+<guid isPermaLink="true">https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor</guid>
+<description>第三方安全评测，今天不改任何接口；真要上生产就自己加护栏，别等公告。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 17:23:22 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
+</item>
+<item>
+<title>Dependabot 的仓库自定义运行器设置 / Repository custom runner settings for Dependabot</title>
+<link>https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</guid>
+<description>私有 registry 或网络受限的团队，现在能把 Dependabot 指到自建 runner，配置即可生效。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 19:10:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万</title>
@@ -144,28 +160,12 @@
 <pubDate>Tue, 29 Sep 2026 15:53:19 +0000</pubDate>
 </item>
 <item>
-<title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
-<link>https://x.com/rohanpaul_ai/status/2104758396474057192</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104758396474057192</guid>
-<description>IPO 估值和融资数字改不了你的代码，等它真降 API 价格再说。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 02:21:20 +0000</pubDate>
-</item>
-<item>
 <title>ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...</title>
 <link>https://x.com/thsottiaux/status/2104991529416999243</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2104991529416999243</guid>
 <description>订阅额度能跨 60 个产品用，省得再单独付费；但名单和限制没细说，先观望落地。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 17:47:44 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap</title>
-<link>https://openai.com/index/devday-2026-recap</link>
-<guid isPermaLink="true">https://openai.com/index/devday-2026-recap</guid>
-<description>新模型和常驻智能体若能当天开放API，就先拿来跑一遍benchmark再决定换不换。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

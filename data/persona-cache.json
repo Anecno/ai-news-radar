@@ -1,102 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_dc315e1882c1|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "数学突破目前不落地，等开放细节或相关工具再看。",
-      "title_hash": "778a8b2a",
-      "scored_at": "2026-09-08T20:28:08.575968Z"
-    },
-    "story_8f80342078b7|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "省去手动配置 token，依赖扫描和更新流程今天就能简化。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T20:28:10.015184Z"
-    },
-    "story_16900b8aedbb|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "界面先上的话不急，等 API 开放再评估接入成本。",
-      "title_hash": "4ea1f3a9",
-      "scored_at": "2026-09-08T20:28:12.985817Z"
-    },
-    "story_d9a44d1c17f0|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "竞赛嘴仗不写代码，等论文或源码出来再说。",
-      "title_hash": "0c6ca058",
-      "scored_at": "2026-09-08T20:28:14.246605Z"
-    },
-    "story_d7d617c533bb|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "官方最佳实践，正在用 Claude API 的可以照着调参省成本。",
-      "title_hash": "06ca99ce",
-      "scored_at": "2026-09-08T20:28:16.068368Z"
-    },
-    "story_5a7121bb1c48|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "别人家的模型又秀了一把，跟你今天写代码没关系，看看就好。",
-      "title_hash": "38cb07af",
-      "scored_at": "2026-09-08T20:28:17.803276Z"
-    },
-    "story_5e97ad7fadc2|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "研究烧钱但有降本信号，目前无直接可用的工具，观望后续。",
-      "title_hash": "7d1287bd",
-      "scored_at": "2026-09-08T20:28:20.334738Z"
-    },
-    "story_433201069aa6|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "数学证明离工程落地还远，等有可用的求解库再说。",
-      "title_hash": "d919f5ce",
-      "scored_at": "2026-09-08T20:28:22.681585Z"
-    },
-    "story_8bc5596ddee1|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "口水战不解决方程，等复现结果再谈影响。",
-      "title_hash": "7ed178a3",
-      "scored_at": "2026-09-08T20:28:24.470525Z"
-    },
-    "story_0959e7bd019e|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "学术资助不产出可用的工具，开发者看个标题就行。",
-      "title_hash": "c8465a2b",
-      "scored_at": "2026-09-08T20:28:26.685232Z"
-    },
-    "story_ffc737da7bf9|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "研究结论偏学术，对调参选型无直接帮助，但提示数据质量仍是瓶颈。",
-      "title_hash": "e9e1f158",
-      "scored_at": "2026-09-08T20:28:28.144440Z"
-    },
-    "story_53b776c9c7b0|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "案例参考，说明 Codex 在真实工程中有效，但收益因场景而异，不必急着抄。",
-      "title_hash": "38dc08a5",
-      "scored_at": "2026-09-08T20:28:30.768118Z"
-    },
-    "story_8f80342078b7|cynic|f4237a62": {
-      "score": 78,
-      "review": "省了手动配令牌的小事，也算踏实改进，但别叫革命。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T20:28:32.230093Z"
-    },
-    "story_8f80342078b7|paper-police|966065bf": {
-      "score": 52,
-      "review": "官方changelog给出功能细节，但无代码或独立验证，需实际环境测试。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T20:28:34.771094Z"
-    },
-    "story_16900b8aedbb|cynic|f4237a62": {
-      "score": 50,
-      "review": "版本号跳得勤，渲染细节提升多少？给个基准对比再喊。",
-      "title_hash": "4ea1f3a9",
-      "scored_at": "2026-09-08T20:28:37.154117Z"
-    },
-    "story_16900b8aedbb|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方公告给数字但无技术细节与第三方评测，等基准或论文再验真伪。",
-      "title_hash": "4ea1f3a9",
-      "scored_at": "2026-09-08T20:28:39.088880Z"
-    },
     "story_cca71c225d5c|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "自托管企业版发新版本，升级前先查变更日志和兼容性。",
@@ -5750,10 +5654,10 @@
       "scored_at": "2026-09-29T19:47:01.737035Z"
     },
     "story_62f99abb249e|pragmatic|0a5c5b24": {
-      "score": 86,
-      "review": "新模型直接进 Codex，今天就能切过去跑一轮对比，看值不值得换默认。",
-      "title_hash": "0a078b93",
-      "scored_at": "2026-09-29T19:47:03.124861Z"
+      "score": 87,
+      "review": "Codex 里换模型即可上手，先拿真实任务比一下质量和延迟再决定迁移。",
+      "title_hash": "9e17afe8",
+      "scored_at": "2026-09-29T21:47:02.466999Z"
     },
     "story_a12eaf57e6f0|pragmatic|0a5c5b24": {
       "score": 82,
@@ -5856,6 +5760,24 @@
       "review": "仅一条官方推文，无论文、无仓库、无评测数字，光发型号名不算证据。",
       "title_hash": "7539838f",
       "scored_at": "2026-09-29T19:47:34.292303Z"
+    },
+    "story_d4acd3dc42b9|pragmatic|0a5c5b24": {
+      "score": 18,
+      "review": "融资估值再高也不改 API 价格，等你手上的账单降了再说。",
+      "title_hash": "22fece44",
+      "scored_at": "2026-09-29T21:47:03.309173Z"
+    },
+    "story_3423c7e03c01|pragmatic|0a5c5b24": {
+      "score": 46,
+      "review": "第三方安全评测，今天不改任何接口；真要上生产就自己加护栏，别等公告。",
+      "title_hash": "1d56487f",
+      "scored_at": "2026-09-29T21:47:05.047901Z"
+    },
+    "story_b740e7f2bda0|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "私有 registry 或网络受限的团队，现在能把 Dependabot 指到自建 runner，配置即可生效。",
+      "title_hash": "efa1d2d1",
+      "scored_at": "2026-09-29T21:47:06.561433Z"
     }
   }
 }
