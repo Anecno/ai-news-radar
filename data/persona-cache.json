@@ -1,84 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_93b4d1afb6fc|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "融资数字不写代码，等开源权重和 API 落地再看。",
-      "title_hash": "1644750b",
-      "scored_at": "2026-09-08T10:06:44.422083Z"
-    },
-    "story_c12e0d8f1817|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "学术结果和沟通八卦，不写代码不用管，围观即可。",
-      "title_hash": "997807c7",
-      "scored_at": "2026-09-08T10:06:47.245900Z"
-    },
-    "story_bbef342e3266|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景宏大但没代码可写，芯片瓶颈是老生常谈，等真能治癌再说。",
-      "title_hash": "05f7b306",
-      "scored_at": "2026-09-08T10:06:49.389413Z"
-    },
-    "story_2a18f45ec375|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "写作风格克隆对内容批量生产有用，但先确认API开没开。",
-      "title_hash": "6e1c210b",
-      "scored_at": "2026-09-08T10:06:51.228067Z"
-    },
-    "story_5a74dd9516c1|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "招人是公司家事，后端重写也是他们的事，跟你的项目无关。",
-      "title_hash": "409d48ee",
-      "scored_at": "2026-09-08T10:06:52.826432Z"
-    },
-    "story_c4fe9c5ef178|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "招人表态而已，没有产品接口可上，等实际动作再说。",
-      "title_hash": "09a21e8c",
-      "scored_at": "2026-09-08T10:06:55.368403Z"
-    },
-    "story_b8ab7c1cffe5|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "封闭测试阶段，拿不到测试资格前对你没实际用处，等公开。",
-      "title_hash": "eb2863d2",
-      "scored_at": "2026-09-08T10:06:57.709598Z"
-    },
-    "story_c2b11cb2bdaf|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "概念演示，暂无上手路径，等开放再看。",
-      "title_hash": "e54bec71",
-      "scored_at": "2026-09-08T10:06:59.550779Z"
-    },
-    "story_02408f2e99e2|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "警告不写代码，红线要落地成条款才有用。",
-      "title_hash": "d93b1ea2",
-      "scored_at": "2026-09-08T10:07:00.646078Z"
-    },
-    "story_540d9571c139|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "没有接口细节和落地时间，先观望，别急着改工作流。",
-      "title_hash": "5cb9b0d7",
-      "scored_at": "2026-09-08T10:07:04.154078Z"
-    },
-    "story_a50e1ce26ddb|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "自主agent跑业务翻车，提醒商用前得加护栏，暂无直接可用的工具。",
-      "title_hash": "f2f604b7",
-      "scored_at": "2026-09-08T10:07:06.412983Z"
-    },
-    "story_2a18f45ec375|cynic|f4237a62": {
-      "score": 55,
-      "review": "克隆写作风格？先让它在长文里不跑偏再说。",
-      "title_hash": "6e1c210b",
-      "scored_at": "2026-09-08T10:07:07.771612Z"
-    },
-    "story_2a18f45ec375|paper-police|966065bf": {
-      "score": 22,
-      "review": "仅凭官方宣传，无技术细节或测试样本，风格克隆需实际评测。",
-      "title_hash": "6e1c210b",
-      "scored_at": "2026-09-08T10:07:09.842069Z"
-    },
     "story_613d849d5200|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "内测未开放，先别改代码；公开API后再看性价比。",
@@ -5832,6 +5754,36 @@
       "review": "半价逼近 Opus 性能，今天就该跑一遍自己的评测集看能不能换掉贵模型。",
       "title_hash": "072744fd",
       "scored_at": "2026-09-29T07:19:01.374700Z"
+    },
+    "story_4015f64ac105|pragmatic|0a5c5b24": {
+      "score": 26,
+      "review": "安全论证白皮书，没接口没代码，做交付的看了也改不了今天的活儿。",
+      "title_hash": "32d26404",
+      "scored_at": "2026-09-29T11:44:27.176789Z"
+    },
+    "story_9acb3a49f4d3|pragmatic|0a5c5b24": {
+      "score": 48,
+      "review": "只是停发，没有可用的东西；选型和排期照旧按现有模型走，别等。",
+      "title_hash": "2b1ac7d1",
+      "scored_at": "2026-09-29T11:44:28.849420Z"
+    },
+    "story_295d80b95c35|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "嵌了这些对话 AI 组件的产品得查隐私合规；没现成补丁，先自查数据流向。",
+      "title_hash": "2f60f9cf",
+      "scored_at": "2026-09-29T11:44:32.209348Z"
+    },
+    "story_4db8fe1c85aa|pragmatic|0a5c5b24": {
+      "score": 27,
+      "review": "并购+人事，今天不改变任何 API 或工具，等整合结果再说。",
+      "title_hash": "d47a0b60",
+      "scored_at": "2026-09-29T11:44:33.767078Z"
+    },
+    "story_110e2c0f1528|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "新模型真上线就去换掉旧版跑 agent 任务，但只有一条演示推文，先自己验一下再说。",
+      "title_hash": "5a5754d1",
+      "scored_at": "2026-09-29T11:44:35.379965Z"
     }
   }
 }

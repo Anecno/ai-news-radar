@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 06:59:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 11:22:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
@@ -48,14 +48,6 @@
 <pubDate>Mon, 28 Sep 2026 21:40:50 +0000</pubDate>
 </item>
 <item>
-<title>H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents</title>
-<link>https://huggingface.co/blog/Hcompany/holo4</link>
-<guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
-<description>权重已放 HF，做 GUI 自动化的今天就能拉下来试跑，27B 本地也能部署。（Hugging Face Blog）</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
-</item>
-<item>
 <title>路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.</title>
 <link>https://x.com/rohanpaul_ai/status/2104758396474057192</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104758396474057192</guid>
@@ -70,6 +62,22 @@
 <description>做 Agent 的把九起案例当威胁模型抄，沙盒和注入防护该补了；不做的人跳过。（TechCrunch：AI（RSS））</description>
 <category>多源热议</category>
 <pubDate>Mon, 28 Sep 2026 23:56:18 +0000</pubDate>
+</item>
+<item>
+<title>迈向前沿 AI 训练的安全论证 / Towards safety cases for frontier AI training</title>
+<link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+<guid isPermaLink="true">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
+<description>安全论证白皮书，没接口没代码，做交付的看了也改不了今天的活儿。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布 / GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet</title>
+<link>https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet</link>
+<guid isPermaLink="true">https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet</guid>
+<description>只是停发，没有可用的东西；选型和排期照旧按现有模型走，别等。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 08:26:38 +0000</pubDate>
 </item>
 <item>
 <title>Self-hosted runner 版本强制执行日期已变更 / Self-hosted runner version enforcement date has moved</title>
@@ -88,6 +96,14 @@
 <pubDate>Tue, 29 Sep 2026 00:55:47 +0000</pubDate>
 </item>
 <item>
+<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
+<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
+<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
+<description>嵌了这些对话 AI 组件的产品得查隐私合规；没现成补丁，先自查数据流向。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Tue, 29 Sep 2026 09:03:41 +0000</pubDate>
+</item>
+<item>
 <title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
 <link>https://x.com/ClaudeDevs/status/2104641318555353400</link>
 <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2104641318555353400</guid>
@@ -96,12 +112,12 @@
 <pubDate>Mon, 28 Sep 2026 18:36:07 +0000</pubDate>
 </item>
 <item>
-<title>World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家 / World Labs Is Joining AMD</title>
-<link>https://www.worldlabs.ai/blog/amd-announcement</link>
-<guid isPermaLink="true">https://www.worldlabs.ai/blog/amd-announcement</guid>
-<description>人事和收购而已，AMD 的 AI 路线图落到 API 或芯片选型上还早，今天不用管。（Hacker News：AI 热帖）</description>
+<title>AMD 82 亿美元全股票吞下World Labs，李飞飞挂帅执行副总裁</title>
+<link>https://www.aibase.com/news/31415</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31415</guid>
+<description>并购+人事，今天不改变任何 API 或工具，等整合结果再说。（AIbase）</description>
 <category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 22:08:12 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 11:22:28 +0000</pubDate>
 </item>
 <item>
 <title>AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs / AMD is acquiring AI company World Labs in a deal worth more than $8 billion</title>
@@ -120,14 +136,6 @@
 <pubDate>Tue, 29 Sep 2026 00:58:38 +0000</pubDate>
 </item>
 <item>
-<title>Lenfest Institute 获 OpenAI 扩大支持，里程碑项目再扩容 / The Lenfest Institute grows landmark program with expanded OpenAI support</title>
-<link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-<guid isPermaLink="true">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
-<description>OpenAI 给新闻机构送钱送资源，跟写代码的没关系，等出工具再说。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...</title>
 <link>https://x.com/ArtificialAnlys/status/2104640155843989864</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2104640155843989864</guid>
@@ -136,36 +144,28 @@
 <pubDate>Mon, 28 Sep 2026 18:31:30 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic抢在OpenAI开发者大会前甩出Claude Sonnet 5.5，一半价格逼近Opus、还通关了宝可梦</title>
-<link>https://www.aibase.com/news/31403</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31403</guid>
-<description>半价逼近 Opus 性能，今天就该跑一遍自己的评测集看能不能换掉贵模型。（AIbase）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 06:59:08 +0000</pubDate>
-</item>
-<item>
-<title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
-<link>https://x.com/JensenHuang/status/2104499465055023424</link>
-<guid isPermaLink="true">https://x.com/JensenHuang/status/2104499465055023424</guid>
-<description>做 Agent 的早晚要补安全护栏，但眼下只是官宣，等仓库和接入文档出来再动手。（X：Jensen Huang (@JensenHuang)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task</title>
-<link>https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task</link>
-<guid isPermaLink="true">https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task</guid>
-<description>基准逼近旗舰还便宜三成，主力模型可以直接换，换前跑一遍自家 eval 就行。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:02:10 +0000</pubDate>
-</item>
-<item>
 <title>Claude Sonnet 5.5 发布：比 Sonnet 5 快 30% 以上，多数工作成本降低至多 30% / A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token c...</title>
 <link>https://x.com/trq212/status/2104660926373023830</link>
 <guid isPermaLink="true">https://x.com/trq212/status/2104660926373023830</guid>
 <description>快三成、省三成，若属实今天就能换模型降账单；但单一 X 爆料，先自测再切生产。（X：Thariq (@trq212)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 19:54:02 +0000</pubDate>
+</item>
+<item>
+<title>Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug / Sonnet 5.5 fixing a bug with Claude Code.</title>
+<link>https://x.com/bcherny/status/2104638725317923228</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2104638725317923228</guid>
+<description>新模型真上线就去换掉旧版跑 agent 任务，但只有一条演示推文，先自己验一下再说。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
+<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
+<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
+<description>新模型已能调，接口现成，拿自己的评测集跑一遍再决定换不换。（X：Anthropic (@AnthropicAI)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
