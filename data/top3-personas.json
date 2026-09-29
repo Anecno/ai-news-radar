@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:28:32.443493Z",
+  "generated_at": "2026-09-29T19:47:34.292355Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_9c7e3615c5ec",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "story_id": "story_5e8fdb7e624e",
+      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 67,
-          "review": "「最多降30%」——基准版本和任务分布都不提，省下的成本里有一半是营销部的。"
+          "score": 54,
+          "review": "官方 changelog 只报型号和版本号，能力涨没涨全靠用户自己试。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "只有官方页面自报增速降本，无论文无开源无第三方复现，HN 热议不等于验证。"
+          "score": 22,
+          "review": "官方更新页只说了上线，无评测数字无模型细节，等跑分和第三方验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "换模型就能省三成账单、快三成，今天跑一遍回归测试即可切换。"
+          "score": 88,
+          "review": "Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。"
         }
       }
     },
     {
-      "story_id": "story_affa87113115",
-      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
-      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "story_id": "story_4fbbd781192d",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "「最多快30%、最多省30%」，两个「最多」都是自家上一代当基线，跑分表呢？"
+          "score": 63,
+          "review": "20 项更新里能进明年 PPT 的有几项？常驻智能体先证明自己能记住三句话。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方推文只给了30%数字，无评测方法论、无第三方复现，等benchmark再算数。"
+          "score": 33,
+          "review": "官方 recap 只列发布清单，无模型卡、无代码、无第三方跑分，复现无从下手。"
         },
         "pragmatic": {
-          "score": 89,
-          "review": "新模型已可切，提速三成还省三成账单，Claude Code 额度立刻更耐用。"
+          "score": 88,
+          "review": "新模型和常驻智能体若能当天开放API，就先拿来跑一遍benchmark再决定换不换。"
         }
       }
     },
     {
-      "story_id": "story_aa79f4494bfb",
-      "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:",
-      "url": "https://x.com/ClaudeDevs/status/2104687805876367793",
+      "story_id": "story_ff8d2de99148",
+      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
+      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 48,
-          "review": "发布公告先推教程，跑分、价格、上下文一个没提——版本号涨得比参数快。"
+          "review": "就一条推文官宣，benchmark 一个没贴，.1 的版本号也撑不起 \"Sol\" 这后缀。"
         },
         "paper-police": {
-          "score": 32,
-          "review": "仅一条官方推文加使用指南，无论文无基准跑分，复现无从谈起。"
+          "score": 28,
+          "review": "仅一条官方推文，无论文、无仓库、无评测数字，光发型号名不算证据。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "新模型已上线还配了官方指南，今天就能拿现有 prompt 去跑对比，重点看价格和上下文变化。"
+          "review": "新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。"
         }
       }
     }

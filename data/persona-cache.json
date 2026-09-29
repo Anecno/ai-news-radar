@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_e9c8b7eef4d1|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "安全对齐的方法讨论，无直接可用工具，做安全研究的可读，普通开发者暂不用动。",
-      "title_hash": "ff3dd929",
-      "scored_at": "2026-09-08T15:33:25.553538Z"
-    },
-    "story_be047988843b|pragmatic|0a5c5b24": {
-      "score": 40,
-      "review": "官方展望类文章，无具体 API 或工具细节，暂不行动。",
-      "title_hash": "bf356f33",
-      "scored_at": "2026-09-08T15:33:29.286583Z"
-    },
-    "story_a927f6f1604a|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "科研图谱，暂无API开放，生信从业者可留意后续数据集，其余人围观即可。",
-      "title_hash": "db9cf9e9",
-      "scored_at": "2026-09-08T15:33:32.210059Z"
-    },
-    "story_bac4ec48b080|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "公关向的行业合作，没有开放API或工具，开发者无需行动。",
-      "title_hash": "26041a28",
-      "scored_at": "2026-09-08T15:33:38.381596Z"
-    },
-    "story_e652a38ce576|pragmatic|0a5c5b24": {
-      "score": 80,
-      "review": "开源可克隆的多智能体交易框架，适合跑模拟，实盘前先充分回测。",
-      "title_hash": "a5211ea4",
-      "scored_at": "2026-09-08T15:33:40.135575Z"
-    },
-    "story_7874794ade94|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "下载量记录是市场情绪，不改变功能，开发者无需为此调整选型。",
-      "title_hash": "3d09b7d4",
-      "scored_at": "2026-09-08T15:33:41.820527Z"
-    },
-    "story_e652a38ce576|cynic|f4237a62": {
-      "score": 45,
-      "review": "LLM炒股不新鲜，回测跑赢不算数，先晒实盘净值再吹。",
-      "title_hash": "a5211ea4",
-      "scored_at": "2026-09-08T15:33:46.054401Z"
-    },
-    "story_e652a38ce576|paper-police|966065bf": {
-      "score": 55,
-      "review": "代码开源可查，但无论文和独立基准，跑分前难下结论。",
-      "title_hash": "a5211ea4",
-      "scored_at": "2026-09-08T15:33:50.385062Z"
-    },
     "story_dc315e1882c1|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "数学突破目前不落地，等开放细节或相关工具再看。",
@@ -5772,6 +5724,138 @@
       "review": "验证思路值得读，但只是博客没开源代码，暂时抄不了，等项目落地再动手。",
       "title_hash": "c08617b5",
       "scored_at": "2026-09-29T14:28:32.443270Z"
+    },
+    "story_632fc8ebf5dc|pragmatic|0a5c5b24": {
+      "score": 87,
+      "review": "新模型已上线就能调用，先拿自己的主力任务跑一轮对比再决定要不要切。",
+      "title_hash": "b55646ea",
+      "scored_at": "2026-09-29T19:46:56.734799Z"
+    },
+    "story_5e8fdb7e624e|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。",
+      "title_hash": "b25a4d24",
+      "scored_at": "2026-09-29T19:46:57.796036Z"
+    },
+    "story_83e2e2180846|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "官网就放了个名字，没接口没参数，等能真跑起来再回来看。",
+      "title_hash": "f7983887",
+      "scored_at": "2026-09-29T19:47:00.651287Z"
+    },
+    "story_ff8d2de99148|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。",
+      "title_hash": "7539838f",
+      "scored_at": "2026-09-29T19:47:01.737035Z"
+    },
+    "story_62f99abb249e|pragmatic|0a5c5b24": {
+      "score": 86,
+      "review": "新模型直接进 Codex，今天就能切过去跑一轮对比，看值不值得换默认。",
+      "title_hash": "0a078b93",
+      "scored_at": "2026-09-29T19:47:03.124861Z"
+    },
+    "story_a12eaf57e6f0|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "表格任务多了个开源强基线，可直接拉下来跑；换生产前先用自家数据验一遍。",
+      "title_hash": "4971083c",
+      "scored_at": "2026-09-29T19:47:04.481499Z"
+    },
+    "story_ea535c078900|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "GitHub 能把外部系统（如 IdP）的元数据同步成仓库属性，做合规分组和批量策略的团队可以配置起来了。",
+      "title_hash": "31191fd7",
+      "scored_at": "2026-09-29T19:47:06.434318Z"
+    },
+    "story_9701b68169f6|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "榜单第4名说明网页代码能力在线，但选型还得自己拿真实需求跑一遍，别只看分数。",
+      "title_hash": "8e65d031",
+      "scored_at": "2026-09-29T19:47:08.030544Z"
+    },
+    "story_275cdbd3d9e4|pragmatic|0a5c5b24": {
+      "score": 24,
+      "review": "招人和十年愿景跟你今天的代码无关，等并购落地看接口和定价变不变。",
+      "title_hash": "d593d77f",
+      "scored_at": "2026-09-29T19:47:09.362080Z"
+    },
+    "story_df96b073d4af|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "推迟发布不改变今天能用的东西，API 没变、价格没变，等真上线再评。",
+      "title_hash": "fb5be281",
+      "scored_at": "2026-09-29T19:47:10.087295Z"
+    },
+    "story_4958fb2aa897|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "Codex CLI 例行小版本，用的人扫一眼 changelog 就行，没踩旧 bug 不必急着升。",
+      "title_hash": "2488114f",
+      "scored_at": "2026-09-29T19:47:12.492160Z"
+    },
+    "story_85bf56f12422|pragmatic|0a5c5b24": {
+      "score": 74,
+      "review": "企业协作和插件扩展算实打实，但具体权限与定价未明，先看清再接入。",
+      "title_hash": "260c4377",
+      "scored_at": "2026-09-29T19:47:16.390401Z"
+    },
+    "story_887ed3023b60|pragmatic|0a5c5b24": {
+      "score": 38,
+      "review": "用户数官宣，不降价格不发接口，对写代码的没半点可操作性。",
+      "title_hash": "53d3408c",
+      "scored_at": "2026-09-29T19:47:17.375390Z"
+    },
+    "story_47cf4c0e2552|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "跨端框架选型风向在变，但没具体工具或价格变化，先别急着重构。",
+      "title_hash": "025707f7",
+      "scored_at": "2026-09-29T19:47:18.898632Z"
+    },
+    "story_98244353a42e|pragmatic|0a5c5b24": {
+      "score": 63,
+      "review": "订阅额度能跨 60 个产品用，省得再单独付费；但名单和限制没细说，先观望落地。",
+      "title_hash": "66708ff3",
+      "scored_at": "2026-09-29T19:47:20.774106Z"
+    },
+    "story_4fbbd781192d|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型和常驻智能体若能当天开放API，就先拿来跑一遍benchmark再决定换不换。",
+      "title_hash": "a17d904d",
+      "scored_at": "2026-09-29T19:47:22.027979Z"
+    },
+    "story_5e8fdb7e624e|cynic|f4237a62": {
+      "score": 54,
+      "review": "官方 changelog 只报型号和版本号，能力涨没涨全靠用户自己试。",
+      "title_hash": "b25a4d24",
+      "scored_at": "2026-09-29T19:47:24.485870Z"
+    },
+    "story_5e8fdb7e624e|paper-police|966065bf": {
+      "score": 22,
+      "review": "官方更新页只说了上线，无评测数字无模型细节，等跑分和第三方验证。",
+      "title_hash": "b25a4d24",
+      "scored_at": "2026-09-29T19:47:26.354060Z"
+    },
+    "story_4fbbd781192d|cynic|f4237a62": {
+      "score": 63,
+      "review": "20 项更新里能进明年 PPT 的有几项？常驻智能体先证明自己能记住三句话。",
+      "title_hash": "a17d904d",
+      "scored_at": "2026-09-29T19:47:28.850274Z"
+    },
+    "story_4fbbd781192d|paper-police|966065bf": {
+      "score": 33,
+      "review": "官方 recap 只列发布清单，无模型卡、无代码、无第三方跑分，复现无从下手。",
+      "title_hash": "a17d904d",
+      "scored_at": "2026-09-29T19:47:30.520207Z"
+    },
+    "story_ff8d2de99148|cynic|f4237a62": {
+      "score": 48,
+      "review": "就一条推文官宣，benchmark 一个没贴，.1 的版本号也撑不起 \"Sol\" 这后缀。",
+      "title_hash": "7539838f",
+      "scored_at": "2026-09-29T19:47:32.788457Z"
+    },
+    "story_ff8d2de99148|paper-police|966065bf": {
+      "score": 28,
+      "review": "仅一条官方推文，无论文、无仓库、无评测数字，光发型号名不算证据。",
+      "title_hash": "7539838f",
+      "scored_at": "2026-09-29T19:47:34.292303Z"
     }
   }
 }
