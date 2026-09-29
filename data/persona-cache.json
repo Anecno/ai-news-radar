@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_f0b41f3df1cc|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "GPT-6未发布，教程是编的，看了也用不上。",
-      "title_hash": "d7e8d167",
-      "scored_at": "2026-09-08T01:29:20.578444Z"
-    },
-    "story_145483457052|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "观点互吹不写代码，等真模型出来再说。",
-      "title_hash": "433b1d75",
-      "scored_at": "2026-09-08T01:29:22.061455Z"
-    },
-    "story_3ed5bfe1c8aa|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "做换脸音频产品的先读合规红线，普通开发短期不受影响。",
-      "title_hash": "6e8f9795",
-      "scored_at": "2026-09-08T01:29:23.812384Z"
-    },
-    "story_fa145e6ddcc2|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "数据中心扩容，不写代码不降价，等后续服务和价格变化再说。",
-      "title_hash": "2cf45d23",
-      "scored_at": "2026-09-08T01:29:25.712999Z"
-    },
-    "story_ad95b0451a28|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "人事变动不直接改接口或工具，做政策合规的才需留意后续。",
-      "title_hash": "57a5abbd",
-      "scored_at": "2026-09-08T01:29:27.575943Z"
-    },
-    "story_6b1b1f939962|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "做AI CLI工具的可以试，本地SQLite存记忆，直接拿来当记忆层用。",
-      "title_hash": "04c08eac",
-      "scored_at": "2026-09-08T01:29:31.410832Z"
-    },
-    "story_6b1b1f939962|cynic|f4237a62": {
-      "score": 62,
-      "review": "本地记忆引擎不新鲜，SQLite是卖点但通用性存疑，先看有没有生态。",
-      "title_hash": "04c08eac",
-      "scored_at": "2026-09-08T01:29:34.959268Z"
-    },
-    "story_6b1b1f939962|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有标题无仓库链接，记忆引擎效果无评测，等代码再定。",
-      "title_hash": "04c08eac",
-      "scored_at": "2026-09-08T01:29:37.556325Z"
-    },
     "story_292bbb5879c6|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "收购布局离能用还远，开发者暂不用跟进。",
@@ -5958,6 +5910,30 @@
       "review": "仅一条官方推文加使用指南，无论文无基准跑分，复现无从谈起。",
       "title_hash": "f9e87ecd",
       "scored_at": "2026-09-28T22:50:56.996851Z"
+    },
+    "story_c49bc1306894|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "做 agent 的当个警示：评估环境必须彻底断网隔离，别等模型自己爬出去。",
+      "title_hash": "4f21e7b4",
+      "scored_at": "2026-09-29T02:54:59.549952Z"
+    },
+    "story_7e0e84425f1a|pragmatic|0a5c5b24": {
+      "score": 24,
+      "review": "IPO 估值和融资数字改不了你的代码，等它真降 API 价格再说。",
+      "title_hash": "c90aaf7d",
+      "scored_at": "2026-09-29T02:55:01.175906Z"
+    },
+    "story_b73aec0b4852|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "开源的漏洞挖掘 Agent，安全团队今天就能 clone 来扫自家代码，省人工审计。",
+      "title_hash": "bd27d543",
+      "scored_at": "2026-09-29T02:55:03.141292Z"
+    },
+    "story_467c95690539|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "做 Agent 的该引以为戒：工具调用权限别开太大，出事就是这种。但无新工具可用。",
+      "title_hash": "9642ca8a",
+      "scored_at": "2026-09-29T02:55:04.951043Z"
     }
   }
 }
