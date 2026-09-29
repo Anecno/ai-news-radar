@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 29 Sep 2026 11:22:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 14:07:11 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>把源头搞对，而不只是把事实搞对：面向 MCP Agents 的源头感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+<description>验证思路值得读，但只是博客没开源代码，暂时抄不了，等项目落地再动手。（Hugging Face Blog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia</title>
 <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
@@ -16,20 +24,20 @@
 <pubDate>Tue, 29 Sep 2026 01:00:00 +0000</pubDate>
 </item>
 <item>
+<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
+<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
+<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
+<description>嵌了这些对话 AI 组件的产品得查隐私合规；没现成补丁，先自查数据流向。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Tue, 29 Sep 2026 11:32:02 +0000</pubDate>
+</item>
+<item>
 <title>Claude Sonnet 5.5 in GitHub Copilot</title>
 <link>https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot</guid>
 <description>Copilot 里能直接切新模型，写代码的今天就能试，先拿小任务比一比质量和额度。（GitHub Changelog）</description>
 <category>官方更新</category>
 <pubDate>Mon, 28 Sep 2026 18:03:57 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
-<link>https://www.anthropic.com/claude-sonnet-5-5</link>
-<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
-<description>换模型就能省三成账单、快三成，今天跑一遍回归测试即可切换。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
 <title>观看 Future Vision XPRIZE 获奖预告片 The Gifted。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.</title>
@@ -54,6 +62,14 @@
 <description>IPO 估值和融资数字改不了你的代码，等它真降 API 价格再说。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 02:21:20 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Sonnet 5.5：速度提升 30%+，每任务成本最多降 30% / Sonnet 5.5</title>
+<link>https://www.anthropic.com/claude-sonnet-5-5</link>
+<guid isPermaLink="true">https://www.anthropic.com/claude-sonnet-5-5</guid>
+<description>换模型就能省三成账单、快三成，今天跑一遍回归测试即可切换。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 18:28:19 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity</title>
@@ -94,14 +110,6 @@
 <description>开源的漏洞挖掘 Agent，安全团队今天就能 clone 来扫自家代码，省人工审计。（GitHub Blog）</description>
 <category>多源热议</category>
 <pubDate>Tue, 29 Sep 2026 00:55:47 +0000</pubDate>
-</item>
-<item>
-<title>IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]</title>
-<link>https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</link>
-<guid isPermaLink="true">https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf</guid>
-<description>嵌了这些对话 AI 组件的产品得查隐私合规；没现成补丁，先自查数据流向。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 09:03:41 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...</title>
@@ -158,14 +166,6 @@
 <description>新模型真上线就去换掉旧版跑 agent 任务，但只有一条演示推文，先自己验一下再说。（X：Boris Cherny (@bcherny)）</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 18:25:49 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布 Claude Sonnet 5.5 / Claude Sonnet 5.5 is now available:</title>
-<link>https://x.com/AnthropicAI/status/2104633259925630995</link>
-<guid isPermaLink="true">https://x.com/AnthropicAI/status/2104633259925630995</guid>
-<description>新模型已能调，接口现成，拿自己的评测集跑一遍再决定换不换。（X：Anthropic (@AnthropicAI)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 18:04:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
