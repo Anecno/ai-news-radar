@@ -1,77 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_cca71c225d5c|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "自托管企业版发新版本，升级前先查变更日志和兼容性。",
-      "title_hash": "0c2c76d8",
-      "scored_at": "2026-09-08T23:55:58.266098Z"
-    },
-    "story_d1fac00d58a7|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "文档入口搬家，找帮助记得更新书签，不影响写代码。",
-      "title_hash": "38e7b16b",
-      "scored_at": "2026-09-09T01:42:43.175421Z"
-    },
     "story_6c71d9371c7c|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "量子计算实验离普通开发太远，除非你已在做量子研究，否则不用行动。",
       "title_hash": "00f4b4bf",
       "scored_at": "2026-09-09T15:44:36.550512Z"
-    },
-    "story_76849f67b060|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "剪辑软件里直接调AI生视频，省去来回导出导入，做视频的今天就能装。",
-      "title_hash": "0566a0e1",
-      "scored_at": "2026-09-08T23:56:04.281057Z"
-    },
-    "story_76849f67b060|cynic|f4237a62": {
-      "score": 68,
-      "review": "插件很实在，但只是把AI搬进了剪辑台，创意还得自己来。",
-      "title_hash": "0566a0e1",
-      "scored_at": "2026-09-08T23:56:06.405479Z"
-    },
-    "story_76849f67b060|paper-police|966065bf": {
-      "score": 30,
-      "review": "只有官方公告无第三方评测，插件功能待实测验证。",
-      "title_hash": "0566a0e1",
-      "scored_at": "2026-09-08T23:56:08.620756Z"
-    },
-    "story_96f12cb5f614|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "纯学术争议，没有可用的模型或工具，等论文和代码出来再评估。",
-      "title_hash": "d7519af2",
-      "scored_at": "2026-09-09T01:42:45.220949Z"
-    },
-    "story_c9f7e5306c31|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "科研标杆，但离工程落地远，暂不改变今日工作流。",
-      "title_hash": "16f3db0b",
-      "scored_at": "2026-09-09T01:42:47.057402Z"
-    },
-    "story_33c74780fd74|pragmatic|0a5c5b24": {
-      "score": 5,
-      "review": "GPT-6还没影，教人选推理等级纯属画饼。",
-      "title_hash": "e2ebdd53",
-      "scored_at": "2026-09-09T01:42:50.353992Z"
-    },
-    "story_33e4963166e2|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "开放体验但没给 API 细节，想上手的得等正式接口。",
-      "title_hash": "b8d3df69",
-      "scored_at": "2026-09-09T01:42:53.360207Z"
-    },
-    "story_cca71c225d5c|cynic|f4237a62": {
-      "score": 55,
-      "review": "版本号+1的例行更新，别把常规迭代当新大陆。",
-      "title_hash": "0c2c76d8",
-      "scored_at": "2026-09-09T01:42:55.921430Z"
-    },
-    "story_cca71c225d5c|paper-police|966065bf": {
-      "score": 90,
-      "review": "官方changelog发布即证据，版本具体可查，无需另行验证。",
-      "title_hash": "0c2c76d8",
-      "scored_at": "2026-09-09T01:42:58.926009Z"
     },
     "story_8876e98eb3be|pragmatic|0a5c5b24": {
       "score": 62,
@@ -5630,10 +5564,10 @@
       "scored_at": "2026-09-29T14:28:32.443270Z"
     },
     "story_632fc8ebf5dc|pragmatic|0a5c5b24": {
-      "score": 87,
-      "review": "新模型已上线就能调用，先拿自己的主力任务跑一轮对比再决定要不要切。",
-      "title_hash": "b55646ea",
-      "scored_at": "2026-09-29T19:46:56.734799Z"
+      "score": 90,
+      "review": "同档智能砍到五分之一价，今天就能切模型省账单，性价比任务直接换。",
+      "title_hash": "8ca9dfce",
+      "scored_at": "2026-09-30T02:28:42.696261Z"
     },
     "story_5e8fdb7e624e|pragmatic|0a5c5b24": {
       "score": 88,
@@ -5778,6 +5712,60 @@
       "review": "私有 registry 或网络受限的团队，现在能把 Dependabot 指到自建 runner，配置即可生效。",
       "title_hash": "efa1d2d1",
       "scored_at": "2026-09-29T21:47:06.561433Z"
+    },
+    "story_3b1c935eea0a|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "官方 agent 能直接上手就别自研调度，先拿它替掉你那套轮询循环。",
+      "title_hash": "86b5bdda",
+      "scored_at": "2026-09-30T02:28:41.322630Z"
+    },
+    "story_f4351a60220c|pragmatic|0a5c5b24": {
+      "score": 22,
+      "review": "安全内斗报道，不改变任何接口和价格，扫一眼即可，别耽误干活。",
+      "title_hash": "39c61007",
+      "scored_at": "2026-09-30T02:28:43.948390Z"
+    },
+    "story_789068731278|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资本身不影响你今天的代码，等钱变成模型降价或新接口再说。",
+      "title_hash": "b792773e",
+      "scored_at": "2026-09-30T02:28:45.008835Z"
+    },
+    "story_5c171bbabcce|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "要加内存扩存储的趁早下单，等下去只会更贵、交期更长。",
+      "title_hash": "4970cd6c",
+      "scored_at": "2026-09-30T02:28:47.120894Z"
+    },
+    "story_e0709d4e1996|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型和 API 才是唯一该看的，直接跑基准对比旧版；500 刀订阅先算用量再买。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T02:28:49.720843Z"
+    },
+    "story_4b81e15f89c2|pragmatic|0a5c5b24": {
+      "score": 86,
+      "review": "新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。",
+      "title_hash": "e00da588",
+      "scored_at": "2026-09-30T02:28:51.573002Z"
+    },
+    "story_37ac331d02c1|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "AWS 用户或能省掉单独采购 OpenAI 的麻烦，但细节没出，先别动架构。",
+      "title_hash": "c7a836aa",
+      "scored_at": "2026-09-30T02:28:53.783054Z"
+    },
+    "story_632fc8ebf5dc|cynic|f4237a62": {
+      "score": 68,
+      "review": "五分之一价格是真的，那'接近'差几个百分点？基准表不放，就是不敢放。",
+      "title_hash": "8ca9dfce",
+      "scored_at": "2026-09-30T02:28:55.476471Z"
+    },
+    "story_632fc8ebf5dc|paper-police|966065bf": {
+      "score": 32,
+      "review": "官方博客只宣称价格与智能接近，无评测方法无代码，跑分无法复现。",
+      "title_hash": "8ca9dfce",
+      "scored_at": "2026-09-30T02:28:57.782406Z"
     }
   }
 }

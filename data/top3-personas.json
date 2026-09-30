@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:47:06.561605Z",
+  "generated_at": "2026-09-30T02:28:57.782502Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_632fc8ebf5dc",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 68,
+          "review": "五分之一价格是真的，那'接近'差几个百分点？基准表不放，就是不敢放。"
+        },
+        "paper-police": {
+          "score": 32,
+          "review": "官方博客只宣称价格与智能接近，无评测方法无代码，跑分无法复现。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "同档智能砍到五分之一价，今天就能切模型省账单，性价比任务直接换。"
+        }
+      }
+    },
+    {
       "story_id": "story_5e8fdb7e624e",
       "title": "GPT-6.1 Sol in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 54,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_ff8d2de99148",
-      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
-      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 48,
-          "review": "就一条推文官宣，benchmark 一个没贴，.1 的版本号也撑不起 \"Sol\" 这后缀。"
-        },
-        "paper-police": {
-          "score": 28,
-          "review": "仅一条官方推文，无论文、无仓库、无评测数字，光发型号名不算证据。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。"
-        }
-      }
-    },
-    {
-      "story_id": "story_aa79f4494bfb",
-      "title": "Claude Sonnet 5.5 发布，官方附上开发使用指南 / Claude Sonnet 5.5 is out! We wrote a guide for building with it:",
-      "url": "https://x.com/ClaudeDevs/status/2104687805876367793",
+      "story_id": "story_4fbbd781192d",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 48,
-          "review": "发布公告先推教程，跑分、价格、上下文一个没提——版本号涨得比参数快。"
+          "score": 63,
+          "review": "20 项更新里能进明年 PPT 的有几项？常驻智能体先证明自己能记住三句话。"
         },
         "paper-police": {
-          "score": 32,
-          "review": "仅一条官方推文加使用指南，无论文无基准跑分，复现无从谈起。"
+          "score": 33,
+          "review": "官方 recap 只列发布清单，无模型卡、无代码、无第三方跑分，复现无从下手。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "新模型已上线还配了官方指南，今天就能拿现有 prompt 去跑对比，重点看价格和上下文变化。"
+          "review": "新模型和常驻智能体若能当天开放API，就先拿来跑一遍benchmark再决定换不换。"
         }
       }
     }
