@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6c71d9371c7c|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "量子计算实验离普通开发太远，除非你已在做量子研究，否则不用行动。",
-      "title_hash": "00f4b4bf",
-      "scored_at": "2026-09-09T15:44:36.550512Z"
-    },
-    "story_fee049a1c565|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "代码扫描结果能自动修了，省人工审修时间，今天就能试。",
-      "title_hash": "1ed0e7a9",
-      "scored_at": "2026-09-09T15:44:38.753622Z"
-    },
-    "story_f8d7f4981a15|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "赛事热闹但不影响选型，全民AI写应用趋势可留意，无需行动。",
-      "title_hash": "4e338f22",
-      "scored_at": "2026-09-09T15:44:40.949034Z"
-    },
-    "story_1e0e5586f10e|pragmatic|0a5c5b24": {
-      "score": 38,
-      "review": "宏观推演离代码太远，做模型选型的不必现在关心。",
-      "title_hash": "aac70c64",
-      "scored_at": "2026-09-09T15:44:42.102202Z"
-    },
-    "story_fee049a1c565|cynic|f4237a62": {
-      "score": 72,
-      "review": "能修的也就是模板化的坑，业务逻辑的洞可不敢碰。",
-      "title_hash": "1ed0e7a9",
-      "scored_at": "2026-09-09T15:44:51.836847Z"
-    },
-    "story_fee049a1c565|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方公告但无技术细节无代码复现，agentic功能真假待验证。",
-      "title_hash": "1ed0e7a9",
-      "scored_at": "2026-09-09T15:44:54.245660Z"
-    },
     "story_ea4f77cf3524|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "时间序列预测有开源新选择，商业可用，跑时序任务的可以直接试。",
@@ -5712,6 +5676,36 @@
       "review": "Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。",
       "title_hash": "c8d125ed",
       "scored_at": "2026-09-30T14:14:35.337700Z"
+    },
+    "story_0d7ed6e47e0a|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "做蛋白设计的安全团队可提前研究，普通开发者今天用不上。",
+      "title_hash": "228f4149",
+      "scored_at": "2026-09-30T17:18:14.220129Z"
+    },
+    "story_01ea8e57038e|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "小企业推广计划，没新接口没降价，开发者今天无动作可做。",
+      "title_hash": "91d4ff3a",
+      "scored_at": "2026-09-30T17:18:15.467226Z"
+    },
+    "story_855109885f33|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "选 TTS 或语音克隆模型前先来这比一比，省得自己搭评测集。",
+      "title_hash": "85a71caf",
+      "scored_at": "2026-09-30T17:18:17.377354Z"
+    },
+    "story_68bad53a3f25|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "调查不影响今天的API调用，但数据使用条款和免责声明后续可能收紧，暂无需改架构。",
+      "title_hash": "50c501a0",
+      "scored_at": "2026-09-30T17:18:19.376523Z"
+    },
+    "story_54fc7d41042a|pragmatic|0a5c5b24": {
+      "score": 68,
+      "review": "能在 Arena 免费试 48 小时摸新模型底细，但没 API 没价格，别急着改选型，等正式发布。",
+      "title_hash": "f4a4f3dc",
+      "scored_at": "2026-09-30T17:18:21.142602Z"
     }
   }
 }

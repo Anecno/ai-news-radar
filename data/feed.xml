@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 13:49:34 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 16:49:24 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol</title>
@@ -16,12 +16,36 @@
 <pubDate>Tue, 29 Sep 2026 18:27:48 +0000</pubDate>
 </item>
 <item>
+<title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
+<link>https://deepmind.google/blog/introducing-synthid-bio</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio</guid>
+<description>做蛋白设计的安全团队可提前研究，普通开发者今天用不上。（Google DeepMind）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots</title>
 <link>https://openai.com/index/introducing-dots</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
 <description>官方 agent 能直接上手就别自研调度，先拿它替掉你那套轮询循环。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
+</item>
+<item>
+<title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
+<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+<description>小企业推广计划，没新接口没降价，开发者今天无动作可做。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
+<link>https://huggingface.co/blog/open-tts-leaderboard</link>
+<guid isPermaLink="true">https://huggingface.co/blog/open-tts-leaderboard</guid>
+<description>选 TTS 或语音克隆模型前先来这比一比，省得自己搭评测集。（Hugging Face Blog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GPT-6.1 Sol 现已登陆 GitHub Copilot / GPT-6.1 Sol in GitHub Copilot</title>
@@ -32,12 +56,12 @@
 <pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
 </item>
 <item>
-<title>NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
-<link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-tabular</guid>
-<description>表格任务多了个开源强基线，可直接拉下来跑；换生产前先用自家数据验一遍。（Hugging Face Blog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
+<title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
+<link>https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</link>
+<guid isPermaLink="true">https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns</guid>
+<description>调查不影响今天的API调用，但数据使用条款和免责声明后续可能收紧，暂无需改架构。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
@@ -64,6 +88,14 @@
 <pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
 </item>
 <item>
+<title>通过外部自定义属性引入业务上下文 / Bring business context with external custom properties</title>
+<link>https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</guid>
+<description>GitHub 能把外部系统（如 IdP）的元数据同步成仓库属性，做合规分组和批量策略的团队可以配置起来了。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Tue, 29 Sep 2026 18:40:27 +0000</pubDate>
+</item>
+<item>
 <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
 <link>https://x.com/ClementDelangue/status/2105276853632094607</link>
 <guid isPermaLink="true">https://x.com/ClementDelangue/status/2105276853632094607</guid>
@@ -72,12 +104,12 @@
 <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
 </item>
 <item>
-<title>通过外部自定义属性引入业务上下文 / Bring business context with external custom properties</title>
-<link>https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</guid>
-<description>GitHub 能把外部系统（如 IdP）的元数据同步成仓库属性，做合规分组和批量策略的团队可以配置起来了。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 18:40:27 +0000</pubDate>
+<title>Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...</title>
+<link>https://x.com/arena/status/2105311267619848419</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105311267619848419</guid>
+<description>能在 Arena 免费试 48 小时摸新模型底细，但没 API 没价格，别急着改选型，等正式发布。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 14:58:15 +0000</pubDate>
 </item>
 <item>
 <title>GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨</title>
@@ -88,28 +120,12 @@
 <pubDate>Wed, 30 Sep 2026 01:40:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标 / OpenAI says planned GPT-6.1 is too insecure to release</title>
-<link>https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</link>
-<guid isPermaLink="true">https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release</guid>
-<description>推迟发布不改变今天能用的东西，API 没变、价格没变，等真上线再评。（Ars Technica：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 14:22:31 +0000</pubDate>
-</item>
-<item>
 <title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
 <link>https://www.aibase.com/news/31442</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31442</guid>
 <description>年内才上ThinQ ON，无API无开发文档，做智能家居的现在插不上手。（AIbase）</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 11:10:23 +0000</pubDate>
-</item>
-<item>
-<title>Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...</title>
-<link>https://x.com/arena/status/2104998408616558940</link>
-<guid isPermaLink="true">https://x.com/arena/status/2104998408616558940</guid>
-<description>榜单第4名说明网页代码能力在线，但选型还得自己拿真实需求跑一遍，别只看分数。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 18:15:04 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...</title>
@@ -126,14 +142,6 @@
 <description>新模型和 API 才是唯一该看的，直接跑基准对比旧版；500 刀订阅先算用量再买。（公众号：数字生命卡兹克）</description>
 <category>行业动态</category>
 <pubDate>Tue, 29 Sep 2026 21:47:43 +0000</pubDate>
-</item>
-<item>
-<title>英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor</title>
-<link>https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor</link>
-<guid isPermaLink="true">https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor</guid>
-<description>第三方安全评测，今天不改任何接口；真要上生产就自己加护栏，别等公告。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 19:24:12 +0000</pubDate>
 </item>
 <item>
 <title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
@@ -158,14 +166,6 @@
 <description>新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
 <pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
-</item>
-<item>
-<title>Dependabot 的仓库自定义运行器设置 / Repository custom runner settings for Dependabot</title>
-<link>https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot</guid>
-<description>私有 registry 或网络受限的团队，现在能把 Dependabot 指到自建 runner，配置即可生效。（GitHub Changelog）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 19:10:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
