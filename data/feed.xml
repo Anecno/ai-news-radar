@@ -5,39 +5,31 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 30 Sep 2026 16:49:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 21:26:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol</title>
-<link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-<description>五分之一价格拿到接近旗舰的智能，批量推理和 Agent 任务今天就能切过去省钱。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
+<title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
+<link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
+<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</guid>
+<description>前沿模型但只对少数网安机构定向开放，开发者拿不到 API，先别排期。（Google DeepMind）</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 18:27:48 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
-<title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
-<link>https://deepmind.google/blog/introducing-synthid-bio</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio</guid>
-<description>做蛋白设计的安全团队可提前研究，普通开发者今天用不上。（Google DeepMind）</description>
+<title>npm 可信发布新增 dist-tag 权限可选开启 / Opt-in dist-tag permissions for npm trusted publishing</title>
+<link>https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing</guid>
+<description>用 OIDC 发 npm 包的可以收窄 dist-tag 权限了；不开也没影响，等需要再配。（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots</title>
-<link>https://openai.com/index/introducing-dots</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-dots</guid>
-<description>官方 agent 能直接上手就别自研调度，先拿它替掉你那套轮询循环。（OpenAI：官网动态（RSS · 排除企业/客户案例））</description>
+<title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign</title>
+<link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+<guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+<description>只是提醒：拿 API 输出蒸馏会被封号，多数人无感，做数据爬取训练的才需查合规。（OpenAI News）</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:36:13 +0000</pubDate>
-</item>
-<item>
-<title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
-<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-<description>小企业推广计划，没新接口没降价，开发者今天无动作可做。（OpenAI News）</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
@@ -48,12 +40,44 @@
 <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.1 Sol 现已登陆 GitHub Copilot / GPT-6.1 Sol in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot</guid>
-<description>Copilot 里能直接切到新模型了，编码任务今天就能试，顺手对比下旧版手感和额度。（GitHub Changelog）</description>
+<title>HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
+<description>已上 VS Code，装完就能试；值不值得换掉现有工具，跑一遍就知道。（GitHub Changelog）</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:02:27 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 14:31:19 +0000</pubDate>
+</item>
+<item>
+<title>Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio</title>
+<link>https://deepmind.google/blog/introducing-synthid-bio</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-synthid-bio</guid>
+<description>做蛋白设计的安全团队可提前研究，普通开发者今天用不上。（Google DeepMind）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+</item>
+<item>
+<title>助力小企业将AI用起来 / Helping small businesses put AI to work</title>
+<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+<description>小企业推广计划，没新接口没降价，开发者今天无动作可做。（OpenAI News）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
+<link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</guid>
+<description>编码和电脑操作接近旗舰却只要五分之一价格，跑 Agent 和批量代码任务的今天就能换过去比账单。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
+<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
+<description>同等智力只花六成成本，跑批量推理的可以先拿自家任务实测再决定换不换。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
 <title>FTC 以消费者保护为由对 OpenAI、Anthropic 等 AI 实验室启动全面调查 / FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns</title>
@@ -64,20 +88,20 @@
 <pubDate>Wed, 30 Sep 2026 16:20:04 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.</title>
-<link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
-<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2104993035507712318</guid>
-<description>新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。（X：OpenAI Developers (@OpenAIDevs)）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 17:53:43 +0000</pubDate>
+<title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
+<link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</guid>
+<description>自愿签字没有执法牙齿，API 和模型能力不会因此变，等你被合规要求卡住再回来看。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation</title>
-<link>https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation</guid>
-<description>融资本身不影响你今天的代码，等钱变成模型降价或新接口再说。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 19:52:37 +0000</pubDate>
+<title>GitHub Advanced Security trials for GitHub Team</title>
+<link>https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team</guid>
+<description>Team 版可白嫖试用代码扫描和密钥扫描，小团队先开 trial 验证，别急着升企业版。（GitHub Changelog）</description>
+<category>官方更新</category>
+<pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 <item>
 <title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
@@ -88,12 +112,12 @@
 <pubDate>Wed, 30 Sep 2026 01:48:21 +0000</pubDate>
 </item>
 <item>
-<title>通过外部自定义属性引入业务上下文 / Bring business context with external custom properties</title>
-<link>https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties</guid>
-<description>GitHub 能把外部系统（如 IdP）的元数据同步成仓库属性，做合规分组和批量策略的团队可以配置起来了。（GitHub Changelog）</description>
+<title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
+<link>https://x.com/OpenAIDevs/status/2105073621144338660</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2105073621144338660</guid>
+<description>新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 18:40:27 +0000</pubDate>
+<pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
 </item>
 <item>
 <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
@@ -104,12 +128,12 @@
 <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
 </item>
 <item>
-<title>Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...</title>
-<link>https://x.com/arena/status/2105311267619848419</link>
-<guid isPermaLink="true">https://x.com/arena/status/2105311267619848419</guid>
-<description>能在 Arena 免费试 48 小时摸新模型底细，但没 API 没价格，别急着改选型，等正式发布。（X：Arena (@arena)）</description>
+<title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
+<link>https://x.com/arena/status/2105367591174995999</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105367591174995999</guid>
+<description>榜单第三＋$8/MToken 混合价，选型时可以纳入比价，但不是非换不可。（X：Arena (@arena)）</description>
 <category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 14:58:15 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 18:42:04 +0000</pubDate>
 </item>
 <item>
 <title>GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨</title>
@@ -120,6 +144,14 @@
 <pubDate>Wed, 30 Sep 2026 01:40:59 +0000</pubDate>
 </item>
 <item>
+<title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....</title>
+<link>https://x.com/AravSrinivas/status/2105369479190601754</link>
+<guid isPermaLink="true">https://x.com/AravSrinivas/status/2105369479190601754</guid>
+<description>免账号邮件下任务还限时免费，今天就能把杂活丢给它试水。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 18:49:34 +0000</pubDate>
+</item>
+<item>
 <title>LG 联手微软秀智能家居语音助手：可中途"插话"，年内登陆 ThinQ ON</title>
 <link>https://www.aibase.com/news/31442</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31442</guid>
@@ -128,44 +160,12 @@
 <pubDate>Wed, 30 Sep 2026 11:10:23 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...</title>
-<link>https://x.com/rohanpaul_ai/status/2105017898343575731</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105017898343575731</guid>
-<description>融资估值再高也不改 API 价格，等你手上的账单降了再说。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<title>Jensen Huang 称行业领袖在白宫签署超级智能协定 / Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.</title>
+<link>https://x.com/JensenHuang/status/2105348324484342238</link>
+<guid isPermaLink="true">https://x.com/JensenHuang/status/2105348324484342238</guid>
+<description>协定签了也不改你的 API 和账单，等有具体条款或限制落地再说。（X：Jensen Huang (@JensenHuang)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 19:32:30 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a&amp;chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&amp;scene=126&amp;sessionid=1790722837</guid>
-<description>新模型和 API 才是唯一该看的，直接跑基准对比旧版；500 刀订阅先算用量再买。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Tue, 29 Sep 2026 21:47:43 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&amp;mid=2247488041&amp;idx=1&amp;sn=e895cef2129ff2a96598d78b5a45c17b&amp;chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&amp;scene=126&amp;sessionid=1790772500</guid>
-<description>Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。（公众号：蚂蚁百灵（Ling））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 12:30:49 +0000</pubDate>
-</item>
-<item>
-<title>PromptArmor 披露 Copilot Cowork AI 网关被劫持绕过沙箱外传文件漏洞 / Hijacking Copilot Cowork's AI Gateway to Bypass Sandboxing and Exfiltrate Files</title>
-<link>https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</link>
-<guid isPermaLink="true">https://www.promptarmor.com/resources/hijacking-copilot-coworks-ai-gateway-to-exfiltrate-files</guid>
-<description>用 Copilot Cowork 或自建 Agent 网关的，先按它说的查缓解措施；提示注入绕过沙箱外传是通用设计坑。（PromptArmor：Threat Intelligence）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.</title>
-<link>https://x.com/OpenAIDevs/status/2105073621144338660</link>
-<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2105073621144338660</guid>
-<description>新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。（X：OpenAI Developers (@OpenAIDevs)）</description>
-<category>官方更新</category>
-<pubDate>Tue, 29 Sep 2026 23:13:56 +0000</pubDate>
+<pubDate>Wed, 30 Sep 2026 17:25:30 +0000</pubDate>
 </item>
 </channel>
 </rss>
