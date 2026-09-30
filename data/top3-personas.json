@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:09:37.594941Z",
+  "generated_at": "2026-09-30T11:23:10.398953Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_632fc8ebf5dc",
+      "story_id": "story_029576264b8e",
       "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "五分之一价格是真的，那'接近'差几个百分点？基准表不放，就是不敢放。"
+          "score": 63,
+          "review": "价格砍到五分之一是真，\"接近智能\"差几个点却不说，这措辞挑得真巧。"
         },
         "paper-police": {
-          "score": 32,
-          "review": "官方博客只宣称价格与智能接近，无评测方法无代码，跑分无法复现。"
+          "score": 48,
+          "review": "官网发了数字、第三方也讨论了，但无开源无复现评测，价格与智能比待独立跑分验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "同档智能砍到五分之一价，今天就能切模型省账单，性价比任务直接换。"
+          "score": 91,
+          "review": "五分之一价格拿到接近旗舰的智能，批量推理和 Agent 任务今天就能切过去省钱。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_4fbbd781192d",
-      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
+      "story_id": "story_ff8d2de99148",
+      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
+      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 63,
-          "review": "20 项更新里能进明年 PPT 的有几项？常驻智能体先证明自己能记住三句话。"
+          "score": 48,
+          "review": "就一条推文官宣，benchmark 一个没贴，.1 的版本号也撑不起 \"Sol\" 这后缀。"
         },
         "paper-police": {
-          "score": 33,
-          "review": "官方 recap 只列发布清单，无模型卡、无代码、无第三方跑分，复现无从下手。"
+          "score": 28,
+          "review": "仅一条官方推文，无论文、无仓库、无评测数字，光发型号名不算证据。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "新模型和常驻智能体若能当天开放API，就先拿来跑一遍benchmark再决定换不换。"
+          "review": "新模型能直接换进编码和 computer use 流程，先拿自己仓库跑一轮回归再切。"
         }
       }
     }
