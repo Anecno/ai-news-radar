@@ -7,36 +7,6 @@
       "title_hash": "00f4b4bf",
       "scored_at": "2026-09-09T15:44:36.550512Z"
     },
-    "story_068c3c65edc6|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "学术诚信争议，影响对AI实验室的信任，但开发者不用动手，看后续。",
-      "title_hash": "d376f9b6",
-      "scored_at": "2026-09-09T12:03:29.487972Z"
-    },
-    "story_e9165c96a062|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "学术抢先口水战，不写代码不用管。",
-      "title_hash": "3d247c2d",
-      "scored_at": "2026-09-09T12:03:30.841582Z"
-    },
-    "story_817352332488|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "艺术节是展会热闹，没有可上手的工具或开放接口，开发者不用动。",
-      "title_hash": "f60cffc4",
-      "scored_at": "2026-09-09T12:03:32.497195Z"
-    },
-    "story_d7d617c533bb|cynic|f4237a62": {
-      "score": 62,
-      "review": "三个方法怕不是先交钱再省钱的经典套路，干货得拆开看。",
-      "title_hash": "06ca99ce",
-      "scored_at": "2026-09-09T12:03:34.184109Z"
-    },
-    "story_d7d617c533bb|paper-police|966065bf": {
-      "score": 50,
-      "review": "官方博客给了优化细节和数字，但无开源无独立评测，待第三方验证。",
-      "title_hash": "06ca99ce",
-      "scored_at": "2026-09-09T12:03:35.724786Z"
-    },
     "story_fee049a1c565|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "代码扫描结果能自动修了，省人工审修时间，今天就能试。",
@@ -5499,9 +5469,9 @@
     },
     "story_5e8fdb7e624e|pragmatic|0a5c5b24": {
       "score": 88,
-      "review": "Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。",
-      "title_hash": "b25a4d24",
-      "scored_at": "2026-09-29T19:46:57.796036Z"
+      "review": "Copilot 里能直接切到新模型了，编码任务今天就能试，顺手对比下旧版手感和额度。",
+      "title_hash": "6fc7fb33",
+      "scored_at": "2026-09-30T14:14:32.189767Z"
     },
     "story_83e2e2180846|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5588,16 +5558,16 @@
       "scored_at": "2026-09-29T19:47:22.027979Z"
     },
     "story_5e8fdb7e624e|cynic|f4237a62": {
-      "score": 54,
-      "review": "官方 changelog 只报型号和版本号，能力涨没涨全靠用户自己试。",
-      "title_hash": "b25a4d24",
-      "scored_at": "2026-09-29T19:47:24.485870Z"
+      "score": 60,
+      "review": "上线确有其事，但版本号冲到 6.1、再挂个 Sol 名号，连个对比基准都没附，拿什么信？",
+      "title_hash": "6fc7fb33",
+      "scored_at": "2026-09-30T14:14:38.076382Z"
     },
     "story_5e8fdb7e624e|paper-police|966065bf": {
-      "score": 22,
-      "review": "官方更新页只说了上线，无评测数字无模型细节，等跑分和第三方验证。",
-      "title_hash": "b25a4d24",
-      "scored_at": "2026-09-29T19:47:26.354060Z"
+      "score": 35,
+      "review": "官方changelog只说接入Copilot，无模型卡、无跑分、无复现路径，证据止于公告。",
+      "title_hash": "6fc7fb33",
+      "scored_at": "2026-09-30T14:14:40.156463Z"
     },
     "story_4fbbd781192d|cynic|f4237a62": {
       "score": 63,
@@ -5730,6 +5700,18 @@
       "review": "官网发了数字、第三方也讨论了，但无开源无复现评测，价格与智能比待独立跑分验证。",
       "title_hash": "8ca9dfce",
       "scored_at": "2026-09-30T11:23:10.398841Z"
+    },
+    "story_c8f0f2084692|pragmatic|0a5c5b24": {
+      "score": 10,
+      "review": "CEO 吐槽私信太多，跟你的代码和选型没半点关系，划走。",
+      "title_hash": "075d1b28",
+      "scored_at": "2026-09-30T14:14:33.165577Z"
+    },
+    "story_f73c51041a4d|pragmatic|0a5c5b24": {
+      "score": 76,
+      "review": "Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。",
+      "title_hash": "c8d125ed",
+      "scored_at": "2026-09-30T14:14:35.337700Z"
     }
   }
 }

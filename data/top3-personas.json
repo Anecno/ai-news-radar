@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:23:10.398953Z",
+  "generated_at": "2026-09-30T14:14:40.156536Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -38,21 +38,21 @@
     },
     {
       "story_id": "story_5e8fdb7e624e",
-      "title": "GPT-6.1 Sol in GitHub Copilot",
+      "title": "GPT-6.1 Sol 现已登陆 GitHub Copilot / GPT-6.1 Sol in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 54,
-          "review": "官方 changelog 只报型号和版本号，能力涨没涨全靠用户自己试。"
+          "score": 60,
+          "review": "上线确有其事，但版本号冲到 6.1、再挂个 Sol 名号，连个对比基准都没附，拿什么信？"
         },
         "paper-police": {
-          "score": 22,
-          "review": "官方更新页只说了上线，无评测数字无模型细节，等跑分和第三方验证。"
+          "score": 35,
+          "review": "官方changelog只说接入Copilot，无模型卡、无跑分、无复现路径，证据止于公告。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "Copilot 里就能切到这个新模型，立刻开个仓库对比下补全质量再定默认。"
+          "review": "Copilot 里能直接切到新模型了，编码任务今天就能试，顺手对比下旧版手感和额度。"
         }
       }
     },
