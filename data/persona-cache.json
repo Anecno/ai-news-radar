@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7909c6cf5087|pragmatic|0a5c5b24": {
-      "score": 80,
-      "review": "专业场景新模型官宣，先查API和定价再决定是否迁移。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:43:44.081665Z"
-    },
-    "story_b361718ee020|pragmatic|0a5c5b24": {
-      "score": 68,
-      "review": "企业管理员可给 Copilot agent 设精细权限，合规团队今天就能配。",
-      "title_hash": "bc41e971",
-      "scored_at": "2026-09-09T23:43:48.565756Z"
-    },
-    "story_3bb3bc949a7f|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "没细节的版本号，先看 changelog 里有没有破坏性变更再升级。",
-      "title_hash": "183d2dfa",
-      "scored_at": "2026-09-09T23:43:55.760519Z"
-    },
-    "story_218a1539238c|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "ARM64 上跑代码扫描不用绕道了，直接升级就能用。",
-      "title_hash": "1064037e",
-      "scored_at": "2026-09-09T23:43:57.488978Z"
-    },
-    "story_7909c6cf5087|cynic|f4237a62": {
-      "score": 45,
-      "review": "“面向专业工作场景”是万能滤镜，先亮基准测试和API价格再谈智能。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:44:00.622641Z"
-    },
-    "story_7909c6cf5087|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅官方发布页，无论文无代码无评测，等技术报告或实测再认。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:44:02.588534Z"
-    },
-    "story_218a1539238c|cynic|f4237a62": {
-      "score": 78,
-      "review": "ARM64 支持等了好几年，总算补上，但也就这了。",
-      "title_hash": "1064037e",
-      "scored_at": "2026-09-09T23:44:04.362408Z"
-    },
-    "story_218a1539238c|paper-police|966065bf": {
-      "score": 50,
-      "review": "官方changelog给出新平台支持，但无独立测试验证，等实际运行确认。",
-      "title_hash": "1064037e",
-      "scored_at": "2026-09-09T23:44:08.347543Z"
-    },
-    "story_cabfe1363bf4|pragmatic|0a5c5b24": {
-      "score": 32,
-      "review": "这是广告主之间的封杀，跟写代码无关；除非你在ChatGPT投广告，否则划走。",
-      "title_hash": "d668ace0",
-      "scored_at": "2026-09-10T01:19:13.539204Z"
-    },
-    "story_266dc2269e8a|pragmatic|0a5c5b24": {
-      "score": 22,
-      "review": "监管喊话，不写代码也不改接口，今天该干什么还干什么。",
-      "title_hash": "6d299017",
-      "scored_at": "2026-09-10T01:19:14.670718Z"
-    },
     "story_dbd98c6c43b6|pragmatic|0a5c5b24": {
       "score": 92,
       "review": "开源权重可下载、API 降价，今天就换模型跑多模态任务。",
@@ -5660,10 +5600,10 @@
       "scored_at": "2026-09-30T21:52:08.367332Z"
     },
     "story_0cb3c1ba901d|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Team 版可白嫖试用代码扫描和密钥扫描，小团队先开 trial 验证，别急着升企业版。",
-      "title_hash": "7b030707",
-      "scored_at": "2026-09-30T21:52:09.768880Z"
+      "score": 74,
+      "review": "Team 版可白嫖试用代码扫描和密钥检测，小团队先试再说，别急着掏钱升级。",
+      "title_hash": "f570220f",
+      "scored_at": "2026-10-01T02:29:48.590184Z"
     },
     "story_9b1abafadbef|pragmatic|0a5c5b24": {
       "score": 70,
@@ -5718,6 +5658,42 @@
       "review": "更新日志只证明功能上线，无论文、无代码、无评测，效果没法验。",
       "title_hash": "1bcec219",
       "scored_at": "2026-09-30T21:52:23.621200Z"
+    },
+    "story_543034a71340|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "榜单第8名不是榜首，选型时可扫一眼，但没有新东西能立刻上手。",
+      "title_hash": "6b23e69a",
+      "scored_at": "2026-10-01T02:29:47.763720Z"
+    },
+    "story_964372c367be|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "省成本的分级路由思路，今天就能抄进 Agent 管线，但得自己实现。",
+      "title_hash": "feba9931",
+      "scored_at": "2026-10-01T02:29:50.340732Z"
+    },
+    "story_a919a86617b9|pragmatic|0a5c5b24": {
+      "score": 52,
+      "review": "只启用 X25519 的客户端届时会连不上，赶紧检查 TLS 曲线配置；默认客户端通常不受影响。",
+      "title_hash": "0166089d",
+      "scored_at": "2026-10-01T02:29:51.962564Z"
+    },
+    "story_f676f1b41629|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "选型方法论，帮你按成本挑模型；没新工具，先存书签备用。",
+      "title_hash": "87e4cbfc",
+      "scored_at": "2026-10-01T02:29:54.049792Z"
+    },
+    "story_5d1c15f30792|cynic|f4237a62": {
+      "score": 62,
+      "review": "追平的是单一聚合指数，60%成本还是折扣价撑的，原价多少？",
+      "title_hash": "83f66952",
+      "scored_at": "2026-10-01T02:29:55.587176Z"
+    },
+    "story_5d1c15f30792|paper-police|966065bf": {
+      "score": 60,
+      "review": "第三方评测方法公开、跑分卡可查，但仅一条推文，缺模型技术报告与复现细节。",
+      "title_hash": "83f66952",
+      "scored_at": "2026-10-01T02:29:58.256951Z"
     }
   }
 }

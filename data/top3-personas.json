@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:52:23.621251Z",
+  "generated_at": "2026-10-01T02:29:58.257011Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_4b81e15f89c2",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "版本号一路小跑，评测表、定价和上下文长度却一个字没给。"
-        },
-        "paper-police": {
-          "score": 32,
-          "review": "仅一条官方推文，无论文无代码无跑分，宣传语当不了证据。"
-        },
-        "pragmatic": {
-          "score": 86,
-          "review": "新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。"
-        }
-      }
-    },
-    {
       "story_id": "story_a67dcb1766e6",
       "title": "HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用 / HydraFusion in VS Code and the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 50,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 84,
           "review": "已上 VS Code，装完就能试；值不值得换掉现有工具，跑一遍就知道。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5d1c15f30792",
+      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "追平的是单一聚合指数，60%成本还是折扣价撑的，原价多少？"
+        },
+        "paper-police": {
+          "score": 60,
+          "review": "第三方评测方法公开、跑分卡可查，但仅一条推文，缺模型技术报告与复现细节。"
+        },
+        "pragmatic": {
+          "score": 76,
+          "review": "同等智力只花六成成本，跑批量推理的可以先拿自家任务实测再决定换不换。"
         }
       }
     }

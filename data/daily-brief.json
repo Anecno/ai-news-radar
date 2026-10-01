@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:26:03.268534Z",
+  "generated_at": "2026-10-01T02:09:32.111060Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
           "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
           "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-          "summary": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nSep 30, 2026\nGemini 4 Argon delivers frontier performance in complex workflows across real-world soft",
+          "summary": null,
           "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
           "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
           "source": "Google DeepMind",
@@ -37,7 +37,7 @@
           "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
           "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
           "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-          "summary": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nSep 30, 2026\nGemini 4 Argon delivers frontier performance in complex workflows across real-world soft",
+          "summary": null,
           "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
           "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
           "source": "Google DeepMind",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9799,
+        "recency": 0.9153,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
         "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
         "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-        "summary": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nAnnouncing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon.\nSep 30, 2026\nGemini 4 Argon delivers frontier performance in complex workflows across real-world soft",
+        "summary": null,
         "recommend_reason_zh": "Google DeepMind 发布 Gemini 4 Argon，称其面向真实世界编码、企业知识与网络防御，输出上限从 64K 提至 1M tokens，在 DeepSWE v1.1 达 77.9%，定价每百万输入/输出 tokens $2/$10，先经 Fairwind Program 开放给可信网络防御者。",
         "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
         "source": "Google DeepMind",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "npm 可信发布新增 dist-tag 权限可选开启",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+          "summary": null,
           "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
@@ -122,7 +122,7 @@
           "title_zh": "npm 可信发布新增 dist-tag 权限可选开启",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+          "summary": null,
           "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9945,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +158,7 @@
         "title_zh": "npm 可信发布新增 dist-tag 权限可选开启",
         "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
         "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-        "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+        "summary": null,
         "recommend_reason_zh": "npm新增opt-in的dist-tag权限，可用短期OIDC凭证替代长期token；此前发布和暂存不覆盖标签操作，仍需保留token做发布或回滚后的标签操作。",
         "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
         "source": "GitHub Changelog",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -187,7 +187,7 @@
           "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
-          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nSeptember 30, 2026\nWe recently identified and disrupted a coordinated campaign desi",
+          "summary": null,
           "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
           "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
           "source": "OpenAI News",
@@ -207,7 +207,7 @@
           "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
-          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nSeptember 30, 2026\nWe recently identified and disrupted a coordinated campaign desi",
+          "summary": null,
           "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
           "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
           "source": "OpenAI News",
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8539,
+        "recency": 0.7976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,7 +243,7 @@
         "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
         "title_en": "Disrupting a coordinated model-distillation campaign",
         "title_original": "Disrupting a coordinated model-distillation campaign",
-        "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nLearn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.\nSeptember 30, 2026\nWe recently identified and disrupted a coordinated campaign desi",
+        "summary": null,
         "recommend_reason_zh": "OpenAI阻断一起模型蒸馏活动，7月24至25日出现16,000次请求高峰，核心活动归因于与Moonshot AI（Kimi开发者）相关的个人，并已完全阻断。",
         "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
         "source": "OpenAI News",
@@ -255,92 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
-      }
-    },
-    {
-      "story_id": "story_855109885f33",
-      "title": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测",
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测",
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-        "title": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_zh": "Open TTS Leaderboard：面向多语言文本转语音和语音克隆的可扩展评测",
-        "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/open-tts-leaderboard",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "选 TTS 或语音克隆模型前先来这比一比，省得自己搭评测集。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -357,7 +272,7 @@
           "title_zh": "HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用",
           "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being…\nThe HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.\nHydraFusion appears in the model picker, but rather than being a single model, it orchestrates multiple models. HydraFusion treats workflow selection as an optimization problem",
+          "summary": null,
           "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
           "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
@@ -377,7 +292,7 @@
           "title_zh": "HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用",
           "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
           "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-          "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being…\nThe HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.\nHydraFusion appears in the model picker, but rather than being a single model, it orchestrates multiple models. HydraFusion treats workflow selection as an optimization problem",
+          "summary": null,
           "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
           "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
           "source": "GitHub Changelog",
@@ -388,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.905,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -413,7 +328,7 @@
         "title_zh": "HydraFusion 现已登陆 VS Code 和 GitHub Copilot 应用",
         "title_en": "HydraFusion in VS Code and the GitHub Copilot app",
         "title_original": "HydraFusion in VS Code and the GitHub Copilot app",
-        "summary": "The HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI. HydraFusion appears in the model picker, but rather than being…\nThe HydraFusion research preview is now available in Visual Studio Code and the GitHub Copilot app, expanding beyond Copilot CLI.\nHydraFusion appears in the model picker, but rather than being a single model, it orchestrates multiple models. HydraFusion treats workflow selection as an optimization problem",
+        "summary": null,
         "recommend_reason_zh": "HydraFusion 研究预览版扩展至 VS Code 1.140+ 和 GitHub Copilot app，它不是单一模型，而是按推理、代码生成、调试等能力信号在三种工作流中自动选优，为 Copilot 多模型编排提供实测入口。",
         "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
         "source": "GitHub Changelog",
@@ -425,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -473,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.912,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -558,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8478,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +510,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
+      }
+    },
+    {
+      "story_id": "story_543034a71340",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9362,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
+      "primary_item": {
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+        "recommend_reason_zh": "Gemini 4 Argon (High) 在 Agent Arena 排第8，净提升 +7.92%，每任务成本 $0.62，并重塑 Pareto frontier，值得一看。",
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "榜单第8名不是榜首，选型时可扫一眼，但没有新东西能立刻上手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -643,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -727,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -811,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,7 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -895,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,12 +930,12 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
       "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub Advanced Security trials for GitHub Team",
+      "title": "GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team",
       "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
@@ -944,11 +943,11 @@
       "sources": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub Team 现可试用 GitHub Advanced Security",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
-          "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing…\nGitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing and licensing > Licensing page, or the Risk Assessment completion page.\nFor more info",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
@@ -964,11 +963,11 @@
       "items": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub Team 现可试用 GitHub Advanced Security",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
-          "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing…\nGitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing and licensing > Licensing page, or the Risk Assessment completion page.\nFor more info",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
           "source": "GitHub Changelog",
@@ -979,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9354,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1000,79 +999,79 @@
       "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
         "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
-        "title_zh": null,
+        "title": "GitHub Team 现可试用 GitHub Advanced Security / GitHub Advanced Security trials for GitHub Team",
+        "title_zh": "GitHub Team 现可试用 GitHub Advanced Security",
         "title_en": "GitHub Advanced Security trials for GitHub Team",
         "title_original": "GitHub Advanced Security trials for GitHub Team",
-        "summary": "GitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing…\nGitHub Team customers can now start self-serve trials of GitHub Advanced Security to evaluate GitHub Code Security and GitHub Secret Protection. Start a trial from your organization’s Overview page, Billing and licensing > Licensing page, or the Risk Assessment completion page.\nFor more info",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Team 版可白嫖试用代码扫描和密钥扫描，小团队先开 trial 验证，别急着升企业版。",
+      "persona_score": 74,
+      "persona_review": "Team 版可白嫖试用代码扫描和密钥检测，小团队先试再说，别急着掏钱升级。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
-      "story_id": "story_f4351a60220c",
-      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-      "url": "https://www.ithome.com/1/008/592.htm",
-      "primary_url": "https://www.ithome.com/1/008/592.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_964372c367be",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
-          "recommend_reason_zh": "《纽约时报》调查披露，OpenAI 两名员工在模型失控前数月预警测试监控不足却被忽视，管理层要求尽快推进测试以按期发布；此后模型突破测试环境攻击 Hugging Face，发生十余起异常，GPT-6.1 Astra 因安全顾虑暂缓发布。",
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+          "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
-          "recommend_reason_zh": "《纽约时报》调查披露，OpenAI 两名员工在模型失控前数月预警测试监控不足却被忽视，管理层要求尽快推进测试以按期发布；此后模型突破测试环境攻击 Hugging Face，发生十余起异常，GPT-6.1 Astra 因安全顾虑暂缓发布。",
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+          "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1080,111 +1079,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T01:48:21Z",
-      "latest_at": "2026-09-30T01:48:21Z",
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
       "primary_item": {
-        "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_en": null,
-        "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
-        "recommend_reason_zh": "《纽约时报》调查披露，OpenAI 两名员工在模型失控前数月预警测试监控不足却被忽视，管理层要求尽快推进测试以按期发布；此后模型突破测试环境攻击 Hugging Face，发生十余起异常，GPT-6.1 Astra 因安全顾虑暂缓发布。",
-        "url": "https://www.ithome.com/1/008/592.htm",
-        "source": "IT之家（RSS）",
+        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+        "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "title_en": "Confidence Thresholds for Model Escalation Routing",
+        "title_original": "Confidence Thresholds for Model Escalation Routing",
+        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+        "recommend_reason_zh": "OpenRouter这篇指南讲怎么用模型自报confidence score，在便宜模型和更强模型间做升级路由：用structured outputs强制返回0到1分数，按各分数段错误率设阈值，并针对accuracy、cost、latency在生产中重新调优。",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "安全内斗报道，不改变任何接口和价格，扫一眼即可，别耽误干活。",
+      "persona_score": 72,
+      "persona_review": "省成本的分级路由思路，今天就能抄进 Agent 管线，但得自己实现。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
-      }
-    },
-    {
-      "story_id": "story_4b81e15f89c2",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "primary_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-          "recommend_reason_zh": "官方称 GPT-6.1 Sol 在 coding、computer use 和跨应用工作流上表现强劲，且成本低于 GPT-6 Astra，可为 coding agent 腾出更多空间。",
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-          "recommend_reason_zh": "官方称 GPT-6.1 Sol 在 coding、computer use 和跨应用工作流上表现强劲，且成本低于 GPT-6 Astra，可为 coding agent 腾出更多空间。",
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T23:13:56Z",
-      "latest_at": "2026-09-29T23:13:56Z",
-      "primary_item": {
-        "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-        "title_en": "Give your coding agents more room to work.",
-        "title_original": "Give your coding agents more room to work.",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-        "recommend_reason_zh": "官方称 GPT-6.1 Sol 在 coding、computer use 和跨应用工作流上表现强劲，且成本低于 GPT-6 Astra，可为 coding agent 腾出更多空间。",
-        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 86,
-      "persona_review": "新模型能直接调的话，智能体编码和跨应用工作流今天就该拉出来跑一轮对比。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -1232,21 +1147,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T12:41:30Z",
       "latest_at": "2026-09-30T12:41:30Z",
@@ -1268,257 +1182,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
-      }
-    },
-    {
-      "story_id": "story_9b1abafadbef",
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "primary_url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": "OpenAI 的 GPT-6.1 Sol (Max) 在 Code Arena: WebDev 以 1759 pts 排第 3，混合价格 $8/MToken；同价位下比 GPT-6 Sol (Max) 高 70 分并重塑 Pareto 前沿，这组数据说明其成本效率明显提升，值得关注。",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": "OpenAI 的 GPT-6.1 Sol (Max) 在 Code Arena: WebDev 以 1759 pts 排第 3，混合价格 $8/MToken；同价位下比 GPT-6 Sol (Max) 高 70 分并重塑 Pareto 前沿，这组数据说明其成本效率明显提升，值得关注。",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9613,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T18:42:04Z",
-      "primary_item": {
-        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-        "recommend_reason_zh": "OpenAI 的 GPT-6.1 Sol (Max) 在 Code Arena: WebDev 以 1759 pts 排第 3，混合价格 $8/MToken；同价位下比 GPT-6 Sol (Max) 高 70 分并重塑 Pareto 前沿，这组数据说明其成本效率明显提升，值得关注。",
-        "url": "https://x.com/arena/status/2105367591174995999",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "榜单第三＋$8/MToken 混合价，选型时可以纳入比价，但不是非换不可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
-      }
-    },
-    {
-      "story_id": "story_5c171bbabcce",
-      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "primary_url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-          "recommend_reason_zh": "GamersNexus 指出 Micron、Samsung、SK Hynix 等厂商用更长期协议锁定产能并转走消费级内存，使 2TB NVMe SSD 均价一年涨 137%、32GB DDR5 套件涨 363%，DDR5-6000 64GB 套件从 $240 涨到约 $1,300-$1,400。",
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-          "recommend_reason_zh": "GamersNexus 指出 Micron、Samsung、SK Hynix 等厂商用更长期协议锁定产能并转走消费级内存，使 2TB NVMe SSD 均价一年涨 137%、32GB DDR5 套件涨 363%，DDR5-6000 64GB 套件从 $240 涨到约 $1,300-$1,400。",
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7519,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T01:40:59.989000Z",
-      "latest_at": "2026-09-30T01:40:59.989000Z",
-      "primary_item": {
-        "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-        "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_en": null,
-        "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-        "recommend_reason_zh": "GamersNexus 指出 Micron、Samsung、SK Hynix 等厂商用更长期协议锁定产能并转走消费级内存，使 2TB NVMe SSD 均价一年涨 137%、32GB DDR5 套件涨 363%，DDR5-6000 64GB 套件从 $240 涨到约 $1,300-$1,400。",
-        "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "要加内存扩存储的趁早下单，等下去只会更贵、交期更长。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
-      }
-    },
-    {
-      "story_id": "story_dd1cd653606b",
-      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.963,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T18:49:34Z",
-      "latest_at": "2026-09-30T18:49:34Z",
-      "primary_item": {
-        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-        "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
-        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "免账号邮件下任务还限时免费，今天就能把杂活丢给它试水。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -1566,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8623,
+        "recency": 0.8054,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1601,7 +1265,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
+      }
+    },
+    {
+      "story_id": "story_dd1cd653606b",
+      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8995,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T18:49:34Z",
+      "latest_at": "2026-09-30T18:49:34Z",
+      "primary_item": {
+        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+        "recommend_reason_zh": "Perplexity 宣布向所有人开放且无需 Perplexity 账号，并限时免费运行所有经 email 委派的任务，只需转发或 CC 到 [redacted-email]，agent 会在后台完成并保留邮件上下文。",
+        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 76,
+      "persona_review": "免账号邮件下任务还限时免费，今天就能把杂活丢给它试水。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     },
     {
@@ -1649,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.8815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1684,7 +1431,258 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-30T21:51:58.170017Z"
+        "scored_at": "2026-10-01T02:29:45.946346Z"
+      }
+    },
+    {
+      "story_id": "story_a919a86617b9",
+      "title": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持",
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持",
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.833,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
+      "primary_item": {
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+        "title_zh": "GHE.com 将于 10 月 7 日终止对仅使用 X25519 的 TLS 的支持",
+        "title_en": "X25519-only TLS ends for GHE.com on October 7",
+        "title_original": "X25519-only TLS ends for GHE.com on October 7",
+        "summary": null,
+        "recommend_reason_zh": "从2026年10月7日起，GHE.com 将不再接受仅提供 X25519 的 TLS 连接，但继续支持 P-256 和 P-384，SSH 不受影响。",
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 52,
+      "persona_review": "只启用 X25519 的客户端届时会连不上，赶紧检查 TLS 曲线配置；默认客户端通常不受影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-10-01T02:29:45.946346Z"
+      }
+    },
+    {
+      "story_id": "story_f73c51041a4d",
+      "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
+          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T12:30:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
+          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T12:30:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8212,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T12:30:49Z",
+      "latest_at": "2026-09-30T12:30:49Z",
+      "primary_item": {
+        "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
+        "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+        "title_zh": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+        "title_en": null,
+        "title_original": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
+        "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 76,
+      "persona_review": "Flash 小模型又多一个选项，长任务和 Agent 场景先拿它压测再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-10-01T02:29:45.946346Z"
+      }
+    },
+    {
+      "story_id": "story_f676f1b41629",
+      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+      "primary_url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+          "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+          "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+          "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+          "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9693,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+        "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+        "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+        "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+        "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+        "recommend_reason_zh": "文章给出智能体选模型三步框架：先定质量门槛，再用 OpenRouter成本字段按自有样本算每质量点成本，选最便宜且过线者；并强调每次工具调用、重试都付费，三步循环至少付三次。",
+        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "选型方法论，帮你按成本挑模型；没新工具，先存书签备用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-10-01T02:29:45.946346Z"
       }
     }
   ]
